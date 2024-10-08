@@ -8,7 +8,7 @@ order: 4
 
 - ⛰️ my [codeberg repos](https://codeberg.org/deanlemans)
 - 🌱 Currently studying Software Development
-- 🔓 Interested in foss!
+- 🔓 Interested in FOSS!
 
 - 💵 consider donating to support my journy(XMR): 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 
