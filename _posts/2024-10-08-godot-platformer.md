@@ -1,6 +1,6 @@
 ---
 title: "My first godot game"
-date: 2024-10-08 00:00:00 +0100
+date: 2024-10-08 15:35:00 +0100
 categories: [Game]
 tags: [godot]
 ---

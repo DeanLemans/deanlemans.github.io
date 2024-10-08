@@ -1,4 +1,11 @@
-personal notes;
+---
+title: "reasoning site"
+description: reasoning for this sites framework.
+date: 2024-10-08 16:25:00 +0100
+categories: [Research]
+tags: [site]
+---
+
 
 I looked at the frameworks that were provided to use and didn't want to use js but i also wanted to code a bit myself
 
@@ -21,7 +28,7 @@ So I found these 2 frameworks where you at least have to code a bit yourself but
 - build in comment system
 #### cons 
 
-- difficulty building on windows, have to use linux(sandbox)
+- difficulty building on locally on windows, (works fine on linux)
 
 
 ### I choose/will use jekyll chirpy theme because it has inbuild GitHub pages support. And has detailed instuctions how to use their template.
