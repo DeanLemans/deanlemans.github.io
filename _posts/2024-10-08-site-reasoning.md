@@ -1,7 +1,7 @@
 ---
 title: "reasoning site"
 description: reasoning for this sites framework.
-date: 2024-10-08 16:25:00 +0100
+date: 2024-10-08 00:00:00 +0100
 categories: [Research]
 tags: [site]
 ---
