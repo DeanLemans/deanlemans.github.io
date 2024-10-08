@@ -10,5 +10,5 @@ order: 4
 - 🌱 Currently studying Software Development
 - 🔓 Interested in foss!
 
-- 💵 consider donating to support my journy(monero): 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
+- 💵 consider donating to support my journy(XMR): 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 
