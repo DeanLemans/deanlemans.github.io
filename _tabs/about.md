@@ -13,3 +13,7 @@ order: 4
 - 💵 consider donating to support my journy(monero): 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 
 
+
+<div id="header" align="center">
+  <img src="myassets\smilingdog.gif"/>
+</div>
