@@ -2,11 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-
 ---
-
-
-
 
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
