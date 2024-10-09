@@ -1,6 +1,6 @@
 ---
 title: "Reasoning Site"
-description: reasoning for this sites framework.
+description: reasoning for this site.
 date: 2024-10-08 00:00:00 +0100
 categories: [Research]
 tags: [site]
@@ -36,6 +36,11 @@ I found these 2 frameworks
 - difficulty building on locally on windows, (works fine on linux though)
 
 
-*I chose use jekyll chirpy theme because it has inbuild GitHub pages support. 
-And also has detailed instuctions how to use and modify their theme.*
-
+### I chose use jekyll chirpy;
+- theme because it has inbuild GitHub pages support. 
+- accesibility
+- And the detailed instuctions how to use and modify their theme.
+- able to use obsidian to eddit/keep track of my files.
+- able to convert .MD files to post that display automatically.
+- able to open in obsidian.
+- replacement of the obsidian publish.
