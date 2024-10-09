@@ -2,7 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-media_subpath: assets\img\post\avatar.jpg
+image:
+  path: assets\img\post\avatar.jpg
 ---
 ![me](assets\img\post\avatar.jpg)
 
