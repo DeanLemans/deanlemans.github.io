@@ -7,14 +7,13 @@ tags: [site]
 ---
 (figure out how to better use the toc on this page(pros/cons))
 
-I looked at the frameworks that were provided to us and i did not like them. 
-with wordpress/wix you (almost) cant code and
-didn't want to use js
+I looked at the frameworks that were provided to me for the assigment(there is almost no coding involved in wordpress and wix) and i did not like them. 
+and since I have no interest in html, css and js.
 **but I wanted to code a bit myself and have control over my own code**
 
 so based on these (self imposed) requirements:
 I found these 2(3) frameworks
-- note: (I chose jekyll over hugo for greater custimisability)
+>note: I chose jekyll over hugo for greater custimisability
 
 
 [jekyll](https://jekyllrb.com/) [chirpy theme](https://chirpy.cotes.page/) and [mediagoblin](https://mediagoblin.org/)
@@ -36,11 +35,11 @@ I found these 2(3) frameworks
 - building on locally on windows, (works fine on linux though)
 
 
-### list of reasons for using jekyll chirpy;
-- theme because it has inbuild GitHub pages support. 
-- accesibility
-- And the detailed instuctions how to use and modify their theme.
-- able to use obsidian to eddit/keep track of my files.
-- able to convert .MD files to post(html) that display automatically.
-- able to open in obsidian.
-- can act as an replacement for obsidian publish.
+### TLDR;
+>inbuild GitHub pages support. 
+>accesibility
+>detailed instuctions how to use and modify their theme.
+>able to use obsidian to edit/keep track of my files.
+>able to convert .MD files to post(html) that display automatically.
+>able to open in obsidian.
+>can act as an replacement for obsidian publish.
