@@ -6,10 +6,11 @@ categories: [Game]
 tags: [godot, game]
 ---
 
-# this is the first game I made
+# my first godot game
 
-**This is the very first platformer I made and also the first game I made in godot**
+this is my very first godot game so i am quite proud of what i accomplished when not understanding the engine at all
 
-source code https://github.com/DeanLemans/2d-platformer-godot
 
-download the game: https://github.com/DeanLemans/2d-platformer-godot/releases
+[source code](https://github.com/DeanLemans/2d-platformer-godot)
+
+[download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game: 
