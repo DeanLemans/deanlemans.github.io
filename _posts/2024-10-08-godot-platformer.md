@@ -13,4 +13,4 @@ this is my very first godot game so i am quite proud of what i accomplished when
 
 [source code](https://github.com/DeanLemans/2d-platformer-godot)
 
-[download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game: 
+[download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
