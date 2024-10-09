@@ -2,13 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image:
-  path: assets\img\post\avatar.jpg
+
 ---
 
 
-![me](assets\img\post\avatar.jpg){: width="1005" height="1458" }
-_Full screen width and center alignment_
+
 
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
