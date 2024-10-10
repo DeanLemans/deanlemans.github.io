@@ -2,11 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image:
-  path: assets\img\personal\avatar-1.jpg
 ---
 
-![avatar-1](assets\img\personal\avatar-1.jpg)
+![avatar-1](/assets\img\personal\avatar-1.jpg)
 
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
