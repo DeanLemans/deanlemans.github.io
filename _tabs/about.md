@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![avatar-1](assets\img\personal\avatar-1.jpg)
+
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
 - ⛰️ my [codeberg repos](https://codeberg.org/deanlemans)
