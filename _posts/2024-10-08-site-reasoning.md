@@ -43,3 +43,6 @@ I found these 2(3) frameworks
 >able to convert .MD files to post(html) that display automatically.
 >able to open in obsidian.
 >can act as an replacement for obsidian publish.
+
+what went wrong;
+when copying (relative)path the / becomes \ and that doesnt work
