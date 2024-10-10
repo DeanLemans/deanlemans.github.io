@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 1
 ---
->A more extinsive list about me is/will be available at
+>A more extinsive list about me is/will be available at dean lemans post
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
 
