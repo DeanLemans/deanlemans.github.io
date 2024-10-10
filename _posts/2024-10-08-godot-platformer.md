@@ -10,6 +10,9 @@ tags: [godot, game]
 
 this is my very first godot game so i am quite proud of what i accomplished when not understanding the engine at all
 
+It is very small game with a grand total of 3 levels.
+
+![me](/assets/img/post/first-godot-game.png)
 
 [source code](https://github.com/DeanLemans/2d-platformer-godot)
 
