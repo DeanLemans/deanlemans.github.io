@@ -14,6 +14,5 @@ It is very small game with a grand total of 3 levels.
 
 ![me](/assets/img/post/first-godot-game.png)
 
-[source code](https://github.com/DeanLemans/2d-platformer-godot)
+[source code](https://github.com/DeanLemans/2d-platformer-godot) [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
 
-[download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
