@@ -9,6 +9,7 @@ pin: true
 
 >add on post picture of me for background
 >add picture of dog
+>add books i like
 
 # Hello, 
 I am Dean Lemans and im a software development student at [sintlucas](https://www.sintlucas.nl/)
