@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 # Hello, I am Dean and I'm an aspiring game developer! 👋
+
+![Hero image](\tabs\assets\img\personal\avatar-1.jpg)
+
 - ⛰️ my [codeberg repos](https://codeberg.org/deanlemans)
 - 🌱 Currently studying Software Development at [sintlucas](https://www.sintlucas.nl/)
 - 🔓 Interested in FOSS!
