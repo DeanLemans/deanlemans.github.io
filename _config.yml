@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: DeanLemans/deanlemans.github.io # <gh-username>/<repo>
     repo_id: R_kgDOM8u_aw
-    category: Announcements
-    category_id: DIC_kwDOM8u_a84CjK8m
+    category: comments
+    category_id: DIC_kwDOM8u_a84CjP3c
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
