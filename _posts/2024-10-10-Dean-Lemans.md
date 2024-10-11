@@ -2,8 +2,8 @@
 title: "Dean Lemans"
 description: A more extensive about me.
 date: 2024-10-10 00:00:00 +0100
-categories: [Research]
-tags: [game, list]
+categories: [Dean Lemans]
+tags: [portofolio]
 pin: true
 ---
 
@@ -15,6 +15,9 @@ pin: true
 # Hello!
 I am Dean Lemans and im a software development student at [sintlucas](https://www.sintlucas.nl/)
 I'm am currently trying to become a game developer
+
+search in tags for portofolio to find related stuff
+
 I also like open source stuff
 
 I like to read in my free time
