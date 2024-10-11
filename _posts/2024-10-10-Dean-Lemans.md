@@ -7,12 +7,12 @@ tags: [game, list]
 pin: true
 ---
 
-*add on post picture of me for background
-add picture of dog
-add books i like
-create favorite book list*
+- add on post picture of me for background
+- add picture of dog
+- add books i like
+- create favorite book list
 
-# Hello, 
+# Hello!
 I am Dean Lemans and im a software development student at [sintlucas](https://www.sintlucas.nl/)
 I'm am currently trying to become a game developer
 I also like open source stuff
@@ -20,11 +20,11 @@ I also like open source stuff
 I like to read in my free time
 
 some of my favorite books are:
-[godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
-[Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
-[Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester
-[REND](https://www.royalroad.com/fiction/32615/rend) by Temple
-[Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
+#### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
+#### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
+#### [Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester
+#### [REND](https://www.royalroad.com/fiction/32615/rend) by Temple
+#### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
 
 - ⛰️ my [codeberg repos](https://codeberg.org/deanlemans)
 
