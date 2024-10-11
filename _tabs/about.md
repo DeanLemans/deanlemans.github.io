@@ -3,7 +3,8 @@
 icon: fas fa-info-circle
 order: 1
 ---
->A more extinsive list about me is/will be available at dean lemans post
+>A more extensive list about me is available at [dean lemans](https://deanlemans.github.io/posts/Dean-Lemans/) post
+{: .prompt-tip }
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
 
