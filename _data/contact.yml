@@ -3,9 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
--  type: links
-  icon: 'fas fa-rss'
-  url:  'https://linksta.cc/@Dean'
+#-  type: links
+ # icon: 'fas fa-rss'
+  #url:  'https://linksta.cc/@Dean'
 
 - type: email
   icon: "fas fa-envelope"
