@@ -4,7 +4,7 @@
   icon: "fab fa-github"
 
 -  type: links
-  icon: 'fa-solid fa-link'
+  icon: 'fas fa-rss'
   url:  'https://linksta.cc/@Dean'
 
 - type: email
