@@ -20,3 +20,7 @@ order: 1
 
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
+
+## Contact
+
+If you'd like to contact me see my list of [social links here](https://linksta.cc/@Dean)
