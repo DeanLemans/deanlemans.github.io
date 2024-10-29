@@ -5,8 +5,6 @@ date: 2024-10-08 00:00:00 +0100
 categories: [Research]
 tags: [site]
 ---
-
-#technical stuff
 I looked at the frameworks that were provided to me for the assigment(there is almost no coding involved in wordpress and wix) and i did not like them. 
 and since I have no interest in html, css and js.
 **but I wanted to code a bit myself and have control over my own code**
@@ -45,8 +43,4 @@ I found these 2(3) frameworks
 >can act as an replacement for obsidian publish.
 
 what went wrong;
-when copying (relative)path the / becomes \ and that doesnt work.
-
-# non technical stuff
-
-i always wanted my own site and here it is!
+when copying (relative)path the / becomes \ and that doesnt work
