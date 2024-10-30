@@ -14,9 +14,9 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dean's site # the main title
+title: Dean Lemans # the main title
 
-tagline: My very own site
+tagline: I like to make games in Godot.
 
 description: >- # used by seo meta and the atom feed
   personal site, portofolio, blog

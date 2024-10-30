@@ -43,4 +43,4 @@ _Me_
 
 ## Contact
 
-If you'd like to contact me see my list of [social links here](https://linksta.cc/@Dean).
+If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
