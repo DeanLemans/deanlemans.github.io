@@ -1,9 +1,11 @@
 ---
 title: "My first godot game"
-description: my fist game made in godot.
+description: My fist game made in godot.
 date: 2024-10-08 00:00:00 +0100
 categories: [Game]
 tags: [godot, game, portofolio]
+image:
+    path: assets/img/post/first-godot-game.png
 ---
 
 # my first godot game
@@ -14,5 +16,6 @@ It is very small game with a grand total of 3 levels.
 
 ![me](/assets/img/post/first-godot-game.png)
 
-[source code](https://github.com/DeanLemans/2d-platformer-godot) [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
+- [source code](https://github.com/DeanLemans/2d-platformer-godot) 
+- [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
 
