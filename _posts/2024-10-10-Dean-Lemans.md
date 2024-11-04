@@ -17,7 +17,7 @@ I'm currently trying to become a indie game developer
 _Me_
 
 ## work experience:
-- shelf-stocker 2 years
+- Shelf-Stocker 2 years
 - Gardening 1 year(currenty)
 
 
@@ -55,7 +55,7 @@ _my dog_
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
 
-P.S; if you would like to support me, consider donating(XMR): 
+- P.S; if you would like to support me, consider donating(XMR): 
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 ```

@@ -7,7 +7,7 @@ order: 1
 {: .prompt-tip }
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
-- ⛰️ my [codeberg repos](https://codeberg.org/deanlemans)
+- ⛰️ My [codeberg repos](https://codeberg.org/deanlemans)
 - 🌱 Currently studying Software Development at [sintlucas](https://www.sintlucas.nl/)
 - 🔓 Interested in FOSS!
 
@@ -20,7 +20,7 @@ _my dog_
 
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
-- 💵 consider donating to support my journy(XMR): 
+- P.S; if you would like to support me, consider donating(XMR): 
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 ```
