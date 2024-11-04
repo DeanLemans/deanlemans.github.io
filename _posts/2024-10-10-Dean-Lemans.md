@@ -14,31 +14,35 @@ pin: true
 - create favorite book list
 
 # Hello!
-I am Dean Lemans and im a software development student at [sintlucas](https://www.sintlucas.nl/)
-I'm am currently trying to become a indie game developer
+I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
+I'm currently trying to become a indie game developer
 
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
-
-I also like open source stuff
+I like open source software, and I actively strive to only use only use open source/free software.
+What I use; GIMP, void linux, thorium browser,
 
 my fovorite pasttime is reading, below you will find some of my most beloved books
 
 my favorite fiction books are:
+
 #### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
 #### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
 #### [Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester
 #### [REND](https://www.royalroad.com/fiction/32615/rend) by Temple
 #### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
 
+
 some of my non-fiction books are:
-myth of sisyphus by alber camus
+
+myth of sisyphus by albert camus
 the psychology of money
 nausia by jean paul satre
+atomic habits by ???
 
 
-[This](https://codeberg.org/deanlemans) is my codeberg page, I will problebly transfer all my repositories from github to codeberg when im done with school. but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
+[This](https://codeberg.org/deanlemans) is my codeberg page, I will problebly transfer all my repositories from github to codeberg when I'm done with school. but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
 
 
 

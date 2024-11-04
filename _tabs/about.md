@@ -11,16 +11,14 @@ order: 1
 - 🌱 Currently studying Software Development at [sintlucas](https://www.sintlucas.nl/)
 - 🔓 Interested in FOSS!
 
-
-
-- 💵 consider donating to support my journy(XMR): 
-```
-87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
-```
-
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
 ## Contact
 
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
+
+- 💵 consider donating to support my journy(XMR): 
+```
+87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
+```
