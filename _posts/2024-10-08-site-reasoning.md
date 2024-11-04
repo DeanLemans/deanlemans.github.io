@@ -1,5 +1,5 @@
 ---
-title: "Reasoning Site"
+title: "Why I made this site"
 description: reasoning for this site.
 date: 2024-10-08 00:00:00 +0100
 categories: [Research]
@@ -44,5 +44,5 @@ I found these 2(3) frameworks
 
 ## Reflection;
 - I found out that when copying (relative)path the / becomes \ and that doesnt work.
-- I wish I could add more stuff to my portofolio
-- Should have focused more instead of adding features
+- I wish I could add more stuff to my portofolio.
+- Should have focused on quality more instead of adding quantity.
