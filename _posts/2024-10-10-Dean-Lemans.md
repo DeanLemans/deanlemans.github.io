@@ -56,8 +56,8 @@ Some of my favorite non-fiction books are:
 
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
-![WRizz](assets/img/personal/smilingdog.gif)
-_funni dog_
+![dog1](assets/img/personal/dog1.jpg)
+_my dog_
 
 P.S; if you would like to support me, consider donating(XMR): 
 ```
