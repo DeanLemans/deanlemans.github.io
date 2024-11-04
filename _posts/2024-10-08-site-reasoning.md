@@ -42,12 +42,12 @@ I found these 2(3) frameworks
 - able to open in obsidian.
 - can act as an replacement for obsidian publish.
 
-## Reflection;
+## Reflection/Feedback;
 - I found out that when copying (relative)path the / becomes \ and that doesnt work.
 - I wish I could add more stuff to my portofolio.
 - Should have focused on quality more instead of adding quantity.
-- make it simpler(remove tag and catagories)
-- 
+- make it simpler(remove tag, catagories and archive(just going to comment it out))
+- should have added more to portofolio(like pieces of code, some old unity projects)
 
 ![dog3](assets/img/personal/dog3.jpg)
 _my dog_
