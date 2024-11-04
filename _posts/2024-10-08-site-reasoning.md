@@ -43,5 +43,6 @@ I found these 2(3) frameworks
 - can act as an replacement for obsidian publish.
 
 ## Reflection;
-i found out that when copying (relative)path the / becomes \ and that doesnt work.
-i wish i could add more stuff to my portofolio
+- I found out that when copying (relative)path the / becomes \ and that doesnt work.
+- I wish I could add more stuff to my portofolio
+- Should have focused more instead of adding features

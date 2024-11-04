@@ -22,18 +22,18 @@ I'm currently trying to become a indie game developer
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
-work experience:
-shelf-stocker 2 year
-Gardening 1 year(currenty)
+## work experience:
+- shelf-stocker 2 year
+- Gardening 1 year(currenty)
 
 
 I like Open Source software, and I actively strive to only use [Open Source](https://opensource.org/osd) [Free Software](https://writefreesoftware.org/learn).
 in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
 What software I use; GIMP, void linux, thorium browser, Godot, Zed.
 
-my favorite pasttime is reading, below you will find some of my most beloved books;
+My favorite pastime is reading, below you will find some of my most beloved books;
 
-Some of my fiction books are:
+Some of my favorite fiction books are:
 
 #### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
 #### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
@@ -42,7 +42,7 @@ Some of my fiction books are:
 #### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
 
 
-Some of my non-fiction books are:
+Some of my favorite non-fiction books are:
 
 #### [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus
 #### [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel
@@ -51,7 +51,7 @@ Some of my non-fiction books are:
 
 
 
-[This](https://codeberg.org/deanlemans) is my codeberg page, I will problebly transfer all my repositories from github to codeberg when I'm done with school. but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
+[This](https://codeberg.org/deanlemans) is my codeberg page, I will eventually transfer all my repositories from github to codeberg when I'm done with school, but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
 
 
 ## Contact
