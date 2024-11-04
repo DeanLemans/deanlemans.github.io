@@ -36,13 +36,14 @@ I found these 2(3) frameworks
 
 
 ### TLDR;
->inbuild GitHub pages support. 
->accesibility
->detailed instuctions how to use and modify their theme.
->able to use obsidian to edit/keep track of my files.
->able to convert .MD files to post(html) that display automatically.
->able to open in obsidian.
->can act as an replacement for obsidian publish.
+- inbuild GitHub pages support. 
+- accesibility
+- detailed instuctions how to use and modify their theme.
+- able to use obsidian to edit/keep track of my files.
+- able to convert .MD files to post(html) that display automatically.
+- able to open in obsidian.
+- can act as an replacement for obsidian publish.
 
-what went wrong;
-when copying (relative)path the / becomes \ and that doesnt work
+## Reflection;
+i found out that when copying (relative)path the / becomes \ and that doesnt work.
+i wish i could add more stuff to my portofolio
