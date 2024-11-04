@@ -8,10 +8,6 @@ pin: true
 ---
 >A shorter and more consize about me is available at [about](https://deanlemans.github.io/about/) post
 {: .prompt-tip }
-- add on post picture of me for background
-- add picture of dog
-- add books i like img
-- create favorite book list add img
 
 # Hello!
 I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
