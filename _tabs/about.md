@@ -14,7 +14,7 @@ order: 1
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
-![dog1](assets/img/personal/dog2.jpg)
+![dog2](assets/img/personal/dog2.jpg)
 _my dog_
 ## Contact
 

@@ -19,3 +19,5 @@ It is very small game with a grand total of 3 levels.
 - [source code](https://github.com/DeanLemans/2d-platformer-godot) 
 - [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
 
+![dog4](assets/img/personal/dog4.jpg)
+_my dog_

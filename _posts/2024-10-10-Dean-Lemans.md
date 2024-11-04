@@ -21,13 +21,13 @@ I'm currently trying to become a indie game developer
 _Me_
 
 ## work experience:
-- shelf-stocker 2 year
+- shelf-stocker 2 years
 - Gardening 1 year(currenty)
 
 
 I like Open Source software, and I actively strive to only use [Open Source](https://opensource.org/osd) [Free Software](https://writefreesoftware.org/learn).
-in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
-What software I use; GIMP, void linux, thorium browser, Godot, Zed.
+- in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
+- What software I use; GIMP, void linux, thorium browser, Godot, Zed.
 
 My favorite pastime is reading, below you will find some of my most beloved books;
 
@@ -51,13 +51,13 @@ Some of my favorite non-fiction books are:
 
 [This](https://codeberg.org/deanlemans) is my codeberg page, I will eventually transfer all my repositories from github to codeberg when I'm done with school, but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
 
+![dog1](assets/img/personal/dog1.jpg)
+_my dog_
 
 ## Contact
 
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
-![dog1](assets/img/personal/dog1.jpg)
-_my dog_
 
 P.S; if you would like to support me, consider donating(XMR): 
 ```

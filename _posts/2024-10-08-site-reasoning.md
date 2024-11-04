@@ -46,3 +46,6 @@ I found these 2(3) frameworks
 - I found out that when copying (relative)path the / becomes \ and that doesnt work.
 - I wish I could add more stuff to my portofolio.
 - Should have focused on quality more instead of adding quantity.
+
+![dog3](assets/img/personal/dog3.jpg)
+_my dog_
