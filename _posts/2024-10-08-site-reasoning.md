@@ -48,6 +48,8 @@ I found these 2(3) frameworks
 - Should have focused on quality more instead of adding quantity.
 - make it simpler(remove tag, catagories and archive(just going to comment it out))
 - should have added more to portofolio(like pieces of code, some old unity projects)
+- add experience(like experience using godot, experienced mored in 2d than 3d)
+- add gifs to portofio/godot games.
 
 ![dog3](assets/img/personal/dog3.jpg)
 _my dog_

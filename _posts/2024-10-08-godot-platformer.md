@@ -7,12 +7,13 @@ tags: [godot, game, portofolio]
 image:
     path: assets/img/post/first-godot-game.png
 ---
-
+>made with godot 4.3
+{: .prompt-tip }
 # My first godot game
 
 This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
 
-It is very small game with a grand total of 3 levels.
+It's a small game with a grand total of 3 levels.
 
 ![me](/assets/img/post/first-godot-game.png)
 
