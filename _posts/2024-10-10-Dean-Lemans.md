@@ -20,7 +20,7 @@ I'm currently trying to become a indie game developer
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
-I like open source software, and I actively strive to only use [open source]() [free software]().
+I like open source software, and I actively strive to only use [open source](https://opensource.org/osd) [free software](https://writefreesoftware.org/learn).
 in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
 What (software) I use; GIMP, void linux, thorium browser, Godot, Zed.
 
