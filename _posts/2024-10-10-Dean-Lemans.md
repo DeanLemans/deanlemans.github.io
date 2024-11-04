@@ -5,6 +5,8 @@ date: 2024-10-10 00:00:00 +0100
 categories: [Dean Lemans]
 tags: [portofolio]
 pin: true
+image:
+    path: /assets/img/personal/avatar-2.jpg
 ---
 >A shorter and more consize about me is available at [about](https://deanlemans.github.io/about/) post
 {: .prompt-tip }
@@ -20,13 +22,18 @@ I'm currently trying to become a indie game developer
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
 
-I like open source software, and I actively strive to only use [open source](https://opensource.org/osd) [free software](https://writefreesoftware.org/learn).
+work experience:
+shelf-stocker 2 year
+Gardening 1 year(currenty)
+
+
+I like Open Source software, and I actively strive to only use [Open Source](https://opensource.org/osd) [Free Software](https://writefreesoftware.org/learn).
 in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
-What (software) I use; GIMP, void linux, thorium browser, Godot, Zed.
+What software I use; GIMP, void linux, thorium browser, Godot, Zed.
 
-my fovorite pasttime is reading, below you will find some of my most beloved books
+my favorite pasttime is reading, below you will find some of my most beloved books;
 
-my favorite fiction books are:
+Some of my fiction books are:
 
 #### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
 #### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
@@ -35,12 +42,13 @@ my favorite fiction books are:
 #### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
 
 
-some of my non-fiction books are:
+Some of my non-fiction books are:
 
-myth of sisyphus by albert camus
-the psychology of money
-nausia by jean paul satre
-atomic habits by ???
+#### [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus
+#### [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel
+#### [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by ???
+#### [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre
+
 
 
 [This](https://codeberg.org/deanlemans) is my codeberg page, I will problebly transfer all my repositories from github to codeberg when I'm done with school. but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)

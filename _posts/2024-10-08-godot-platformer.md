@@ -8,9 +8,9 @@ image:
     path: assets/img/post/first-godot-game.png
 ---
 
-# my first godot game
+# My first godot game
 
-this is my very first godot game so i am quite proud of what i accomplished when not understanding the engine at all
+This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
 
 It is very small game with a grand total of 3 levels.
 
