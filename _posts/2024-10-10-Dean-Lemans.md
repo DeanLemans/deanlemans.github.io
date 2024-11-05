@@ -34,26 +34,26 @@ I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesof
 ### Some of my favorite fiction books are:
 
 - [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal.
-![godclads](/assets/img/post/GODCLADS.jpg){: w="100" h="100" }
+![GODCLADS](/assets/img/post/GODCLADS.jpg){: w="100" h="100" }
 - [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales.
-![Thresholder](/assets/img/post/TRESHOLDER.jpg){: w="100" h="100" }
-- [Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester.
-![Tenebroum](/assets/img/post/TENEBROUM.jpg){: w="100" h="100" }
+![TRESHOLDER](/assets/img/post/TRESHOLDER.jpg){: w="100" h="100" }
+- [Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed) by DWinchester.
+![TENEBROUM](/assets/img/post/TENEBROUM.jpg){: w="100" h="100" }
 - [REND](https://www.royalroad.com/fiction/32615/rend) by Temple.
 ![REND](/assets/img/post/REND.jpg){: w="100" h="100" }
 - [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras.
-![Ghost in the City](/assets/img/post/GHOST-IN-THE-CITY.jpg){: w="100" h="100" }
+![GHOST-IN-THE-CITY](/assets/img/post/GHOST-IN-THE-CITY.jpg){: w="100" h="100" }
 
 ### Some of my favorite non-fiction books are:
 
 - [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus.
-![The Myth of Sisyphus](/assets/img/post/THE-MYTH-OF-SISYPHUS.jpg){: w="100" h="100" }
+![THE-MYTH-OF-SISYPHUS](/assets/img/post/THE-MYTH-OF-SISYPHUS.jpg){: w="100" h="100" }
 - [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel.
-![The Psychology of Money](/assets/img/post/THE-PSYCHOLOGY-OF-MONEY.jpg){: w="100" h="100" }
+![THE-PSYCHOLOGY-OF-MONEY](/assets/img/post/THE-PSYCHOLOGY-OF-MONEY.jpg){: w="100" h="100" }
 - [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
-![Atomic Habits](/assets/img/post/ATOMIC-HABITS.jpg){: w="100" h="100" }
+![ATOMIC-HABITS](/assets/img/post/ATOMIC-HABITS.jpg){: w="100" h="100" }
 - [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre.
-![Nausea](/assets/img/post/NAUSEA.jpg){: w="100" h="100" }
+![NAUSEA](/assets/img/post/NAUSEA.jpg){: w="100" h="100" }
 
 
 
