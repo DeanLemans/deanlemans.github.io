@@ -22,7 +22,13 @@ _Me_
 
 ## Work experience:
 - Shelf-Stocker 2 years
-- Gardening 1 year(currenty)
+- Gardener 1 year(currenty)
+```mermaid
+ gantt
+  title  Work experience
+  Shelf-Stocker :a, 2022-010-00, 2y
+  Gardener :crit, b, 2023-05-00, 1y
+```
 
 
 I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
