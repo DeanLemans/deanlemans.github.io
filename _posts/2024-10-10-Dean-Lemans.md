@@ -6,12 +6,12 @@ categories: [Dean Lemans]
 tags: [portofolio]
 pin: true
 ---
->A shorter and more consize about me is available at [about](https://deanlemans.github.io/about/) post
+>A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/) tab.
 {: .prompt-tip }
 
 # Hello!
 I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
-I'm currently trying to become a indie game developer
+I'm currently trying to become a indie game developer.
 
 ![me](/assets/img/personal/avatar-2.jpg)
 _Me_
@@ -21,8 +21,8 @@ _Me_
 - Gardening 1 year(currenty)
 
 
-I like Open Source software, and I actively strive to only use [Open Source](https://opensource.org/osd) [Free Software](https://writefreesoftware.org/learn).
-- in the case of OSS being worse then the proprietry alternative,(I.E; discord > matrix) I will use the proprietry alternative.
+I like [Open Source](https://opensource.org/osd) and [Free Software](https://writefreesoftware.org/learn).
+- in the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
 - What software I use; GIMP, void linux, thorium browser, Godot, Zed.
 
 My favorite pastime is reading, below you will find some of my most beloved books;
@@ -47,7 +47,7 @@ Some of my favorite non-fiction books are:
 
 [This](https://codeberg.org/deanlemans) is my codeberg page, I will eventually transfer all my repositories from github to codeberg when I'm done with school, but for now my school wants me to use github(which is understandable, as its the most popular code hosting site.)
 
-![dog1](assets/img/personal/dog1.jpg)
+![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_
 
 ## Contact
