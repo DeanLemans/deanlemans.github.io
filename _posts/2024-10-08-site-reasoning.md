@@ -46,10 +46,12 @@ I found these 2(3) frameworks
 - I found out that when copying (relative)path the / becomes \ and that doesnt work.
 - I wish I could add more stuff to my portofolio.
 - Should have focused on quality more instead of adding quantity.
-- make it simpler(remove tag, catagories and archive(just going to comment it out))
-- should have added more to portofolio(like pieces of code, some old unity projects)
-- add experience(like experience using godot, experienced mored in 2d than 3d)
+- make it simpler(remove tag, catagories and archive(just going to comment it out).
+- should have added more to portofolio(like pieces of code, some old unity projects).
+- add experience(like experience using godot, experienced mored in 2d than 3d).
 - add gifs to portofio/godot games.
+- change work experience to a graph.
+- meta: transfer all these issues to [project](https://github.com/users/DeanLemans/projects/3).
 
 ![dog3](assets/img/personal/dog3.jpg)
 _my dog_
