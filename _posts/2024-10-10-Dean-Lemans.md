@@ -34,7 +34,7 @@ I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesof
 ### Some of my favorite fiction books are:
 
 - [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal.
-![GODCLADS](/assets/img/post/GODCLADS.jpg){: w="100" h="100" .left
+![GODCLADS](/assets/img/post/GODCLADS.jpg){: w="100" h="100" .left}
 - [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales.
 ![TRESHOLDER](/assets/img/post/TRESHOLDER.jpg){: w="100" h="100" .left}
 - [Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed) by DWinchester.
