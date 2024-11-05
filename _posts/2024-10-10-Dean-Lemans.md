@@ -53,7 +53,7 @@ I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesof
 - [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 ![ATOMIC-HABITS](/assets/img/post/ATOMIC-HABITS.jpg){: w="100" h="100" }
 - [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre.
-![NAUSEA](/assets/img/post/NAUSEA.jpg){: w="100" h="100" }
+![NAUSEA](/assets/img/post/NAUSEA.JPG){: w="100" h="100" }
 
 
 
