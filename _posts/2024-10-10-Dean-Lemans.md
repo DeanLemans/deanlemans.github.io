@@ -13,7 +13,7 @@ pin: true
 I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 I'm currently trying to become a indie game developer.
 
-![me](/assets/img/personal/avatar-2.jpg)
+![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
 _Me_
 
 ## work experience:
