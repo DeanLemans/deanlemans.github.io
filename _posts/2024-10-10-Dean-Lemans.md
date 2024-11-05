@@ -6,7 +6,7 @@ categories: [Dean Lemans]
 tags: [portofolio]
 pin: true
 image:
-    path: assets/img/post/first-godot-game.png{: w="200" h="200" }
+    path: assets/img/personal/avatar-2.jpg
 ---
 >A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/) tab.
 {: .prompt-tip }
