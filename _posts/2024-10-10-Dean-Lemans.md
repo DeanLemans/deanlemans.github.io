@@ -16,32 +16,32 @@ I'm currently trying to become a indie game developer.
 ![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
 _Me_
 
-## work experience:
+## Work experience:
 - Shelf-Stocker 2 years
 - Gardening 1 year(currenty)
 
 
-I like [Open Source](https://opensource.org/osd) and [Free Software](https://writefreesoftware.org/learn).
-- in the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
-- What software I use; GIMP, void linux, thorium browser, Godot, Zed.
+I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+- In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
+- What software I use; GIMP, void linux/ opensuse tumbleweed, thorium browser, Godot, Zed.
 
 My favorite pastime is reading, below you will find some of my most beloved books;
 
 Some of my favorite fiction books are:
 
-#### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal
-#### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales
-#### [Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester
-#### [REND](https://www.royalroad.com/fiction/32615/rend) by Temple
-#### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras
+#### [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal.
+#### [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) by Alexander Wales.
+#### [Tenebroum](https://www.royalroad.com/fiction/32615/rend) by DWinchester.
+#### [REND](https://www.royalroad.com/fiction/32615/rend) by Temple.
+#### [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) by Seras.
 
 
 Some of my favorite non-fiction books are:
 
-#### [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus
-#### [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel
-#### [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by ???
-#### [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre
+#### [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus.
+#### [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel.
+#### [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by ???.
+#### [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre.
 
 
 

@@ -53,5 +53,5 @@ I found these 2(3) frameworks
 - change work experience to a graph.
 - meta: transfer all these issues to [project](https://github.com/users/DeanLemans/projects/3).
 
-![dog3](assets/img/personal/dog3.jpg)
+![dog3](assets/img/personal/dog3.jpg){: w="500" h="500" }
 _my dog_
