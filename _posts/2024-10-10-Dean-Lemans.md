@@ -24,7 +24,7 @@ _Me_
 ```mermaid
  gantt
   title Work experience
-  Shelf-Stocker :a, 2021-04-00, 2y
+  Shelf-Stocker :a, 2021-04-00, 550d
   Gardener :b, 2023-06-00, 425d
 ```
 
