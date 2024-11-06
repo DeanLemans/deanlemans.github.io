@@ -14,8 +14,10 @@ image:
 {: .prompt-tip }
 
 # Hello!
-- I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
-- I'm currently trying to become a indie game developer.
+```
+> I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
+> I'm currently trying to become a indie game developer.
+```
 
 ![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
 _Me_
@@ -26,13 +28,13 @@ Shelf-Stocker 2 years
 Gardener 1 year(current)
 ```
 
-I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
-```text
+## I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+```
 > In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
 > What software I use; GIMP, void linux/ opensuse tumbleweed, thorium browser, Godot, Zed.
-> My favorite pastime is reading, below you will find some of my most beloved books:
 ```
-
+> My favorite pastime is reading, below you will find some of my most beloved books:
+{: .prompt-info }
 - **Some of my favorite fiction books are:**
 
 > [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal.
@@ -67,9 +69,9 @@ I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesof
 
 
 ## [**This**](https://codeberg.org/deanlemans) is my codeberg page
-```text
-I'm planning to transfer all of my repositories from github to codeberg when I'm done with school, 
-but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
+```
+> I'm planning to transfer all of my repositories from github to codeberg when I'm done with school, 
+> but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
 ```
 ![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_

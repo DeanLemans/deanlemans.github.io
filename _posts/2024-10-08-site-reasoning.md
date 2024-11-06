@@ -1,18 +1,26 @@
 ---
-title: "Why I made this site"
+title: "Why does this site exist"
 description: reasoning for this site.
 date: 2024-10-08 00:00:00 +0100
 categories: [Research]
 tags: [site]
 ---
-I looked at the frameworks that were provided to me for the assigment(there is almost no coding involved in wordpress and wix) and i did not like them. 
-and since I have no interest in html, css and js.
-**I wanted to code a bit myself and have control over my site**
-{: .prompt-tip }
-so based on these requirements:
-I found these 2(3) frameworks
->note: I chose jekyll over hugo for greater custimisability.
-
+# Why does this site exist?
+```
+> We got an assigment to make our own portofolio site.
+but because I was part of the group that focused more on game development (instead on we development)
+(our class is split up in two)
+> School decided to give us some frameworks
+> I looked at the frameworks that were provided to me for the assigment
+> I saw that there was almost no coding involved (I.E; wordpress, wix and webflow) and I did not like them. 
+> I decided to look for different frameworks
+```
+1. I have no interest in html, css and js.
+2. I do like to write.
+- So based on these requirements:
+- I found these 2 frameworks
+> note: I chose jekyll over hugo for greater custimisability.
+{: .prompt-info }
 
 [jekyll](https://jekyllrb.com/) [chirpy theme](https://chirpy.cotes.page/) and [mediagoblin](https://mediagoblin.org/)
 
