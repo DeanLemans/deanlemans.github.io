@@ -6,59 +6,64 @@ categories: [Research]
 tags: [site]
 ---
 # Why does this site exist?
+
 ```
 > We got an assigment to make our own portofolio site.
-but because I was part of the group that focused more on game development (instead on we development)
+> because I am in the group game development group
 (our class is split up in two)
 > School decided to give us some frameworks
 > I looked at the frameworks that were provided to me for the assigment
-> I saw that there was almost no coding involved (I.E; wordpress, wix and webflow) and I did not like them. 
-> I decided to look for different frameworks
+> The provided frameworks were: wordpress, wix and webflow(no coding involved)
+> So I decided to look for different frameworks
 ```
+## Requirements
 1. I have no interest in html, css and js.
-2. I do like to write.
-- So based on these requirements:
-- I found these 2 frameworks
-> note: I chose jekyll over hugo for greater custimisability.
+2. I like to write.
+3. accesibility.
+- Based on these requirements, I found these 3 frameworks
+
+> (note: I chose jekyll over hugo for greater custimisability.)
 {: .prompt-info }
 
 [jekyll](https://jekyllrb.com/) [chirpy theme](https://chirpy.cotes.page/) and [mediagoblin](https://mediagoblin.org/)
 
-### mediagobin
-- pros
-    - supports audio files, videos, and 3D-models.
+### Mediagobin
+- Pros
+    - supports audio files, videos and 3D-models.
     - build in comment system.
-- cons
+- Cons
     - no inbuild GitHub pages support.
-    - have to learn how to host stuff myself.
 
-### jekyll chirpy theme
-- pros
+### Jekyll Chirpy Theme
+- Pros
     - inbuild GitHub pages support.
     - static site.
     - build in comment system.
-- cons 
+    - inbuild Table Of Content.
+    - .md to html.
+- Cons 
     - building on locally on windows, (works fine on linux though).
 
 
-### TLDR;
-- inbuild GitHub pages support. 
-- accesibility.
-- detailed instuctions how to use and modify their theme.
-- able to use obsidian to edit/keep track of my files.
-- able to convert .MD files to post(html) that display automatically.
-- replacement for obsidian publish.
+## TLDR;
+```
+----I chose Jekyll Chirpy for:----
+> inbuild GitHub pages. 
+> accesibility.
+> detailed instuctions.
+> simple .md files to html.
+> replacement for obsidian publish.
+```
 
 ## Reflection/Feedback;
-- I found out that when copying (relative)path the / becomes \ and that doesnt work.
+- I found out that when copying (relative)path  * / becomes \ * and that doesnt work.
 - I wish I could add more stuff to my portofolio.
 - Should have focused on quality more instead of quantity.
-- make it simpler(remove tag, catagories and archive tab).
-- should have added more to portofolio(like pieces of code, some old unity projects).
+- make it simpler(make post tabs, or just remove some tabs).
 - add experience(like experience using godot, experienced mored in 2d than 3d).
 - add gifs to portofio/godot games.
-- change work experience to a graph.
-- meta: transfer all these issues to [project](https://github.com/users/DeanLemans/projects/3).
+- will probleby migrate this site to codeberg pages.
+- **meta: transfer all these issues to [project](https://github.com/users/DeanLemans/projects/3).**
 
 ![dog3](assets/img/personal/dog3.jpg){: w="500" h="500" }
 _my dog_

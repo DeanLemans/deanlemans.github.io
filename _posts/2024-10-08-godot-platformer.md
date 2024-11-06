@@ -9,7 +9,7 @@ image:
 ---
 > Made with [Godot 4.3](https://godotengine.org/download/archive/4.3-stable/)
 {: .prompt-info }
-## My first godot game
+## My first Godot game
 ```
 > This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
 > It's a small game with a grand total of 3 levels.
