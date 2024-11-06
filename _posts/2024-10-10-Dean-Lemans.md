@@ -13,6 +13,16 @@ image:
 >A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/) tab.
 {: .prompt-tip }
 
+```ToDo
+improve page
+rename to who am i
+include thing like why i want to become a indie game dev
+explain my motivations
+go more in depth with what i like
+
+```
+
+
 # Hello!
 ```
 > I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
