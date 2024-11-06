@@ -9,16 +9,16 @@ image:
 ---
 >made with godot 4.3
 {: .prompt-tip }
-# My first godot game
+## My first godot game
 
-This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
+: This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
 
-It's a small game with a grand total of 3 levels.
+: It's a small game with a grand total of 3 levels.
 
 ![me](/assets/img/post/first-godot-game.png)
 
-- [source code](https://github.com/DeanLemans/2d-platformer-godot) 
-- [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
+> [source code](https://github.com/DeanLemans/2d-platformer-godot) 
+> [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
 
 ![dog4](assets/img/personal/dog4.jpg){: w="500" h="500" }
 _my dog_
