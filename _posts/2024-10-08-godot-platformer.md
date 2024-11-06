@@ -10,11 +10,11 @@ image:
 >Made with [Godot 4.3](https://godotengine.org/download/archive/4.3-stable/)
 {: .prompt-tip }
 ## My first godot game
-
+```text
 - This is my very first godot game so I'm quite proud of what I accomplished when not understanding the engine at all.
 
 - It's a small game with a grand total of 3 levels.
-
+```
 ![me](/assets/img/post/first-godot-game.png)
 
 > [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!

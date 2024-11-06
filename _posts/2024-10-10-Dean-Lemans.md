@@ -21,15 +21,17 @@ image:
 _Me_
 
 ## Work experience
-- Shelf-Stocker 2 years
-- Gardener 1 year(current)
-
+```
+Shelf-Stocker 2 years
+Gardener 1 year(current)
+```
 
 I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
-- In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
-- What software I use; GIMP, void linux/ opensuse tumbleweed, thorium browser, Godot, Zed.
-
-- My favorite pastime is reading, below you will find some of my most beloved books:
+```text
+> In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
+> What software I use; GIMP, void linux/ opensuse tumbleweed, thorium browser, Godot, Zed.
+> My favorite pastime is reading, below you will find some of my most beloved books:
+```
 
 - **Some of my favorite fiction books are:**
 
@@ -65,9 +67,10 @@ I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesof
 
 
 ## [**This**](https://codeberg.org/deanlemans) is my codeberg page
->I'm planning to transfer all of my repositories from github to codeberg when I'm done with school, 
->but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
-
+```text
+I'm planning to transfer all of my repositories from github to codeberg when I'm done with school, 
+but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
+```
 ![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_
 
