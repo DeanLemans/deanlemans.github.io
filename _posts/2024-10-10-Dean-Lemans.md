@@ -13,13 +13,14 @@ image:
 >A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/) tab.
 {: .prompt-tip }
 
-```ToDo
-improve page
+```
+----ToDo----
 rename to who am i
 include thing like why i want to become a indie game dev
 explain my motivations
-go more in depth with what i like
-
+go more in depth with what I like(explanation for books)
+add what do i want to learn(music and art)
+web0/indie web stuff.
 ```
 
 
