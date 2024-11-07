@@ -51,7 +51,7 @@ Gardener 1 year(current)
 
 > My favorite pastime is reading, below you will find some of my most beloved books:
 {: .prompt-info }
-- **Some of my favorite fiction books are:**
+## Some of my favorite fiction books are:
 
 > [godclads](https://www.royalroad.com/fiction/59663/godclads) by OstensibleMammal.
 
@@ -73,7 +73,7 @@ Gardener 1 year(current)
 
 ![GHOST-IN-THE-CITY](/assets/img/post/GHOST-IN-THE-CITY.jpg){: w="100" h="100" .normal}
 
-- **Some of my favorite non-fiction books are:**
+## Some of my favorite non-fiction books are:
 
 > [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) by Albert Camus.
 
@@ -97,7 +97,7 @@ Gardener 1 year(current)
 ## My repositories plans
 
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/). 
-> but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
+*But for now my school wants me to use github (which is understandable, as its the most popular code hosting site).*
 
 ![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_
