@@ -15,7 +15,7 @@ image:
 
 ```
 ----ToDo----
-rename to who am i
+rename "to who am i"
 include thing like why i want to become a indie game dev
 explain my motivations
 go more in depth with what I like(explanation for books)
@@ -25,10 +25,10 @@ web0/indie web stuff.
 
 
 # Hello!
-```
-> I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
-> I'm currently trying to become a indie game developer.
-```
+
+- I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
+- I'm currently trying to become a indie game developer.
+
 
 ![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
 _Me_
@@ -40,10 +40,15 @@ Gardener 1 year(current)
 ```
 
 ## I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
-```
+
 > In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
-> What software I use; GIMP, void linux/ opensuse tumbleweed, thorium browser, Godot, Zed.
-```
+
+- The software I use:
+    - OS: [The Void](https://voidlinux.org/), [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
+    - Browser: [Thorium](https://thorium.rocks/) and [Cromite](https://github.com/uazo/cromite).
+    - Game Engine: [Godot](https://godotengine.org/).
+    - IDE: [Zed](https://zed.dev/).
+
 > My favorite pastime is reading, below you will find some of my most beloved books:
 {: .prompt-info }
 - **Some of my favorite fiction books are:**
@@ -77,13 +82,13 @@ Gardener 1 year(current)
 > [Nausea](https://www.goodreads.com/book/show/298275.Nausea) by Jean-Paul Sartre. 
 ![NAUSEA](/assets/img/post/NAUSEA.JPG){: w="100" h="100" .left}
 
+#
 
+## My repositories plans
 
-## [**This**](https://codeberg.org/deanlemans) is my codeberg page
-```
-> I'm planning to transfer all of my repositories from github to codeberg when I'm done with school, 
+- I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/). 
 > but for now my school wants me to use github(which is understandable, as its the most popular code hosting site).
-```
+
 ![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_
 
@@ -92,7 +97,8 @@ _my dog_
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
 
-- P.S; if you would like to support me, consider donating(XMR): 
+:P.S:
+if you would like to support me, please consider donating(XMR) to the following address: 
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 ```
