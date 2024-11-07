@@ -1,5 +1,5 @@
 ---
-title: "Dean Lemans"
+title: "Who am I?"
 description: A more extensive about me.
 date: 2024-10-10 00:00:00 +0100
 categories: [Dean Lemans]
@@ -28,6 +28,7 @@ web0/indie web stuff.
 
 - I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 - I'm currently trying to become a indie game developer.
+- bellow here you will find some of my interests.
 
 
 ![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
@@ -102,7 +103,7 @@ Gardener 1 year(current)
 ![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
 _my dog_
 
-## Contact
+## Contacts
 
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
