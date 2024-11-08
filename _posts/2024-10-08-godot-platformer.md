@@ -15,6 +15,7 @@ image:
 > at the time, I had not a clue on how the engine worked.
 ```
 > It's a small game with a grand total of 3 levels.
+
 ![me](/assets/img/post/first-godot-game.png)
 
 > [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
