@@ -109,7 +109,7 @@ If you'd like to contact me see my list of [social links](https://linksta.cc/@De
 
 
 P.S:
-: if you would like to support me, please consider donating(XMR) to the following address: 
+: if you'd like to support me, you're welcome to send any amount of XMR to the following address: 
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 ```
