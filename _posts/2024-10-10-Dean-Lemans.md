@@ -108,7 +108,7 @@ _my dog_
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
 
-P.S
+P.S:
 : if you would like to support me, please consider donating(XMR) to the following address: 
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
