@@ -21,4 +21,4 @@ image:
 > [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
 {: .prompt-tip }
 ![dog4](assets/img/personal/dog4.jpg){: w="500" h="500" }
-_my dog_
+_doggo certified game_
