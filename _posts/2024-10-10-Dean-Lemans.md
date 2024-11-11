@@ -21,6 +21,7 @@ explain my motivations
 go more in depth with what I like(explanation for books)
 add what do i want to learn(music and art)
 web0/indie web stuff.
+Add experience(git, godot, linux)
 ```
 
 
