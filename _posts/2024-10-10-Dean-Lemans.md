@@ -10,29 +10,14 @@ image:
     path: assets/img/personal/avatar-2-focus.jpg
     alt: this is I!
 ---
->A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/) tab.
+>A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/).
 {: .prompt-tip }
 
-```
-----ToDo----
-rename "to who am i"
-include thing like why i want to become a indie game dev
-explain my motivations
-go more in depth with what I like(explanation for books)
-add what do i want to learn(music and art)
-web0/indie web stuff.
-Add experience(git, godot, linux)
-```
-
-
 # Hello!
-
 - I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 - I'm currently trying to become a indie game developer.
-- bellow here you will find some of my interests.
 
-
-![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
+![me](/assets/img/personal/avatar-2.jpg){: w="550" h="550" }
 _Me_
 
 ## Work experience
@@ -41,18 +26,22 @@ Shelf-Stocker 2 years
 Gardener 1 year(current)
 ```
 
-## I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+> You will find some of my interests listed below.
+{: .prompt-info }
 
-> In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use the proprietry alternative.
+## I like [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+> In the case of FOSS software being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use proprietry software.
 
 - The software I use:
     - OS: [The Void](https://voidlinux.org/), [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
-    - Browser: [Thorium](https://thorium.rocks/) and [Cromite](https://github.com/uazo/cromite).
     - Game Engine: [Godot](https://godotengine.org/).
-    - IDE: [Zed](https://zed.dev/).
+    - IDE: [Zed](https://zed.dev/) and [VSCodium](https://vscodium.com/)
+    - Browser: [Thorium](https://thorium.rocks/) and [Floorp](https://floorp.app/).
+
 
 > My favorite pastime is reading, below you will find some of my most beloved books:
 {: .prompt-info }
+
 ## Some of my favorite fiction books are:
 
 **[godclads](https://www.royalroad.com/fiction/59663/godclads)** by OstensibleMammal.
@@ -75,6 +64,7 @@ Gardener 1 year(current)
 
 ![GHOST-IN-THE-CITY](/assets/img/post/GHOST-IN-THE-CITY.jpg){: w="100" h="100" .normal}
 
+
 ## Some of my favorite non-fiction books are:
 
 **[The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)** by Albert Camus.
@@ -94,20 +84,15 @@ Gardener 1 year(current)
 ![NAUSEA](/assets/img/post/NAUSEA.JPG){: w="100" h="100" .normal}
 
 
-
-
 ## My repositories plans
-
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/). 
 *But for now my school wants me to use github (which is understandable, as its the most popular code hosting site).*
 
-![dog1](assets/img/personal/dog1.jpg){: w="500" h="500" }
+![dog1](assets/img/personal/dog1.jpg){: w="150" h="150" }
 _my dog_
 
 ## Contacts
-
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
-
 
 P.S:
 : if you'd like to support me, you're welcome to send any amount of XMR to the following address: 

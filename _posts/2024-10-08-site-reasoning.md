@@ -60,10 +60,6 @@ tags: [site]
 - I wish I could add more stuff to my portofolio.
 - Should have focused on quality more instead of quantity.
 - make it simpler(make post tabs, or just remove some tabs).
-- add experience(like experience using godot, experienced mored in 2d than 3d).
-- add gifs to portofio/godot games.
-- will probleby migrate this site to codeberg pages.
-- **meta: transfer all these issues to [project](https://github.com/users/DeanLemans/projects/3).**
 
-![dog3](assets/img/personal/dog3.jpg){: w="500" h="500" }
+![dog3](assets/img/personal/dog3.jpg){: w="150" h="150" }
 _my dog_

@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 1
 ---
->A more extensive about me is available at [dean lemans](https://deanlemans.github.io/posts/Dean-Lemans/) post.
+>A more extensive about me is available at [Who am I?](https://deanlemans.github.io/posts/Dean-Lemans/).
 {: .prompt-tip }
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
@@ -11,10 +11,10 @@ order: 1
 - 🌱 Currently studying Software Development at [sintlucas](https://www.sintlucas.nl/)
 - 🔓 Interested in FOSS!
 
-![me](/assets/img/personal/avatar-2.jpg){: w="600" h="600" }
+![me](/assets/img/personal/avatar-2.jpg){: w="550" h="550" }
 _Me_
 
-![dog2](assets/img/personal/dog2.jpg){: w="500" h="500" }
+![dog2](assets/img/personal/dog2.jpg){: w="150" h="150" }
 _my dog_
 ## Contact
 
