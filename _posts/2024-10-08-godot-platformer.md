@@ -2,7 +2,7 @@
 title: "My first godot game"
 description: My fist game made in godot.
 date: 2024-10-08 00:00:00 +0100
-categories: [Game]
+categories:
 tags: [godot, game, portofolio]
 image:
     path: assets/img/post/first-godot-game.png
