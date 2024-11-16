@@ -85,7 +85,7 @@ Gardener 1 year(current)
 
 ## My repositories plans
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/). 
-*But for now my school wants me to use github (which is understandable, as its the most popular code hosting site).*
+*But for now school wants me to use github (which is understandable, as its the most popular code hosting site).*
 
 ![dog1](assets/img/personal/dog1.jpg){: w="150" h="150" }
 _my dog_

@@ -12,7 +12,7 @@ image:
 ## My first Godot game
 ```
 > This is my very first godot game so I'm quite proud of what I accomplished
-> at the time, I had not a clue on how the engine worked.
+> At the time, I did not have a clue on how the engine worked.
 ```
 > It's a small game with a grand total of 3 levels.
 
