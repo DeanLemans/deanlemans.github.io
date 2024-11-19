@@ -1,6 +1,6 @@
 ---
 title: "Who am I?"
-description: A more extensive about me.
+description: A more extensive about me
 date: 2024-10-10 00:00:00 +0100
 categories:
 tags: [portofolio]
