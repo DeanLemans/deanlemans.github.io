@@ -16,11 +16,11 @@ tags: [site, development]
 > The provided frameworks were: wordpress, wix and webflow(no coding involved)
 > So I decided to look for different frameworks
 ```
-## Requirements
+## Personal Requirements
 1. I have no interest in html, css and js.
 2. I like to write.
 3. accesibility.
-- Based on these requirements, I found these 3 frameworks
+- Based on these requirements, I found these 2 frameworks
 
 > (note: I chose jekyll over hugo for greater custimisability.)
 {: .prompt-info }
