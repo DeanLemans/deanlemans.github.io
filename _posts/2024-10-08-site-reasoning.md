@@ -10,9 +10,8 @@ tags: [site, development]
 ```
 > We got an assigment to make our own portofolio site.
 > because I am in the group game development group
-(our class is split up in two)
+(our class is split in game and web)
 > School decided to give us some frameworks
-> I looked at the frameworks that were provided to me for the assigment
 > The provided frameworks were: wordpress, wix and webflow(no coding involved)
 > So I decided to look for different frameworks
 ```
