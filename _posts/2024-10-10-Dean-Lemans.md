@@ -19,12 +19,6 @@ image:
 ![me](/assets/img/personal/avatar-2.jpg){: w="550" h="550" }
 _Me_
 
-## Work experience
-```
-Shelf-Stocker 2 years
-Gardener 1 year(current)
-```
-
 > You will find some of my interests listed below.
 {: .prompt-info }
 

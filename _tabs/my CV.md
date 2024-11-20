@@ -10,7 +10,13 @@ order: 2
 ## experience
 intermediate experience in godot
 
-![me](/assets/img/personal/avatar-2.jpg){: w="550" h="550" }
+## Work experience
+```
+Shelf-Stocker 2 years
+Gardener 1 year(current)
+```
+
+![me](/assets/img/personal/avatar-2.jpg){: w="400" h="400" }
 _Me_
 
 ![dog2](assets/img/personal/dog2.jpg){: w="50" h="50" }
