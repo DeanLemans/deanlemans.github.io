@@ -11,7 +11,7 @@ Hello, I am Dean and I'm an aspiring game developer! 👋
 ![me](/assets/img/personal/avatar-2-CV.jpg){: w="400" h="400" }
 _Me_
 
-## Experience
+## Developer Experience
 - Intermediate experience in godot
 
 ## Work experience
