@@ -12,7 +12,7 @@ Hello, I am Dean and I'm an aspiring game developer! 👋
 _Me_
 
 ## Experience
-- intermediate experience in godot
+- Intermediate experience in godot
 
 ## Work experience
 - Shelf-Stocker 2 years
@@ -22,5 +22,5 @@ _Me_
 - [Udens College](https://www.udenscollege.nl/)
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
 
-## Contact
-If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
+Contact
+: If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
