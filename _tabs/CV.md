@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 2
 ---
-> This is my CV (WIP)
+> WIP
 {: .prompt-tip }
 # Hello, I am Dean and I'm an aspiring game developer! 👋
 
