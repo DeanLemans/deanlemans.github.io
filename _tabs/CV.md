@@ -19,6 +19,7 @@ _Me_
 - Gardener 1 year(current)
 
 ## Education
+- [Palster](https://www.depalster.nl/)
 - [Udens College](https://www.udenscollege.nl/)
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
 
