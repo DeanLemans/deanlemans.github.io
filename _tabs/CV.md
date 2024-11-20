@@ -12,7 +12,10 @@ Hello, I am Dean and I'm an aspiring game developer! 👋
 _Me_
 
 ## Developer Experience
-- Intermediate experience in godot
+- Intermediate experience in [Godot](https://godotengine.org/).
+- Beginner experience in [Git](https://git-scm.com/).
+- Expert experience in [Github](https://github.com/DeanLemans).
+- Intermediate experience in [Zed](https://zed.dev/).
 
 ## Work experience
 - Shelf-Stocker 2 years
