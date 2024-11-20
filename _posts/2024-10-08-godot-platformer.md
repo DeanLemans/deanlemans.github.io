@@ -1,6 +1,6 @@
 ---
 title: "My first game"
-description: My fist game made in godot
+description: My first game made in godot
 date: 2024-10-08 00:00:00 +0100
 categories:
 tags: [game, development]
