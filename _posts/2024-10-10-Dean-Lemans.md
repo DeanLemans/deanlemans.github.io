@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: more expresive CV
+description: more expressive CV
 date: 2024-10-10 00:00:00 +0100
 categories:
 tags: [portofolio]
