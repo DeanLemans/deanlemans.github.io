@@ -1,13 +1,16 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
-> WIP
+> W.I.P
 {: .prompt-warning}
 
 > You can download the PDF [Here](https://duckduckgo.com/?t=ftsa&q=wip&iax=images&ia=images&iai=https%3A%2F%2Fproducts.sint.co.jp%2Fhubfs%2Fimages%2Fobpm%2Fblog%2Fwhat-is-wip-board.webp).
 {: .prompt-tip}
+
+>A more extensive about me is available [Here](https://deanlemans.github.io/posts/Dean-Lemans/).
+{: .prompt-tip }
 
 # Introduction
 Hello, I am Dean and I'm an aspiring game developer! 👋
