@@ -1,12 +1,15 @@
 ---
-title: "Why does this site exist?"
-description: reasoning for this site
+title: "My first site"
+description: explanation for this site
 date: 2024-10-08 00:00:00 +0100
 categories:
 tags: [site, development]
 ---
-# Why does this site exist?
+# Preface
+technically this was would be my third ([First](https://github.com/DeanLemans/my-first-web-page), [Second](https://github.com/DeanLemans/burgerschap-FAKE-NEWS)) *site*, but this is my first **proper** site.
+ 
 
+## Why does this site exist?
 ```
 > We got an assigment to make our own portofolio site.
 > because I am in the group game development group
