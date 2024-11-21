@@ -1,6 +1,6 @@
 ---
-title: "Who am I?"
-description: a more extensive about me
+title: "About Me"
+description: more expresive CV
 date: 2024-10-10 00:00:00 +0100
 categories:
 tags: [portofolio]
@@ -23,7 +23,7 @@ _Me_
 {: .prompt-info }
 
 ## I like/prefer [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
-> In the case of [FOSS software](https://en.wikipedia.org/wiki/Free_and_open-source_software) being worse then the proprietry alternative,(I.E; Discord > Matrix, Google Play > F-Droid) I will use proprietry software.
+> In the case of [FOSS software](https://en.wikipedia.org/wiki/Free_and_open-source_software) being worse then the proprietry alternative,(I.E Discord > Matrix, Google Play > F-Droid) I will use proprietry software.
 
 - The software I use:
     - OS: [The Void](https://voidlinux.org/), [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
