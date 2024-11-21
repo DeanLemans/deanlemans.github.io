@@ -1,6 +1,6 @@
 ---
 title: "My first game"
-description: my first game made in godot
+description: first game made in godot
 date: 2024-10-08 00:00:00 +0100
 categories:
 tags: [game, development]
@@ -9,7 +9,7 @@ image:
 ---
 > Made with [Godot 4.3](https://godotengine.org/download/archive/4.3-stable/)
 {: .prompt-info }
-## My first Godot game
+## My very first Godot game
 ```
 > This is my very first godot game so I'm quite proud of what I accomplished
 > At the time, I did not have a clue on how the engine worked.
