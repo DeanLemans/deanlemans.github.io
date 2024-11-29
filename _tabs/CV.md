@@ -4,17 +4,15 @@ title: CV
 icon: fas fa-info-circle
 order: 1
 ---
-> W.I.P
+> W.I.P! You can download the PDF [Here](assets/img/personal/DCV.pdf).
 {: .prompt-warning}
 
-> You can download the PDF [Here](https://duckduckgo.com/?t=ftsa&q=wip&iax=images&ia=images&iai=https%3A%2F%2Fproducts.sint.co.jp%2Fhubfs%2Fimages%2Fobpm%2Fblog%2Fwhat-is-wip-board.webp).
-{: .prompt-tip}
-
->A more in depth version is available [Here](https://deanlemans.github.io/posts/Dean-Lemans/).
+>A more in [depth/personal/expansive](https://deanlemans.github.io/posts/Dean-Lemans/).
 {: .prompt-tip }
 
 # Introduction
 Hello, I am Dean and I'm an aspiring game developer! 👋
+I mainly use the Godot game engine.
 ![me](/assets/img/personal/avatar-2-CV.jpg){: w="400" h="400" }
 _Me_
 
@@ -33,6 +31,10 @@ _Me_
 - [Udens College](https://www.udenscollege.nl/)
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
 
+## Interest/hobbies
+- Reading
+- Gaming
+- Gardening
 
-### Contact
+###  Contact
 - If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
