@@ -23,7 +23,7 @@ search:
   no_results: No results found.
 
 panel:
-  lastmod: Recently Updated
+  lastmod: Recently Upgraded
   trending_tags: Trending Tags
   toc: Content
 
@@ -40,7 +40,7 @@ copyright:
     Except where otherwise noted, all posts on this site are licensed
     under Creative Commons Attribution 4.0 International (CC BY 4.0) License by Dean Lemans.
 
-meta: Using :THEME theme for :PLATFORM.
+meta:
 
 not_found:
   statement: The URL is linking to something that doesn't (yet) exists.
