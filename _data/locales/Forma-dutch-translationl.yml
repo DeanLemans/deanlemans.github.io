@@ -14,40 +14,40 @@ tabs:
   categories: Categorieën
   tags: Tags
   archives: Archief
-  about: Over Mij
+  about: Over
 
 # the text displayed in the search bar & search results
 search:
   hint: Zoek
   cancel: Annuleer
-  no_results: Geen resultaat.
+  no_results: Oops! Geen resultaat gevonden.
 
 panel:
-  lastmod: Recent Verbetert
+  lastmod: Recent Bijgewerkt
   trending_tags: Trending Tags
   toc: Inhoud
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Alle posts zijn onder :LICENSE_NAME gepubliceerd door Dean Lemans.
+    template: Alle posts zijn onder :LICENSE_NAME gepubliceerd door de auteur.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Sommige rechten voorbehouden.
   verbose: >-
-    Tenzij anders vermeld, alle posts zijn onder
-    Creative Commons Attribution 4.0 International (CC BY 4.0) gepubliceerd door Dean Lemans.
+    Tenzij anders vermeld, alle posts zijn onder de
+    Creative Commons Attribution 4.0 International (CC BY 4.0) gepubliceerd door de auteur.
 
 meta: Gebruikt :THEME
 
 not_found:
-  statement: De URL gaat naar iets dat (nog) niet bestaat.
+  statement: Sorry, we hebben de URL verkeerd geplaatst of hij verwijst naar iets dat niet bestaat.
 
 notification:
-  update_found: Supercoole Website upgrade beschikbaar.
-  update: Alsjeblieft Update
+  update_found: Nieuwe versie van inhoud beschikbaar.
+  update: Update
 
 # ----- Posts related labels -----
 post:
