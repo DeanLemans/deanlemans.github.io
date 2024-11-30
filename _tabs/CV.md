@@ -4,7 +4,7 @@ title: CV
 icon: fas fa-info-circle
 order: 1
 ---
-> W.I.P! You can download the PDF [Here](assets/img/personal/DCV.pdf).
+> W.I.P! You can download the PDF [Here](assets/img/personal/CV.pdf).
 {: .prompt-warning}
 
 >A more in [depth/personal/expansive](https://deanlemans.github.io/posts/Dean-Lemans/).
