@@ -10,6 +10,7 @@
 
 #-  type: links
 #icon: 'fas fa-rss'
+#noblank: true
 #url:  'https://linksta.cc/@Dean'
 
 #- type: rss
