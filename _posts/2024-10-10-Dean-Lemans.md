@@ -6,7 +6,7 @@ categories:
 tags: [portofolio]
 pin: true
 image:
-    path: assets/img/personal/avatar-2-CV.jpg
+    path: assets/img/personal/avatar-2-header.jpg
 ---
 >A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/).
 {: .prompt-tip }
