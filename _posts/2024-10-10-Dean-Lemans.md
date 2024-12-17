@@ -6,8 +6,7 @@ categories:
 tags: [portofolio]
 pin: true
 image:
-    path: assets/img/personal/avatar-2-focus.jpg
-    alt: this is I!
+    path: assets/img/personal/avatar-2-header.jpg
 ---
 >A shorter and more consize about me is available at [about me](https://deanlemans.github.io/about-me/).
 {: .prompt-tip }
@@ -15,6 +14,7 @@ image:
 # Hello!
 - I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 - I'm currently trying to become a indie game developer.
+- I mainly use the Godot game engine.
 
 ![me](/assets/img/personal/avatar-2.jpg){: w="550" h="550" }
 _Me_
@@ -34,6 +34,8 @@ _Me_
 
 > My favorite pastime is reading, below you will find some of my most beloved books:
 {: .prompt-info }
+
+TODO, seperate fav books and rename to my library/(deans)bookshelf/book.
 
 ## Some of my favorite fiction books are:
 
@@ -57,7 +59,6 @@ _Me_
 
 ![GHOST-IN-THE-CITY](/assets/img/post/GHOST-IN-THE-CITY.jpg){: w="100" h="100" .normal}
 
-
 ## Some of my favorite non-fiction books are:
 
 **[The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)** by Albert Camus.
@@ -75,6 +76,10 @@ _Me_
 **[Nausea](https://www.goodreads.com/book/show/298275.Nausea)** by Jean-Paul Sartre.
 
 ![NAUSEA](/assets/img/post/NAUSEA.JPG){: w="100" h="100" .normal}
+
+
+## Some of my favorite Games are:
+- moved to seperate [page](https://deanlemans.github.io/posts/game-list/)
 
 
 ## My repositories plans

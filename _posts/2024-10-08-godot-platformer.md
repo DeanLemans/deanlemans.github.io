@@ -1,5 +1,5 @@
 ---
-title: "My first game"
+title: "My First Game"
 description: first game made in godot
 date: 2024-10-08 00:00:00 +0100
 categories:
