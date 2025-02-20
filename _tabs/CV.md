@@ -7,7 +7,7 @@ order: 1
 > W.I.P! You can download the PDF [Here](https://deanlemans.github.io/assets/img/personal/CV.pdf).
 {: .prompt-warning}
 
->A more in [depth/personal/expansive](https://deanlemans.github.io/posts/Dean-Lemans/).
+> A more in [depth/personal/expansive](https://deanlemans.github.io/posts/Dean-Lemans/).
 {: .prompt-tip }
 
 # Introduction
@@ -27,7 +27,6 @@ _Me_
 - Gardener 1 year(current)
 
 ## Education
-- [Palster](https://www.depalster.nl/)
 - [Udens College](https://www.udenscollege.nl/)
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
 
