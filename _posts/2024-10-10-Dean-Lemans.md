@@ -22,7 +22,7 @@ _Me_
 > You will find some of my interests listed below.
 {: .prompt-info }
 
-## I like/prefer [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+## I like/prefer [Open Source](https://opensource.org/osd) and [Freedom](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
 > In the case of [FOSS software](https://en.wikipedia.org/wiki/Free_and_open-source_software) being worse then the proprietry alternative,(I.E Discord > Matrix, Google Play > F-Droid) I will use proprietry software.
 
 - The software I use:
