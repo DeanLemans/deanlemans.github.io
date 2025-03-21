@@ -29,6 +29,7 @@ Of
 - [ ] animation
 - [ ] audio
 - [ ] multiplayer
+- [ ] score
 
 - [ ] **player**
 	- [x] player can look around

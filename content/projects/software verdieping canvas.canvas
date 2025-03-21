@@ -57,9 +57,9 @@
 			"text":"milestones.\n\n1. Player can shoot en kogels weerkaatsen van objecten. (physics engine)\n2. Player movement.\n3. Enemy detection. (state machine)\n4. Enemy + Player health.\n5. Player en geweer animatie.\n6. Enemy animatie.\n",
 			"type":"text",
 			"x":-760,
-			"y":-96,
+			"y":-79,
 			"width":320,
-			"height":336
+			"height":319
 		},
 		{
 			"file":"misc/img/github release.png",
@@ -89,7 +89,7 @@
 			"x":-760,
 			"y":-334,
 			"width":420,
-			"height":220
+			"height":234
 		},
 		{
 			"id":"932bfe66e261d9ee",
