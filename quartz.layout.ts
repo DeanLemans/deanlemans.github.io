@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      //GitHub: "https://github.com/jackyzha0/quartz",
+      "Dean Lemans": "https://github.com/DeanLemans", "Using Quartz": "https://github.com/jackyzha0/quartz" , "Site content license": "https://creativecommons.org/licenses/by/4.0"
     },
   }),
 }
@@ -58,7 +58,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "cheese"
+    }),
   ],
   right: [],
 }
