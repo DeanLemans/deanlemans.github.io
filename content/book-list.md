@@ -6,7 +6,7 @@ categories:
 tags:
   - game
 ---
-## Some of my favorite fiction books are:
+# Some of my favorite fiction books are:
 
 **[godclads](https://www.royalroad.com/fiction/59663/godclads)** by OstensibleMammal.
 

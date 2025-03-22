@@ -5,15 +5,12 @@ title: Welcome to My site
 see my projects
 [[projects/software verdieping game 1 planning]]
 
-# Hello!
+# Hello! and welcome to my new site! (WIP)
 - I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 - I'm currently trying to become a indie game developer.
 - I mainly use the Godot game engine.
 
 ![me](img/personal/avatar-2.jpg)
-
-> [!info]
-> You will find some of my interests listed below.
 
 ## I like [Open Source](https://opensource.org/osd) and [Freedom](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
 
@@ -25,14 +22,7 @@ see my projects
 
 
 > [!info]
->My favorite pastime is reading, below you will find some of my most beloved books:
-
-TODO, seperate fav books and rename to my library/(deans)bookshelf/book.
-
-
-
-## Some of my favorite Games are:
-- [moved to seperate page](https://deanlemans.github.io/posts/game-list/)
+>See my [[book-list]] and [[game-list]]
 
 
 ## My repositories plans
@@ -42,8 +32,7 @@ TODO, seperate fav books and rename to my library/(deans)bookshelf/book.
 ## Contacts
 If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
 
-P.S:
-: if you'd like to support me, you're welcome to send any amount of XMR to the following address:
-```
-87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
-```
+#### P.S:
+if you'd like to support me, you're welcome to send any amount of crypto to the me:
+
+<iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5&donation=True&simple_mode=True&amount=0.01&name=Dean+Lemans&description=thx+for+supporting+me%21&email=deanlemans@mailbox.org&bgcolor=161618ff" width="400" height="285" style="border:0" scrolling="no"></iframe>
