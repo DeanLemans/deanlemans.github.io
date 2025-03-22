@@ -1,6 +1,6 @@
 ---
-title: Dean's Cool Game List!
-description: list of games that inspired me to become a game dev
+title: Dean's Game List!
+description: my game library
 date: 2024-10-08 00:00:00 +0100
 categories: 
 tags:
