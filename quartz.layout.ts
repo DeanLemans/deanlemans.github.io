@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       //GitHub: "https://github.com/jackyzha0/quartz",
       //"Using Quartz": "https://github.com/jackyzha0/quartz",
       "Site Content License": "https://creativecommons.org/licenses/by/4.0",
-      "Contact Me": "https://linksta.cc/@Dean",
+      "Contact Links": "https://linksta.cc/@Dean",
     },
   }),
 }
