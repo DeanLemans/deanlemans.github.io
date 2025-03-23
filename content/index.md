@@ -1,12 +1,12 @@
 ---
-title: Welcome to My site
+title: About Me
 ---
 
 see my projects
 [[projects/software verdieping game 1 planning]]
 
-# Hello! and welcome to my new site! (WIP)
-- I am Dean Lemans and I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
+# Hello! My name is Dean
+- I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
 - I'm currently trying to become a indie game developer.
 - I mainly use the Godot game engine.
 
@@ -21,7 +21,7 @@ see my projects
     - Browser: [Thorium](https://thorium.rocks/) and [Floorp](https://floorp.app/).
 
 
-> [!info]
+> [!info] personal stuff
 >See my [[book-list]] and [[game-list]]
 
 
@@ -29,10 +29,10 @@ see my projects
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
 *But for now school wants me to use github (which is understandable, as its the most popular code hosting site).*
 
-## Contacts
-If you'd like to contact me see my list of [social links](https://linksta.cc/@Dean).
+>[!info] Contact
+>*see my list of [Contact Links](https://linksta.cc/@Dean).*
 
 #### P.S:
 if you'd like to support me, you're welcome to send any amount of crypto to the me:
 
-<iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5&donation=True&simple_mode=True&amount=0.01&name=Dean+Lemans&description=thx+for+supporting+me%21&email=deanlemans@mailbox.org&bgcolor=161618ff" width="400" height="285" style="border:0" scrolling="no"></iframe>
+<iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5&donation=True&simple_mode=True&amount=&name=Dean+Lemans&description=thx+for+supporting+me%21&email=deanlemans@mailbox.org&bgcolor=161618ff" width="400" height="285" style="border:0" scrolling="no"></iframe>
