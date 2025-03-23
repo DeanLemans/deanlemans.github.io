@@ -1,20 +1,18 @@
 ---
-title: software verdieping planning
+title: Software Verdieping Main
 draft: false
-tags:
-  - project
 ---
 docenten: Angelo Lafaye and David Buzzi, jorrit
 (shaders?)
 
 
 > [!Map]- General Plan
-> - 3 kleine games maken in deze periode waar ik verschillende onderwerpen mix.  
-Of  
-> - 5 kleine projecten maken in deze periode van elk onderwerp.  
-Of  
-> - 1 groot project waar ik alle onderwerpen die ik wil leren in 1 doe.  
-> > **Of** **mix** **van deze 3 dingen,** **ik kan mijn plan altijd nog aanpassen.  
+> - 3 kleine games maken in deze periode waar ik verschillende onderwerpen mix.
+Of
+> - 5 kleine projecten maken in deze periode van elk onderwerp.
+Of
+> - 1 groot project waar ik alle onderwerpen die ik wil leren in 1 doe.
+> > **Of** **mix** **van deze 3 dingen,** **ik kan mijn plan altijd nog aanpassen.
 **(audio doe ik erbij als er tijd voor is)
 
 > [!Map]- Milestones
@@ -56,4 +54,3 @@ Of
 
 
 difficulties:
-

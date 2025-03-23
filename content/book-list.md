@@ -1,11 +1,13 @@
 ---
 title: Dean's Library!
-description: my book library
+description: Some books i have read
 date: 2024-10-08 00:00:00 +0100
-categories: 
+categories:
 tags:
   - game
 ---
+> [!info]
+> i will put reviews in here someday
 # Some of my favorite fiction books are:
 
 **[godclads](https://www.royalroad.com/fiction/59663/godclads)** by OstensibleMammal.

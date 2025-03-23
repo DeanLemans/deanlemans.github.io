@@ -1,8 +1,8 @@
 ---
-title: Dean's Game List!
-description: my game library
+title: Game Collection!
+description: collection of games
 date: 2024-10-08 00:00:00 +0100
-categories: 
+categories:
 tags:
   - game
 ---
@@ -67,7 +67,7 @@ tags:
 - super mario bros(wii, switch and wonder)
 
 ### Game backlog.
-- [Omori](https://www.omori-game.com). 
+- [Omori](https://www.omori-game.com).
     - [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
     - [AMBIEN](https://mods.one/mod/ambien)
     - [reverie](https://mods.one/mod/reverie)
@@ -190,7 +190,7 @@ tags:
 
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 
-- [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs) 
+- [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs)
 
 - [Oneshot](https://futurecat.itch.io/) + mods/fangames + bonus chapter(Solstice)
     - [Equinox](https://kittehcreations.com/?a=1#mods)

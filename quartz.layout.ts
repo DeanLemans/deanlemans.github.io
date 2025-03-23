@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       //"Using Quartz": "https://github.com/jackyzha0/quartz",
       "Site Content License": "https://creativecommons.org/licenses/by/4.0",
       "Contact Links": "https://linksta.cc/@Dean",
+      "Source Code": "https://github.com/DeanLemans/my-site",
     },
   }),
 }
@@ -36,7 +37,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "cheese",
+      title: "",
     }),
   ],
   right: [],
