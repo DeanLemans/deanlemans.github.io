@@ -2,10 +2,16 @@
 title: CV
 ---
 >[!caution] W.I.P!
-> todo:
-> rework text
-> create PDF version
-> display PDF version
+>[!Todo]
+> 1. rework text
+> 2. update project list on PDF and site
+>> [!done]
+>> 1. create PDF version
+>> 2. display PDF version
+
+Pretty PDF version here [[CV-DeanLemans.pdf]]
+
+![[CV-DeanLemans.pdf]]
 
 # Introduction
 Hello, I am Dean and I'm an aspiring game developer! 👋
