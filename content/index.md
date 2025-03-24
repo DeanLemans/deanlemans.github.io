@@ -10,7 +10,7 @@ see my projects
 - I'm currently trying to become a indie game developer.
 - I mainly use the Godot game engine.
 
-![me](img/personal/avatar-2.jpg)
+![me](personal/avatar-2.jpg)
 
 ## I like [Open Source](https://opensource.org/osd) and [Freedom](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
 
@@ -21,16 +21,15 @@ see my projects
     - Browser: [Thorium](https://thorium.rocks/) and [Floorp](https://floorp.app/).
 
 
-> [!info] personal stuff
+> [!info] Personal
 >See my [[book-list]] and [[game-list]]
-
 
 ## My repositories plans
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
 *But for now school wants me to use github (which is understandable, as its the most popular code hosting site).*
 
 >[!info] Contact
->*see my list of [Contact Links](https://linksta.cc/@Dean).*
+>*see my [Contact Links](https://linksta.cc/@Dean).*
 
 #### P.S:
 if you'd like to support me, you're welcome to send any amount of crypto to the me:
