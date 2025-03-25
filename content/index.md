@@ -2,8 +2,7 @@
 title: About Me
 ---
 
-see my projects
-[[projects/software verdieping game 1 planning]]
+>[!info]Checkout my [[CV]]!
 
 # Hello! My name is Dean
 - I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
