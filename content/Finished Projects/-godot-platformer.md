@@ -12,7 +12,7 @@ date: 2024-10-08 00:00:00 +0100
 ```
 > It's a small game with a grand total of 3 levels.
 
-![me](/assets/img/post/first-godot-game.png)
+![me](first-godot-game.png)
 
 > [!info]
 > [download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game!
