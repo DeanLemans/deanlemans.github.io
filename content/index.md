@@ -10,7 +10,7 @@ see my projects
 - I'm currently trying to become a indie game developer.
 - I mainly use the Godot game engine.
 
-![me](personal/avatar-2.jpg)
+![me](avatar-2.jpg)
 
 ## I like [Open Source](https://opensource.org/osd) and [Freedom](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
 
