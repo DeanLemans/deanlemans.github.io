@@ -9,7 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       //GitHub: "https://github.com/jackyzha0/quartz",
-      "Dean Lemans": "https://github.com/DeanLemans", "Using Quartz": "https://github.com/jackyzha0/quartz" , "Site content license": "https://creativecommons.org/licenses/by/4.0"
+      //"Using Quartz": "https://github.com/jackyzha0/quartz",
+      "Site Content License": "https://creativecommons.org/licenses/by/4.0",
+      "Contact Links": "https://linksta.cc/@Dean",
+      "Source Code": "https://github.com/DeanLemans/my-site",
     },
   }),
 }
@@ -22,22 +25,24 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    //Component.ContentMeta(),
+    //Component.TagList(), will need to figure out a better (orginising) system for this.
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        //{
+        //Component: Component.Search(),
+        //grow: false,
+        //},
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +67,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "cheese"
+      title: "",
     }),
   ],
   right: [],
