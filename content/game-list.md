@@ -4,7 +4,7 @@ description: collection of games
 date: 2024-10-08 00:00:00 +0100
 categories:
 tags:
-  - game
+  -
 ---
 > [!info]
 >I prefer Itch to Steam links.
@@ -234,3 +234,6 @@ tags:
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 
 - [Demon Spore](https://demonspore.com)
+
+>[!info]
+> also check out my [[book-list]]
