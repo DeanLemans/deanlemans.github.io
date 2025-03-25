@@ -3,11 +3,11 @@ title: CV
 ---
 >[!caution] W.I.P!
 >[!Todo]
-> 1. rework text
-> 2. update project list on PDF and site
+> 1. update project list on site
 >> [!done]
 >> 1. create PDF version
 >> 2. display PDF version
+>> 3. reworked PDF
 
 Pretty PDF version here [[CV-DeanLemans.pdf]]
 
