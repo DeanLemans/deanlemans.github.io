@@ -4,7 +4,7 @@ description: Some books i have read
 date: 2024-10-08 00:00:00 +0100
 categories:
 tags:
-  - game
+  -
 ---
 > [!info]
 > I will put reviews in here someday
@@ -47,3 +47,6 @@ tags:
 **[Nausea](https://www.goodreads.com/book/show/298275.Nausea)** by Jean-Paul Sartre.
 
 ![NAUSEA](NAUSEA.JPG)
+
+>[!info]
+> also check out my [[game-list]]

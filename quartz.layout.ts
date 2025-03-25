@@ -20,13 +20,13 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    //Component.ConditionalRender({
+    //component: Component.Breadcrumbs(),
+    //condition: (page) => page.fileData.slug !== "index",
+    //}),
     Component.ArticleTitle(),
     //Component.ContentMeta(),
-    //Component.TagList(), will need to figure out a better (orginising) system for this.
+    Component.TagList(), //will need to figure out a better (orginising) system for this.
   ],
   left: [
     Component.PageTitle(),
@@ -45,9 +45,27 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: 1, // how many hops of notes to display
+          scale: 2, // default view scale
+          fontSize: 0.7, // what size should the node labels be?
+          showTags: true, // whether to show tags in the graph
+          enableRadial: true, // whether to constrain the graph, similar to Obsidian
+        },
+        globalGraph: {
+          depth: -1,
+          scale: 1,
+          fontSize: 0.7,
+          showTags: true, // whether to show tags in the graph
+          enableRadial: true, // whether to constrain the graph, similar to Obsidian
+        },
+      }),
+      condition: (page) => page.fileData.slug !== "CV",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    //Component.Backlinks(),
   ],
 }
 
