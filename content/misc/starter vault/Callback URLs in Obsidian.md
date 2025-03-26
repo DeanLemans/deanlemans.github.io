@@ -1,11 +1,12 @@
 ---
 Author: Mike Schmitz
 Tags: things, hook, dailynotes. productivity
+draft: true
 ---
 
 One of the things I love about Obsidian is that it offers support for *callback URLs*. For example, you could include a link to a specific note inside of a task in *Things* or a link to an email message from your Daily Notes in Obsidian.
 
-In this article, I'll show you a couple of ways you can connect things in Obsidian to other apps. 
+In this article, I'll show you a couple of ways you can connect things in Obsidian to other apps.
 
 ## Linking to a Note in Obsidian
 
@@ -35,7 +36,7 @@ First, you need to make sure that you have the Daily Notes core plugin enabled. 
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/dailynoteson.jpg)
 
-Now you can create a new Daily Note by clicking the calendar icon in the left sidebar. 
+Now you can create a new Daily Note by clicking the calendar icon in the left sidebar.
 
 Next, get the URL of the task you want to add to your Daily Notes page. In Things, you can do this by right-clicking on the task and selecting *Share &rarr; Copy Link*.
 

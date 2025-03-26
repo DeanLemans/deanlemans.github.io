@@ -1,7 +1,6 @@
 ---
 title: "Home"
 ---
-
 >[!info]Checkout my [[CV]]!
 
 # Hello! My name is Dean

@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: notes, graph. pkm
+draft: true
 ---
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/notemaking.jpg)
@@ -57,7 +58,7 @@ As a result, note-making means your notes are never etched in stone. With note-t
 
 With note-making, relationships are important. Note-taking focuses solely on the content of the active note, but note-making considers the connections to other notes. Note-making recognizes the fact that each note is influenced by the other notes in your library, and takes into consideration the value of previous thoughts and ideas.
 
-The fundamental approach to your notes is completely different with note-making. Instead of trying to collect everything that you think might be useful someday, you're focused on understanding as much as you can from the ideas that you already have. 
+The fundamental approach to your notes is completely different with note-making. Instead of trying to collect everything that you think might be useful someday, you're focused on understanding as much as you can from the ideas that you already have.
 
 I talked with David Sparks about this on [a recent episode of Focused](https://relay.fm/focused/126), and he described the difference in mindset as the dragon and the jeweler. The dragon tries to horde things and sits on top of the diamonds so no one else can get them. But the jeweler is actively working on his diamond so he can make it even better. The dragon may accumulate a lot, but doesn't do anything with it. The jeweler is the one who is getting the real value from working with what he/she already has.
 
@@ -71,10 +72,10 @@ I've intentionally set up my note capturing system so that it doesn't just autom
 
 1. My fancy notebook
 2. Drafts on my iPhone (and occasionally Apple Watch)
- 
+
 At the end of the day, I transfer things over as part of my shutdown routine. This forces me to manually add the notes that I capture to Obsidian, and adds another review step where I can filter out any notes that I don't really want.
 
-The key here is that I am a *ruthless* about cutting things here. I estimate about 4 out of every 5 things I capture never makes the cut and gets transferred to Obsidian. 
+The key here is that I am a *ruthless* about cutting things here. I estimate about 4 out of every 5 things I capture never makes the cut and gets transferred to Obsidian.
 
 The more distance I get between the moment I capture my idea, usually the less excited I am about it. Every idea seems great when you have it, but not every idea is a good one. By making myself wait, I increase the quality of the ideas that actually end up being developed in Obsidian.
 

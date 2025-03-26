@@ -1,17 +1,13 @@
 ---
-title: CV
+title: Curriculum Vitae
+alias:
+  - "CV"
 ---
 >[!caution] W.I.P!
->[!Todo]
 > 1. update project list on site and PDF
->> [!done]
->> 1. create PDF version
->> 2. display PDF version
->> 3. reworked PDF
->> 4. rework text on site
 
->[!info] 
->***[[CV-DeanLemans.pdf| Click here to open PDF Version]]***
+>[!info]
+> ***[[CV-DeanLemans.pdf| Click here to open PDF Version]]***
 
 ![[CV-DeanLemans.pdf|100x00]]
 

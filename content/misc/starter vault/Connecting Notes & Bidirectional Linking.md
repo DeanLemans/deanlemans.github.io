@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: pkm, notes
+draft: true
 ---
 
 One of the most powerful features of an app like Obsidian is the ability to make connections between the notes that are in your library. In this article, I'll show you the different ways that you can connect notes and how you can use the bidirectional links that are created to navigate your notes effectively.
@@ -20,11 +21,11 @@ This note has several components:
 -  Additional resources on habits
 -  Bible verses that talk about habits
 
-Each one of these contains an internal link to another note inside of my Obsidian vault. This is denoted by the two brackets on the left and right side of the note name in Edit Mode, for example, the *Four Laws of Behavior Change*. 
+Each one of these contains an internal link to another note inside of my Obsidian vault. This is denoted by the two brackets on the left and right side of the note name in Edit Mode, for example, the *Four Laws of Behavior Change*.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting2.jpg)
 
-And each one of those links is also displayed as a node in the Local Graph over in the right sidebar. 
+And each one of those links is also displayed as a node in the Local Graph over in the right sidebar.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting3.jpg)
 
@@ -42,7 +43,7 @@ In this example, my James Clear note is connected to the following notes:
 - MOC - Habits
 - Bookworm 63
 
-These three notes are also listed in the *Linked Mentions* section, but there is also a section here called *Unlinked Mentions* that shows every other place in my Obsidian library where James clear is mentioned. 
+These three notes are also listed in the *Linked Mentions* section, but there is also a section here called *Unlinked Mentions* that shows every other place in my Obsidian library where James clear is mentioned.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
@@ -50,20 +51,20 @@ This section is basically saying, "Hey, did you mean to link to this note when y
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting6.jpg)
 
-This adds double brackets around the term, creating another dot in the local graph and a link between that note where the term appears and the currently selected note. It also creates a two-way street for navigating the notes in our library. For example, I could go from my current note to my *Atomic Habits* note, to my *British Cycling Team* note. But these links are *bidirectional links*, meaning they go both ways. So I can go the other way - from *British Cycling Team* to *Atomic Habits* to *James Clear* to *MOC - Habits*. 
+This adds double brackets around the term, creating another dot in the local graph and a link between that note where the term appears and the currently selected note. It also creates a two-way street for navigating the notes in our library. For example, I could go from my current note to my *Atomic Habits* note, to my *British Cycling Team* note. But these links are *bidirectional links*, meaning they go both ways. So I can go the other way - from *British Cycling Team* to *Atomic Habits* to *James Clear* to *MOC - Habits*.
 
 ## Transcluding Notes
 
-You can also link notes by transcluding them, which means that you embed them inside of another note. I do this a lot with my sermon sketchnotes where I embed Bible verses by transcluding them. So let's go up here to my file explorer. For example, here's a side-by-side view showing Edit Mode and Preview Mode of my sermon sketchnotes from May 30, 2021. 
+You can also link notes by transcluding them, which means that you embed them inside of another note. I do this a lot with my sermon sketchnotes where I embed Bible verses by transcluding them. So let's go up here to my file explorer. For example, here's a side-by-side view showing Edit Mode and Preview Mode of my sermon sketchnotes from May 30, 2021.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting7.jpg)
 
-At the top of the note is the sketchnote I created live, and the underneath that I have headers for the actual verses that were mentioned. The key here is that *each one of these verses is a separate note in Obsidian.* Each verse will show up in my local graph to the right, but you'll notice the difference here is that there's an exclamation point before each link. This tells Obsidian take the contents of that note and display it in the note instead of just linking to it, which allows me to look at these notes and reread the verses that I have mentioned. 
+At the top of the note is the sketchnote I created live, and the underneath that I have headers for the actual verses that were mentioned. The key here is that *each one of these verses is a separate note in Obsidian.* Each verse will show up in my local graph to the right, but you'll notice the difference here is that there's an exclamation point before each link. This tells Obsidian take the contents of that note and display it in the note instead of just linking to it, which allows me to look at these notes and reread the verses that I have mentioned.
 
-This is great for review purposes, but the big benefit is that I can now build my own cross reference library. Using bidirectional links, I can go from this note to the note for *Philippians 4.6* and see all of other places in my library where I've mentioned *Philippians 4.6* 
+This is great for review purposes, but the big benefit is that I can now build my own cross reference library. Using bidirectional links, I can go from this note to the note for *Philippians 4.6* and see all of other places in my library where I've mentioned *Philippians 4.6*
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/connecting8.jpg)
 
-From here, I can even open all these other notes  in separate windows or  tabs and create a workspace inside of Obsidian where I can study this out. 
+From here, I can even open all these other notes  in separate windows or  tabs and create a workspace inside of Obsidian where I can study this out.
 
 These are just a couple examples of how you can use connections inside of Obsidian. But one last tip: don't go nuts creating backlinks every place that you can. Be intentional about the connections that you make. Ask yourself, "when do I want to stumble upon this note again?" You want more signal and less noise. And if you're intentional about the connections that you create between your notes, you'll be able to leverage a ton of value from those connections in the future.

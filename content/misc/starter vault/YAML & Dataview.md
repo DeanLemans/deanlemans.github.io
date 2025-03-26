@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: plugins, metadata, productivity
+draft: true
 ---
 
 Dataview is an incredibly powerful plugin that allows you to filter data in your obsidian vault in a lot of really cool ways. In this post, I'm going to show you how I use it to create a table of book ratings from YAML metadata.
@@ -29,7 +30,7 @@ In this particular example, I have a 3 pieces of metadata:
 2. Joe's Rating (4.0)
 3. My rating (4.0)
 
-(In the podcast, we rate books from one to five stars, similar to the Amazon ratings. So this particular book, Joe gave it a 4 stars, and I gave it a 4 stars.) 
+(In the podcast, we rate books from one to five stars, similar to the Amazon ratings. So this particular book, Joe gave it a 4 stars, and I gave it a 4 stars.)
 
 Now from this point, we're going to create a new note and use the Dataview plugin to create a table of all of these ratings in the new note. So the first thing we need to do is to install the Dataview plugin.
 
@@ -66,6 +67,6 @@ That's all we have to do. Now when we click the Preview button, Dataview will re
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/dataview5.jpg)
 
-But this is just one example of how you might use this incredible plugin. There are lots of other great examples over at the [Obdisian forum](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673) if you need some additional inspiration. 
+But this is just one example of how you might use this incredible plugin. There are lots of other great examples over at the [Obdisian forum](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673) if you need some additional inspiration.
 
 *(If you want more plugin recommendations, check out [[A Few of Our Favorite Obsidian Plugins]]).*

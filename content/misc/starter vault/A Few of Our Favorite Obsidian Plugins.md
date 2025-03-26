@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: plugins, kanban, calendar, todoist, journaling, dailynotes, setup
+draft: true
 ---
 
 Obsidian is a phenomenal notes app, but with a few free community plugins installed, it can become pretty much whatever you want it to be. In this article, we're going to show you how to install community plugins if you're not familiar with the process and share some of our favorites.
@@ -69,7 +70,7 @@ For those interested in the concept of spaced repetition, this one is essential.
 
 ### Vantage
 
-Queries are a bit of a hidden power user feature in Obsidian, but they don't have to be. With the [Vantage plugin](https://github.com/ryanjamurphy/vantage-obsidian), you can construct powerful search queries without needing to know all of the syntax Just active Vantage from the Command Palette (Command-P) and select **Vantage - advanced search builder: Build a new search**. 
+Queries are a bit of a hidden power user feature in Obsidian, but they don't have to be. With the [Vantage plugin](https://github.com/ryanjamurphy/vantage-obsidian), you can construct powerful search queries without needing to know all of the syntax Just active Vantage from the Command Palette (Command-P) and select **Vantage - advanced search builder: Build a new search**.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/vantage.jpg)
 
@@ -89,9 +90,9 @@ In the [Zero-to-Obsidian workshop](https://thesweetsetup.com/obsidian/), I expla
 
 Notice the link on the Atomic Habits page to the 4 Laws page. That's important.
 
-What the [Note Refactor plugin](https://github.com/lynchjames/note-refactor-obsidian) does is take a selection of text and break it out as it's own note while simultaneously putting a link into the original note that points to the new one. This makes a bidirectional link between the two notes and is visible in the local graph in the upper-right. 
+What the [Note Refactor plugin](https://github.com/lynchjames/note-refactor-obsidian) does is take a selection of text and break it out as it's own note while simultaneously putting a link into the original note that points to the new one. This makes a bidirectional link between the two notes and is visible in the local graph in the upper-right.
 
-There's lots of different formatting options you can use with this, but it's an essential tool for build a library of atomic notes. 
+There's lots of different formatting options you can use with this, but it's an essential tool for build a library of atomic notes.
 
 *Update: You can now do this using a Core plugin that you can read about in [[Splitting Notes in Obsidian]]. But Note Refactor is still the power user tool of choice.*
 

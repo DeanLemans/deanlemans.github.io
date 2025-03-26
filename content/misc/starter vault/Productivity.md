@@ -1,3 +1,6 @@
+---
+draft: true
+---
 I want to...
 
 - Use templates: [[Using Templates in Obsidian]]

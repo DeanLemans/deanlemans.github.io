@@ -1,13 +1,14 @@
 ---
 Author: Mike Schmitz
 Tags: dailynotes, calendar, tracker, journaling, plugins
+draft: true
 ---
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/04/dailyquestions.jpg)
 
-I'm a big fan of the mindfulness I gain from journaling, but have been searching for years for the perfect set of prompts that could completely eliminate the friction from my daily journaling workflow. I've tried many different prompts (and many different apps) over the years, but have settled on a practice called *Daily Questions* which has just clicked for me. 
+I'm a big fan of the mindfulness I gain from journaling, but have been searching for years for the perfect set of prompts that could completely eliminate the friction from my daily journaling workflow. I've tried many different prompts (and many different apps) over the years, but have settled on a practice called *Daily Questions* which has just clicked for me.
 
-In this post, I'm going to share how I implement my *Daily Questions* inside of [Obsidian](https://obsidian.md/). 
+In this post, I'm going to share how I implement my *Daily Questions* inside of [Obsidian](https://obsidian.md/).
 
 ## What are Daily Questions?
 
@@ -23,7 +24,7 @@ If these work for you, more power to you. But what I found from answering these 
 
 I didn't even realize how much friction was there until I started doing the Daily Questions consistently. Once I did, I saw how much easier journaling was for me and realized that I had been "doing it wrong."
 
-The other thing that made Daily Questions work for me was that [it was a great fit for Roam Research](https://thesweetsetup.com/how-i-use-roam-research-for-journaling/). The sliders were the perfect UI for logging my daily questions, but there was still room for improvement: Roam didn't have a mobile version, and it was still a little cumbersome to pull out trend data without having to go through all the entries manually. 
+The other thing that made Daily Questions work for me was that [it was a great fit for Roam Research](https://thesweetsetup.com/how-i-use-roam-research-for-journaling/). The sliders were the perfect UI for logging my daily questions, but there was still room for improvement: Roam didn't have a mobile version, and it was still a little cumbersome to pull out trend data without having to go through all the entries manually.
 
 So when I decided to give [Obsidian](https://obsidian.md/) a try, this was one problem that was front of mind for me to try to solve. And it took a little while, but I believe I've finally got it.
 
@@ -116,7 +117,7 @@ Next, click *Tracker* in the settings sidebar to configure the Tracker settings:
 
 You can leave the *Default date format*, but make sure that *Default folder location* is pointing to the same folder where you have your Daily Notes stored.
 
-The *Tracker* plugin is now setup and can be embedded in any note. I use a separate note called *Daily Questions* which shows me graphs of each individual question. 
+The *Tracker* plugin is now setup and can be embedded in any note. I use a separate note called *Daily Questions* which shows me graphs of each individual question.
 
 To use Tracker, you have to use a code snippet. Here's an example:
 

@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: plugins, writing
+draft: true
 ---
 
 When I first started using Obsidian, I expected it would help me make connections between my notes and inspire new ideas. But over the last 12 months I've been using the app, I have also fallen in love with it as a writing tool. In fact, *I have written every article I've published in 2021 in Obsidian.*
@@ -25,7 +26,7 @@ But there are a few additional settings and plugins you can use to make it even 
 
 ## Obsidian Settings
 
-First, let's look at some of the settings. 
+First, let's look at some of the settings.
 
 To access these settings, click on the gear icon in the lower-left corner and then select *Editor* from the Settings sidebar.
 
@@ -94,6 +95,6 @@ The Obsidian interface can be a little distracting when you're trying to focus o
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/10/focusmode.jpg)
 
-Once the plugin is installed and active, just click the *Toggle Focus Mode* button to hide the sidebars and status bar, and you can shift-click the button to hide everything but the active writing pane. 
+Once the plugin is installed and active, just click the *Toggle Focus Mode* button to hide the sidebars and status bar, and you can shift-click the button to hide everything but the active writing pane.
 
 *(If you want more plugin recommendations, check out [[A Few of Our Favorite Obsidian Plugins]]).*

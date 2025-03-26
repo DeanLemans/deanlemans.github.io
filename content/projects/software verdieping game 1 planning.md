@@ -1,6 +1,5 @@
 ---
 title: Software Verdieping Main
-draft: false
 ---
 docenten: Angelo Lafaye and David Buzzi, jorrit
 (shaders?)

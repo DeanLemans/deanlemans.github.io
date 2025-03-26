@@ -1,3 +1,6 @@
+---
+draft: true
+---
 I want to...
 
 - Set up Daily Questions: [[Daily Questions in Obsidian]]

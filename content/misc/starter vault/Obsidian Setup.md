@@ -1,3 +1,6 @@
+---
+draft: true
+---
 I want to...
 
 - Get plugin recommendations: [[A Few of Our Favorite Obsidian Plugins]]

@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: pkm, zettelkasten
+draft: true
 ---
 
 Personal Knowledge Management systems (or PKMs) are all the rage lately. Collecting and connecting information from bookmarks and blog posts in a sort of "personal wiki" using tools like Roam Research and Obsidian can help you see your ideas from different perspectives. This can have big benefits not just for lifelong learners, but for anyone who is looking to do their best creative work.
@@ -11,7 +12,7 @@ But before you can really make the most of personal knowledge management apps an
 
 What exactly do we mean by the term *personal knowledge management?* According to Wikipedia:
 
-> Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005). 
+> Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005).
 
 Essentially, personal knowledge management is a combination of two other concepts: Personal Information Management (PIM) and Knowledge Management (KM).
 
@@ -43,7 +44,7 @@ In my experience, there are a couple different levels of knowledge:
 - **Level 2: Understanding something (Revelation)** - this is being able to recall something without having to look it up. At this leve, you've internalized the information and are starting to make connections, but it hasn't necessarily changed how you act.
 - **Level 3: Doing something (Application)** - this is where you start to see the result of the information you've collected. You don't just have it or understand it, it's changing your day-to-day actions. This is the first level where there is an actual, visible output from the information that you've collected.
 
-Why does this matter? 
+Why does this matter?
 
 *Because there is too much information.*
 
@@ -81,11 +82,11 @@ I know this because I've struggled with this myself.
 
 I used to believe the lie that I just wasn’t creative. I remember playing guitar and writing songs, then getting mad when I realized that I had unintentionally picked up a melody or chord progression from another song I heard on the radio. I used to think to myself, “what is wrong with me? Why can’t I create anything original?”
 
-But when I read Steal Like an Artist, I understood that *nothing* completely original. When someone creates something, they are simply connecting dots in new ways. That's when I realized that if I wanted to get better at creating, I just needed to collect better dots. 
+But when I read Steal Like an Artist, I understood that *nothing* completely original. When someone creates something, they are simply connecting dots in new ways. That's when I realized that if I wanted to get better at creating, I just needed to collect better dots.
 
 > “Your job is to collect good ideas. The more good ideas you collect, the more you can choose from to be influenced by.” - Austin Kleon
 
-And all of a sudden, I was free. 
+And all of a sudden, I was free.
 
 I didn’t have to judge my creation as inferior because it was simply the results of the dots I had collected. And when I started changing my inputs (listening to podcasts, reading books), I found it easier to synthesize those ideas and create something new.
 
@@ -97,7 +98,7 @@ A PKM is not a single application. Rather, it's a series of apps that connect to
 
 Here are some of the key components of a good PKM:
 
-- **Note Taking** - you need a place where you can take notes 
+- **Note Taking** - you need a place where you can take notes
 - **Quick Capture** - capturing an idea when you have it is important so that it doesn't get lost.
 - **Visual Thinking** - this is simply a way of looking at the relationship between your ideas. One common example of this would be a mind map on a topic or a graph view in an app like Roam or Obsidian.
 - **Read-It-Later** - RSS can be a source of ideas, but not if it just stays inside your RSS app. Don't overlook Read-It-Later services, and make sure you have a way to capture things you want to keep.
@@ -105,9 +106,9 @@ Here are some of the key components of a good PKM:
 - **Archive** - this is simple a place to hold things when you're done with them. You probably won't need to go back into the archive very often, but it's important to be able to find something later if you need it.
 - **Output** - remember, your personal knowledge management system is supposed to make it *easy* for you to create. If there isn't any output, something is broken. After you've connected your dots, you need a way to express them.
 
-You may take quick capture notes in Drafts, manage projects in Things, make mind maps in MindNode, and do all your writing (output) in Ulysses. That is a very valid approach to personal knowledge management. 
+You may take quick capture notes in Drafts, manage projects in Things, make mind maps in MindNode, and do all your writing (output) in Ulysses. That is a very valid approach to personal knowledge management.
 
-But how do you turn your captured ideas turn into projects? Or how does your mind map in help your writing? 
+But how do you turn your captured ideas turn into projects? Or how does your mind map in help your writing?
 
 ## The Problem with the Filing Cabinet (The Trend Towards Zettlekasten)
 
@@ -165,7 +166,7 @@ Obsidian is also completely free. If you want to sync your data between devices 
 
 ### Craft
 
-Craft is an interesting app that isn't really a direct comparison to either Roam or Obsidian. It's essentially a document manager, but offers beautiful native apps for macOS, iPadOS, and iOS. 
+Craft is an interesting app that isn't really a direct comparison to either Roam or Obsidian. It's essentially a document manager, but offers beautiful native apps for macOS, iPadOS, and iOS.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/02/craftconnection.jpg)
 
@@ -184,7 +185,7 @@ While it's still fairly new, Craft shows a lot of promise. You can check out Jos
 
 ### Hook
 
-Hook is more of a utility than an application, but it can still very handy when building your own personal knowledge management system. It lets you to quickly grab a link to whatever you happen to be looking at on your computer that you can then use to get back there whenever you need to. 
+Hook is more of a utility than an application, but it can still very handy when building your own personal knowledge management system. It lets you to quickly grab a link to whatever you happen to be looking at on your computer that you can then use to get back there whenever you need to.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/02/hook.jpg)
 
@@ -196,7 +197,7 @@ Regardless of the apps you decide to use, here are a few things to keep in mind 
 
 ### Curate Your Collection
 
-One of the mistakes that is easy to make at the beginning is to connect *everything*. But not every idea you have or new piece of information you come across is worth a note in your PKM. To really make the most of your network of ideas, you need to curate them by keeping the relevant information and discarding the stuff that won't be useful.  Figuring out the difference can take some time, but it's worthwhile to figure this out. 
+One of the mistakes that is easy to make at the beginning is to connect *everything*. But not every idea you have or new piece of information you come across is worth a note in your PKM. To really make the most of your network of ideas, you need to curate them by keeping the relevant information and discarding the stuff that won't be useful.  Figuring out the difference can take some time, but it's worthwhile to figure this out.
 
 ### Supplement Your Workflow
 
