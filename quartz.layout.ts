@@ -25,11 +25,11 @@ export const defaultContentPageLayout: PageLayout = {
     //condition: (page) => page.fileData.slug !== "index",
     //}),
     Component.ConditionalRender({
-    component: Component.ArticleTitle(),
-    condition: (page) => page.fileData.slug !== "index",
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
     }),
     //Component.ContentMeta(),
-    Component.TagList(), //will need to figure out a better (orginising) system for this.
+    //Component.TagList(), //will need to figure out a better (orginising) system for this.
   ],
   left: [
     Component.PageTitle(),
@@ -45,7 +45,16 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "",
-      useSavedState: false,
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["misc"])
+
+        // Check both conditions:
+        // 1. Node should not have "explorerexclude" tag
+        // 2. Node title should not be in omit set
+        const title = node.data?.title?.toLowerCase() ?? ""
+        return !node.data?.tags?.includes("explorerexclude") && !omit.has(title)
+      },
     }),
   ],
   right: [

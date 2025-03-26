@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: meetings, templates, tasks, productivity
+draft: true
 ---
 
 Obsidian is a great place to keep meeting notes. But there are a couple of best practices, which can make your meeting notes more effective. In this article, we walk you through setting up a meeting notes template and how to use it in Obsidian.
@@ -18,7 +19,7 @@ This template has 4 sections:
 - An *Agenda* section
 - An *Action items* section
 
-Each section is separated as a second-level header, except for the metadata at the top. 
+Each section is separated as a second-level header, except for the metadata at the top.
 
 The date token in the curly brackets tells Obsidian to insert a date stamp using the YYYY-MM-DD format, and the double brackets link that date to the daily note for the day.
 
@@ -30,7 +31,7 @@ First, click on the *Settings* button in the left sidebar.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/meetingnotes2.jpg)
 
-Select *Core Plugins*, and make sure *Templates* is toggled on. 
+Select *Core Plugins*, and make sure *Templates* is toggled on.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/07/meetingnotes3.jpg)
 

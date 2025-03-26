@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: templates, notes, productivity
+draft: true
 ---
 
 Templates in Obsidian are a great way to jumpstart creating a new note. In this post, we're going to show you how to set up and use a couple different types of templates in Obsidian. If you'd like to see it in action, here's a short video from our upcoming PKM course.
@@ -11,11 +12,11 @@ The first type of template is a *Daily Notes template*. This is my daily notes t
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/templates1.jpg)
 
-This is just a note in my Obsidian library. To use use a note like this as your daily notes template, go to the *Settings --> Core Plugins* and make sure that the *Daily Notes* plugin is activated. 
+This is just a note in my Obsidian library. To use use a note like this as your daily notes template, go to the *Settings --> Core Plugins* and make sure that the *Daily Notes* plugin is activated.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/templates2.jpg)
 
-Once activated, configure the settings for the Daily Notes plugin and make sure you have both the new file location set and the template file location. For example, my template file location is *Templates/Daily Notes Template*. 
+Once activated, configure the settings for the Daily Notes plugin and make sure you have both the new file location set and the template file location. For example, my template file location is *Templates/Daily Notes Template*.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/templates3.jpg)
 

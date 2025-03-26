@@ -1,11 +1,12 @@
 ---
 Author: Mike Schmitz
 Tags: plugins, todoist, tasks
+draft: true
 ---
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoisthero.jpg)
 
-Obsidian has some basic support for tasks built in. But if you rely on notifications for when to do what, then you're going to need a dedicated task manager. Fortunately, there's a [Todoist plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) for Obsidian which allows you to have the best of both worlds - you can capture tasks into Todoist directly and get notified on your devices when it's time to do a task, but you can also embed those tasks into an Obsidian so you can associate them with a particular project. In this post, I'm going to show you how to use the Todoist Sync community plugin to embed tasks using Todoist's filters in Obsidian. 
+Obsidian has some basic support for tasks built in. But if you rely on notifications for when to do what, then you're going to need a dedicated task manager. Fortunately, there's a [Todoist plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) for Obsidian which allows you to have the best of both worlds - you can capture tasks into Todoist directly and get notified on your devices when it's time to do a task, but you can also embed those tasks into an Obsidian so you can associate them with a particular project. In this post, I'm going to show you how to use the Todoist Sync community plugin to embed tasks using Todoist's filters in Obsidian.
 
 ## Setting up the Todoist Sync Plugin
 
@@ -13,7 +14,7 @@ First, click on the gear icon in the lower left to access the Obsidian Settings:
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist1.jpg)
 
-Next, go to *Community plugins* and click on *Browse*. 
+Next, go to *Community plugins* and click on *Browse*.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist2.jpg)
 
@@ -21,11 +22,11 @@ Search for *Todoist*, and select the [Todoist Sync plugin](https://github.com/ja
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist3.jpg)
 
-For the plugin to sync with the Todoist app you're going to need your Todoist API token. You can click the link access your API token on the web, or you can open the Todoist app and go to *Settings --> Integrations* and scroll down to the bottom. 
+For the plugin to sync with the Todoist app you're going to need your Todoist API token. You can click the link access your API token on the web, or you can open the Todoist app and go to *Settings --> Integrations* and scroll down to the bottom.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist4.jpg)
 
-Once you find your API token, copy it to your clipboard and go back into Obsidian. Paste the API token into the field and then click *Submit*. 
+Once you find your API token, copy it to your clipboard and go back into Obsidian. Paste the API token into the field and then click *Submit*.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist5.jpg)
 
@@ -33,7 +34,7 @@ Once you have your API token set, you're ready to start using the plugin.
 
 ## Embedding Todoist Tasks in a Note
 
-You can embed Todoist tasks inside any note file, like this blank one I have for the [Focused podcast](https://www.relay.fm/focused) that I do with David Sparks. 
+You can embed Todoist tasks inside any note file, like this blank one I have for the [Focused podcast](https://www.relay.fm/focused) that I do with David Sparks.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/09/todoist6.jpg)
 

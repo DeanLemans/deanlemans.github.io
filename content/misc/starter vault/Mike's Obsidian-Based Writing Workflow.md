@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: plugins, kanban, writing
+draft: true
 ---
 
 I've been using Obsidian as my writing app for the past several months, and I absolutely love it. In addition to giving me a great Markdown writing environment, the community plugins allow me to craft my ideal system for tracking my writing tasks well. In this article, I walk through my system and the plugins I use to manage writing projects in Obsidian.
@@ -30,7 +31,7 @@ Click the *Install* button, then click enable. Make sure that the plugin is togg
 
 IMG
 
-Next, you need to create your kanban board. To create a new Kanban board view, all you  need to do is right-click in a folder and then select *New Kanban board*. 
+Next, you need to create your kanban board. To create a new Kanban board view, all you  need to do is right-click in a folder and then select *New Kanban board*.
 
 IMG
 
@@ -69,7 +70,7 @@ from "Articles"
 
 Here's what this code is doing:
 
-- The first line tells Obsidian to use the Dataview plugin 
+- The first line tells Obsidian to use the Dataview plugin
 - The second line tells it to make a table with a *Status* column
 - The third line tells it to look in the *Articles* folder
 - The last line closes the code block
@@ -80,4 +81,4 @@ IMG
 
 I have the names of all of the articles that are currently in my articles folder on the left, which are links that I can use to jump straight to those articles. And I have the status fields, indicated by those things that I marked in the YAML frontmatter, which aren't actually part of the article. But Dataview is taking those and it is sorting them in reverse alphabetical order, which allows me to see very quickly which articles I've completed, which ones I've not started and which ones are in progress. And if I wanted, I could add more to this to sort these in a specific order.
 
-This is a simple example, and you can extend this obviously a lot further if you wanted to include due dates and things like that. But Dataview is a great way to  query everything that you want to look at in a specific location, and then give you all sorts of information based on that. 
+This is a simple example, and you can extend this obviously a lot further if you wanted to include due dates and things like that. But Dataview is a great way to  query everything that you want to look at in a specific location, and then give you all sorts of information based on that.

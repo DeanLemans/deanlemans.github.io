@@ -1,9 +1,10 @@
 ---
 Author: Mike Schmitz
 Tags: notes, graph, productivity
+draft: true
 ---
 
-The promise of apps like [Obsidian](https://obsidian.md) and [Roam Research](https://roamresearch.com/) is to give you a tool for connected note-taking. (If you're wondering which one is right for you, check out [[Obsidian vs. Roam Research]]). With this approach, you can see the commonalities between your thoughts as your notes bump up against one another, allowing you to see connections and discover new insights. These connections are usually represented in some sort of *Graph View*, which can look like a complex spiderweb of notes and ideas. 
+The promise of apps like [Obsidian](https://obsidian.md) and [Roam Research](https://roamresearch.com/) is to give you a tool for connected note-taking. (If you're wondering which one is right for you, check out [[Obsidian vs. Roam Research]]). With this approach, you can see the commonalities between your thoughts as your notes bump up against one another, allowing you to see connections and discover new insights. These connections are usually represented in some sort of *Graph View*, which can look like a complex spiderweb of notes and ideas.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/graph.jpg)
 
@@ -31,7 +32,7 @@ At the heart of this graph view is the concept of *bidirectional linking*, which
 
 ## Bidirectional Linking > Wiki-Style Crosslinking
 
-Note that bidirectional linking is *not* the same as wiki-style linking, which many plain text apps like nvALT have supported for a long time. You use special characters (oftentimes double brackets, just like in Obsidian) to create a link to another page, but the important difference here is that the link only goes one direction. 
+Note that bidirectional linking is *not* the same as wiki-style linking, which many plain text apps like nvALT have supported for a long time. You use special characters (oftentimes double brackets, just like in Obsidian) to create a link to another page, but the important difference here is that the link only goes one direction.
 
 As a basic example, let's say you have a note that serves as a table of contents for a library of other notes. In this table of contents note are wiki-style crosslinks to a bunch of other notes. This allows you to navigate to your individual notes from the table of contents, but *not the other way around*. Yes, you have a link between the notes, but it's only useful from a single direction. It's like a one-way street in your brain. It's fine if you always approach that note from a single direction, but it's not great if you want the freedom to explore.
 
@@ -73,7 +74,7 @@ While perusing my notes from the book, I come across a concept known as *Goodhar
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/05/obsidiangoodhartslaw.jpg)
 
-I've now gone several levels deep in landing on this idea that when a measure becomes a target, it ceases to be a good measure. But what's really powerful about this is that it works both ways. I could have started at my *Goodhart's Law* note (maybe something reminded me of that note and I decided to look it up) and navigated my notes the other way as well. 
+I've now gone several levels deep in landing on this idea that when a measure becomes a target, it ceases to be a good measure. But what's really powerful about this is that it works both ways. I could have started at my *Goodhart's Law* note (maybe something reminded me of that note and I decided to look it up) and navigated my notes the other way as well.
 
 The secret to making this work is to make *atomic notes*. The word atomic actually means "of or forming a single irreducible unit or component in a larger system." So an atomic note is one that can't be broken down any further, like my Goodhart's Law note. By having a bunch of smaller notes in your library, you have the building blocks for connecting and creating in new and powerful ways.
 

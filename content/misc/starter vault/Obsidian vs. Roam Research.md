@@ -1,6 +1,7 @@
 ---
 Author: Mike Schmitz
 Tags: pkm, roam
+draft: true
 ---
 
 # Obsidian vs. Roam
@@ -13,7 +14,7 @@ While there are lots of apps doing lots of interesting things with notes right n
 
 ## The Approach
 
-It's impossible to say "just use this one" when it comes to picking the right connected note-taking app for you. On the surface they may seem similar, but there are several important differences that stem from fundamentally different approaches to how your notes are stored and managed. 
+It's impossible to say "just use this one" when it comes to picking the right connected note-taking app for you. On the surface they may seem similar, but there are several important differences that stem from fundamentally different approaches to how your notes are stored and managed.
 
 There are lots of things you can look at when picking your PKM app, but here are the criteria we used:
 
@@ -66,7 +67,7 @@ The user interface is where Roam Research really shines. It has a clever way of 
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/04/roamresearch.jpg)
 
-This is a great way to work with your text, and eliminates a lot of the friction if you do more than just text. 
+This is a great way to work with your text, and eliminates a lot of the friction if you do more than just text.
 
 Roam also includes a section at the bottom of each note which shows the backlinks, making them more easily discoverable for new users. We'll dig deeper into backlinks in the next section, but it's worth calling out here because being able to see and link related pages is an important of the user interface and Roam does this better.
 
@@ -108,7 +109,7 @@ Backlinks are the foundation of a connected note-taking app, allowing you to nav
 
 ### Obsidian
 
-Linking to pages in Obsidian is simple: just use `[[pagetitle]]` anywhere in your text to add a link to the note with that page title. Obsidian's auto-complete helps you find the page you want to link to, or you can create a link to new page by entering a text string that doesn't currently exist in a note title. You can click on these links to navigate to that page when in Preview mode, and the connection also shows up in the graph view. 
+Linking to pages in Obsidian is simple: just use `[[pagetitle]]` anywhere in your text to add a link to the note with that page title. Obsidian's auto-complete helps you find the page you want to link to, or you can create a link to new page by entering a text string that doesn't currently exist in a note title. You can click on these links to navigate to that page when in Preview mode, and the connection also shows up in the graph view.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/04/obsidianautocomplete.jpg)
 
@@ -172,7 +173,7 @@ This is Obsidian's achilee's heel, and forces you to keep a large number of shor
 
 Block embeds and references in Roam are easy. Because everything in Roam is stored in a database, there is no distinction between individual notes and blocks and everything can be broken down into more atomic units.
 
-You can use a block reference in Roam by: 
+You can use a block reference in Roam by:
 
 - Using `((` and searching your database for the block you want to link
 - Right-clicking on a block and selecting *Copy Block Reference*
@@ -196,11 +197,11 @@ Both apps support Markdown formatting in plain text. This allows you to style yo
 
 Obsidian is simply an interface for plain text files that are stored on your computer, and supports standard Markdown formatting. Many themes will have syntax highlighting to make it easier to see your Markdown-formatted text, but the Markdown that Obsidian supports will be viewable in any other text editor.
 
-This is unremarkable, but the way it should be. 
+This is unremarkable, but the way it should be.
 
 ### Roam
 
-Roam, on the other hand, supports a weird flavor of Markdown. Most of it will be familiar (i.e. `#` for headers, bulleted lists, etc.), but it also inexplicably changes some very familiar Markdown formatting. For example, standard Markdown lets you use `**` (or `__`) for bold and `*` (or `_`) for italic formatting. But in Roam, you have to use `**` for bold and `__` for italic. This goes directly against the standard Markdown convention of double characters for bold text and single for italic. 
+Roam, on the other hand, supports a weird flavor of Markdown. Most of it will be familiar (i.e. `#` for headers, bulleted lists, etc.), but it also inexplicably changes some very familiar Markdown formatting. For example, standard Markdown lets you use `**` (or `__`) for bold and `*` (or `_`) for italic formatting. But in Roam, you have to use `**` for bold and `__` for italic. This goes directly against the standard Markdown convention of double characters for bold text and single for italic.
 
 I don't understand why the Roam team made this choice. You can argue that you'll just get used to it, but not if you do writing in any other plain text editors that support standard Markdown formatting. This is inexcusable, and a dealbreaker for many.
 
@@ -230,7 +231,7 @@ In addition to search and queries, Roam also has *Filters* that can limit what d
 
 ## Daily Notes
 
-Both Obsidian and Roam have support fora feature called *Daily Notes*. Daily Notes are the digital equivalent of the Bullet Journal's daily page, serving as a place to capture bits and pieces of information before you process them and decide where they belong. 
+Both Obsidian and Roam have support fora feature called *Daily Notes*. Daily Notes are the digital equivalent of the Bullet Journal's daily page, serving as a place to capture bits and pieces of information before you process them and decide where they belong.
 
 ### Obsidian
 
@@ -386,7 +387,7 @@ Obsidian has an add-on service called *Publish* that you can buy directly from t
 
 The site itself displays the notes that you choose to publish, alongside the local graph view of the currently selected note. You can even password protect your site if you want to control who has access to it.
 
-This is pretty brilliant way to monetize the application without charging people for features if they don't need them. 
+This is pretty brilliant way to monetize the application without charging people for features if they don't need them.
 
 One note: you can't publish directly to a Wordpress site from Obsidian like you can from Ulysses, but the standard Markdown formatting means it is easy to copy and paste your text when you're done writing in Obsidian.
 
@@ -440,7 +441,7 @@ There is also an iOS app in development, but it is currently in closed beta as o
 
 ### Roam
 
-Roam Research is not made for mobile access. Plain and simple. There is no mobile app for Roam, and the full site in a mobile browser is not a pleasant experience. 
+Roam Research is not made for mobile access. Plain and simple. There is no mobile app for Roam, and the full site in a mobile browser is not a pleasant experience.
 
 Roam does have a mobile stylesheet that changes the main page from the standard Daily Notes page to a *Quick Capture* page. Quick Capture lets you jot down text, todos, links, and images and add them as blocks directly to your Daily Notes pages so you can process them when you get back to your computer. You can choose the graph you want and select the page you want to add the block to, but it's really just for capturing things on the go.
 

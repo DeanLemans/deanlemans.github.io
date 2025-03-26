@@ -1,9 +1,10 @@
 ---
 Author: Mike Schmitz
 Tags: themes, setup
+draft: true
 ---
 
-The appearance of  the interface Obsidian is controllable by CSS, but fortunately you don't need to be a web developer in order to customize the look and feel of Obsidian using *Community Themes*. In this post, we'll walk you through how to install and use a new theme in Obsidian. 
+The appearance of  the interface Obsidian is controllable by CSS, but fortunately you don't need to be a web developer in order to customize the look and feel of Obsidian using *Community Themes*. In this post, we'll walk you through how to install and use a new theme in Obsidian.
 
 Obsidian ships with a default theme that actually looks pretty good, especially if you already like the look of dark mode on your Mac. But if you want to change the appearance using custom themes, it is very easy to do that. First, click on the Gear icon in the left sidebar to access the Settings:
 
@@ -19,11 +20,11 @@ Right now we're looking at the base theme, which as I mentioned is a dark theme.
 
 But in addition to the built in light and dark themes, there are a bunch of community themes you can use to customize the look and feel of Obsidian.
 
-To use a community theme, go back to the *Appearance* section of *Settings*, scroll down a little bit, and click *Browse* for community themes in the *Themes* section. 
+To use a community theme, go back to the *Appearance* section of *Settings*, scroll down a little bit, and click *Browse* for community themes in the *Themes* section.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/theme4.jpg)
 
-This opens a gallery of community themes that you can filter by name or by theme type (i.e. show only dark themes). Clicking on a screenshot for a theme will give you a closer look, but you can also preview the theme and when you're ready to install click *Use* to apply the theme to your Obsidian app. 
+This opens a gallery of community themes that you can filter by name or by theme type (i.e. show only dark themes). Clicking on a screenshot for a theme will give you a closer look, but you can also preview the theme and when you're ready to install click *Use* to apply the theme to your Obsidian app.
 
 ![](https://thesweetsetup.com/wp-content/uploads/2021/06/theme5.jpg)
 

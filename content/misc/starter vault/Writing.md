@@ -1,3 +1,6 @@
+---
+draft: true
+---
 I want to...
 
 - Make Obsidian feel more like Ulysses: [[Turning Obsidian into the Perfect Writing App]]
