@@ -10,9 +10,10 @@ title: CV
 >> 3. reworked PDF
 >> 4. rework text on site
 
-Pretty PDF version here [[CV-DeanLemans.pdf]]
+>[!info] 
+>***[[CV-DeanLemans.pdf| Click here to open PDF Version]]***
 
-![[CV-DeanLemans.pdf]]
+![[CV-DeanLemans.pdf|100x00]]
 
 >[!info] Introduction
 >- Hello, I am Dean and I'm an aspiring game developer! 👋

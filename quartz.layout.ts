@@ -24,7 +24,10 @@ export const defaultContentPageLayout: PageLayout = {
     //component: Component.Breadcrumbs(),
     //condition: (page) => page.fileData.slug !== "index",
     //}),
-    Component.ArticleTitle(),
+    Component.ConditionalRender({
+    component: Component.ArticleTitle(),
+    condition: (page) => page.fileData.slug !== "index",
+    }),
     //Component.ContentMeta(),
     Component.TagList(), //will need to figure out a better (orginising) system for this.
   ],
@@ -42,6 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "",
+      useSavedState: false,
     }),
   ],
   right: [

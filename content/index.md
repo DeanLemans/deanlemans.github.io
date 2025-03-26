@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Home"
 ---
 
 >[!info]Checkout my [[CV]]!
