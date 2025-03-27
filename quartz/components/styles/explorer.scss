@@ -114,9 +114,12 @@ button.desktop-explorer {
   overflow-y: auto;
   margin-top: 0.5rem;
 
-  & > ul > li > a {
-    // increase size for top-level files
-    font-size: 1.25rem;
+  & > ul > li {
+    margin-bottom: 0.5rem;
+
+    & > a {
+      font-size: 1.25rem;
+    }
   }
 
   & ul {
@@ -134,6 +137,10 @@ button.desktop-explorer {
         color: var(--tertiary);
       }
     }
+  }
+
+  .folder-outer > ul > li {
+    margin-bottom: 0;
   }
 
   .folder-outer {
