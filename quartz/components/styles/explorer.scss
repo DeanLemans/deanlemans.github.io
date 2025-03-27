@@ -114,6 +114,11 @@ button.desktop-explorer {
   overflow-y: auto;
   margin-top: 0.5rem;
 
+  & > ul > li > a {
+    // increase size for top-level files
+    font-size: 1.25rem;
+  }
+
   & ul {
     list-style: none;
     margin: 0;
@@ -158,7 +163,7 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 0.95rem; // Folder title size
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
