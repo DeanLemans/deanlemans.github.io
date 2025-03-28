@@ -45,13 +45,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["misc"])
-
-        const title = node.data?.title?.toLowerCase() ?? ""
-        return !node.data?.tags?.includes("explorerexclude") && !omit.has(title)
-      },
       sortFn: (a, b) => {
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
           return a.displayName.localeCompare(b.displayName, undefined, {
@@ -65,6 +58,13 @@ export const defaultContentPageLayout: PageLayout = {
         } else {
           return 1
         }
+      },
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["misc"])
+
+        const title = node.data.title.toLowerCase() ?? ""
+        return node.data.tags.includes("explorerexclude") && !omit.has(title)
       },
     }),
   ],
