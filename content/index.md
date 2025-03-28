@@ -28,8 +28,3 @@ title: "Home"
 
 >[!info] Contact
 >*see my [Contact Links](https://linksta.cc/@Dean).*
-
-#### P.S:
-if you'd like to support me, you're welcome to send any amount of crypto to the me:
-
-<iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5&donation=True&simple_mode=True&amount=&name=Dean+Lemans&description=thx+for+supporting+me%21&email=deanlemans@mailbox.org&bgcolor=161618ff" width="400" height="285" style="border:0" scrolling="no"></iframe>
