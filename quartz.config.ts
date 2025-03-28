@@ -79,7 +79,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      //Plugin.ComponentResources(),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       //Plugin.FolderPage(),
       //Plugin.TagPage(),
@@ -91,7 +91,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      //Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }
