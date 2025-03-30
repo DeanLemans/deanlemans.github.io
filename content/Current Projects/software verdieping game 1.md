@@ -22,6 +22,10 @@ Of
 >5. Player en geweer animatie.
 >6. Enemy animatie.
 
+>[!imap]- PDF onderzoek
+>![[software verdieping onderzoek.pdf]]
+>
+
 ## backlog
 - [ ] animation
 - [ ] audio
@@ -29,19 +33,25 @@ Of
 - [ ] score
 
 - [ ] **player**
-	- [x] player can look around
+	- [x] look around/mouse follow
 	- [x] player can move
+	- [ ] animation tree
+		- [ ] configure animation player
 	- [ ] dash
 	- [ ] health
 
 - [ ] **shooting**
 	[[on bullet shapes]]
 	- [x] bullets
-	- [ ] bounce
-		- [ ] walls
+	- [ ] hit count
+	- [ ] score calculation(per bounce multiplier of 2 when hitting walls)
+	- [x] bounce
+	- [ ] destruction(wall/player/bullet)
+	- [ ] walls
 
 - [ ] **enemy**
 	- [ ] movement
+	- [ ] state machine
 	- [ ] detection
 	- [ ] health
 
