@@ -62,7 +62,7 @@
 			"height":319
 		},
 		{
-			"file":"img/github release.png",
+			"file":"assets/github release.png",
 			"id":"f963977eba3845e3",
 			"styleAttributes":{},
 			"type":"file",
@@ -102,7 +102,7 @@
 			"height":314
 		},
 		{
-			"file":"img/mouse follow script.png",
+			"file":"assets/mouse follow script.png",
 			"id":"3d2e48209ebab51d",
 			"styleAttributes":{},
 			"type":"file",
@@ -122,7 +122,7 @@
 			"height":320
 		},
 		{
-			"file":"img/godot CI.png",
+			"file":"assets/godot CI.png",
 			"id":"46a9d90d5e5b0aa2",
 			"styleAttributes":{},
 			"type":"file",
@@ -152,7 +152,7 @@
 			"height":61
 		},
 		{
-			"file":"img/godot-git-plugin.png",
+			"file":"assets/godot-git-plugin.png",
 			"id":"67f03ac8467dfa68",
 			"styleAttributes":{},
 			"type":"file",
