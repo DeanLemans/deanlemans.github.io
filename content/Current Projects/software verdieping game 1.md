@@ -32,7 +32,7 @@ Of
 - [ ] multiplayer
 - [ ] score
 
-- [ ] **player**
+- [ ] **Player**
 	- [x] look around/mouse follow
 	- [x] player can move
 	- [ ] animation tree
@@ -40,7 +40,7 @@ Of
 	- [ ] dash
 	- [ ] health
 
-- [ ] **shooting**
+- [ ] **Shooting**
 	[[on bullet shapes]]
 	- [x] bullets
 	- [ ] hit count
@@ -49,17 +49,18 @@ Of
 	- [ ] destruction(wall/player/bullet)
 	- [ ] walls
 
-- [ ] **enemy**
+- [ ] **Enemy**
 	- [ ] movement
 	- [ ] state machine
 	- [ ] detection
 	- [ ] health
 
-- [ ] **miscellaneous**
+- [ ] **Miscellaneous**
 	- [x] configured official git plugin
 	- [x] automatic build of game with GitHub action
 	- [x] automatic create a release of the game
+	- [x] configured new site so that I don't have to update class notebook
 	- [ ] playtesting
 
 
-difficulties:
+Difficulties:
