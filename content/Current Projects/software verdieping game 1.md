@@ -62,5 +62,20 @@ Of
 	- [x] configured new site so that I don't have to update class notebook
 	- [ ] playtesting
 
+Progress per week:
+> [!Map]- Week 2:
+>player follows mouse
+>![[../assets/mouse follow script.png]]
+
+> [!Map] Week 3: sick
+
+> [!Map]- Week 4:
+>sick: but I'm begining to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
+
+> [!Map]- Week 5:
+>finished moving my site to new framework
+>implemented basic bounce to game
+>updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
 
 Difficulties:
+

@@ -44,8 +44,8 @@ tags:
 - [Illusion Carnaval](https://kiz-qi.itch.io/illusion-carnival)
 
 - [Ori and](https://www.orithegame.com/)
-    - [The Blind Forest](https://www.orithegame.com/blind-forest)
-    - [The Will of the Wisps](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps)
+    * [The Blind Forest](https://www.orithegame.com/blind-forest)
+    * [The Will of the Wisps](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps)
 
 - [psychopomp: GOLD](https://store.steampowered.com/app/3243190/Psychopomp_GOLD/) + [original](https://karbonic.itch.io/psychopomp)
 
@@ -55,6 +55,7 @@ tags:
 
 - [neva](https://neva.game)
 
+- [Super Mario Bros. Wii](https://www.mariowiki.com/New_Super_Mario_Bros._Wii)
 
 
 ### Games I really enjoyed playing.
@@ -66,21 +67,20 @@ tags:
 
 - [Epic Mickey 1 + 2 and rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
 
-- super mario bros(wii, switch and wonder)
 
 ### Game backlog.
 - [Omori](https://www.omori-game.com).
-    - [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
-    - [AMBIEN](https://mods.one/mod/ambien)
-    - [reverie](https://mods.one/mod/reverie)
-    - [Autum break](https://mods.one/mod/autumnbreak)
+    * [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
+    * [AMBIEN](https://mods.one/mod/ambien)
+    * [reverie](https://mods.one/mod/reverie)
+    * [Autum break](https://mods.one/mod/autumnbreak)
 
 - [Yume Nikki](https://www.yume.wiki/yume/Yume_Nikki)
-  - [Yume 2kki](https://yume.wiki/2kki/Yume_2kki_Wiki)
-  - [.flow](https://yume.wiki/flow/Downloads)
-  - [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)
-  - [LcdDem](https://guilvector.itch.io/lcddem)
-  - [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)
+  * [Yume 2kki](https://yume.wiki/2kki/Yume_2kki_Wiki)
+  * [.flow](https://yume.wiki/flow/Downloads)
+  * [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)
+  * [LcdDem](https://guilvector.itch.io/lcddem)
+  * [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)
 
 - [Anthology of the killer](https://thecatamites.itch.io/anthology-of-the-killer)
 
@@ -128,7 +128,7 @@ tags:
 
 - [Artic Eggs](https://the-water-museum.itch.io/arctic-eggs)
 
-- Drawn to Life 1 + 2
+- [Drawn to Life 1 + 2](https://wikiless.tiekoetter.com/wiki/Drawn_to_Life?lang=en)
 
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
 
@@ -195,8 +195,8 @@ tags:
 - [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs)
 
 - [Oneshot](https://futurecat.itch.io/) + mods/fangames + bonus chapter(Solstice)
-    - [Equinox](https://kittehcreations.com/?a=1#mods)
-    - [fading memory](https://astrabit.itch.io/oneshot-fading-memory)
+    * [Equinox](https://kittehcreations.com/?a=1#mods)
+    * [fading memory](https://astrabit.itch.io/oneshot-fading-memory)
 
 - [In Stars And Time](https://www.instarsandtime.com)
 
@@ -209,7 +209,7 @@ tags:
 - [FAITH: The Unholy Trinity](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/?curator_clanid=6856383&curator_listid=32813)
 
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight)
-    - [Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
+    * [Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
 
 - [Evil Tonight](https://dyagames.itch.io/evil-tonight)
 
@@ -231,7 +231,7 @@ tags:
 
 - [Gris](https://nomada.studio)
 
-- Twilight princess
+- [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
 
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 

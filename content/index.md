@@ -15,7 +15,7 @@ title: "Home"
 - The software I use:
     - OS: [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
     - Game Engine: [Godot](https://godotengine.org/).
-    - IDE: [Zed](https://zed.dev/) and [VSCodium](https://vscodium.com/)
+    - IDE: [Zed](https://zed.dev/) and [VSCodium](https://vscodium.com/).
     - Browser: [Thorium](https://thorium.rocks/) and [Floorp](https://floorp.app/).
 
 
