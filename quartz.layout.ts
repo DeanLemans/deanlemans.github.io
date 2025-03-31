@@ -34,14 +34,37 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
+    Component.Darkmode()
+    //Component.Flex({
+      //components: [
         //{
         //Component: Component.Search(),
         //grow: false,
         //},
-        { Component: Component.Darkmode() },
-      ],
+        //{ Component: Component.Darkmode() },
+      //],
+    //}),
+    
+  ],
+  right: [
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: 1, // how many hops of notes to display
+          scale: 2, // default view scale
+          fontSize: 0.7, // what size should the node labels be?
+          showTags: true, // whether to show tags in the graph
+          enableRadial: true, // whether to constrain the graph, similar to Obsidian
+        },
+        globalGraph: {
+          depth: -1,
+          scale: 1,
+          fontSize: 0.7,
+          showTags: true, // whether to show tags in the graph
+          enableRadial: true, // whether to constrain the graph, similar to Obsidian
+        },
+      }),
+      condition: (page) => page.fileData.slug !== "CV",
     }),
     Component.Explorer({
       title: "",
@@ -67,35 +90,19 @@ export const defaultContentPageLayout: PageLayout = {
         return node.data.tags.includes("explorerexclude") && !omit.has(title)
       },
     }),
-  ],
-  right: [
-    Component.ConditionalRender({
-      component: Component.Graph({
-        localGraph: {
-          depth: 1, // how many hops of notes to display
-          scale: 2, // default view scale
-          fontSize: 0.7, // what size should the node labels be?
-          showTags: true, // whether to show tags in the graph
-          enableRadial: true, // whether to constrain the graph, similar to Obsidian
-        },
-        globalGraph: {
-          depth: -1,
-          scale: 1,
-          fontSize: 0.7,
-          showTags: true, // whether to show tags in the graph
-          enableRadial: true, // whether to constrain the graph, similar to Obsidian
-        },
-      }),
-      condition: (page) => page.fileData.slug !== "CV",
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    //Component.DesktopOnly(Component.TableOfContents()),
     //Component.Backlinks(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
+// rework this to (possibly) fix explorer
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    //Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    //Component.ContentMeta()
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -108,9 +115,31 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+  ],
+  right: [
     Component.Explorer({
       title: "",
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+
+        if (!a.isFolder && b.isFolder) {
+          return -1
+        } else {
+          return 1
+        }
+      },
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["misc"])
+
+        const title = node.data.title.toLowerCase() ?? ""
+        return node.data.tags.includes("explorerexclude") && !omit.has(title)
+      },
     }),
   ],
-  right: [],
 }
