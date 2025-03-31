@@ -16,12 +16,14 @@ tags:
 
 - [Alan wake 2](https://www.alanwake.com)
 
+- [ENA: Dream BBQ](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/)
+
 - [Purgatory 1](https://memoriesoffear.jcink.net/index.php?showtopic=68) + [Remake](https://store.steampowered.com/app/2851770/NARAKU)
   - [Purgatory 2](https://memoriesoffear.jcink.net/index.php?showtopic=85)
 
 - [Undertale](https://undertale.com)
 
-- [Little Big Planet 3](https://www.lbpunion.com)
+- [Little Big Planet 2 + 3](https://www.lbpunion.com)
 
 - [Control ultimate edition](https://www.remedygames.com/games/control)
 
@@ -35,7 +37,7 @@ tags:
 
 - [Cult of the Lamb](https://www.cultofthelamb.com)
 
-- [Hades 1 and 2](https://www.supergiantgames.com/games/hades-ii/)
+- [Hades 1 and 2](https://www.supergiantgames.com/games/hades-ii)
 
 - [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
 
