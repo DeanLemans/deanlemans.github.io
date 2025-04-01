@@ -22,16 +22,6 @@
 			"label":"progress week 2"
 		},
 		{
-			"id":"af950014fa7d1ec2",
-			"styleAttributes":{},
-			"type":"group",
-			"x":520,
-			"y":-317,
-			"width":680,
-			"height":600,
-			"label":"progress week 3"
-		},
-		{
 			"id":"c8e6877e9ce20016",
 			"styleAttributes":{},
 			"type":"group",
@@ -70,36 +60,6 @@
 			"y":366,
 			"width":260,
 			"height":314
-		},
-		{
-			"id":"1baf10e5c223e3c4",
-			"styleAttributes":{},
-			"text":"idee\n1. dressup/character selection(UI), \n2. waarbij je met rondloopt en elkaars outfits/kleren kan zien(_Multiplayer_) \n \n(kan mogelijk ook 3D, maar alleen als er genoeg tijd is)",
-			"type":"text",
-			"x":-1055,
-			"y":360,
-			"width":260,
-			"height":320
-		},
-		{
-			"id":"bb6daae90ea526ab",
-			"styleAttributes":{},
-			"text":"**player follows mouse**",
-			"type":"text",
-			"x":-270,
-			"y":-300,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"7598ff1aad8607fb",
-			"styleAttributes":{},
-			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
-			"type":"text",
-			"x":40,
-			"y":-301,
-			"width":400,
-			"height":61
 		},
 		{
 			"file":"assets/godot-git-plugin.png",
@@ -150,6 +110,36 @@
 			"y":174,
 			"width":219,
 			"height":60
+		},
+		{
+			"id":"bb6daae90ea526ab",
+			"styleAttributes":{},
+			"text":"**player follows mouse**",
+			"type":"text",
+			"x":-270,
+			"y":-300,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"7598ff1aad8607fb",
+			"styleAttributes":{},
+			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
+			"type":"text",
+			"x":40,
+			"y":-301,
+			"width":400,
+			"height":61
+		},
+		{
+			"id":"1baf10e5c223e3c4",
+			"styleAttributes":{},
+			"text":"idee\n1. dressup/character selection(UI), \n2. waarbij je met rondloopt en elkaars outfits/kleren kan zien(_Multiplayer_) \n \n(kan mogelijk ook 3D, maar alleen als er genoeg tijd is)",
+			"type":"text",
+			"x":-1055,
+			"y":360,
+			"width":260,
+			"height":320
 		}
 	]
 }

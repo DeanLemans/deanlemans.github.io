@@ -64,18 +64,26 @@ Of
 
 Progress per week:
 > [!Map]- Week 2:
->player follows mouse
+>- player follows mouse
 >![[../assets/mouse follow script.png]]
+>- configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.
+>![[../assets/godot-git-plugin.png]]
 
-> [!Map] Week 3: sick
+> [!Map]- Week 3: 
+> Sick: 
+> Everytime I commit and push github actions automatically builds and creates a release.
+> ![[../assets/godot CI.png]]
+> ![[../assets/github release.png]]
 
 > [!Map]- Week 4:
->sick: but I'm begining to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
+>- sick: but I'm begining to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
 
 > [!Map]- Week 5:
->finished moving my site to new framework
->implemented basic bounce to game
->updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
+>- finished moving my site to new framework
+>- implemented basic bounce to game
+>![[../assets/bounce script.png]]
+>- updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
 
 Difficulties:
 
+that the origin is spinning with the mousefollow, problem is that i can now shoot myself in the face. so i had to lock the origin of the bullets to fix it.
