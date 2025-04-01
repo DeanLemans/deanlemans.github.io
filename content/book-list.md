@@ -8,7 +8,7 @@ tags:
 ---
 > [!info]
 > I will put reviews in here someday
-# Some of my favorite fiction books are:
+# My favorite fiction books are:
 
 **[godclads](https://www.royalroad.com/fiction/59663/godclads)** by OstensibleMammal.
 
@@ -30,7 +30,9 @@ tags:
 
 ![GHOST-IN-THE-CITY](GHOST-IN-THE-CITY.jpg)
 
-## Some of my favorite non-fiction books are:
+[Ar'Kendrithyst](https://www.royalroad.com/fiction/26727/arkendrithyst)
+![[assets/post/arkendrithyst.jpg]]
+# Favorite non-fiction books are:
 
 **[The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)** by Albert Camus.
 
