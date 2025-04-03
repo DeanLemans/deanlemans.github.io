@@ -5,7 +5,7 @@ title: "Home"
 
 # Hello! My name is Dean
 - I'm a software development student at [SintLucas](https://www.sintlucas.nl/)
-- I'm trying to become a indie game developer.
+- I'm trying to become a Indie Game Developer.
 - I mainly use the Godot game engine.
 
 ![me](avatar-2.jpg)
@@ -20,7 +20,7 @@ title: "Home"
 
 
 > [!info] Personal
->See my [[book-list]] and [[game-list]]
+>See my [[book-list|Book-List]] and [[game-list|Game-List]]
 
 ## My repositories plans
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
