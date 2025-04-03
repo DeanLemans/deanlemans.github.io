@@ -10,7 +10,7 @@ title: "Home"
 
 ![me](avatar-2.jpg)
 
-## I like [Open Source](https://opensource.org/osd) and [Freedom](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html).
+## I like [Open Source](https://opensource.org/osd).
 
 - The software I use:
     - OS: [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
