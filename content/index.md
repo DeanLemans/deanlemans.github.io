@@ -1,11 +1,11 @@
 ---
 title: "Home"
 ---
->[!info]Checkout my [[CV]]!
+>[!info]Checkout my [[CV|Portofolio]]!
 
 # Hello! My name is Dean
-- I'm a software development student at [sintlucas](https://www.sintlucas.nl/)
-- I'm currently trying to become a indie game developer.
+- I'm a software development student at [SintLucas](https://www.sintlucas.nl/)
+- I'm trying to become a indie game developer.
 - I mainly use the Godot game engine.
 
 ![me](avatar-2.jpg)

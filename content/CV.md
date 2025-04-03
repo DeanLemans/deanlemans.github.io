@@ -3,16 +3,13 @@ title: Portofolio
 alias:
   - "CV"
 ---
->[!caution] W.I.P!
-> 1. update project list on site and PDF
-
->[!info]- Profesional PDF Version
+>[!info]- Click here for my CV
 > ***[[CV-DeanLemans.pdf|PDF Version]]***
 > ![[CV-DeanLemans.pdf|100x00]]
 
 
 >[!info] Introduction
->- Hello, I am Dean and I'm an aspiring game developer! 👋
+>- Hello, I am Dean and I'm an aspiring Game Developer! 👋
 >- I have the most experience with Godot.
 >- I also have some experience with Unity.
 >- Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
@@ -43,5 +40,5 @@ alias:
 >- [Github Repos](https://github.com/DeanLemans?tab=repositories)
 
 > [!info]Languages
->- Dutch(Native)
->- English(Advanced)
+>- Dutch *(Native)*
+>- English *(Advanced)*
