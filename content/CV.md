@@ -1,20 +1,21 @@
 ---
-title: Curriculum Vitae
+title: Portofolio
 alias:
   - "CV"
 ---
 >[!caution] W.I.P!
 > 1. update project list on site and PDF
 
->[!info]
-> ***[[CV-DeanLemans.pdf| Click here to open PDF Version]]***
+>[!info]- Profesional PDF Version
+> ***[[CV-DeanLemans.pdf|PDF Version]]***
+> ![[CV-DeanLemans.pdf|100x00]]
 
-![[CV-DeanLemans.pdf|100x00]]
 
 >[!info] Introduction
 >- Hello, I am Dean and I'm an aspiring game developer! 👋
->- I mainly use the Godot game engine.
->- Currently studying Software Development at SintLucas with a focus on Game Development.
+>- I have the most experience with Godot.
+>- I also have some experience with Unity.
+>- Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
 
 >[!info]Developer Experience
 >- Intermediate experience in [Godot](https://godotengine.org/).
@@ -39,6 +40,7 @@ alias:
 
 >[!info]Projects
 >- [[Finished Projects]]
+>- [Github Repos](https://github.com/DeanLemans?tab=repositories)
 
 > [!info]Languages
 >- Dutch(Native)
