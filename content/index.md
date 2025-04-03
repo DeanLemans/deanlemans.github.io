@@ -1,10 +1,11 @@
 ---
 title: "Home"
+#add all the software i have experience with
 ---
->[!info]Checkout my [[CV|Portofolio]]!
+>[!info]Checkout my **[[CV|Portofolio]]!**
 
 # Hello! My name is Dean
-- I'm a software development student at [SintLucas](https://www.sintlucas.nl/)
+- I'm a Software Development student at [SintLucas](https://www.sintlucas.nl/)
 - I'm trying to become a Indie Game Developer.
 - I mainly use the Godot game engine.
 
@@ -20,11 +21,11 @@ title: "Home"
 
 
 > [!info] Personal
->See my [[book-list|Book-List]] and [[game-list|Game-List]]
+>- See my [[book-list|Book-List]] and [[game-list|Game-List]]
 
 ## My repositories plans
 - I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
-*But for now school wants me to use github (which is understandable, as its the most popular code hosting site).*
+But for now school wants me to use github *(which is understandable, as it's the most popular code hosting site)*.
 
 >[!info] Contact
->*see my [Contact Links](https://linksta.cc/@Dean).*
+>- See my **[Contact Links](https://linksta.cc/@Dean)**
