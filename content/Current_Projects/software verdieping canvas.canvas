@@ -12,6 +12,16 @@
 			"label":"game 1"
 		},
 		{
+			"id":"c8e6877e9ce20016",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1065,
+			"y":340,
+			"width":570,
+			"height":360,
+			"label":"game 2"
+		},
+		{
 			"id":"8c6fd3946dfde0bc",
 			"styleAttributes":{},
 			"type":"group",
@@ -22,14 +32,34 @@
 			"label":"progress week 2"
 		},
 		{
-			"id":"c8e6877e9ce20016",
+			"id":"bb6daae90ea526ab",
 			"styleAttributes":{},
-			"type":"group",
-			"x":-1065,
-			"y":340,
-			"width":570,
-			"height":360,
-			"label":"game 2"
+			"text":"**player follows mouse**",
+			"type":"text",
+			"x":-270,
+			"y":-300,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"7598ff1aad8607fb",
+			"styleAttributes":{},
+			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
+			"type":"text",
+			"x":40,
+			"y":-301,
+			"width":400,
+			"height":61
+		},
+		{
+			"id":"1baf10e5c223e3c4",
+			"styleAttributes":{},
+			"text":"idee\n1. dressup/character selection(UI), \n2. waarbij je met rondloopt en elkaars outfits/kleren kan zien(_Multiplayer_) \n \n(kan mogelijk ook 3D, maar alleen als er genoeg tijd is)",
+			"type":"text",
+			"x":-1055,
+			"y":360,
+			"width":260,
+			"height":320
 		},
 		{
 			"id":"454cdf0c658702b2",
@@ -110,36 +140,6 @@
 			"y":174,
 			"width":219,
 			"height":60
-		},
-		{
-			"id":"bb6daae90ea526ab",
-			"styleAttributes":{},
-			"text":"**player follows mouse**",
-			"type":"text",
-			"x":-270,
-			"y":-300,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"7598ff1aad8607fb",
-			"styleAttributes":{},
-			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
-			"type":"text",
-			"x":40,
-			"y":-301,
-			"width":400,
-			"height":61
-		},
-		{
-			"id":"1baf10e5c223e3c4",
-			"styleAttributes":{},
-			"text":"idee\n1. dressup/character selection(UI), \n2. waarbij je met rondloopt en elkaars outfits/kleren kan zien(_Multiplayer_) \n \n(kan mogelijk ook 3D, maar alleen als er genoeg tijd is)",
-			"type":"text",
-			"x":-1055,
-			"y":360,
-			"width":260,
-			"height":320
 		}
 	]
 }
