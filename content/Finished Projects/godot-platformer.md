@@ -1,7 +1,6 @@
 ---
 title: "Godot Platformer"
 description: first game made in godot
-#date: 2024-10-08 00:00:00 +0100
 ---
 >[!info]- Made with:
 > [Godot 4.3](https://godotengine.org/download/archive/4.3-stable/)

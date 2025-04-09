@@ -1,6 +1,5 @@
 ---
 title: "Home"
-#add all the software i have experience with
 ---
 >[!info]Checkout my **[[CV|Portofolio]]!**
 
