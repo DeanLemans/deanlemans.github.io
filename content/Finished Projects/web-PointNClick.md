@@ -1,7 +1,6 @@
 ---
 title: "web Point N Click"
 description: first game made in JavaScript
-#date: 2024-10-08 00:00:00 +0100
 ---
 >[!info]- Made with:
 > JavaScript, CSS and HTML.

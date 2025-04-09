@@ -43,7 +43,7 @@ Of
 - [ ] **Shooting**
 	[[on bullet shapes]]
 	- [x] bullets
-	- [ ] hit count
+	- [ ] hit count/detection display
 	- [ ] score calculation(per bounce multiplier of 2 when hitting walls)
 	- [x] bounce
 	- [ ] destruction(wall/player/bullet)
@@ -83,7 +83,8 @@ Progress per week:
 >- implemented basic bounce to game
 >![[../assets/bounce script.png]]
 >- updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
+>- updated [Script-IDE to version 1.7.0](https://github.com/Maran23/script-ide/releases/tag/1.7.0)
 
 Difficulties:
 
-that the origin is spinning with the mousefollow, problem is that i can now shoot myself in the face. so i had to lock the origin of the bullets to fix it.
+that the origin is spinning with the mouse follow, problem was that could shoot myself in the face. so I had to lock the origin of the bullets to fix it.
