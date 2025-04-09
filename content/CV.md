@@ -34,9 +34,9 @@ alias:
 >- Gardening
 >- Mangas
 >- [[book-list|Novels]]
-
+	
 >[!info]Projects
->- [[Finished Projects]]
+>- [[Finished-Projects]]
 >- [Github Repos](https://github.com/DeanLemans?tab=repositories)
 
 > [!info]Languages
