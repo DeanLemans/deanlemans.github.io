@@ -31,6 +31,7 @@ Of
 - [ ] audio
 - [ ] multiplayer
 - [ ] score
+- [ ] rewrite code so that it [staticaly typed](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/static_typing.html)
 
 - [ ] **Player**
 	- [x] look around/mouse follow
@@ -43,6 +44,7 @@ Of
 - [ ] **Shooting**
 	[[on bullet shapes]]
 	- [x] bullets
+	- [x] cooldown(with [timer](https://docs.godotengine.org/en/4.4/classes/class_timer.html))
 	- [ ] hit count/detection display
 	- [ ] score calculation(per bounce multiplier of 2 when hitting walls)
 	- [x] bounce
@@ -51,8 +53,9 @@ Of
 
 - [ ] **Enemy**
 	- [ ] movement
+		- [ ] navigation mesh
 	- [ ] state machine
-	- [ ] detection
+		- [ ] detection
 	- [ ] health
 
 - [ ] **Miscellaneous**
