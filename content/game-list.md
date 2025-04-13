@@ -16,7 +16,7 @@ tags:
 
 - [Alan wake 2](https://www.alanwake.com)
 
-- [ENA: Dream BBQ](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/)
+- [ENA: Dream BBQ](https://joelgc.com)
 
 - [Purgatory 1](https://memoriesoffear.jcink.net/index.php?showtopic=68) + [Remake](https://store.steampowered.com/app/2851770/NARAKU)
   - [Purgatory 2](https://memoriesoffear.jcink.net/index.php?showtopic=85)
@@ -25,11 +25,15 @@ tags:
 
 - [Little Big Planet 2 + 3](https://www.lbpunion.com)
 
-- [Control ultimate edition](https://www.remedygames.com/games/control)
+- [Control](https://www.remedygames.com/games/control)
 
 - [Deltarune](https://deltarune.com)
 
+- [Grimm’s Hollow](https://ghosthum.itch.io/grimms-hollow)
+
 - [Rayman 3](https://raymanpc.com/wiki/en/Rayman_3)
+
+- [Star Fetchers](https://svavelstickan.com/) (still need to play DLC)
 
 - [Celeste](https://www.celestegame.com)
 
@@ -37,7 +41,7 @@ tags:
 
 - [Cult of the Lamb](https://www.cultofthelamb.com)
 
-- [Hades 1 and 2](https://www.supergiantgames.com/games/hades-ii)
+- [Hades 1 + 2](https://www.supergiantgames.com/games/hades-ii)
 
 - [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
 
@@ -61,11 +65,21 @@ tags:
 ### Games I really enjoyed playing.
 - [Sackboy: A Big Adventure](https://store.steampowered.com/app/1599660/Sackboy_A_Big_Adventure)
 
+- [WEBFISHING](https://webfishing.net)
+
+- [Swords & Souls](https://armorgames.com/play/17817/swords-and-souls) + [Neverseen](https://armorgamesstudios.com/games/swords-and-souls-neverseen)
+
 - [Backpack Hero](https://thejaspel.itch.io/backpack-hero)
+
+- [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2)
+
+- [Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate)
+
+- [AD END THEATER](https://badendtheater.com/)
 
 - [It Takes Two](https://www.ea.com/games/it-takes-two)
 
-- [Epic Mickey 1 + 2 and rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
+- [Epic Mickey 1 + 2 + rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
 
 
 ### Game backlog.
