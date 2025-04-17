@@ -75,7 +75,7 @@ tags:
 
 - [Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate)
 
-- [AD END THEATER](https://badendtheater.com/)
+- [BAD END THEATER](https://badendtheater.com/)
 
 - [It Takes Two](https://www.ea.com/games/it-takes-two)
 
