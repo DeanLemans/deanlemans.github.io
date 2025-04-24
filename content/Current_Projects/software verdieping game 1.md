@@ -88,6 +88,17 @@ Progress per week:
 >- updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
 >- updated [Script-IDE to version 1.7.0](https://github.com/Maran23/script-ide/releases/tag/1.7.0)
 
+> [!Map]- Week 6:
+> I got basic animation to work. 
+> got the shooting timer to work, so that you cant shoot infinitely fast.
+
+> [!Map]- Week 7:
+> learning about Godot [Static Typing](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html) and will be rewriting code next week
+
+> [!Map]- Week 8:
+> Rewriting my code so that's its [Staticcaly Typed](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html)
+> currently stuck, as I cant call a variable from a unsafe space anymore.
+
 Difficulties:
 
 that the origin is spinning with the mouse follow, problem was that could shoot myself in the face. so I had to lock the origin of the bullets to fix it.
