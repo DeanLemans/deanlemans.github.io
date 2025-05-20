@@ -36,8 +36,7 @@ Of
 - [ ] **Player**
 	- [x] look around/mouse follow
 	- [x] player can move
-	- [ ] animation tree
-		- [ ] configure animation player
+	- [ ] configure animation player
 	- [ ] dash
 	- [ ] health
 
@@ -45,7 +44,6 @@ Of
 	[[on bullet shapes]]
 	- [x] bullets
 	- [x] cooldown(with [timer](https://docs.godotengine.org/en/4.4/classes/class_timer.html))
-	- [ ] hit count/detection display
 	- [ ] score calculation(per bounce multiplier of 2 when hitting walls)
 	- [x] bounce
 	- [ ] destruction(wall/player/bullet)
@@ -98,6 +96,10 @@ Progress per week:
 > [!Map]- Week 8:
 > Rewriting my code so that's its [Staticcaly Typed](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html)
 > currently stuck, as I cant call a variable from a unsafe space anymore.
+
+to format:
+reload scene when enemy touches you
+interactable
 
 Difficulties:
 

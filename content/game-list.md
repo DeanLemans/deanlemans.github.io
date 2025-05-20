@@ -16,6 +16,8 @@ tags:
 
 - [Alan wake 2](https://www.alanwake.com)
 
+- [Nine Sols](https://store.steampowered.com/app/1809540/Nine_Sols)
+
 - [ENA: Dream BBQ](https://joelgc.com)
 
 - [Purgatory 1](https://memoriesoffear.jcink.net/index.php?showtopic=68) + [Remake](https://store.steampowered.com/app/2851770/NARAKU)
@@ -82,6 +84,12 @@ tags:
 - [Epic Mickey 1 + 2 + rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
 
 
+### Interesting Games.
+
+- [7 Days to End with You](https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/)
+
+
+
 ### Game backlog.
 - [Omori](https://www.omori-game.com).
     * [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
@@ -146,6 +154,8 @@ tags:
 
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
 
+- [Haste](https://store.steampowered.com/app/1796470/Haste/)
+
 - [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous)
 
 - [The Midnight Walk](https://store.steampowered.com/app/2863640/The_Midnight_Walk)
@@ -160,6 +170,8 @@ tags:
 
 - [Endacopia](https://store.steampowered.com/app/2684630/Endacopia)
 
+- [Constance](https://store.steampowered.com/app/2313700/Constance)
+
 - [.45 PARABELLUM BLOODHOUND](https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action)
 
 - [NIGHTMARE OPERATOR](https://store.steampowered.com/app/2957360/NIGHTMARE_OPERATOR)
@@ -172,9 +184,7 @@ tags:
 
 - [Crowsworn](https://crowsworn.com)
 
-- [Clair Obscur](https://www.expedition33.com)
-
-- [7 Days to End with You](https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/)
+- [Clair Obscur: Expedition 33](https://www.expedition33.com)
 
 - [Reanimal](https://reanimal.thqnordic.com)
 
@@ -186,9 +196,9 @@ tags:
 
 - [Cairn](https://store.steampowered.com/app/1588550/Cairn)
 
-- [laceys flash games](https://laceysflashgames.itch.io/laceys-flash-games)
+- [Lacey's Flash Games](https://laceysflashgames.itch.io/laceys-flash-games)
 
-- [REPLACED](https://sadcatstudios.com)
+- [REPLACED](https://playreplaced.com/)
 
 - [Sword of the Sea](https://swordoftheseagame.com)
 
@@ -234,6 +244,16 @@ tags:
 - Super mario galaxy 1 + 2 + [mods](https://aurumsmods.com/nmg)
 
 - [fear and hunger 1 + 2](https://mirohaver.itch.io)
+
+- [Outrider Mako](https://store.steampowered.com/app/1072400/Outrider_Mako)
+
+- [Nitro Express](https://store.steampowered.com/app/3088250/Nitro_Express)
+
+- [Corn Kidz 64](https://store.steampowered.com/app/2575900/Corn_Kidz_64)
+
+- [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
+
+- [MINDWAVE](https://holohammer.com/mindwave)
 
 - [Silent hill](https://www.konami.com/games/silenthill/gate) all
 
