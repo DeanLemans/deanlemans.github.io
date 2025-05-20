@@ -19,13 +19,14 @@ title: "Home"
     - Browser: [Thorium](https://thorium.rocks/).
 
 
-> [!info] Personal
+> [!info] Get to know me!
 >- See my [[book-list|Book-List]]
 >- and [[game-list|Game-List]]
+>- [[Finished-Projects]]
 
-## My repositories plans
-- I'm planning to transfer all of my repositories from github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
-But for now school wants me to use github *(which is understandable, as it's the most popular code hosting site)*.
+## Repositories plans
+- I'm planning to transfer all of my repositories from Github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
+But for now school wants me to use github *(as it's the most popular code hosting site)*.
 
 >[!info] Contact
 >- See my **[Contact Links](https://linksta.cc/@Dean)**
