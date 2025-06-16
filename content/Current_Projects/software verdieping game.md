@@ -93,6 +93,14 @@ Progress per week:
 > Rewriting my code so that's its [Staticcaly Typed](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/static_typing.html)
 > currently stuck, as I cant call a variable from a unsafe space anymore.
 
+> [!Map]- Week 9:
+> I have begun creating a simple enemy, that wil chase me. this will work with a navigation mesh
+
+> [!Map]- Week 10:
+> finished creating enemy, it doest have health as that wil take to long to implement.
+> 
+> Eneny will chase you when you are within its raycast, and will continue following you 5 seconds after you left its raycast
+
 to format:
 reload scene when enemy touches you
 interactable
