@@ -1,8 +1,7 @@
 ---
 title: Software Verdieping Main
 ---
-docenten: Angelo Lafaye and David Buzzi, jorrit
-(shaders?)
+docenten voor hulp shaders: Angelo Lafaye and David Buzzi, jorrit
 
 
 > [!Map]- General Plan
@@ -27,17 +26,14 @@ Of
 >
 
 ## backlog
-- [ ] animation
-- [ ] audio
-- [ ] multiplayer
+- [x] animation
 - [ ] score
-- [ ] rewrite code so that it [staticaly typed](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/static_typing.html)
+- [x] rewrite code so that it [staticaly typed](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/static_typing.html)
 
 - [ ] **Player**
 	- [x] look around/mouse follow
 	- [x] player can move
-	- [ ] configure animation player
-	- [ ] dash
+	- [x] configure animation player
 	- [ ] health
 
 - [ ] **Shooting**
@@ -47,13 +43,13 @@ Of
 	- [ ] score calculation(per bounce multiplier of 2 when hitting walls)
 	- [x] bounce
 	- [ ] destruction(wall/player/bullet)
-	- [ ] walls
+	- [x] walls
 
-- [ ] **Enemy**
-	- [ ] movement
-		- [ ] navigation mesh
+- [x] **Enemy**
+	- [x] movement
+		- [x] navigation mesh
 	- [ ] state machine
-		- [ ] detection
+		- [x] detection
 	- [ ] health
 
 - [ ] **Miscellaneous**
