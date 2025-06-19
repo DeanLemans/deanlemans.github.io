@@ -8,47 +8,37 @@ tags:
 ---
 > [!info]
 > I will put reviews in here someday
-# My favorite fiction books are:
 
-**[godclads](https://www.royalroad.com/fiction/59663/godclads)** by OstensibleMammal.
 
-![GODCLADS](GODCLADS.jpg)
+## My favorite fiction books are:
 
-**[Thresholder](https://www.royalroad.com/fiction/60396/thresholder)** by Alexander Wales.
+| [godclads](https://www.royalroad.com/fiction/59663/godclads) | [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) | [Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed) |
+|----------|----------|----------|
+| <img src="GODCLADS.jpg" width="100"/> | <img src="TRESHOLDER.jpg" width="100"/> | <img src="TENEBROUM.jpg" width="100"/> |
+| OstensibleMammal   | Alexander Wales   | DWinchester   |
 
-![TRESHOLDER](TRESHOLDER.jpg)
 
-**[Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed)** by DWinchester.
+| [REND](https://www.royalroad.com/fiction/32615/rend) | [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) | [Ar'Kendrithyst](https://www.royalroad.com/fiction/26727/arkendrithyst) |
+|----------|----------|----------|
+| <img src="REND.jpg" width="100"/> | <img src="GHOST-IN-THE-CITY.jpg" width="100"/> | <img src="ARKENDRITHYST.jpg" width="100"/> |
+| Temple   | Seras   | Arcs  |
 
-![TENEBROUM](TENEBROUM.jpg)
 
-**[REND](https://www.royalroad.com/fiction/32615/rend)** by Temple.
 
-![REND](REND.jpg)
+---
 
-**[Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si)** by Seras.
 
-![GHOST-IN-THE-CITY](GHOST-IN-THE-CITY.jpg)
+## Favorite non-fiction books are:
 
-[Ar'Kendrithyst](https://www.royalroad.com/fiction/26727/arkendrithyst)
-![[assets/post/arkendrithyst.jpg]]
-# Favorite non-fiction books are:
+| [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) | [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) | [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) |
+|----------|----------|----------|
+| <img src="THE-MYTH-OF-SISYPHUS.jpg" width="100"/> | <img src="THE-PSYCHOLOGY-OF-MONEY.jpg" width="100"/> | <img src="ATOMIC-HABITS.jpg" width="100"/> |
+| Albert Camus   | Morgan Housel   | James Clear   |
 
-**[The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)** by Albert Camus.
-
-![THE-MYTH-OF-SISYPHUS](THE-MYTH-OF-SISYPHUS.jpg)
-
-**[The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)** by Morgan Housel.
-
-![THE-PSYCHOLOGY-OF-MONEY](THE-PSYCHOLOGY-OF-MONEY.jpg)
-
-**[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)** by James Clear.
-
-![ATOMIC-HABITS](ATOMIC-HABITS.jpg)
-
-**[Nausea](https://www.goodreads.com/book/show/298275.Nausea)** by Jean-Paul Sartre.
-
-![NAUSEA](NAUSEA.JPG)
+| [Nausea](https://www.goodreads.com/book/show/298275.Nausea) |
+|----------|
+| <img src="NAUSEA.JPG" width="100"/> |
+| Jean-Paul Sartre   |
 
 >[!info]
 > also check out my [[game-list]]
