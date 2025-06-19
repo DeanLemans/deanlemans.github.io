@@ -21,8 +21,8 @@ alias:
 >- Intermediate experience in [Zed](https://zed.dev/).
 
 >[!info]Work Experience
->- Shelf-Stocker(2 years)
->- Gardener(1 year) *current*
+>- Shelf-Stocker(1.5 years)
+>- Gardener(1.5 year) *current*
 
 > [!info]Education
 >- [Udens College](https://www.udenscollege.nl/)
