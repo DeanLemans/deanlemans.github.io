@@ -20,7 +20,7 @@ tags:
 
 | [REND](https://www.royalroad.com/fiction/32615/rend) | [Ghost in the City](https://www.royalroad.com/fiction/62125/ghost-in-the-city-cyberpunk-gamer-si) | [Ar'Kendrithyst](https://www.royalroad.com/fiction/26727/arkendrithyst) |
 |----------|----------|----------|
-| <img src="REND.jpg" width="100"/> | <img src="GHOST-IN-THE-CITY.jpg" width="100"/> | <img src="ARKENDRITHYST.jpg" width="100"/> |
+| <img src="REND.jpg" width="100"/> | <img src="GHOST-IN-THE-CITY.jpg" width="100"/> | <img src="arkendrithyst.jpg" width="100"/> |
 | Temple   | Seras   | Arcs  |
 
 
