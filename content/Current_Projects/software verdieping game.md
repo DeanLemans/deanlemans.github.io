@@ -101,10 +101,6 @@ Progress per week:
 > 
 > Eneny will chase you when you are within its raycast, and will continue following you 5 seconds after you left its raycast
 
-to format:
-reload scene when enemy touches you
-interactable
-
 Difficulties:
 
 that the origin is spinning with the mouse follow, problem was that could shoot myself in the face. so I had to lock the origin of the bullets to fix it.
