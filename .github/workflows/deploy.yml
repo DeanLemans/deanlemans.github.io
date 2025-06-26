@@ -36,9 +36,6 @@ jobs:
 
   deploy-to-github-pages:
     needs: build
-    environment:
-      name: public
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Download artifact
@@ -68,3 +65,4 @@ jobs:
           neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsupported files filter.
           preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
           dist_dir: public
+          
