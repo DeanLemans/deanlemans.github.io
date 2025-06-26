@@ -31,12 +31,13 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: public
           path: public
 
   deploy-to-github-pages:
     needs: build
-    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -44,7 +45,6 @@ jobs:
 
   deploy-to-neocities:
     needs: build
-    runs-on: ubuntu-22.04
     steps:
       - name: Download artifact
         uses: actions/download-artifact@v4
