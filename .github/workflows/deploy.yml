@@ -38,6 +38,10 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for git info
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
@@ -65,4 +69,3 @@ jobs:
           neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsupported files filter.
           preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
           dist_dir: public
-          
