@@ -73,10 +73,10 @@ Progress per week:
 > ![[../assets/github release.png]]
 
 > [!Map]- Week 4:
->- sick: but I'm begining to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
+>- sick: but I'm beginning to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
 
 > [!Map]- Week 5:
->- finished moving my site to new framework
+>- finished moving my site to new framework, and uploading this to my site.
 >- implemented basic bounce to game
 >![[../assets/bounce script.png]]
 >- updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
@@ -104,3 +104,5 @@ Progress per week:
 Difficulties:
 
 that the origin is spinning with the mouse follow, problem was that could shoot myself in the face. so I had to lock the origin of the bullets to fix it.
+
+interactions was difficult to work with
