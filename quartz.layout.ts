@@ -51,16 +51,16 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Graph({
         localGraph: {
           depth: 1, // how many hops of notes to display
-          scale: 2, // default view scale
-          fontSize: 0.7, // what size should the node labels be?
+          scale: 1.5, // default view scale
+          fontSize: 1, // what size should the node labels be?
           showTags: true, // whether to show tags in the graph
           enableRadial: true, // whether to constrain the graph, similar to Obsidian
         },
         globalGraph: {
           depth: -1,
           scale: 1,
-          fontSize: 0.7,
-          showTags: true, // whether to show tags in the graph
+          fontSize: 1.5,
+          showTags: false, // whether to show tags in the graph
           enableRadial: true, // whether to constrain the graph, similar to Obsidian
         },
       }),
