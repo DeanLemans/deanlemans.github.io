@@ -35,9 +35,6 @@ jobs:
 
   deploy-to-github-pages:
     needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
@@ -46,9 +43,6 @@ jobs:
 
   deploy-to-neocities:
     needs: build
-    environment:
-      name: neocities
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-22.04
     steps:
       - name: Download artifact
