@@ -46,6 +46,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Ensure the artifact name matches
+          artifact: public
 
   deploy-to-neocities:
     needs: build
