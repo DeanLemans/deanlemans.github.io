@@ -44,11 +44,10 @@ jobs:
           name: public
           path: public
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          # Ensure the artifact name matches
-          artifact: public
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
 
   deploy-to-neocities:
     needs: build
@@ -68,4 +67,3 @@ jobs:
           neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsupported files filter.
           preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
           dist_dir: public
-          
