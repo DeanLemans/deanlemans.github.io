@@ -1,4 +1,4 @@
-name: Deploy Quartz sites
+name: Deploy to Neocities
 
 on:
   push:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "neocities"
   cancel-in-progress: false
 
 jobs:
@@ -34,24 +34,7 @@ jobs:
           name: public
           path: public
 
-  deploy-to-github-pages:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: public
-          path: public
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  deploy-to-neocities:
+  deploy:
     needs: build
     runs-on: ubuntu-22.04
     steps:
@@ -69,3 +52,4 @@ jobs:
           neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsupported files filter.
           preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
           dist_dir: public
+          
