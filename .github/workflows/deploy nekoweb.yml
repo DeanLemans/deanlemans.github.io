@@ -43,12 +43,12 @@ jobs:
         with:
           name: public
           path: public
-          
+
       - name: Deploy to Nekoweb
         id: deployment
         uses: indiefellas/deploy2nekoweb@v4
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
-          nekoweb-folder: 'public'
+          nekoweb-folder: 'site'
           directory: 'public'
           
