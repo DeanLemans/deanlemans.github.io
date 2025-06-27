@@ -10,8 +10,8 @@ alias:
 
 >[!info] Introduction
 >- Hello, I am Dean and I'm an aspiring Game Developer! 👋
->- I have the most experience with Godot.
->- I also have some experience with Unity.
+>- I am experienced in Godot.
+
 >- Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
 
 >[!info]Developer Experience
@@ -22,7 +22,7 @@ alias:
 
 >[!info]Work Experience
 >- Shelf-Stocker(1.5 years)
->- Gardener(1.5 year) *current*
+>- Freelance Gardener(1.5 year) *current*
 
 > [!info]Education
 >- [Udens College](https://www.udenscollege.nl/)

@@ -4,29 +4,29 @@ title: "Home"
 >[!info]Checkout my **[[CV|Portofolio]]!**
 
 # Hello! My name is Dean
-- I'm a Software Development student at [SintLucas](https://www.sintlucas.nl/)
+- I'm a freelance Gardener.
 - I'm trying to become a Indie Game Developer.
 - I mainly use the Godot game engine.
 
 ![me](avatar-2.jpg)
 
-## I like [Open Source](https://opensource.org/osd) And making Games
+## I like making Games, Gardening and, [Open Source](https://opensource.org/osd)
 
 - The software I use:
     - OS: [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and [GrepheneOS](https://grapheneos.org/).
     - Game Engine: [Godot](https://godotengine.org/).
-    - IDE: [Zed](https://zed.dev/) and [VSCodium](https://vscodium.com/).
-    - Browser: [Thorium](https://thorium.rocks/).
+    - IDE: [Zed](https://zed.dev/).
 
 
 > [!info] Get to know me!
 >- See my [[book-list|Book-List]]
->- and [[game-list|Game-List]]
->- [[Finished-Projects]]
+>- My [[game-list|Game-List]]
+>- and [[Finished-Projects]]
 
 ## Repositories plans
-- I'm planning to transfer all of my repositories from Github to either [Codeberg](https://codeberg.org/) or [Radicle](https://radicle.xyz/).
-But for now school wants me to use github *(as it's the most popular code hosting site)*.
+I plan to use [GitHub](https://github.com) for publicity, [Codeberg](https://codeberg.org) for my real work, and [Radicle](https://radicle.xyz) for backups.
+I am going to mirror between all of these eventually(when I have time)
+
 
 >[!info] Contact
 >- See my **[Contact Links](https://linksta.cc/@Dean)**
