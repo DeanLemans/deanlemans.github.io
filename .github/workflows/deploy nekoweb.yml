@@ -43,12 +43,12 @@ jobs:
         with:
           name: public
           path: public
+          
       - name: Deploy to Nekoweb
         id: deployment
         uses: indiefellas/deploy2nekoweb@v4
         with:
-          api_key: ${{ secrets.NEKOWEB_API_KEY }}
-          cleanup: false
-          preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
-          dist_dir: public
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
+          nekoweb-folder: 'public'
+          directory: 'public'
           
