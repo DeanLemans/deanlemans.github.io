@@ -12,16 +12,6 @@
 			"label":"game 1"
 		},
 		{
-			"id":"c8e6877e9ce20016",
-			"styleAttributes":{},
-			"type":"group",
-			"x":-1065,
-			"y":340,
-			"width":570,
-			"height":360,
-			"label":"game 2"
-		},
-		{
 			"id":"8c6fd3946dfde0bc",
 			"styleAttributes":{},
 			"type":"group",
@@ -32,6 +22,16 @@
 			"label":"progress week 2"
 		},
 		{
+			"id":"c8e6877e9ce20016",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1065,
+			"y":340,
+			"width":570,
+			"height":360,
+			"label":"game 2"
+		},
+		{
 			"id":"bb6daae90ea526ab",
 			"styleAttributes":{},
 			"text":"**player follows mouse**",
@@ -40,16 +40,6 @@
 			"y":-300,
 			"width":220,
 			"height":60
-		},
-		{
-			"id":"7598ff1aad8607fb",
-			"styleAttributes":{},
-			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
-			"type":"text",
-			"x":40,
-			"y":-301,
-			"width":400,
-			"height":61
 		},
 		{
 			"id":"1baf10e5c223e3c4",
@@ -92,26 +82,6 @@
 			"height":314
 		},
 		{
-			"file":"assets/godot-git-plugin.png",
-			"id":"67f03ac8467dfa68",
-			"styleAttributes":{},
-			"type":"file",
-			"x":40,
-			"y":-211,
-			"width":400,
-			"height":237
-		},
-		{
-			"id":"5a96137c27fd8798",
-			"styleAttributes":{},
-			"text":"Everytime I commit and push github actions automatically builds and creates a release.",
-			"type":"text",
-			"x":-60,
-			"y":40,
-			"width":380,
-			"height":60
-		},
-		{
 			"id":"5dfa738119dcadb9",
 			"styleAttributes":{},
 			"text":"2D topdown game waarbij je bullets van voorwerpen kaatsten(_Physics engine_),\n\nenemies gaan je volgen je als je in bepaalde afstand komt(_state-machine_), \n\nals ze je na 5 seconden niet kunnen zien gaan ze terug naar hun orginele positie.\n",
@@ -130,6 +100,36 @@
 			"y":-210,
 			"width":280,
 			"height":191
+		},
+		{
+			"id":"7598ff1aad8607fb",
+			"styleAttributes":{},
+			"text":"**configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.** ",
+			"type":"text",
+			"x":40,
+			"y":-301,
+			"width":400,
+			"height":61
+		},
+		{
+			"file":"assets/godot-git-plugin.png",
+			"id":"67f03ac8467dfa68",
+			"styleAttributes":{},
+			"type":"file",
+			"x":40,
+			"y":-211,
+			"width":400,
+			"height":237
+		},
+		{
+			"id":"5a96137c27fd8798",
+			"styleAttributes":{},
+			"text":"Everytime I commit and push github actions automatically builds and creates a release.",
+			"type":"text",
+			"x":-60,
+			"y":40,
+			"width":380,
+			"height":60
 		},
 		{
 			"file":"assets/godot CI.png",
