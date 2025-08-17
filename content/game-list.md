@@ -172,6 +172,8 @@ tags:
 
 - [Endacopia](https://store.steampowered.com/app/2684630/Endacopia)
 
+- [Neverway](https://neverwaygame.com/)
+
 - [Constance](https://store.steampowered.com/app/2313700/Constance)
 
 - [.45 PARABELLUM BLOODHOUND](https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action)
@@ -183,6 +185,10 @@ tags:
 - [Earthblade](https://exok.com/games/earthblade)
 
 - [Possessor(s)](https://store.steampowered.com/app/2132890/Possessors)
+
+- [DOWNHILL](https://store.steampowered.com/app/3433000/DOWNHILL/)
+
+- [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 
 - [Crowsworn](https://crowsworn.com)
 
@@ -202,11 +208,24 @@ tags:
 
 - [REPLACED](https://playreplaced.com/)
 
+- [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
+	- [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/)
+
+- [Margin of the Strange](https://marginofthestrange.com/)
+
 - [Sword of the Sea](https://swordoftheseagame.com)
 
 - [Lily's Well](https://pureiceblue.itch.io/lilys-well)
 
 - [Lost Cartridge](https://pureiceblue.itch.io/lost-cartridge-cold-read)
+
+- [Who's Lila?](https://whoslila-press.carrd.co/)
+
+- [PRAGMATA](https://www.capcom-games.com/pragmata/)
+
+- [Without a Dawn](https://jessemakkonen.com/without_a_dawn.html)
+
+- [s.p.l.i.t](https://store.steampowered.com/app/3684610/split)
 
 - [Road to Vostok](https://www.roadtovostok.com)
 
@@ -214,9 +233,13 @@ tags:
 
 - [Late Homework](https://sodaraptor.itch.io/late-homework)
 
+- [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
+
 - [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
+
+- [Bad Parenting](https://badparentingame.com/)
 
 - [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs)
 
@@ -228,6 +251,8 @@ tags:
 
 - [The Big Catch](https://thebigcatchgame.com)
 
+- [NeverAwake](https://store.steampowered.com/app/1727180/NeverAwake/)
+
 - [Slayers X: Terminal Aftermath](https://store.steampowered.com/app/1931020/Slayers_X_Terminal_Aftermath_Vengance_of_the_Slayer)
 
 - [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL)
@@ -238,6 +263,8 @@ tags:
     * [Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
 
 - [Evil Tonight](https://dyagames.itch.io/evil-tonight)
+
+- [Gunmetal Gothic](https://ynoham.com/)
 
 - [The Forgotten City](https://forgottencitygame.com)
 
