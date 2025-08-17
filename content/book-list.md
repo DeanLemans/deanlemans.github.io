@@ -7,7 +7,7 @@ tags:
   - explorerexclude
 ---
 > [!info]
-> I will put reviews in here someday
+> I will put reviews in here someday, but i will first have to reorganize
 
 
 ## My favorite fiction books are:
@@ -39,6 +39,11 @@ tags:
 |----------|
 | <img src="NAUSEA.JPG" width="100"/> |
 | Jean-Paul Sartre   |
+
+
+### Read
+
+[azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
 >[!info]
 > also check out my [[game-list]]
