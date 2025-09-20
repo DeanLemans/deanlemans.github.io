@@ -1,8 +1,3 @@
----
-title: Software Verdieping Main
----
-
-docenten voor hulp shaders: Angelo Lafaye and David Buzzi, jorrit
 
 > [!Map]- General Plan
 > - 3 kleine games maken in deze period waar ik verschillende onderwerpen mix.  

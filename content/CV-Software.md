@@ -21,12 +21,12 @@ alias:
 > - Intermediate experience in [Zed](https://zed.dev/).
 
 > [!info]Work Experience
-> - Shelf-Stocker(1.5 years)
+> - Shelf-Stocker(2 years)
 > - Freelance Gardener(1.5 year) *current*
 
 > [!info]Education
 > - [Udens College](https://www.udenscollege.nl/)
-> - Software Development at [SintLucas](https://www.sintlucas.nl/) (Current)
+> - Software Development at [SintLucas](https://www.sintlucas.nl/)
 
 > [!info]Hobbies
 > 
