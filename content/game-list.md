@@ -4,7 +4,7 @@ description: collection of games
 date: 2024-10-08 00:00:00 +0100
 ---
 
-> [!info]  
+> [!info]
 > I prefer Itch to Steam links.
 
 ## My Favorite Games!
@@ -15,12 +15,20 @@ date: 2024-10-08 00:00:00 +0100
 - [Alan wake 2](https://www.alanwake.com)
 - [Nine Sols](https://store.steampowered.com/app/1809540/Nine_Sols)
 - [ENA: Dream BBQ](https://joelgc.com)
-- [Purgatory 1](https://memoriesoffear.jcink.net/index.php?showtopic=68) + [Remake](https://store.steampowered.com/app/2851770/NARAKU)
-  - [Purgatory 2](https://memoriesoffear.jcink.net/index.php?showtopic=85)
+<details>
+	<summary>
+		<a href="https://memoriesoffear.jcink.net/index.php?showtopic=68">Purgatory 1</a> + <a href="https://store.steampowered.com/app/2851770/NARAKU">Remake</a>
+	</summary>
+	<article>
+		<ul>
+			<li><a href="https://memoriesoffear.jcink.net/index.php?showtopic=85">Purgatory 2</a></li>
+		</ul>
+	</article>
+</details>
 - [Undertale](https://undertale.com)
 - [Little Big Planet 2 + 3](https://www.lbpunion.com)
 - [Control](https://www.remedygames.com/games/control)
-- [Deltarune](https://deltarune.com)  
+- [Deltarune](https://deltarune.com)
 <details>
 	<summary>
 		<a href="https://store.steampowered.com/app/1675830/1000xRESIST/">1000xRESIST</a>
@@ -45,16 +53,30 @@ date: 2024-10-08 00:00:00 +0100
 - [Hades 1 + 2](https://www.supergiantgames.com/games/hades-ii)
 - [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
 - [Illusion Carnaval](https://kiz-qi.itch.io/illusion-carnival)
-- [Ori and](https://www.orithegame.com/)
-	- [The Blind Forest](https://www.orithegame.com/blind-forest)
-	- [The Will of the Wisps](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps)
+<details>
+	<summary>
+		<a href="https://www.orithegame.com/">Ori and</a>
+	</summary>
+	<article>
+		<ul>
+			<li><a href="https://www.orithegame.com/blind-forest">The Blind Forest</a></li>
+			<li><a href="https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps">The Will of the Wisps</a></li>
+		</ul>
+	</article>
+</details>
 - [psychopomp: GOLD](https://store.steampowered.com/app/3243190/Psychopomp_GOLD/) + [original](https://karbonic.itch.io/psychopomp)
 - [YUKI](https://visualmemoryunit.itch.io/yuki)
 - [Milya(broken)](https://lol-rust.itch.io/milyabroken)
 - [neva](https://neva.game)
 - [Super Mario Bros. Wii](https://www.mariowiki.com/New_Super_Mario_Bros._Wii)
-- [Katana ZERO + DLC](https://katanazero.com) 
-	- Where is the dlc?
+<details>
+	<summary>
+		<a href="https://katanazero.com">Katana ZERO + DLC</a>
+	</summary>
+	<article>
+		<p>Where is the dlc?</p>
+	</article>
+</details>
 
 ### Games I Really Enjoyed Playing.
 
@@ -160,7 +182,7 @@ date: 2024-10-08 00:00:00 +0100
 - [DOWNHILL](https://store.steampowered.com/app/3433000/DOWNHILL/)
 - [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 - [Crowsworn](https://crowsworn.com)
-- [Clair Obscur: Expedition 33](https://www.expedition33.com)
+- [Clair Obscure: Expedition 33](https://www.expedition33.com)
 - [Reanimal](https://reanimal.thqnordic.com)
 - [Tenjutsu](https://www.devolverdigital.com/games/tenjutsu)
 - [Morsels](https://furcula.ca)
@@ -168,8 +190,16 @@ date: 2024-10-08 00:00:00 +0100
 - [Cairn](https://store.steampowered.com/app/1588550/Cairn)
 - [Lacey's Flash Games](https://laceysflashgames.itch.io/laceys-flash-games)
 - [REPLACED](https://playreplaced.com/)
-- [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
-	- [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/)
+<details>
+	<summary>
+		<a href="https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/">Milk inside a bag of milk inside a bag of milk</a>
+	</summary>
+	<article>
+		<ul>
+			<li><a href="https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/">Milk outside a bag of milk outside a bag of milk</a></li>
+		</ul>
+	</article>
+</details>
 - [Margin of the Strange](https://marginofthestrange.com/)
 - [Sword of the Sea](https://swordoftheseagame.com)
 - [Lily's Well](https://pureiceblue.itch.io/lilys-well)
@@ -184,12 +214,26 @@ date: 2024-10-08 00:00:00 +0100
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
-- [Hello charlotte](https://etherane.itch.io) 
-	- (all chapter + spinoffs)
-- [Oneshot](https://futurecat.itch.io/) 
-	- mods/fangames + bonus chapter(Solstice)
-	- [Equinox](https://kittehcreations.com/?a=1#mods)
-	- [fading memory](https://astrabit.itch.io/oneshot-fading-memory)
+<details>
+	<summary>
+		<a href="https://etherane.itch.io">Hello charlotte</a>
+	</summary>
+	<article>
+		<p>(all chapter + spinoffs)</p>
+	</article>
+</details>
+<details>
+	<summary>
+		<a href="https://futurecat.itch.io/">Oneshot</a>
+	</summary>
+	<article>
+		<ul>
+			<li>mods/fangames + bonus chapter(Solstice)</li>
+			<li><a href="https://kittehcreations.com/?a=1#mods">Equinox</a></li>
+			<li><a href="https://astrabit.itch.io/oneshot-fading-memory">fading memory</a></li>
+		</ul>
+	</article>
+</details>
 - [The Big Catch](https://thebigcatchgame.com)
 - [Slayers X: Terminal Aftermath](https://store.steampowered.com/app/1931020/Slayers_X_Terminal_Aftermath_Vengance_of_the_Slayer)
 - [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL)
@@ -206,8 +250,14 @@ date: 2024-10-08 00:00:00 +0100
 - [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
 - [MINDWAVE](https://holohammer.com/mindwave)
 - [Silent hill](https://www.konami.com/games/silenthill/gate) all
-- [OFF](https://store.steampowered.com/app/3339880/OFF/) 
-	- Play the remaster with mods
+<details>
+	<summary>
+		<a href="https://store.steampowered.com/app/3339880/OFF/">OFF</a>
+	</summary>
+	<article>
+		<p>Play the remaster with mods</p>
+	</article>
+</details>
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
 - Earthbound/mother 1 + 2 + 3 + original
 - [Gris](https://nomada.studio)
@@ -215,5 +265,5 @@ date: 2024-10-08 00:00:00 +0100
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 - [Demon Spore](https://demonspore.com)
 
-> [!info]  
+> [!info]
 > also check out my [book-list](<./book-list.md>)
