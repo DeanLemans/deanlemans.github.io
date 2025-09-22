@@ -92,28 +92,31 @@ date: 2024-10-08 00:00:00 +0100
 ---
 
 ### Game Backlog.
+
 <details>
 	<summary>
-		[Omori](https://www.omori-game.com).
+		<a href="https://www.omori-game.com">Omori</a>
 	</summary>
 	<article>
-		<p>[NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game</p>
-		<p>[AMBIEN](https://mods.one/mod/ambien)</p>
-		<p>[reverie](https://mods.one/mod/reverie)</p>
-		<p>[Autum break](https://mods.one/mod/autumnbreak)</p>
+		<p><a href="https://mods.one/mod/nemuri">NEMURI</a> + <a href="https://mods.one/mod/cep">CEP</a> for base game</p>
+		<p><a href="https://mods.one/mod/ambien">AMBIEN</a></p>
+		<p><a href="https://mods.one/mod/reverie">reverie</a></p>
+		<p><a href="https://mods.one/mod/autumnbreak">Autumn break</a></p>
 	</article>
 </details>
 <details>
-<summary>
-[Yume Nikki](https://www.yume.wiki/yume/Yume_Nikki)
-</summary>
-<article>
-	<p>- [Yume 2kki](https://yume.wiki/2kki/Yume_2kki_Wiki)</p>
-	<p>- [.flow](https://yume.wiki/flow/Downloads)</p>
-	<p>- [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)</p>
-	<p>- [LcdDem](https://guilvector.itch.io/lcddem)</p>
-	<p>- [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)</p>
-</article>
+	<summary>
+		<a href="https://www.yume.wiki/yume/Yume_Nikki">Yume Nikki</a>
+	</summary>
+	<article>
+		<ul>
+			<li><a href="https://yume.wiki/2kki/Yume_2kki_Wiki">Yume 2 kki</a></li>
+			<li><a href="https://yume.wiki/flow/Downloads">. flow</a></li>
+			<li><a href="https://yumenikkifg.fandom.com/wiki/Fleshchild">fleshchild</a></li>
+			<li><a href="https://guilvector.itch.io/lcddem">LcdDem</a></li>
+			<li><a href="https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY">Yume Nikki -DREAM DIARY-</a></li>
+		</ul>
+	</article>
 </details>
 
 - [Anthology of the killer](https://thecatamites.itch.io/anthology-of-the-killer)
@@ -181,8 +184,10 @@ date: 2024-10-08 00:00:00 +0100
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
-- [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs)
-- [Oneshot](https://futurecat.itch.io/) + mods/fangames + bonus chapter(Solstice)
+- [Hello charlotte](https://etherane.itch.io) 
+	- (all chapter + spinoffs)
+- [Oneshot](https://futurecat.itch.io/) 
+	- mods/fangames + bonus chapter(Solstice)
 	- [Equinox](https://kittehcreations.com/?a=1#mods)
 	- [fading memory](https://astrabit.itch.io/oneshot-fading-memory)
 - [The Big Catch](https://thebigcatchgame.com)
@@ -201,7 +206,8 @@ date: 2024-10-08 00:00:00 +0100
 - [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
 - [MINDWAVE](https://holohammer.com/mindwave)
 - [Silent hill](https://www.konami.com/games/silenthill/gate) all
-- [OFF](https://store.steampowered.com/app/3339880/OFF/) waiting for remaster
+- [OFF](https://store.steampowered.com/app/3339880/OFF/) 
+	- Play the remaster with mods
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
 - Earthbound/mother 1 + 2 + 3 + original
 - [Gris](https://nomada.studio)
