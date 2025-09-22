@@ -20,10 +20,25 @@ date: 2024-10-08 00:00:00 +0100
 - [Undertale](https://undertale.com)
 - [Little Big Planet 2 + 3](https://www.lbpunion.com)
 - [Control](https://www.remedygames.com/games/control)
-- [Deltarune](https://deltarune.com)
+- [Deltarune](https://deltarune.com)  
+<details>
+	<summary>
+		<a href="https://store.steampowered.com/app/1675830/1000xRESIST/">1000xRESIST</a>
+	</summary>
+	<article>
+		<p>Absolute amazing story and mechanics, but utter dogshit optimization</p>
+	</article>
+</details>
 - [Grimm’s Hollow](https://ghosthum.itch.io/grimms-hollow)
 - [Rayman 3](https://raymanpc.com/wiki/en/Rayman_3)
-- [Star Fetchers](https://svavelstickan.com/) (still need to play DLC)
+<details>
+	<summary>
+		<a href="https://svavelstickan.com/">Star Fetchers</a>
+	</summary>
+	<article>
+		<p>still need to play the DLC</p>
+	</article>
+</details>
 - [Celeste](https://www.celestegame.com)
 - [Pseudoregalia](https://rittzler.itch.io/pseudoregalia)
 - [Cult of the Lamb](https://www.cultofthelamb.com)
@@ -58,26 +73,49 @@ date: 2024-10-08 00:00:00 +0100
 
 ### Interesting Games.
 
-- [7 Days to End with You](https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/)
-	- Interesting concept, bit rough and not for everyone
-- [Devil Daggers](https://devildaggers.com)
-	- Very pretty but so much lost potential
-
+<details>
+	<summary>
+		<a href="https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/">7 Days to End with You</a>
+	</summary>
+	<article>
+		<p>Interesting concept, but to rough and not for everyone</p>
+	</article>
+</details>
+<details>
+	<summary>
+		<a href="https://devildaggers.com">Devil Daggers</a>
+	</summary>
+	<article>
+		<p>Very pretty but so much lost potential because its so short</p>
+	</article>
+</details>
 ---
 
 ### Game Backlog.
+<details>
+	<summary>
+		[Omori](https://www.omori-game.com).
+	</summary>
+	<article>
+		<p>[NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game</p>
+		<p>[AMBIEN](https://mods.one/mod/ambien)</p>
+		<p>[reverie](https://mods.one/mod/reverie)</p>
+		<p>[Autum break](https://mods.one/mod/autumnbreak)</p>
+	</article>
+</details>
+<details>
+<summary>
+[Yume Nikki](https://www.yume.wiki/yume/Yume_Nikki)
+</summary>
+<article>
+	<p>- [Yume 2kki](https://yume.wiki/2kki/Yume_2kki_Wiki)</p>
+	<p>- [.flow](https://yume.wiki/flow/Downloads)</p>
+	<p>- [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)</p>
+	<p>- [LcdDem](https://guilvector.itch.io/lcddem)</p>
+	<p>- [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)</p>
+</article>
+</details>
 
-- [Omori](https://www.omori-game.com).
-	- [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
-	- [AMBIEN](https://mods.one/mod/ambien)
-	- [reverie](https://mods.one/mod/reverie)
-	- [Autum break](https://mods.one/mod/autumnbreak)
-- [Yume Nikki](https://www.yume.wiki/yume/Yume_Nikki)
-  - [Yume 2kki](https://yume.wiki/2kki/Yume_2kki_Wiki)
-  - [.flow](https://yume.wiki/flow/Downloads)
-  - [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)
-  - [LcdDem](https://guilvector.itch.io/lcddem)
-  - [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)
 - [Anthology of the killer](https://thecatamites.itch.io/anthology-of-the-killer)
 - [The Thousand-Year Door](https://www.mariowiki.com/Paper_Mario:_The_Thousand-Year_Door)
 - [Stellar Blade](https://www.stellar-blade.com)
@@ -141,7 +179,6 @@ date: 2024-10-08 00:00:00 +0100
 - [PVKK](https://pvkk.game)
 - [Late Homework](https://sodaraptor.itch.io/late-homework)
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
-- [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
 - [Hello charlotte](https://etherane.itch.io) (all chapter + spinoffs)
