@@ -4,7 +4,7 @@ description: collection of games
 date: 2024-10-08 00:00:00 +0100
 ---
 
-> [!info]
+> [!info]  
 > I prefer Itch to Steam links.
 
 ## My Favorite Games!
@@ -81,7 +81,9 @@ date: 2024-10-08 00:00:00 +0100
 ### Games I Really Enjoyed Playing.
 
 - [Sackboy: A Big Adventure](https://store.steampowered.com/app/1599660/Sackboy_A_Big_Adventure)
-- [DUSK]()
+- [DUSK](https://store.steampowered.com/app/519860/DUSK/)
+	- Modern quake? Very good gameplay, could have a bit more lore.
+- [Poco](https://store.steampowered.com/app/3454610/Poco/)
 - [WEBFISHING](https://webfishing.net)
 - [Swords & Souls](https://armorgames.com/play/17817/swords-and-souls) + [Neverseen](https://armorgamesstudios.com/games/swords-and-souls-neverseen)
 - [Backpack Hero](https://thejaspel.itch.io/backpack-hero)
@@ -265,5 +267,5 @@ date: 2024-10-08 00:00:00 +0100
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 - [Demon Spore](https://demonspore.com)
 
-> [!info]
+> [!info]  
 > also check out my [book-list](<./book-list.md>)
