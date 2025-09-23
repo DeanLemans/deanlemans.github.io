@@ -1,5 +1,5 @@
-- 2025-09-22T0231 · [game-list](<./game-list.md>)
-- 2025-09-22T0010 · [Untitled](<./Untitled.md>)
+- 2025-09-23T0103 · [game-list](<./game-list.md>)
+- 2025-09-22T1617 · [book-list](<./book-list.md>)
 - 2025-09-20T1953 · [Research](<./Finished_Projects/Research.md>)
 - 2025-09-20T1857 · [index](<./index.md>)
 - 2025-09-20T1841 · [CV-Software](<./CV-Software.md>)
@@ -9,4 +9,3 @@
 - 2025-09-17T1625 · [on bullet shapes](<./Current_Projects/on bullet shapes.md>)
 - 2025-09-17T1625 · [godot-platformer](<./Finished_Projects/godot-platformer.md>)
 - 2025-09-17T1625 · [web-PointNClick](<./Finished_Projects/web-PointNClick.md>)
-- 2025-09-17T1624 · [book-list](<./book-list.md>)
