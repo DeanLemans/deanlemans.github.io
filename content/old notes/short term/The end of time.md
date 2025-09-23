@@ -1,5 +1,3 @@
-[Ai improved and afterwards changed the wording by me]
-
 In the depths of time, where eternities blend,
 We shall defy fate, to the very end.
 May my spirit persist, my body stand tall,
