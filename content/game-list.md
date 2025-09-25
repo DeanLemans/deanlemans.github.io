@@ -1,9 +1,7 @@
 ---
-title: Game Collection!
-description: collection of games
-date: 2024-10-08 00:00:00 +0100
-publish: "true"
+{"publish":true,"title":"Game Collection!","description":"collection of games","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-25T18:16:42.311+01:00","cssclasses":""}
 ---
+
 
 > [!info]  
 > I prefer Itch to Steam links.
