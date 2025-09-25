@@ -8,7 +8,10 @@ cssClasses:
 
 > [!info]  
 > I will put reviews in here someday, but i will first have to reorganize
+> 
 
+
+[[books]]
 ```dataview
 Table author as Author, ( "![](" + cover + ")" ) AS cover
 From "books"
