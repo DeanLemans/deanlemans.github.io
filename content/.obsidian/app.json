@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "Changelog.md"
+  ]
+}

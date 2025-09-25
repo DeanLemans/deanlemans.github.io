@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#6a35fd",
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false
+}

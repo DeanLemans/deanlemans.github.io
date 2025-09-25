@@ -1,0 +1,20 @@
+{
+  "targetFolderPath": "books",
+  "fileName": "{{title}}",
+  "goodreadsBaseUrl": "https://www.goodreads.com/review/list_rss/194076050?key=wjjTpcRAfaA4dTKEeqDY1FkCtVHs6QxogqyQZBS525-NYNBd&shelf=",
+  "goodreadsShelves": "Read",
+  "frontmatterDictionary": {
+    "id": "id",
+    "author": "author",
+    "title": "title",
+    "isbn": "isbn",
+    "pages": "pages",
+    "coverImage": "coverImage",
+    "cover": "cover"
+  },
+  "bodyString": "# {{title}}\n\nby: [[{{author}}]]\n\n![[{{coverImage}}]]",
+  "frequency": "0",
+  "overwrite": true,
+  "coverDownload": true,
+  "coverDownloadLocation": "books/covers"
+}

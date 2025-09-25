@@ -1,0 +1,14 @@
+{
+  "excludePaths": [
+    "book-list.md"
+  ],
+  "includePaths": [],
+  "shouldAllowEmptyEmbedAlias": true,
+  "shouldAutomaticallyConvertNewLinks": true,
+  "shouldAutomaticallyUpdateLinksOnRenameOrMove": true,
+  "shouldIgnoreIncompatibleObsidianSettings": false,
+  "shouldIncludeAttachmentExtensionToEmbedAlias": true,
+  "shouldPreserveExistingLinkStyle": false,
+  "shouldUseAngleBrackets": true,
+  "shouldUseLeadingDot": true
+}
