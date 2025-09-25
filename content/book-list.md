@@ -1,15 +1,11 @@
 ---
-{"publish":true,"title":"Dean's Library!","description":"Some books i have read","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-25T21:09:29.459+01:00","cssclasses":""}
+{"publish":true,"title":"Dean's Library!","description":"Some books i have read","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-25T22:18:45.639+01:00","published":"2024-10-08 00:00:00 +0100","cssclasses":""}
 ---
 
 
-> [!info]
-> I will put reviews in here someday, but i will first have to reorganize
->
-
-
 [[books]]
-| File                                                                                    | Author           | ( "![](" + cover + ")" )                                                                                     |
+
+| File                                                                                    | Author           | cover                                                                                                        |
 | --------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[books/A House Reborn\|A House Reborn]]                                             | Mark Arrows      | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697328855l/179846196._SY475_.jpg) |
 | [[books/An Unborn Hero\|An Unborn Hero]]                                             | Cathfach         | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717535837l/214244416._SY475_.jpg) |
@@ -81,8 +77,6 @@
 | [[books/Vigor Mortis\|Vigor Mortis]]                                                 | Natalie Maher    | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623906460l/58358714._SX318_.jpg)  |
 
 
-
-
 ## My Favorite Fiction Books Are:
 
 | [godclads](https://www.royalroad.com/fiction/59663/godclads) | [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) | [Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed) |
@@ -113,5 +107,5 @@
 
 [azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
-> [!info]
+> [!info]  
 > also check out my [game-list](<./game-list.md>)

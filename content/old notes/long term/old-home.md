@@ -1,3 +1,5 @@
+See my [home](<../../home.md>)
+
 [[Goals]]
 - simplify my obsidian structure. WIP
 - Do ?? and sell it for 10 euro and do this 10 times another 10 times and then another 10 times.
@@ -6,7 +8,7 @@
 
 ### Future
 
-- research supplements, (follow [[old notes/Blueprint]] recommended supplements)
+- research supplements, (follow [Blueprint](<../Blueprint.md>) recommended supplements)
 - try out Polyphasic Sleep patterns
 
 ### Distant Dreams
@@ -61,5 +63,5 @@ chaos and order combined
 the anvil and hammer  
 to forge myself
 
-[[old notes/long term/old-home]]  
-[[old notes/long term/My Thought]]
+[old-home](<./old-home.md>)  
+[My Thought](<./My Thought.md>)

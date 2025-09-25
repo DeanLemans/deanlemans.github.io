@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2025-09-25T20:38:23.203+01:00","modified":"2025-09-25T20:38:23.204+01:00","cssclasses":""}
+{"publish":true,"title":"Home","created":"2025-09-25T20:38:23.203+01:00","modified":"2025-09-25T22:25:58.090+01:00","published":"2025-09-25T22:25:58.090+01:00","cssclasses":""}
 ---
 
 
@@ -8,10 +8,11 @@
 # Hello! My name is Dean
 
 - I'm a freelance Gardener.
-- I'm trying to become a Indie Game Developer.
-- I mainly use the Godot game engine.
+	- I'm mostly focused on maintenance
+- I'm indie software developer
+	- I mainly use the Godot game engine.
 
-![me](<./assets/personal/avatar-2.jpg>)
+![me](assets/personal/deanpfp.jpg)
 
 ## I like Making Games, Gardening And, [Open Source](https://opensource.org/osd)
 
