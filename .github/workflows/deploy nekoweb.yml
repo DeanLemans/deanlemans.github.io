@@ -1,9 +1,7 @@
 name: Deploy to Nekoweb
 
 on:
-  push:
-    branches:
-      - v4
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -49,6 +47,5 @@ jobs:
         uses: indiefellas/deploy2nekoweb@v4
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
-          nekoweb-folder: '/'
-          directory: 'public'
-          
+          nekoweb-folder: "/"
+          directory: "public"
