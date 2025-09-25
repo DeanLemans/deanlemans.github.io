@@ -1,1 +1,0 @@
-A philosophy that is focused on idividuality, pragmatism, actions have consucuenses, that life has no meaning and that you must create/find it yourself, the persuitment of knowledge and wisdom, and risilience in the face of adversity. Give me a list of philosophy that is related to this, name old/lost/obscure philosophies
