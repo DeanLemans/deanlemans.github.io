@@ -1,0 +1,44 @@
+---
+title: Portofolio
+alias:
+  - "CV"
+---
+
+> [!info]- Click here for my CV  
+> ***[PDF Version](<./assets/CV-DeanLemans.pdf>)***  
+> ![100x00](<./assets/CV-DeanLemans.pdf>)
+
+> [!info] Introduction
+> - Hello, I am Dean and I'm an aspiring Game Developer! 👋
+> - I am experienced in Godot.
+
+> - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
+
+> [!info]Developer Experience
+> - Intermediate experience in [Godot](https://godotengine.org/).
+> - Beginner experience in [Git](https://git-scm.com/).
+> - Advanced experience in [Github](https://github.com/DeanLemans).
+> - Intermediate experience in [Zed](https://zed.dev/).
+
+> [!info]Work Experience
+> - Shelf-Stocker(2 years)
+> - Freelance Gardener(1.5 year) *current*
+
+> [!info]Education
+> - [Udens College](https://www.udenscollege.nl/)
+> - Software Development at [SintLucas](https://www.sintlucas.nl/)
+
+> [!info]Hobbies
+> 
+> - [Gaming](<./game-list.md>)
+> - Gardening
+> - Mangas
+> - [Novels](<./book-list.md>)
+
+> [!info]Projects
+> - [Finished-Projects](<./Finished-Projects.md>)
+> - [Github Repos](https://github.com/DeanLemans?tab=repositories)
+
+> [!info]Languages
+> - Dutch *(Native)*
+> - English *(Advanced)*
