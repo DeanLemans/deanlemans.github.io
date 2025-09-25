@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9e5794b9fabd9988",
+    "type": "split",
+    "children": [
+      {
+        "id": "64529de00ce49ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49b17da9bfaff27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game-list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "game-list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cfad8902fdcbdcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db0abd1bd81eb0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbabbb8db12b58a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "09ed40b75f4369f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab62431ca56d0bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "981f15fb10b78973",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book-list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from book-list"
+            }
+          },
+          {
+            "id": "2fdd2cb3ab17e47c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "game-list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of game-list"
+            }
+          },
+          {
+            "id": "c4e68394be767c6c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3167135770692ab5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "game-list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for game-list"
+            }
+          },
+          {
+            "id": "5fd116aedb1cabcd",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "soundscapes:Soundscapes: My Music": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "graph:Open graph view": false,
+      "iconic:Open rulebook": true,
+      "random-note:Open random note": true,
+      "obsidian42-brat:BRAT": true,
+      "bases:Create new base": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "booksidian-plugin:Booksidian Sync": false
+    }
+  },
+  "active": "d49b17da9bfaff27",
+  "lastOpenFiles": [
+    "book-list.md",
+    "books/A House Reborn.md",
+    "game-list.md",
+    "books.md",
+    "coverImage.md",
+    "books/Delve.md",
+    "books/covers/179851193.jpg",
+    "books/covers/41881472.jpg",
+    "books/covers/179846196.jpg.md",
+    "books/covers/171511557.jpg",
+    "books/covers/198960763.jpg",
+    "books/covers/52976967.jpg",
+    "books/covers/230513370.jpg",
+    "books/covers/214935110.jpg",
+    "books/covers/123852910.jpg",
+    "books/covers/209421830.jpg",
+    "books/covers/204770694.jpg",
+    "books/covers",
+    "Finished_Projects/Research-Bali.md",
+    "title.md",
+    "books/An Unborn Hero.md",
+    "books/ArKendrithyst.md",
+    "old notes/short term/Phone Notes.md",
+    "undefined.md",
+    "books/covers",
+    "books/Azarinth Healer.md",
+    "books/Vigor Mortis.md",
+    "books/Speedrunning the Multiverse.md",
+    "books/Speedrunning the Multiverse 2.md",
+    "books/Speedrunning the Multiverse 3.md",
+    "books/Speedrunning the Multiverse 4.md",
+    "books/Kitty Cat Kill Sat.md",
+    "books/Tenebroum.md",
+    "books/Sylver Seeker.md",
+    "books/Electric Angel.md",
+    "books/Ghost Chrysalis.md",
+    "books/Fortunes Envoy.md",
+    "books/Jovian Reverie.md",
+    "books",
+    "book view.base",
+    "books",
+    "Research",
+    "old notes/short term/Standard Notes Export",
+    "old notes/short term",
+    "old notes/People",
+    "old notes/long term",
+    "Current_Projects/software verdieping canvas.canvas",
+    "Current Projects/software verdieping canvas.canvas",
+    "projects/software verdieping canvas.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "workTime": 20,
+  "shortBreakTime": 5,
+  "longBreakTime": 15,
+  "intervalsBeforeLongBreak": 4,
+  "showIcon": true,
+  "showInStatusBar": true,
+  "soundEnabled": true,
+  "selectedSound": "triangle.wav",
+  "soundVolume": 1,
+  "customSoundUrl": ""
+}
