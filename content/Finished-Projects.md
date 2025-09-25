@@ -1,10 +1,9 @@
 ---
 title: "Finished Projects"
 ---
-> [!info] [[Finished_Projects/godot-platformer|Godot Platformer]]
-> ![[first-godot-game.png]]
 
-> [!info] [[Finished_Projects/web-PointNClick|Web PointNClick]]
-> ![[Point-and-click-adventure.png]]
+> [!info] [Godot Platformer](<./Finished_Projects/godot-platformer.md>)  
+> ![](<./assets/post/first-godot-game.png>)
 
-(need to add more projects here, for now you can check out more on my [Github](https://github.com/DeanLemans))
+> [!warning]  
+> (need to completely revamp this and add gardening projects, for software related stuff see [My Github](https://github.com/DeanLemans))
