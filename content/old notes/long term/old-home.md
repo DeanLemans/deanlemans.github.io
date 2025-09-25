@@ -6,7 +6,7 @@
 
 ### Future
 
-- research supplements, (follow [[Blueprint]] recommended supplements)
+- research supplements, (follow [[old notes/Blueprint]] recommended supplements)
 - try out Polyphasic Sleep patterns
 
 ### Distant Dreams
@@ -61,5 +61,5 @@ chaos and order combined
 the anvil and hammer  
 to forge myself
 
-[[old-home]]  
-[[My Thought]]
+[[old notes/long term/old-home]]  
+[[old notes/long term/My Thought]]

@@ -1,5 +1,5 @@
-[[Darknet]]  
-you can access the darknet via [[The Onion Routing]], [[Freenet]] and [[Invisible Internet Project]]
+[[old notes/Darknet]]  
+you can access the darknet via [[old notes/The Onion Routing]], [[Freenet]] and [[old notes/Invisible Internet Project]]
 
 <https://darknetlive.com>  
 tor.taxi  

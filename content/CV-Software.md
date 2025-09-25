@@ -1,8 +1,7 @@
 ---
-title: Portofolio
-alias:
-  - "CV"
+{"publish":true,"aliases":" CV","title":"Portofolio","created":"2025-09-25T20:38:23.172+01:00","modified":"2025-09-25T20:38:23.173+01:00","cssclasses":""}
 ---
+
 
 > [!info]- Click here for my CV  
 > ***[PDF Version](<./assets/CV-DeanLemans.pdf>)***  

@@ -6,7 +6,7 @@ sortthispls
 2. Prove it to yourself with small wins.
 Hustlers university Andrew tate
 The continual search for knowledge
-[[Quotes]]
+[[old notes/Quotes]]
 Capgraz syndrome 
 Catch-22
 "Volwasenen willen liever doen alsof wij het niet snappen waarover zij het hebben."

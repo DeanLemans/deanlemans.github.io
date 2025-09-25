@@ -54,5 +54,5 @@ Matthew Duncombe is a lecturer at the University of Nottingham_
 
 The article was published in [The Conversation](https://theconversation.com/global) and is republished under a Creative Commons License
 
-[[Philosophy]]
+[[old notes/Philosophy]]
 [[Stoicism]]

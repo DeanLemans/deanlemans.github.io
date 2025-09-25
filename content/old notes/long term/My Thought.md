@@ -1,7 +1,7 @@
-# [[My Thought]]
+# [[old notes/long term/My Thought]]
 _Things I have internalized_
 
-- Too fight against [[Fate]].
+- Too fight against [[old notes/Fate]].
 - too defy fate.
 - too deny my destiny.
 
@@ -18,5 +18,5 @@ _Things I have internalized_
 
 
 
-This is intrinsically linked [[Quotes]]
-[[old-home]]
+This is intrinsically linked [[old notes/Quotes]]
+[[old notes/long term/old-home]]

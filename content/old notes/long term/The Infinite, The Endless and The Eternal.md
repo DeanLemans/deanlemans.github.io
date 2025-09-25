@@ -1,4 +1,4 @@
-[[Rymes, poems. rough pieces]]
+[[old notes/long term/Rymes, poems. rough pieces]]
 [[Rhyme]]
 [[Poem]]
 this is inspiration for a future poem i want to write.

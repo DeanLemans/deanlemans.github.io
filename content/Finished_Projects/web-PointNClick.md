@@ -1,7 +1,7 @@
 ---
-title: "web Point N Click"
-description: first game made in JavaScript
+{"publish":true,"title":"web Point N Click","description":"first game made in JavaScript","created":"2025-09-25T20:38:23.175+01:00","modified":"2025-09-25T20:38:23.176+01:00","cssclasses":""}
 ---
+
 
 > [!info]- Made with:  
 > JavaScript, CSS and HTML.

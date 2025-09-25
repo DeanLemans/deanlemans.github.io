@@ -1,4 +1,4 @@
-# [[Quotes]]
+# [[old notes/Quotes]]
 
 _Things that i have not yet internalized, but i would like too._
 
@@ -14,4 +14,4 @@ complicated
 	"too become the best version of yourself requires you to continuously change your beliefs, and to upgrade, expand and improve your identity."  
 	"Fall in love with the process rather than the product"
 
- this is intrinsically linked too [[My Thought]]
+ this is intrinsically linked too [[old notes/long term/My Thought]]

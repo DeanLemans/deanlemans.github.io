@@ -1,2 +1,2 @@
 [[[Philosophy]]  
-[[Religion]]
+[[old notes/long term/Religion]]

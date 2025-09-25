@@ -1,6 +1,6 @@
 (Ordered in date of creation.)
 up = old
-[[The Infinite, The Endless and The Eternal]]
+[[old notes/long term/The Infinite, The Endless and The Eternal]]
 [[Rhyme]] [[Poem]] and rough pieces of storytelling
 --------
 the end is not the end except when it is but then it is not an end that is the beginning
@@ -24,7 +24,7 @@ I will make the change
 I will make a difference 
 Incomplete
 --------
-[[Yggdrasil]], the broken
+[[old notes/Yggdrasil]], the broken
 The tree growing infinitely inward
 Finally becoming itself
 Finally breaking free of the chains
@@ -35,7 +35,7 @@ Incomplete
 --------
 In the depth of time with eternities end.
 We shall resist the dead of fate.
-May my [[Soul]] prevail, my body persist.
+May my [[old notes/Soul]] prevail, my body persist.
 I call upon eternity with the last of my might.
 So deep that time itself flips.
 Even when all hope is lost and the end is near.
@@ -54,13 +54,13 @@ Hear out call
 Echo throughout eternity
 Incomplete
 --------
-The [[Fate]] turns and turns.
+The [[old notes/Fate]] turns and turns.
 Never stopping
 Neverending
 Untill the paradoxes came
 Impossibilities made manifest
 Things that should not exist made manifest by the hubris of the living.
-So the wheel of [[Fate]] stopped turning
+So the wheel of [[old notes/Fate]] stopped turning
 An eternity came to an end
 End the end of all was made manifest
 But we did not accept our end

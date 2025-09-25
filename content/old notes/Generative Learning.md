@@ -6,4 +6,4 @@ ai can largly complements the human idea generating, but we need not to wholy re
 # balance is key
 
 #placeholder 
-[[Quotes]]
+[[old notes/Quotes]]

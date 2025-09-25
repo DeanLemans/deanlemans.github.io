@@ -4,7 +4,7 @@
 
 
 
-> [!info]  
+> [!info]
 > I prefer Itch to Steam links.
 
 ## My Favorite Games!
@@ -266,5 +266,5 @@
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 - [Demon Spore](https://demonspore.com)
 
-> [!info]  
+> [!info]
 > also check out my [book-list](<./book-list.md>)
