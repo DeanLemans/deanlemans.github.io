@@ -6,9 +6,9 @@ cssClasses:
   - cards
 ---
 
-> [!info]  
+> [!info]
 > I will put reviews in here someday, but i will first have to reorganize
-> 
+>
 
 
 [[books]]
@@ -16,10 +16,6 @@ cssClasses:
 Table author as Author, ( "![](" + cover + ")" )
 From "books"
 ```
-
-
-
-
 
 
 
@@ -53,5 +49,5 @@ From "books"
 
 [azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
-> [!info]  
+> [!info]
 > also check out my [game-list](<./game-list.md>)
