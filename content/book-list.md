@@ -13,7 +13,7 @@ cssClasses:
 
 [[books]]
 ```dataview
-Table author as Author, ( "![](" + cover + ")" ) AS cover
+Table author as Author, ( "![](" + cover + ")" )
 From "books"
 ```
 

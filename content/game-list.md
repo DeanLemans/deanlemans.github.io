@@ -2,6 +2,7 @@
 title: Game Collection!
 description: collection of games
 date: 2024-10-08 00:00:00 +0100
+publish: "true"
 ---
 
 > [!info]  
@@ -170,8 +171,7 @@ date: 2024-10-08 00:00:00 +0100
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
 - [Haste](https://store.steampowered.com/app/1796470/Haste/)
 - [The Midnight Walk](https://store.steampowered.com/app/2863640/The_Midnight_Walk)
-- [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGee's Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?lang=en)
-- [The Stone of Madness](https://store.steampowered.com/app/1309710/The_Stone_of_Madness)
+- [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGee's Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?)
 - [Tears of Metal](https://store.steampowered.com/app/1913120/Tears_of_Metal)
 - [Endacopia](https://store.steampowered.com/app/2684630/Endacopia)
 - [Neverway](https://neverwaygame.com/)
