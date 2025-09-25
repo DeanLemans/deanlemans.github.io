@@ -2,10 +2,23 @@
 title: Dean's Library!
 description: Some books i have read
 date: 2024-10-08 00:00:00 +0100
+cssClasses:
+  - cards
 ---
 
 > [!info]  
 > I will put reviews in here someday, but i will first have to reorganize
+
+```dataview
+Table author as Author, ( "![](" + cover + ")" ) AS cover
+From "books"
+```
+
+
+
+
+
+
 
 ## My Favorite Fiction Books Are:
 
