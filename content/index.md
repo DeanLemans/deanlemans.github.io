@@ -22,9 +22,9 @@
 	- IDE: [Zed](https://zed.dev/).
 
 > [!info] Get to know me!
-> - See my [Book-List](<./book-list.md>)
-> - My [Game-List](<./game-list.md>)
-> - and [Finished-Projects](<./Finished-Projects.md>)
+> - See my [Book-List](<./maps/book-list.md>)
+> - My [Game-List](<./maps/game-list.md>)
+> - and [Finished-Projects](<./maps/Finished-Projects.md>)
 
 ## Repositories Plans
 
