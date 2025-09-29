@@ -2,6 +2,7 @@
 {"publish":true,"title":"{{title}}","created":{"{ date }":null},"modified":{"{ date }":null},"published":"2025-09-29T03:22:44.553+01:00","tags":["literature"],"cssclasses":""}
 ---
 
+
 ## Key Ideas
 
 ### Main Arguments

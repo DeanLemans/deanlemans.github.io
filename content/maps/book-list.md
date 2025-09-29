@@ -1,11 +1,7 @@
 ---
-publish: true
-title: Dean's Library!
-description: Some books i have read
-created: 2024-10-08 00:00:00 +0100
-modified: 2025-09-28T03:17:52.377+01:00
-published: 2024-10-08 00:00:00 +0100
+{"publish":true,"title":"Dean's Library!","description":"Some books i have read","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-28T03:17:52.377+01:00","published":"2024-10-08 00:00:00 +0100","cssclasses":""}
 ---
+
 
 [[books]]
 

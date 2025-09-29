@@ -1,13 +1,7 @@
 ---
-id: '52976967'
-author: SenescentSoul
-title: Delve
-isbn: ''
-pages: undefined
-coverImage: assets/52976967.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586152216l/52976967.jpg
+{"publish":true,"title":"Delve","created":"2025-09-28T03:33:38.641+01:00","modified":"2025-09-29T03:54:30.218+01:00","published":"2025-09-29T03:54:30.218+01:00","cssclasses":"","socialImage":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586152216l/52976967.jpg"}
 ---
+
 # Delve
 
 by: [[SenescentSoul]]

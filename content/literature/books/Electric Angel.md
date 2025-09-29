@@ -1,13 +1,7 @@
 ---
-id: '192416931'
-author: Plum Parrot
-title: Electric Angel
-isbn: '1039432956'
-pages: '369'
-coverImage: assets/192416931.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689789992l/192416931._SY475_.jpg
+{"publish":true,"title":"Electric Angel","created":"2025-09-28T03:33:38.642+01:00","modified":"2025-09-29T03:54:30.218+01:00","published":"2025-09-29T03:54:30.218+01:00","cssclasses":"","socialImage":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689789992l/192416931._SY475_.jpg"}
 ---
+
 # Electric Angel
 
 by: [[Plum Parrot]]
