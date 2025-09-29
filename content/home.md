@@ -3,12 +3,16 @@
 ---
 
 
+
 Will eventually the mirror/split home compared to index, this will be focused more on my notes.
 
-Transfer stuff from [old-home](<./rough/old-home.md>) to here,
+Transfer stuff from [old-home](<./fleeting/old-home.md>) to here,
 
-Add dataview list for [Recents](<./Recents.md>) here, to see recently edited/updated files
+Add dataview list for [Recents](<./maps/Recents.md>) here, to see recently edited/updated files
+
+
+# Recent Activity
 
 | File                    | Content |
 | ----------------------- | ------- |
-| [[Recents\|Recents]] | \-      |
+| [Recents](<./maps/Recents.md>) | \-      |

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"title":"Home","created":"2025-09-25T20:38:23.203+01:00","modified":"2025-09-26T11:18:47.241+01:00","published":"2025-09-26T11:18:47.241+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-25T20:38:23.203+01:00","modified":"2025-09-26T11:18:47.241+01:00","published":"2025-09-26T11:18:47.241+01:00","cssclasses":""}
 ---
+
 
 
 > [!info] Checkout my **[Full Portofolio](<./CV-Software.md>)!**

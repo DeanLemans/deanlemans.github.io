@@ -3,8 +3,7 @@
 ---
 
 
-
-> [!info]
+> [!info]  
 > I prefer Itch to Steam links.
 
 ## My Favorite Games!
@@ -25,6 +24,7 @@
 		</ul>
 	</article>
 </details>
+
 - [Undertale](https://undertale.com)
 - [Little Big Planet 2 + 3](https://www.lbpunion.com)
 - [Control](https://www.remedygames.com/games/control)
@@ -37,6 +37,7 @@
 		<p>Absolute amazing story and mechanics, but utter dogshit optimization</p>
 	</article>
 </details>
+
 - [Grimm’s Hollow](https://ghosthum.itch.io/grimms-hollow)
 - [Rayman 3](https://raymanpc.com/wiki/en/Rayman_3)
 <details>
@@ -47,6 +48,7 @@
 		<p>still need to play the DLC</p>
 	</article>
 </details>
+
 - [Celeste](https://www.celestegame.com)
 - [Pseudoregalia](https://rittzler.itch.io/pseudoregalia)
 - [Cult of the Lamb](https://www.cultofthelamb.com)
@@ -64,6 +66,7 @@
 		</ul>
 	</article>
 </details>
+
 - [psychopomp: GOLD](https://store.steampowered.com/app/3243190/Psychopomp_GOLD/) + [original](https://karbonic.itch.io/psychopomp)
 - [YUKI](https://visualmemoryunit.itch.io/yuki)
 - [Milya(broken)](https://lol-rust.itch.io/milyabroken)
@@ -113,6 +116,7 @@
 		<p>Very pretty but so much lost potential because its so short</p>
 	</article>
 </details>
+
 ---
 
 ### Game Backlog.
@@ -201,6 +205,7 @@
 		</ul>
 	</article>
 </details>
+
 - [Margin of the Strange](https://marginofthestrange.com/)
 - [Sword of the Sea](https://swordoftheseagame.com)
 - [Lily's Well](https://pureiceblue.itch.io/lilys-well)
@@ -235,6 +240,7 @@
 		</ul>
 	</article>
 </details>
+
 - [The Big Catch](https://thebigcatchgame.com)
 - [Slayers X: Terminal Aftermath](https://store.steampowered.com/app/1931020/Slayers_X_Terminal_Aftermath_Vengance_of_the_Slayer)
 - [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL)
@@ -259,6 +265,7 @@
 		<p>Play the remaster with mods</p>
 	</article>
 </details>
+
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
 - Earthbound/mother 1 + 2 + 3 + original
 - [Gris](https://nomada.studio)
@@ -266,5 +273,5 @@
 - [Hyper Light Breaker](https://www.hyperlightbreaker.com)
 - [Demon Spore](https://demonspore.com)
 
-> [!info]
+> [!info]  
 > also check out my [book-list](<./book-list.md>)
