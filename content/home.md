@@ -4,6 +4,7 @@
 
 
 
+
 Will eventually the mirror/split home compared to index, this will be focused more on my notes.
 
 Transfer stuff from [old-home](<./fleeting/old-home.md>) to here,
