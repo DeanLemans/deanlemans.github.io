@@ -1,5 +1,10 @@
 ---
-{"publish":true,"aliases":" C V","title":"Portofolio","created":"2025-09-25T20:38:23.172+01:00","modified":"2025-09-25T20:38:23.173+01:00","published":"2025-09-29T03:32:24.047+01:00","cssclasses":""}
+publish: true
+aliases: " C V"
+title: Portofolio
+created: 2025-09-25T20:38:23.172+01:00
+modified: 2025-09-25T20:38:23.173+01:00
+published: 2025-09-29T03:32:24.047+01:00
 ---
 
 

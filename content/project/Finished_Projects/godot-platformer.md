@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Godot Platformer","description":"first game made in godot","created":"2025-09-25T20:38:23.175+01:00","modified":"2025-09-25T21:42:19.491+01:00","published":"2025-09-25T21:50:15.585+01:00","cssclasses":""}
+publish: true
+title: Godot Platformer
+description: first game made in godot
+created: 2025-09-25T20:38:23.175+01:00
+modified: 2025-09-25T21:42:19.491+01:00
+published: 2025-09-25T21:50:15.585+01:00
 ---
 
 

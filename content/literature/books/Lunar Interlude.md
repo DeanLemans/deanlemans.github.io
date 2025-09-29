@@ -1,7 +1,13 @@
 ---
-{"publish":true,"title":"Lunar Interlude","created":"2025-09-28T03:33:38.653+01:00","modified":"2025-09-29T03:03:38.502+01:00","published":"2025-09-29T03:03:38.502+01:00","cssclasses":"","socialImage":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723765787l/217511045._SY475_.jpg"}
+id: '217511045'
+author: Plum Parrot
+title: Lunar Interlude
+isbn: '1039453856'
+pages: '431'
+coverImage: assets/217511045.jpg
+cover: >-
+  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723765787l/217511045._SY475_.jpg
 ---
-
 # Lunar Interlude
 
 by: [[Plum Parrot]]

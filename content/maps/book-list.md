@@ -1,12 +1,13 @@
 ---
-{"publish":true,"title":"Dean's Library!","description":"Some books i have read","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-28T03:17:52.377+01:00","published":"2024-10-08 00:00:00 +0100","cssclasses":""}
+publish: true
+title: Dean's Library!
+description: Some books i have read
+created: 2024-10-08 00:00:00 +0100
+modified: 2025-09-28T03:17:52.377+01:00
+published: 2024-10-08 00:00:00 +0100
 ---
 
-
-
 [[books]]
-
-<div class="datacore-loading-boundary"><h4 class="datacore-loading-title">Datacore is getting ready...</h4><div class="datacore-loading-content"><p>262 / 263</p></div></div>
 
 | File                                                                                           | author           | ( "![](" + cover + ")" )                                                                                     |
 | ---------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
