@@ -5,7 +5,7 @@
 
 
 
-> [!info] Checkout my **[Full Portofolio](<./CV-Software.md>)!**
+> [!info] Checkout my **[[CV-Software|Full Portofolio]]!**
 
 # Hello! My name is Dean
 
@@ -14,7 +14,7 @@
 - I'm indie software developer
 	- I mainly use the Godot game engine.
 
-![me](<./assets/personal/deanpfp.jpg>)
+![[deanpfp.jpg|me]]
 
 ## I like Making Games, Gardening And, [Open Source](https://opensource.org/osd)
 
@@ -24,9 +24,9 @@
 	- IDE: [Zed](https://zed.dev/).
 
 > [!info] Get to know me!
-> - See my [Book-List](<./maps/book-list.md>)
-> - My [Game-List](<./maps/game-list.md>)
-> - and [Finished-Projects](<./maps/Finished-Projects.md>)
+> - See my [[book-list]]
+> - My [[game-list]]
+> - and [[Finished-Projects]]
 
 ## Repositories Plans
 

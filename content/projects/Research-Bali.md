@@ -2,10 +2,7 @@
 {"publish":true,"description":"observations and research from my time in Bali","created":"2025-09-25T20:38:23.174+01:00","modified":"2025-09-25T20:38:23.175+01:00","published":"2025-09-25T21:50:15.585+01:00","cssclasses":""}
 ---
 
-
-
-
-![](<./assets/WhatsApp Image 2025-09-15 at 15.51.36.jpg>)
+![](<./assets/WhatsApp Image 2025-09-15 at 15.51.36.jpg>)  
 ![](<./assets/WhatsApp Image 2025-09-15 at 15.55.23.jpeg>)
 
 # My Observations and Research from Bali
@@ -17,7 +14,6 @@
 - changes to design/architecture must be reported by the designer (transparency is key)
 	- owner needs to know, keeps them happy, avoids budget surprises
 	- maybe do regular meetings or just send updates
-
 - Investing:
 	- investing Indonesia is super cheap, fits my budget and future plans
 	- think about renting vs selling, what to invest in (land, nursery, partnerships?)
@@ -28,37 +24,30 @@
 			- And when i have made some money i can buy some higher risk investments.
 	- Possible investing types changes depending on where you are/location, so adopt [the 5 percent rule](https://www.thebalancemoney.com/the-5-percent-rule-of-investment-allocation-2466542), the reason is, if the economy tanks in a spot where you've thrown 50% of your cash, your whole portfolio crashes. But if your spread out more ([Decentralization](https://wikipedia.org/wiki/Decentralization)) you're safer from centralized risks, like not putting all your eggs in one basket and watching it break.
 	- The 5 percent rule or decentralization doesn't just apply to investing, but to a whole lot more, for example; governing, personal development, supply chain, and more.
-
 - Soil/ground
 	- as is commonly know there are 3 main types N, P , K (Nitrogen, Phosphorus, Potassium) of nutrient elements that plants needs to grow
 	- But there are at least 16 types of nutrients elements necessary for plants.
 	- Most soils contain large reserves of the other 13 nutrients
 		- Calcium, magnesium, sulphur, iron, manganese, copper, zinc, boron, molybdenum, silicon, sodium, vanadium, cobalt.
-
 - Social
 	- Social expectation Bali;
 		- greetings Bali: show emotion, handshake + smile (otherwise rude)
 		- Sometimes its also appropriate to do a slight bow when your greeting someone, but haven't figured out when you should do that.
 		- Bali got a lot of differing cultures/beliefs, so when there are holidays you should expect those and work around them
 	- first impressions matter, especially in business/plan for them.
-
 - Horizontal vs Vertical growth
 	- Horizontal is expanding business operations to other countries
 	- Vertical is offering a higher variety of products and services
 	- Both have their pros and cons, I should strike a balance between the 2
-
 - when designing, don’t block views with new buildings (think long-term, not just what’s there now)
 	- even pros mess this up, always check what’s already there (trees, old/other buildings)
 	- removing stuff costs money, sometimes ruins the vibe, better to incorporate stuff already there into your design
-
 - always check terrain and risks before building
 	- flood, landslide, earthquake, terrorism, culture/religion stuff
 	- ask locals about history of disasters, check maps
-
 - research local rules/regulations before starting
 	- park rules, country laws, plant species, quality checks
 	- some places have weird restrictions, double check before spending
-
 - get owner confirmation for plant placement
 	- changing later = costs money + lose trust, hurts reputation
 
@@ -82,7 +71,6 @@
 8. building start (begin construction)
 9. designer checks building and makes changes accordingly
 	- see notes for what to look out for
-
 - misc architecture related:
 	- if owner changes agreed upon design, charge 20-30% extra (don’t work for free)
 	- outsource stuff you're not good at, but try to learn/do more yourself (Needs case by case consideration, don't be afraid to ask for help.)
@@ -94,7 +82,6 @@
 - lots of manual work (watering by hand, brooms not leaf blowers)
 	- tradition, family business, keeps jobs/social ties
 	- people like the social aspect, not just efficiency
-
 - automation: go slow, don't replace people, just help them
 	- machines should help, not take over
 	- additive stuff: high-pressure washer, [OPNsense](https://opnsense.org/) router, solar/wind generator, electric leaf cutter, excavator (just ideas, not final/absolute)
@@ -102,22 +89,17 @@
 > [!info] **seek addition, not replacement.**
 
 - keep things simple/reliable, support team, don't break trust
-
 - new equipment:
 	- only if it fits what is needed, don’t mess up workflow
 	- test before buying lots, ask workers what they think
 - review equipment needs as nursery grows
-
 - if new equipment is introduced, make sure it fits the needs of the nursery and does not disrupt the existing workflow.
-
 - specific equipment needs can be reviewed as the nursery grows.
-
 - Specific gardening-related equipment:
 	- provide essential equipment for workers, such as *gloves, steel-toe shoes, rice hats, hard hats, and sandals.*
 	- company-branded clothing (like shirts with logos) can be offered, but not all clothing needs a logo. Larger equipment could have branding if desired.
 	- offering equipment should be optional. Do not make it a requirement, as workers should have the freedom to choose what they wear. Avoid making it feel like a school uniform, which could lead to dissatisfaction. (even if they don't show it)
 	- guidelines for handling equipment and clothing distribution can be reviewed and improved as needed.
-
 - Payment calculation for projects:
 	1. by 3D render viewpoints (more views = more work, more cost)
 	2. by area (size, m²/hectares, bigger = more expensive)
@@ -125,7 +107,6 @@
 	4. barter/exchange, make an agreement beforehand, for if client doesn't have enough money and wants to pay in assets.
 		- mix & match if needed, depends on project
 		- always explain pricing to client, avoid surprises
-
 - Payment methods for workers:
 	1. per project (fixed for job, good for short tasks)
 	2. per month (salary, good for regular work)
@@ -143,18 +124,14 @@
 - project risk;
 	- if there is a problem with a part of the project that an external entity(E.G: builder, designer, other architect) messed up , don't immediately take it up with them. take it up with a higher up entity as soon as possible.
 	- Consider by case by case
-
 - more payment method stuff
 	- sellers should get paid a certain amount of what they sell, as this gives motivation to sell more.
 	- if workers want to get paid earlier, just give them it
-
 - they say they prefer organic fertilizer here, and i have not seen any synthetic fertilizer.
-
 - grafting
 	- The nursery has a certain type of palm tree that normally just grows a single stem.
 	- to grow another branch on that palm, they grab a seedling, cut a part the exact size of the seedling out, put some moss/fertilizer and dirt in there, put the seedling in, and then cover the hole so it's watertight.
 	- so now it grows an extra stem, and with the plant can now be sold for more because it's now a novelty.
-
 - more fertilizer stuff, research stuff
 	- **synthetic fertilizer** causes faster growth, but uses the ground resources up faster, so you have to get new ground/resources to replenish the earth.
 	- **organic fertilizer** causes slower growth but uses up less resources, if you don't want to replenish the ground, use organic. (set & forget)
@@ -198,7 +175,6 @@
 	- Freelancer means more pay but less job security; instead, more freedom and broader experience.
 	- Start solo, scale up if/when needed.
 	- See [Legal/Certification Requirements].
-
 - **Plan B: Worker/contractor**
 	- Hovenier/gardener
 	- What do I need?
@@ -217,7 +193,6 @@
 	- Cons:
 		- Less freedom, as the company decides what I work on (maybe I can suggest stuff).
 		- Company sets the price for my work.
-
 - **Plan C: Creating company**
 	- Options: Gardening, nursery/greenhouse, bonsai, terrarium, landscape architect.
 	- What do I need?
@@ -230,7 +205,6 @@
 		- And after the legal stuff will be the hiring part, how do i know what people to hire?
 	- Cons:
 		- The cons change depending on what type of company, and needs their own research
-
 - **Plan D: Gardener Influencer**
 	- **Options:** VTuber, streamer, YouTuber. (general content creator)
 	- **What do I need?**
@@ -247,7 +221,6 @@
 		- Plan for burnout.
 	- **Cons:**
 		- Time-intensive, inconsistent income early on, reliance on platforms for visibility.
-
 - **Fallback: Failure/bankrupt/homeless**
 	- Preventative:
 		- Use 30/30/30 rule (savings/wants/essentials).
@@ -255,7 +228,6 @@
 	- If it happens (depends on severity):
 		- Seek alternative work (employment, freelancing, gigwork—even if reputation is ruined, can go anonymous).
 		- If reputation is trashed, reach out to connections (former clients, colleagues, friends in industry) to help rebuild.
-
 - **Fallback: Legacy/death**
 	- Preventative:
 		- Create own health/longevity protocol (inspired by [Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol) and other [protocols](https://www.lucis.life/)), focus on active measures such as exercise, healthy nutrition, and medical check-ups.
@@ -358,7 +330,6 @@
 > > > [!faq] it's mostly to create a buffer, as people have difficulties understanding math/exponentials (just doesn't make sense to them)
 
 - worker efficiency idea
-
 	- give something to the top people and/or teams of the month (for creating competition)
 	- example: badge with worker of month, new/repaired clothes for free, better food
 
@@ -377,7 +348,6 @@
 	9. register handelsregister KvK (business register)
 	10. overeenkomst/agreement with client (to always have a contract even if it’s a simple one; protects both sides)
 		- (This is just for garden maintenance freelancer if I want to do design, architecture, greenhouses, etc., there will be even more paperwork and extra requirements and hoops.)
-
 - management stuff (applies generally)
 	- keep your administration clean and simple (ask for help if you suck at this)
 	- efficiency is key, but don’t micromanage unless necessary
@@ -386,7 +356,6 @@
 	- after-sale care: after a job/project, send a message or email to the client asking if everything’s good and if they want anything changed (do this a few days after, or 3 months later, or both—but don’t be annoying)
 		- automate this if possible, especially as you grow (the bigger the project, the longer you should wait before following up)
 	- government stuff: figure out how you’ll deal with rules, taxes, and other stuff
-
 - company important (mostly for 1-man company, but good for anyone)
 	- keep your administration for 7 years (law)
 	- boekhouding and taxes are not optional
@@ -396,7 +365,6 @@
 		- always double-check your paperwork, do research(maybe accountant)
 		- look into tax benefits: ondernemersaftrek, MKB-winstvrijstelling, bedrijfskosten aftrekken, afschrijving toepassen, fiscaal gunstig vererven ( worth researching if i want to be more efficient with money)
 		- (also do research into registering my company in a tax free country)
-
 - One of the differences is in how they grow small plants
 	- instead of using regular pot-mix(earth + fertilizter) they use rice shells combined with compost  
 ![](<./assets/rice-compost.jpg>)  

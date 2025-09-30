@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"{{title}}","created":{"{ date }":null},"modified":{"{ date }":null},"published":"2025-09-29T03:22:46.978+01:00","cssclasses":""}
+{"publish":true,"title":"{{title}}","created":"{{date}}","modified":"{{date}}","published":"2025-09-29T03:22:46.978+01:00","cssclasses":""}
 ---
 
 

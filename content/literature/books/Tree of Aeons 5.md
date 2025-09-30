@@ -6,4 +6,4 @@
 
 by: [[spaizzzer]]
 
-![[assets/203699126.jpg]]
+![[203699126.jpg]]

@@ -1,12 +1,16 @@
 ---
-{"publish":true,"title":"Portofolio","created":"2025-09-25T20:38:23.172+01:00","modified":"2025-09-25T20:38:23.173+01:00","published":"2025-09-29T03:20:52.570+01:00","cssclasses":""}
+publish: true
+created: 2025-09-25T20:38:23.172+01:00
+modified: 2025-09-25T20:38:23.173+01:00
+published: 2025-09-29T03:20:52.570+01:00
+cssclasses: ""
 ---
 
 
 
 > [!info]- Click here for my CV  
-> ***[PDF Version](<./assets/CV-DeanLemans.pdf>)***  
-> ![100x00](<./assets/CV-DeanLemans.pdf>)
+> ***[[CV-DeanLemans.pdf|PDF Version]]***  
+> ![[CV-DeanLemans.pdf|100x00]]
 
 > [!info] Introduction
 > - Hello, I am Dean and I'm an aspiring Game Developer! 👋
@@ -30,13 +34,13 @@
 
 > [!info]Hobbies
 > 
-> - [Gaming](<./maps/game-list.md>)
+> - [[game-list|Gaming]]
 > - Gardening
 > - Mangas
-> - [Novels](<./maps/book-list.md>)
+> - [[book-list|Novels]]
 
 > [!info]Projects
-> - [Finished-Projects](<./maps/Finished-Projects.md>)
+> - [[Finished-Projects]]
 > - [Github Repos](https://github.com/DeanLemans?tab=repositories)
 
 > [!info]Languages

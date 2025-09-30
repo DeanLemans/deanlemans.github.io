@@ -1,25 +1,25 @@
-- 2025-09-29T0350 · [map-of-maps](<./map-of-maps.md>)
+- 2025-09-29T0350 · [[map-of-maps]]
 - 2025-09-29T0349 · [godot-platformer](<../project/Finished_Projects/godot-platformer.md>)
-- 2025-09-29T0348 · [Research-Bali](<../project/Finished_Projects/Research-Bali.md>)
-- 2025-09-29T0348 · [web-PointNClick](<../project/Finished_Projects/web-PointNClick.md>)
-- 2025-09-29T0348 · [CV-Gardening](<../CV-Gardening.md>)
-- 2025-09-29T0348 · [CV-Software](<../CV-Software.md>)
-- 2025-09-29T0348 · [home](<../home.md>)
-- 2025-09-29T0348 · [index](<../index.md>)
-- 2025-09-29T0347 · [Azarinth Healer](<../literature/books/Azarinth Healer.md>)
-- 2025-09-29T0347 · [Vigor Mortis](<../literature/books/Vigor Mortis.md>)
-- 2025-09-29T0347 · [Speedrunning the Multiverse](<../literature/books/Speedrunning the Multiverse.md>)
-- 2025-09-29T0347 · [Speedrunning the Multiverse 3](<../literature/books/Speedrunning the Multiverse 3.md>)
-- 2025-09-29T0347 · [Speedrunning the Multiverse 2](<../literature/books/Speedrunning the Multiverse 2.md>)
-- 2025-09-29T0347 · [Speedrunning the Multiverse 4](<../literature/books/Speedrunning the Multiverse 4.md>)
-- 2025-09-29T0347 · [Kitty Cat Kill Sat](<../literature/books/Kitty Cat Kill Sat.md>)
-- 2025-09-29T0347 · [ArKendrithyst](<../literature/books/ArKendrithyst.md>)
-- 2025-09-29T0347 · [Tenebroum](<../literature/books/Tenebroum.md>)
-- 2025-09-29T0347 · [Sylver Seeker](<../literature/books/Sylver Seeker.md>)
-- 2025-09-29T0347 · [Electric Angel](<../literature/books/Electric Angel.md>)
-- 2025-09-29T0347 · [Ghost Chrysalis](<../literature/books/Ghost Chrysalis.md>)
-- 2025-09-29T0347 · [Jovian Reverie](<../literature/books/Jovian Reverie.md>)
-- 2025-09-29T0347 · [Lunar Interlude](<../literature/books/Lunar Interlude.md>)
-- 2025-09-29T0347 · [Fates Reckoning](<../literature/books/Fates Reckoning.md>)
-- 2025-09-29T0347 · [Jackal Among Snakes Book 2](<../literature/books/Jackal Among Snakes Book 2.md>)
-- 2025-09-29T0347 · [Jackal Among Snakes Book 10](<../literature/books/Jackal Among Snakes Book 10.md>)
+- 2025-09-29T0348 · [[Research-Bali]]
+- 2025-09-29T0348 · [[web-PointNClick]]
+- 2025-09-29T0348 · [[CV-Gardening]]
+- 2025-09-29T0348 · [[CV-Software]]
+- 2025-09-29T0348 · [[home]]
+- 2025-09-29T0348 · [[index]]
+- 2025-09-29T0347 · [[Azarinth Healer]]
+- 2025-09-29T0347 · [[Vigor Mortis]]
+- 2025-09-29T0347 · [[Speedrunning the Multiverse]]
+- 2025-09-29T0347 · [[Speedrunning the Multiverse 3]]
+- 2025-09-29T0347 · [[Speedrunning the Multiverse 2]]
+- 2025-09-29T0347 · [[Speedrunning the Multiverse 4]]
+- 2025-09-29T0347 · [[Kitty Cat Kill Sat]]
+- 2025-09-29T0347 · [[ArKendrithyst]]
+- 2025-09-29T0347 · [[Tenebroum]]
+- 2025-09-29T0347 · [[Sylver Seeker]]
+- 2025-09-29T0347 · [[Electric Angel]]
+- 2025-09-29T0347 · [[Ghost Chrysalis]]
+- 2025-09-29T0347 · [[Jovian Reverie]]
+- 2025-09-29T0347 · [[Lunar Interlude]]
+- 2025-09-29T0347 · [[Fates Reckoning]]
+- 2025-09-29T0347 · [[Jackal Among Snakes Book 2]]
+- 2025-09-29T0347 · [[Jackal Among Snakes Book 10]]

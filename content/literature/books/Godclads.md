@@ -6,4 +6,4 @@
 
 by: [[OstensibleMammal]]
 
-![[assets/204122030.jpg]]
+![[204122030.jpg]]
