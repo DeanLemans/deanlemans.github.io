@@ -4,8 +4,8 @@ import * as Component from "./quartz/components"
 // Helper to check if page is not home/index
 const isNotHomePage = (page: any) => page.fileData.slug !== "index" && page.fileData.slug !== "home"
 
-// Shared search and darkmode flex component
-const searchAndDarkmode = Component.Flex({
+// Shared search bar with darkmode and reader mode
+const searchBar = Component.Flex({
   components: [
     {
       Component: Component.Search(),
@@ -16,12 +16,12 @@ const searchAndDarkmode = Component.Flex({
   ],
 })
 
-// Shared left sidebar configuration
+// Combined left sidebar (desktop + mobile)
 const leftSidebarComponents = [
   Component.PageTitle(),
   Component.MobileOnly(Component.Spacer()),
-  Component.Explorer(),
-  searchAndDarkmode,
+  searchBar,
+  Component.DesktopOnly(Component.Explorer()),
 ]
 
 // components shared across all pages
@@ -57,18 +57,29 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: leftSidebarComponents,
   right: [
-    Component.ConditionalRender({
-      component: Component.Graph(),
-      condition: (page) => page.fileData.slug !== "CV",
-    }),
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.Graph(),
+        condition: (page) => page.fileData.slug !== "CV",
+      }),
+    ),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(
+      Component.Backlinks({
+        excludeFiles: ["Recently Edited"],
+      }),
+    ),
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
-  left: [Component.PageTitle(), Component.MobileOnly(Component.Spacer()), searchAndDarkmode],
-  right: [Component.Explorer({})],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(searchBar),
+  ],
+  right: [Component.DesktopOnly(Component.Explorer({})), Component.MobileOnly(searchBar)],
 }

@@ -7,10 +7,12 @@ import OverflowListFactory from "./OverflowList"
 
 interface BacklinksOptions {
   hideWhenEmpty: boolean
+  excludeFiles?: string[]
 }
 
 const defaultOptions: BacklinksOptions = {
   hideWhenEmpty: true,
+  excludeFiles: [],
 }
 
 export default ((opts?: Partial<BacklinksOptions>) => {
@@ -24,7 +26,12 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     cfg,
   }: QuartzComponentProps) => {
     const slug = simplifySlug(fileData.slug!)
-    const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+    const backlinkFiles = allFiles.filter((file) => {
+      if (!file.links?.includes(slug)) return false
+
+      const fileSlug = simplifySlug(file.slug!)
+      return !options.excludeFiles?.includes(fileSlug)
+    })
     if (options.hideWhenEmpty && backlinkFiles.length == 0) {
       return null
     }

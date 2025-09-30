@@ -2,9 +2,6 @@
 {"publish":true,"created":"2025-09-25T20:38:23.203+01:00","modified":"2025-09-26T11:18:47.241+01:00","published":"2025-09-26T11:18:47.241+01:00","cssclasses":""}
 ---
 
-
-
-
 > [!info] Checkout my **[[CV-Software|Full Portofolio]]!**
 
 # Hello! My name is Dean
@@ -22,6 +19,7 @@
 	- OS: [openSUSE](https://www.opensuse.org/) and [GrepheneOS](https://grapheneos.org/).
 	- Game Engine: [Godot](https://godotengine.org/).
 	- IDE: [Zed](https://zed.dev/).
+- Need to update this with gardening tools, and electricity vs petrol? Fuel
 
 > [!info] Get to know me!
 > - See my [[book-list]]
