@@ -1,6 +1,29 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Helper to check if page is not home/index
+const isNotHomePage = (page: any) => page.fileData.slug !== "index" && page.fileData.slug !== "home"
+
+// Shared search and darkmode flex component
+const searchAndDarkmode = Component.Flex({
+  components: [
+    {
+      Component: Component.Search(),
+      grow: true,
+    },
+    { Component: Component.Darkmode() },
+    { Component: Component.ReaderMode() },
+  ],
+})
+
+// Shared left sidebar configuration
+const leftSidebarComponents = [
+  Component.PageTitle(),
+  Component.MobileOnly(Component.Spacer()),
+  Component.Explorer(),
+  searchAndDarkmode,
+]
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -11,7 +34,7 @@ export const sharedPageComponents: SharedLayout = {
       "Site Content License": "https://creativecommons.org/licenses/by/4.0",
       "Contact Links": "https://linksta.cc/@Dean",
       "Source Code": "https://github.com/DeanLemans/my-site",
-      "Guest Book": "https://thegardner.atabook.org/",
+      "Guest Book": "https://thegardener.atabook.org/",
     },
   }),
 }
@@ -21,31 +44,18 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "home",
+      condition: isNotHomePage,
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "home",
+      condition: isNotHomePage,
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "home",
+      condition: isNotHomePage,
     }),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Explorer(),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-  ],
+  left: leftSidebarComponents,
   right: [
     Component.ConditionalRender({
       component: Component.Graph(),
@@ -56,21 +66,9 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-  ],
+  left: [Component.PageTitle(), Component.MobileOnly(Component.Spacer()), searchAndDarkmode],
   right: [Component.Explorer({})],
 }
