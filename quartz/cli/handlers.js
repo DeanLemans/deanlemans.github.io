@@ -15,6 +15,7 @@ import serveHandler from "serve-handler"
 import { WebSocketServer } from "ws"
 import { randomUUID } from "crypto"
 import { Mutex } from "async-mutex"
+import zlib from "zlib"
 import { CreateArgv } from "./args.js"
 import { globby } from "globby"
 import {
@@ -382,6 +383,44 @@ export async function handleBuild(argv) {
 
       const serve = async () => {
         const release = await buildMutex.acquire()
+
+        // Add compression support
+        const acceptEncoding = req.headers["accept-encoding"] || ""
+        const shouldCompress = /\.(js|css|html|json|svg|xml|txt)$/i.test(req.url)
+
+        // Intercept response to add compression
+        const originalWriteHead = res.writeHead
+        const originalEnd = res.end
+        const originalWrite = res.write
+
+        let chunks = []
+
+        if (shouldCompress && acceptEncoding.includes("gzip")) {
+          res.writeHead = function (statusCode, headers) {
+            headers = headers || {}
+            headers["Content-Encoding"] = "gzip"
+            delete headers["Content-Length"]
+            originalWriteHead.call(this, statusCode, headers)
+          }
+
+          res.write = function (chunk) {
+            if (chunk) chunks.push(Buffer.from(chunk))
+            return true
+          }
+
+          res.end = function (chunk) {
+            if (chunk) chunks.push(Buffer.from(chunk))
+            const buffer = Buffer.concat(chunks)
+            zlib.gzip(buffer, (err, compressed) => {
+              if (err) {
+                originalEnd.call(res, buffer)
+              } else {
+                originalEnd.call(res, compressed)
+              }
+            })
+          }
+        }
+
         await serveHandler(req, res, {
           public: argv.output,
           directoryListing: false,

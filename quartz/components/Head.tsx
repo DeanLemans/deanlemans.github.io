@@ -43,10 +43,27 @@ export default (() => {
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
-            <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+            <link rel="preload" as="style" href={googleFontHref(cfg.theme)} />
+            <link rel="stylesheet" href={googleFontHref(cfg.theme)} media="print" />
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `document.querySelectorAll('link[media="print"]').forEach(function(l){l.media='all'})`,
+              }}
+            />
             {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+              <>
+                <link
+                  rel="preload"
+                  as="style"
+                  href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}
+                />
+                <link
+                  rel="stylesheet"
+                  href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}
+                  media="print"
+                />
+              </>
             )}
           </>
         )}
