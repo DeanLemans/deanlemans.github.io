@@ -19,6 +19,9 @@ const searchBar = Component.Flex({
 // Combined left sidebar (desktop + mobile)
 const leftSidebarComponents = [
   Component.PageTitle(),
+  Component.CustomText({
+    text: "My personal site",
+  }),
   Component.MobileOnly(Component.Spacer()),
   searchBar,
   Component.DesktopOnly(Component.Explorer()),
@@ -63,6 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
         condition: (page) => page.fileData.slug !== "CV",
       }),
     ),
+
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(
       Component.Backlinks({
