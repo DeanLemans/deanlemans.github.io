@@ -12,7 +12,7 @@ const searchBar = Component.Flex({
       grow: true,
     },
     { Component: Component.Darkmode() },
-    { Component: Component.ReaderMode() },
+    { Component: Component.DesktopOnly(Component.ReaderMode()) },
   ],
 })
 

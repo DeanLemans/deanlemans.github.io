@@ -11,7 +11,7 @@
 - I'm indie software developer
 	- I mainly use the Godot game engine.
 
-![[deanpfp.jpg|me]]
+![[deanpfp.jpg|350|200]]
 
 ## I like Making Games, Gardening And, [Open Source](https://opensource.org/osd)
 

@@ -18,15 +18,15 @@ const CustomText: QuartzComponent = ({ displayClass }: QuartzComponentProps) => 
 
 CustomText.css = `
 .custom-text {
-  margin: 0.25rem 0 0.25rem 0;
+  margin: 0.25rem 0;
   font-family: var(--bodyFont);
-}
 
-.custom-text p {
-  margin: 0;
-  color: var(--darkgray);
-  font-size: 0.9rem;
-  line-height: 1.4;
+  p {
+    margin: 0;
+    color: var(--darkgray);
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
 }
 `
 
