@@ -81,6 +81,7 @@ export default ((userOpts?: Partial<Options>) => {
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
           aria-controls={id}
+          aria-expanded="false"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -101,11 +102,11 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
-          aria-expanded={true}
+          aria-expanded="true"
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
         </button>
-        <div id={id} class="explorer-content" aria-expanded={false} role="group">
+        <div id={id} class="explorer-content">
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">
@@ -131,7 +132,7 @@ export default ((userOpts?: Partial<Options>) => {
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
               <div>
-                <button class="folder-button">
+                <button class="folder-button" aria-expanded="false">
                   <span class="folder-title"></span>
                 </button>
               </div>

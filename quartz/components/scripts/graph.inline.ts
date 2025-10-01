@@ -161,8 +161,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })),
   }
 
-  const width = graph.offsetWidth
+  const width = Math.max(graph.offsetWidth, 100)
   const height = Math.max(graph.offsetHeight, 250)
+
+  // Validate dimensions to prevent WebGPU errors
+  if (width === 0 || height === 0) {
+    console.warn("Graph container has zero dimensions, skipping render")
+    return
+  }
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -350,17 +356,33 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   tweens.clear()
 
   const app = new Application()
-  await app.init({
-    width,
-    height,
-    antialias: true,
-    autoStart: false,
-    autoDensity: true,
-    backgroundAlpha: 0,
-    preference: "webgpu",
-    resolution: window.devicePixelRatio,
-    eventMode: "static",
-  })
+  await app
+    .init({
+      width,
+      height,
+      antialias: true,
+      autoStart: false,
+      autoDensity: true,
+      backgroundAlpha: 0,
+      preference: "webgpu",
+      resolution: window.devicePixelRatio,
+      eventMode: "static",
+    })
+    .catch((err) => {
+      console.warn("WebGPU not available, falling back to WebGL:", err)
+      // Fallback to WebGL if WebGPU fails
+      return app.init({
+        width,
+        height,
+        antialias: true,
+        autoStart: false,
+        autoDensity: true,
+        backgroundAlpha: 0,
+        preference: "webgl",
+        resolution: window.devicePixelRatio,
+        eventMode: "static",
+      })
+    })
   graph.appendChild(app.canvas)
 
   const stage = app.stage

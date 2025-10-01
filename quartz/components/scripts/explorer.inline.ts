@@ -24,15 +24,16 @@ function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
   const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+
+  // Update aria-expanded on the button that was clicked, not the container
+  const isExpanded = !explorerCollapsed
+  this.setAttribute("aria-expanded", String(isExpanded))
 
   if (!explorerCollapsed) {
     // Stop <html> from being scrollable when mobile explorer is open
     document.documentElement.classList.add("mobile-no-scroll")
   } else {
+    // Allow <html> to be scrollable when mobile explorer is collapsed
     document.documentElement.classList.remove("mobile-no-scroll")
   }
 }
@@ -62,6 +63,12 @@ function toggleFolder(evt: MouseEvent) {
   // Collapse folder container
   const isCollapsed = !childFolderContainer.classList.contains("open")
   setFolderState(childFolderContainer, isCollapsed)
+
+  // Update aria-expanded on the folder button
+  const folderButton = folderContainer.querySelector(".folder-button") as HTMLElement
+  if (folderButton) {
+    folderButton.setAttribute("aria-expanded", String(!isCollapsed))
+  }
 
   const currentFolderState = currentExplorerState.find(
     (item) => item.path === folderContainer.dataset.folderpath,
@@ -136,8 +143,22 @@ function createFolderNode(
   const folderIsPrefixOfCurrentSlug =
     simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length)
 
-  if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
+  const shouldOpen = !isCollapsed || folderIsPrefixOfCurrentSlug
+  if (shouldOpen) {
     folderOuter.classList.add("open")
+  }
+
+  // Set aria-expanded on folder button
+  if (opts.folderClickBehavior === "link") {
+    const link = titleContainer.querySelector("a.folder-title") as HTMLElement
+    if (link) {
+      link.setAttribute("aria-expanded", String(shouldOpen))
+    }
+  } else {
+    const button = titleContainer.querySelector(".folder-button") as HTMLElement
+    if (button) {
+      button.setAttribute("aria-expanded", String(shouldOpen))
+    }
   }
 
   for (const child of node.children) {
@@ -276,7 +297,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
-      explorer.setAttribute("aria-expanded", "false")
+      // Set aria-expanded on the button, not the container
+      mobileExplorer.setAttribute("aria-expanded", "false")
 
       // Allow <html> to be scrollable when mobile explorer is collapsed
       document.documentElement.classList.remove("mobile-no-scroll")

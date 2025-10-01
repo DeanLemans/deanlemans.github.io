@@ -40,12 +40,21 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        {/* Preconnect to CDNs to reduce DNS lookup time */}
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
             <link rel="preload" as="style" href={googleFontHref(cfg.theme)} />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} media="print" />
+            <noscript>
+              <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            </noscript>
             <script
               dangerouslySetInnerHTML={{
                 __html: `document.querySelectorAll('link[media="print"]').forEach(function(l){l.media='all'})`,
@@ -63,12 +72,15 @@ export default (() => {
                   href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}
                   media="print"
                 />
+                <noscript>
+                  <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+                </noscript>
               </>
             )}
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -103,7 +115,48 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
-        {css.map((resource) => CSSResourceToStyleElement(resource, true))}
+        {/* Inline critical CSS to prevent layout shifts */}
+        <style
+          dangerouslySetInnerHTML={{
+            __html: `
+              /* Prevent layout shift from font loading */
+              body {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                margin: 0;
+                padding: 0;
+              }
+              /* Reserve space for KaTeX math elements */
+              .katex, .katex-display {
+                font-size: 1em;
+                min-height: 1.2em;
+              }
+              /* Prevent CLS from list items */
+              ul, ol {
+                margin: 0;
+                padding: 0 0 0 2em;
+              }
+              /* Prevent shifts from centered content */
+              .center {
+                min-height: 1px;
+              }
+            `,
+          }}
+        />
+
+        {/* Add critical CSS with high priority */}
+        {css.map((resource, index) => {
+          // Preload the first CSS file (index.css) as it's critical
+          if (index === 0) {
+            const href = typeof resource === "string" ? resource : resource.content
+            return (
+              <>
+                <link rel="preload" as="style" href={href} />
+                {CSSResourceToStyleElement(resource, true)}
+              </>
+            )
+          }
+          return CSSResourceToStyleElement(resource, true)
+        })}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
