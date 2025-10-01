@@ -1,33 +1,33 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Helper to check if page is not home/index
-const isNotHomePage = (page: any) => page.fileData.slug !== "index" && page.fileData.slug !== "home"
+const isNotHome = (page: any) => {
+  const s = page?.fileData?.slug
+  return s !== "index" && s !== "home"
+}
+const isNotCV = (page: any) => page?.fileData?.slug !== "CV"
 
-// Shared search bar with darkmode and reader mode
+const desktop = (c: any) => Component.DesktopOnly(c)
+const mobile = (c: any) => Component.MobileOnly(c)
+const conditional = (component: any, condition: (p: any) => boolean) =>
+  Component.ConditionalRender({ component, condition })
+
 const searchBar = Component.Flex({
   components: [
-    {
-      Component: Component.Search(),
-      grow: true,
-    },
+    { Component: Component.Search(), grow: true },
     { Component: Component.Darkmode() },
     { Component: Component.DesktopOnly(Component.ReaderMode()) },
   ],
 })
 
-// Combined left sidebar (desktop + mobile)
 const leftSidebarComponents = [
   Component.PageTitle(),
-  Component.CustomText({
-    text: "My personal site",
-  }),
+  Component.CustomText({ text: "My personal site" }),
   Component.MobileOnly(Component.Spacer()),
   searchBar,
   Component.DesktopOnly(Component.Explorer()),
 ]
 
-// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -42,48 +42,23 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// components for pages that display a single page
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: isNotHomePage,
-    }),
-    Component.ConditionalRender({
-      component: Component.ArticleTitle(),
-      condition: isNotHomePage,
-    }),
-    Component.ConditionalRender({
-      component: Component.ContentMeta(),
-      condition: isNotHomePage,
-    }),
+    conditional(Component.Breadcrumbs(), isNotHome),
+    conditional(Component.ArticleTitle(), isNotHome),
+    conditional(Component.ContentMeta(), isNotHome),
   ],
   left: leftSidebarComponents,
   right: [
-    Component.DesktopOnly(
-      Component.ConditionalRender({
-        component: Component.Graph(),
-        condition: (page) => page.fileData.slug !== "CV",
-      }),
-    ),
-
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(
-      Component.Backlinks({
-        excludeFiles: ["Recently Edited"],
-      }),
-    ),
-    Component.MobileOnly(Component.Explorer()),
+    desktop(conditional(Component.Graph(), isNotCV)),
+    desktop(Component.TableOfContents()),
+    desktop(Component.Backlinks({ excludeFiles: ["Recently Edited"] })),
+    mobile(Component.Explorer()),
   ],
 }
 
-// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(searchBar),
-  ],
-  right: [Component.DesktopOnly(Component.Explorer({})), Component.MobileOnly(searchBar)],
+  left: [Component.PageTitle(), Component.MobileOnly(Component.Spacer()), desktop(searchBar)],
+  right: [desktop(Component.Explorer({})), mobile(searchBar)],
 }
