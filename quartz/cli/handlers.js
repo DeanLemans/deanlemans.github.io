@@ -4,6 +4,7 @@ import esbuild from "esbuild"
 import { styleText } from "util"
 import { sassPlugin } from "esbuild-sass-plugin"
 import fs from "fs"
+import { createRequire } from "module"
 import { intro, outro, select, text } from "@clack/prompts"
 import { rm } from "fs/promises"
 import chokidar from "chokidar"
@@ -235,6 +236,16 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 export async function handleBuild(argv) {
   if (argv.serve) {
     argv.watch = true
+  }
+
+  // Optimize emojimap before building
+  try {
+    const require = createRequire(import.meta.url)
+    const { optimizeEmojimap } = require(path.join(cwd, "optimize-emojimap.cjs"))
+    optimizeEmojimap({ quiet: true, projectRoot: cwd })
+  } catch (error) {
+    // If optimization fails, continue with build
+    console.log(styleText("yellow", "⚠️  Could not optimize emojimap, continuing with build..."))
   }
 
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
