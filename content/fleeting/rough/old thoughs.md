@@ -1,7 +1,7 @@
 
-Identity affirmation:  
+Identity?:  
 I am a reader.  
-I am a batminton player.  
+I am a badminton player.  
 I meditation practiser.  
 I am a programmer.  
 I am a healthy person.  

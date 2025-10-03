@@ -1,18 +1,16 @@
 ---
-{"publish":true,"title":"{{title}}","created":"{{date}}","modified":"{{date}}","published":"2025-09-29T03:22:46.978+01:00","cssclasses":""}
+publish: false
+title: "{{title}}"
+created: "{{date}}"
+modified: "{{date}}"
+published: 2025-09-29T03:22:46.978+01:00
 ---
-
-
 
 # {{title}}
 
 ## Main Idea
 
-
-
 ## Context
-
-
 
 ## Connections
 
@@ -22,11 +20,8 @@
 
 ## Sources
 
-- 
-
 ## Personal Thoughts
 
-
-
 ---
+
 *Last updated: {{date}}*

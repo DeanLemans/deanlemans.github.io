@@ -1,17 +1,12 @@
 ---
 publish: true
-aliases: " C V"
 created: 2025-09-25T20:38:23.172+01:00
 modified: 2025-09-25T20:38:23.173+01:00
 published: 2025-09-29T03:32:24.047+01:00
-cssclasses: ""
 ---
-
-
 
 > [!danger]- WIP  
 > Currently reworking this
-
 
 > [!info]- Click here for my CV  
 > ***[[CV-DeanLemans.pdf|PDF Version]]***  
@@ -38,7 +33,7 @@ cssclasses: ""
 > - Software Development at [SintLucas](https://www.sintlucas.nl/)
 
 > [!info]Hobbies
->
+> 
 > - [[game-list|Gaming]]
 > - Gardening
 > - Mangas

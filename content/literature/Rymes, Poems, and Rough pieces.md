@@ -7,6 +7,7 @@ The infinite.
 The eternal.
 
 ---
+
 Though we are broken  
 Though we are shattered  
 You are still you  
@@ -17,13 +18,17 @@ You still survive
 So with infinity burning in your very soul  
 I shall ascend  
 [Incomplete]  
+
 ---
+
 Even though I may not survive  
 Even though I may not come out alive.  
 I will make the change  
 I will make a difference  
 [Incomplete]  
+
 ---
+
 Yggdrasil, the broken  
 The tree growing infinitely inward  
 Finally becoming itself  
@@ -31,7 +36,9 @@ Finally breaking free of the chains
 But it pushed too much  
 Then it was not  
 [Incomplete]  
+
 ---
+
 In the depth of time with eternities end.  
 We shall resist the dead of fate.  
 May my soul prevail, my body persist.  
@@ -41,17 +48,22 @@ Even when all hope is lost and the end is near.
 I call upon you eternity.  
 
 ---
+
 In the brightest of nights in the darkest of days,  
 Even when the sun's die out and the earth lost its shine  
 We shall remain until the final black hole finally dies.  
 [Incomplete]  
+
 ---
+
 You know who we are  
 You know who I am  
 Hear out call  
 Echo throughout eternity  
 [Incomplete]  
+
 ---
+
 The wheel of fate turns and turns.  
 Never stopping  
 Neverending  
@@ -67,6 +79,7 @@ We clung too our life
 And we survived  
 
 ---
+
 Oh our radiant sun  
 How you have dimmed you flame  
 Because of a fracture of parents  
@@ -85,6 +98,7 @@ I will love you
 Even in the end of times  
 
 ---
+
 Truth in lies, lies in truth  
 Objective and subjective  
 The real, the imagined  
@@ -111,14 +125,18 @@ An anchor created
 Meant to last
 
 [Incomplete]  
+
 ---
+
 An infinity fractured in an endlessly different ways  
 An infinite fractal broken in an endless number off ways  
 A broken pattern reflecting back into it self endlessly  
 An mirror endlessly repeating itself
 
 [Incomplete]  
+
 ---
+
 We recognise you  
 In the long quiet  
 The infinite being bound to a finite plane  
@@ -127,7 +145,9 @@ You were there
 Now you are bound  
 Chained but unbroken  
 [Incomplete]
+
 ---
+
 In the depth of time with eternities end.  
 We shall resist the dead of fate.  
 May my soul prevail, my body persist.  

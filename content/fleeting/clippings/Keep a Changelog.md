@@ -7,19 +7,20 @@ description: "Don’t let your friends dump git logs into changelogs."
 tags:
   - "clippings"
 ---
-### What is a changelog?
+
+### What is a Changelog?
 
 A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
 
-### Why keep a changelog?
+### Why Keep a Changelog?
 
 To make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
 
-### Who needs a changelog?
+### Who Needs a Changelog?
 
 People do. Whether consumers or developers, the end users of software are human beings who care about what's in the software. When the software changes, people want to know why and how.
 
-### How do I make a good changelog?
+### How Do I Make a Good Changelog?
 
 #### Guiding Principles
 
@@ -31,7 +32,7 @@ People do. Whether consumers or developers, the end users of software are human 
 - The release date of each version is displayed.
 - Mention whether you follow [Semantic Versioning](https://semver.org/).
 
-#### Types of changes
+#### Types of Changes
 
 - `Added` for new features.
 - `Changed` for changes in existing functionality.
@@ -40,7 +41,7 @@ People do. Whether consumers or developers, the end users of software are human 
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
-### How can I reduce the effort required to maintain a changelog?
+### How Can I Reduce the Effort Required to Maintain a Changelog?
 
 Keep an `Unreleased` section at the top to track upcoming changes.
 
@@ -49,11 +50,11 @@ This serves two purposes:
 - People can see what changes they might expect in upcoming releases
 - At release time, you can move the `Unreleased` section changes into a new release version section.
 
-### Can changelogs be bad?
+### Can Changelogs Be Bad?
 
 Yes. Here are a few ways they can be less than useful.
 
-#### Commit log diffs
+#### Commit Log Diffs
 
 Using commit log diffs as changelogs is a bad idea: they're full of noise. Things like merge commits, commits with obscure titles, documentation changes, etc.
 
@@ -77,7 +78,7 @@ A changelog which only mentions some of the changes can be as dangerous as not h
 
 ### Frequently Asked Questions
 
-#### Is there a standard changelog format?
+#### Is there a Standard Changelog Format?
 
 Not really. There's the [GNU changelog style guide](https://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html#Style-of-Change-Logs), or the [two-paragraph-long GNU NEWS file](https://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File) "guideline". Both are inadequate or insufficient.
 
@@ -85,7 +86,7 @@ This project aims to be [a better changelog convention.](https://github.com/oliv
 
 Healthy criticism, discussion and suggestions for improvements [are welcome.](https://github.com/olivierlacan/keep-a-changelog/issues)
 
-#### What should the changelog file be named?
+#### What Should the Changelog File Be Named?
 
 Call it `CHANGELOG.md`. Some projects use `HISTORY`, `NEWS` or `RELEASES`.
 
@@ -99,13 +100,13 @@ GitHub Releases create a non-portable changelog that can only be displayed to us
 
 The current version of GitHub releases is also arguably not very discoverable by end-users, unlike the typical uppercase files (`README`, `CONTRIBUTING`, etc.). Another minor issue is that the interface doesn't currently offer links to commit logs between each release.
 
-#### Can changelogs be automatically parsed?
+#### Can Changelogs Be Automatically Parsed?
 
-It’s difficult, because people follow wildly different formats and file names.
+It's difficult, because people follow wildly different formats and file names.
 
 [Vandamme](https://github.com/tech-angels/vandamme/) is a Ruby gem created by the Gemnasium team and which parses many (but not all) open source project changelogs.
 
-#### What about yanked releases?
+#### What about Yanked Releases?
 
 Yanked releases are versions that had to be pulled because of a serious bug or security issue. Often these versions don't even appear in change logs. They should. This is how you should display them:
 
@@ -113,15 +114,15 @@ Yanked releases are versions that had to be pulled because of a serious bug or s
 
 The `[YANKED]` tag is loud for a reason. It's important for people to notice it. Since it's surrounded by brackets it's also easier to parse programmatically.
 
-#### Should you ever rewrite a changelog?
+#### Should You Ever Rewrite a Changelog?
 
 Sure. There are always good reasons to improve a changelog. I regularly open pull requests to add missing releases to open source projects with unmaintained changelogs.
 
 It's also possible you may discover that you forgot to address a breaking change in the notes for a version. It's obviously important for you to update your changelog in this case.
 
-#### How can I contribute?
+#### How Can I Contribute?
 
-This document is not the **truth**; it’s my carefully considered opinion, along with information and examples I gathered.
+This document is not the **truth**; it's my carefully considered opinion, along with information and examples I gathered.
 
 This is because I want our community to reach a consensus. I believe the discussion is as important as the end result.
 

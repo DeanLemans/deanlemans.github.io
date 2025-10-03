@@ -1,10 +1,12 @@
+#todo 
+
 too ask an chatbot what they think of my notes every month.  
 for further refleciton.
 
 too stress less about how too catagorize things.  
 it will only keep you from writings your thoughts down  
 but i will need too it sometime in the future.  
-too organize all my realizatons, important stuff and methapors/analogs. extremely #important
+too organize all my realizatons, important stuff and methapors/analogs. extremely
 
 with the syncthing of my yt subscirtion acros my laptop and phone, i feel more complete.  
 like a crevace has been mended.  

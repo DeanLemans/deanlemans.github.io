@@ -1,5 +1,13 @@
 ---
-{"publish":true,"title":"Map of Maps - Zettelkasten Index","created":"2025-01-17","modified":"2025-01-17","published":"2025-09-28T03:43:03.531+01:00","tags":["map","index","zettelkasten"],"cssclasses":""}
+publish: true
+title: Map of Maps - Zettelkasten Index
+created: 2025-01-17
+modified: 2025-01-17
+published: 2025-09-28T03:43:03.531+01:00
+tags:
+  - map
+  - index
+  - zettelkasten
 ---
 
 # Map of Maps - Dean's Zettelkasten

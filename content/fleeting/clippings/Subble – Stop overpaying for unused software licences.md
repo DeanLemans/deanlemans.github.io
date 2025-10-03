@@ -7,7 +7,8 @@ description: "Home page for Subble"
 tags:
   - "clippings"
 ---
-## Stop overpaying for unused softwarelicences
+
+## Stop Overpaying for Unused Softwarelicences
 
 See who's actually using each licence, remove overprovisioned user accounts, and get behaviour-driven cost saving insights, without manual work.
 
@@ -15,11 +16,11 @@ See who's actually using each licence, remove overprovisioned user accounts, and
 
 ![test](https://www.subble.com/images/chart-sketch.png)
 
-You're in good company...
+You're in good company…
 
 ![test](https://www.subble.com/images/without-subble.png)
 
-## Drowning in SaaS chaos?
+## Drowning in SaaS Chaos?
 
 - Spending way too much money on software
 - No visibility on who has access to what
@@ -28,18 +29,18 @@ You're in good company...
 
 ![test](https://www.subble.com/images/with-subble.png)
 
-## Reduce software costs without wasting employee time.
+## Reduce Software Costs without Wasting Employee time
 
 - Stop bleeding money on software you don't need
 - Get total visibility on who has access, and who shouldn't
 - Cut off unused accounts before they drain your budget
 - Never get blindsided by a renewal again
 
-## How it works:
+## How it Works
 
 1
 
-### Connect your apps in a few clicks
+### Connect Your Apps in a Few Clicks
 
 Integrate your tools effortlessly using our wide range of pre-built integrations, no code required.
 
@@ -47,7 +48,7 @@ Integrate your tools effortlessly using our wide range of pre-built integrations
 
 2
 
-### Gain a holistic view of your apps, users, and spend
+### Gain a Holistic view of Your Apps, Users, and Spend
 
 See all your company's subscriptions, how much is being spent, and who has access to what.
 
@@ -55,13 +56,13 @@ See all your company's subscriptions, how much is being spent, and who has acces
 
 3
 
-### Stay in control
+### Stay in Control
 
 Get automated, usage-based cost-saving suggestions, no manual analysis needed.
 
 ![test](https://www.subble.com/images/step-three.webp)
 
-## What our customers love about Subble
+## What Our Customers Love about Subble
 
 ![Jenny McMaster Logo](https://www.subble.com/images/clients/logos/DAS.webp)
 
@@ -139,7 +140,7 @@ Steve Brendish
 
 Founder & Director
 
-## From A-Z, our integrations library has got you covered.
+## From A-Z, Our Integrations Library Has Got You Covered
 
 Developed and supported entirely in-house. Need another integration? We'll take care of it.
 
@@ -147,6 +148,6 @@ Developed and supported entirely in-house. Need another integration? We'll take 
 
 ## Frequently Asked Questions
 
-## Let us show you what's slipping through the cracks
+## Let Us Show You What's Slipping through the Cracks
 
 [Book a demo](https://www.subble.com/book-a-demo/) [Try for free](https://app.subble.com/auth/signup)

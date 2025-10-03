@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Dean's Library!","description":"Some books i have read","created":"2024-10-08 00:00:00 +0100","modified":"2025-09-28T03:17:52.377+01:00","published":"2024-10-08 00:00:00 +0100","cssclasses":""}
+publish: true
+title: Dean's Library!
+description: Some books i have read
+created: 2024-10-08 00:00:00 +0100
+modified: 2025-09-28T03:17:52.377+01:00
+published: 2024-10-08 00:00:00 +0100
 ---
 
 
@@ -108,4 +113,4 @@
 [azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
 > [!info]  
-> also check out my [game-list](<./game-list.md>)
+> also check out my [[game-list]]

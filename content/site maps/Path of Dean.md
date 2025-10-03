@@ -1,4 +1,4 @@
-**plan for the future/think of the future**
+**current plan for life**
 
 > [!info] This will never be finished | There is no perfection
 

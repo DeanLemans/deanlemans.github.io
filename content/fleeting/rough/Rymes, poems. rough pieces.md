@@ -1,13 +1,18 @@
-(Ordered in date of creation.)
-up = old
-[The Infinite, The Endless and The Eternal](<./The Infinite, The Endless and The Eternal.md>)
+
+```
+up = old  
+```
+
 Rhyme Poem and rough pieces of storytelling
+
 --------
+
 the end is not the end except when it is but then it is not an end that is the beginning  
 except that means that the end is the beginning and that the beginning is the end.  
 and thus it ends in an paradox
 
 --------
+
 Though we are broken
 Though we are shattered
 You are still you
