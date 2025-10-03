@@ -1,11 +1,20 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const and =
+  (...conds: ((p: any) => boolean)[]) =>
+  (p: any) =>
+    conds.every((c) => c(p))
+
 const isNotHome = (page: any) => {
   const s = page?.fileData?.slug
   return s !== "index" && s !== "home"
 }
-const isNotCV = (page: any) => page?.fileData?.slug !== "CV"
+
+const isNotCV = (page: any) => {
+  const s = page?.fileData?.slug
+  return s !== "CV-Software" && s !== "CV-Gardening"
+}
 
 const desktop = (c: any) => Component.DesktopOnly(c)
 const mobile = (c: any) => Component.MobileOnly(c)
@@ -31,7 +40,7 @@ const leftSidebarComponents = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [desktop(Component.Graph())],
   footer: Component.Footer({
     links: {
       "Site Content License": "https://creativecommons.org/licenses/by/4.0",
@@ -50,15 +59,19 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: leftSidebarComponents,
   right: [
-    desktop(conditional(Component.Graph(), isNotCV)),
-    desktop(Component.TableOfContents()),
-    desktop(Component.Backlinks({ excludeFiles: ["Recently Edited"] })),
+    desktop(conditional(Component.TableOfContents(), isNotHome)),
+    desktop(conditional(Component.Backlinks(), and(isNotHome, isNotCV))),
     mobile(Component.Explorer()),
   ],
 }
 
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
-  left: [Component.PageTitle(), Component.MobileOnly(Component.Spacer()), desktop(searchBar)],
-  right: [desktop(Component.Explorer({})), mobile(searchBar)],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    desktop(searchBar),
+    desktop(Component.Explorer()),
+  ],
+  right: [mobile(searchBar)],
 }
