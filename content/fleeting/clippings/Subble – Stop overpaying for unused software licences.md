@@ -9,7 +9,10 @@ tags:
 publish: true
 ---
 
-## Stop Overpaying for Unused Softwarelicences
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
+
+## Stop Overpaying for Unused Software Licences
 
 See who's actually using each licence, remove overprovisioned user accounts, and get behaviour-driven cost saving insights, without manual work.
 

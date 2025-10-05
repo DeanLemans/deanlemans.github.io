@@ -2,6 +2,7 @@
 tags:
   - vanlilfe
   - research
+draft: "true"
 ---
 
 Look into nederlands vanlife communities  

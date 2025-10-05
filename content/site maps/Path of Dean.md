@@ -1,9 +1,13 @@
+---
+publish: false
+---
+
 **current plan for life**
 
 > [!info] This will never be finished | There is no perfection
 
-current education: Game Developer(what kind of game dev?)  
-current job: Freelance gardener(want to be more)
+current education: ~~Software Developer~~ Hovenier  
+current job: Freelance gardener (freelancer) and Hovenier worker
 
 **what are the foreseeable plans?**  
 making a game in free-time to make better use of my time.  

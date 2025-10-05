@@ -9,6 +9,8 @@ tags:
   - clippings
 publish: true
 ---
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
 
 ![](https://jesseduffield.com/images/posts/lazygit-5/basic-gif.gif)
 

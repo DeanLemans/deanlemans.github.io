@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION
 

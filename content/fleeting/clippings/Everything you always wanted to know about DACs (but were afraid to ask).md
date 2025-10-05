@@ -10,6 +10,8 @@ tags:
   - clippings
 publish: true
 ---
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
 
 ![PL Diamond DAC from the front on hi-fi rack](https://cdn.mos.cms.futurecdn.net/EiqcGqpHPfALGsvAsrBDFf-1920-80.jpg.webp)
 

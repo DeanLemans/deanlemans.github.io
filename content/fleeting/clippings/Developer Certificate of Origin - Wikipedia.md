@@ -10,6 +10,9 @@ tags:
 publish: true
 ---
 
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
+
 The **Developer Certificate of Origin** (DCO) is a statement that a software developer agrees to, saying that "the contributor is allowed to make the contribution and that the project has the right to distribute it under its license." [^1] It was introduced in 2004 [^1] by the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation "Linux Foundation"), to enhance the submission process for software used in the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel"), shortly after the [SCO–Linux disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes "SCO–Linux disputes").[^2] [^3]
 
 DCOs are often used as an alternative to a [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement "Contributor License Agreement") (CLA). Instead of a signed legal contract, a DCO is an affirmation that a certain person confirms that it is (s)he who holds [legal liability](https://en.wikipedia.org/wiki/Legal_liability "Legal liability") for the act of sending of the code, that makes it easier to shift liability to the sender of the code in the case of any legal litigation, which serves as a [deterrent](https://en.wikipedia.org/wiki/Deterrence_\(penology\) "Deterrence (penology)") of sending any code that can cause legal issues. Proponents of the DCO contend that it reduces the barriers of entry introduced by a CLA.[^1]

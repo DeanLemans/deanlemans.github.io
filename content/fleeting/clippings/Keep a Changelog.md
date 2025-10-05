@@ -8,7 +8,8 @@ tags:
   - clippings
 publish: true
 ---
-
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
 ### What is a Changelog?
 
 A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
