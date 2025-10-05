@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "deanlemans.github.io",
-    ignorePatterns: ["private", "assets/templates", ".obsidian", "archive"],
+    ignorePatterns: ["private", "assets/templates", ".obsidian", "archive", "journal"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
