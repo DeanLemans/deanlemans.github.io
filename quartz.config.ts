@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "deanlemans.github.io",
-    ignorePatterns: ["private", "assets/templates", ".obsidian", "archive", "journal"],
+    ignorePatterns: ["private", "assets/templates", ".obsidian", "content/journal.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -64,32 +64,41 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, mermaid: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: true,
+        mermaid: false,
+        disableBrokenWikilinks: true,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.RoamFlavoredMarkdown(),
+      Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({
         markdownLinkResolution: "shortest",
         openLinksInNewTab: true,
+        prettyLinks: true,
+        lazyLoad: true,
       }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.RemoveDrafts(), Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
+      //Plugin.Citations(), //STILL NEED TO CONFIGURE THIS
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: false,
+        includeEmptyFiles: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(), // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(), // Comment to speed up build time
     ],
   },
 }
