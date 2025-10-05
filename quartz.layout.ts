@@ -21,19 +21,16 @@ const mobile = (c: any) => Component.MobileOnly(c)
 const conditional = (component: any, condition: (p: any) => boolean) =>
   Component.ConditionalRender({ component, condition })
 
-const searchBar = Component.Flex({
-  components: [
-    { Component: Component.Search(), grow: true },
-    { Component: Component.Darkmode() },
-    { Component: Component.DesktopOnly(Component.ReaderMode()) },
-  ],
-})
+const searchBar = [
+  Component.Search(),
+  Component.Darkmode(),
+  Component.DesktopOnly(Component.ReaderMode()),
+]
 
 const leftSidebarComponents = [
   Component.PageTitle(),
   Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
   Component.MobileOnly(Component.Spacer()),
-  searchBar,
   Component.DesktopOnly(Component.Explorer()),
 ]
 
