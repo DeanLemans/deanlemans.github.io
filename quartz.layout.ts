@@ -24,7 +24,7 @@ const conditional = (component: any, condition: (p: any) => boolean) =>
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [desktop(Component.Graph())],
+  afterBody: [Component.Graph()],
   footer: Component.Footer({
     links: {
       "Site Content License": "https://creativecommons.org/licenses/by/4.0",
@@ -45,12 +45,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.DesktopOnly(Component.ReaderMode()) },
+      ],
+    }),
+    Component.Explorer(),
   ],
   right: [
     desktop(conditional(Component.TableOfContents(), notHome)),
     desktop(conditional(Component.Backlinks(), and(notHome, notCV))),
-    mobile(Component.Explorer()),
   ],
 }
 
