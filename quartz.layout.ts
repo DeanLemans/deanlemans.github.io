@@ -31,7 +31,7 @@ const searchBar = Component.Flex({
 
 const leftSidebarComponents = [
   Component.PageTitle(),
-  Component.CustomText({ text: "My personal site" }),
+  Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
   Component.MobileOnly(Component.Spacer()),
   searchBar,
   Component.DesktopOnly(Component.Explorer()),
