@@ -41,8 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
-    Component.MobileOnly(Component.Spacer()),
+    desktop(Component.CustomText({ text: "My personal site" })),
+    mobile(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -51,6 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.DesktopOnly(Component.ReaderMode()) },
+        { Component: desktop(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer(),
@@ -65,7 +66,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    mobile(Component.Spacer()),
     desktop(Component.Search()),
     desktop(Component.Darkmode()),
     desktop(Component.DesktopOnly(Component.ReaderMode())),
