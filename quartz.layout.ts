@@ -6,12 +6,12 @@ const and =
   (p: any) =>
     conds.every((c) => c(p))
 
-const isNotHome = (page: any) => {
+const notHome = (page: any) => {
   const s = page?.fileData?.slug
   return s !== "index" && s !== "home"
 }
 
-const isNotCV = (page: any) => {
+const notCV = (page: any) => {
   const s = page?.fileData?.slug
   return s !== "CV-Software" && s !== "CV-Gardening"
 }
@@ -20,19 +20,6 @@ const desktop = (c: any) => Component.DesktopOnly(c)
 const mobile = (c: any) => Component.MobileOnly(c)
 const conditional = (component: any, condition: (p: any) => boolean) =>
   Component.ConditionalRender({ component, condition })
-
-const searchBar = [
-  Component.Search(),
-  Component.Darkmode(),
-  Component.DesktopOnly(Component.ReaderMode()),
-]
-
-const leftSidebarComponents = [
-  Component.PageTitle(),
-  Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
-  Component.MobileOnly(Component.Spacer()),
-  Component.DesktopOnly(Component.Explorer()),
-]
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -50,14 +37,19 @@ export const sharedPageComponents: SharedLayout = {
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    conditional(Component.Breadcrumbs(), isNotHome),
-    conditional(Component.ArticleTitle(), isNotHome),
-    conditional(Component.ContentMeta(), isNotHome),
+    conditional(Component.Breadcrumbs(), notHome),
+    conditional(Component.ArticleTitle(), notHome),
+    conditional(Component.ContentMeta(), notHome),
   ],
-  left: leftSidebarComponents,
+  left: [
+    Component.PageTitle(),
+    Component.DesktopOnly(Component.CustomText({ text: "My personal site" })),
+    Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
   right: [
-    desktop(conditional(Component.TableOfContents(), isNotHome)),
-    desktop(conditional(Component.Backlinks(), and(isNotHome, isNotCV))),
+    desktop(conditional(Component.TableOfContents(), notHome)),
+    desktop(conditional(Component.Backlinks(), and(notHome, notCV))),
     mobile(Component.Explorer()),
   ],
 }
@@ -67,8 +59,14 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    desktop(searchBar),
+    desktop(Component.Search()),
+    desktop(Component.Darkmode()),
+    desktop(Component.DesktopOnly(Component.ReaderMode())),
     desktop(Component.Explorer()),
   ],
-  right: [mobile(searchBar)],
+  right: [
+    mobile(Component.Search()),
+    mobile(Component.Darkmode()),
+    mobile(Component.DesktopOnly(Component.ReaderMode())),
+  ],
 }
