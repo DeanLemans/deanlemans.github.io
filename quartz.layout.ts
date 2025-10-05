@@ -2,19 +2,17 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 const and =
-  (...conds: ((p: any) => boolean)[]) =>
+  (...conds: Array<(p: any) => boolean>) =>
   (p: any) =>
     conds.every((c) => c(p))
 
-const notHome = (page: any) => {
+const notSlug = (page: any, slugs: string[]) => {
   const s = page?.fileData?.slug
-  return s !== "index" && s !== "home"
+  return !slugs.includes(s)
 }
 
-const notCV = (page: any) => {
-  const s = page?.fileData?.slug
-  return s !== "CV-Software" && s !== "CV-Gardening"
-}
+const notHome = (page: any) => notSlug(page, ["index", "home"])
+const notCV = (page: any) => notSlug(page, ["CV-Software", "CV-Gardening"])
 
 const desktop = (c: any) => Component.DesktopOnly(c)
 const mobile = (c: any) => Component.MobileOnly(c)
