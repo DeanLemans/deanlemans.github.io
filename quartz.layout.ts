@@ -50,9 +50,9 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: desktop(Component.ReaderMode()) },
       ],
     }),
+    desktop(Component.ReaderMode()),
     Component.Explorer(),
   ],
   right: [
