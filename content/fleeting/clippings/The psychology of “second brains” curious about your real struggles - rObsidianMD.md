@@ -1,12 +1,13 @@
 ---
-title: "The psychology of “second brains” curious about your real struggles - r/ObsidianMD"
-source: "https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/"
+title: The psychology of “second brains” curious about your real struggles - r/ObsidianMD
+source: https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/
 author:
   - "[[u/jerr9185]]"
 created: 2025-09-29
-description: "View on Redlib, an alternative private front-end to Reddit."
+description: View on Redlib, an alternative private front-end to Reddit.
 tags:
-  - "clippings"
+  - clippings
+publish: true
 ---
 
 [r/ObsidianMD](https://reddit.nerdvpn.de/r/ObsidianMD) • [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) • 23d ago

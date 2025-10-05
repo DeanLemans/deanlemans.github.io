@@ -1,11 +1,12 @@
 ---
-title: "Subble – Stop overpaying for unused software licences"
-source: "https://www.subble.com/"
+title: Subble – Stop overpaying for unused software licences
+source: https://www.subble.com/
 author:
 created: 2025-09-29
-description: "Home page for Subble"
+description: Home page for Subble
 tags:
-  - "clippings"
+  - clippings
+publish: true
 ---
 
 ## Stop Overpaying for Unused Softwarelicences

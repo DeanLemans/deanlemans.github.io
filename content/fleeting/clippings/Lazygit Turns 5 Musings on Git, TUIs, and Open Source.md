@@ -1,12 +1,13 @@
 ---
 title: "Lazygit Turns 5: Musings on Git, TUIs, and Open Source"
-source: "https://jesseduffield.com/Lazygit-5-Years-On/"
+source: https://jesseduffield.com/Lazygit-5-Years-On/
 author:
   - "[[Pursuit Of Laziness]]"
 created: 2025-09-29
 description:
 tags:
-  - "clippings"
+  - clippings
+publish: true
 ---
 
 ![](https://jesseduffield.com/images/posts/lazygit-5/basic-gif.gif)

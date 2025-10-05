@@ -1,3 +1,8 @@
+---
+publish:
+created: "{{date}}"
+modified: "{{date}}"
+---
 
 --- 
 

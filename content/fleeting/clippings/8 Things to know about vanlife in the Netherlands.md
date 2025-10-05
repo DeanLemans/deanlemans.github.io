@@ -8,6 +8,7 @@ description: 8 Things to know about vanlife in the Netherlands. A blog about tra
 tags:
   - clippings
   - vanlilfe
+publish: true
 ---
 
 We have lived in a motorhome (actually, two motorhomes) for over two years but at the time of visiting the Netherlands in autumn 2023, we marked a little over a year. But still, we had some experience and knew of the difficulties that living in a vehicle brings, that planning our trip to the Netherlands seemed a bit tricky. You see, the stereotypes about narrow roads, little space, and everything being expensive are actually kind of true. But it's also possible to travel there with a tighter budget and that's what we did.

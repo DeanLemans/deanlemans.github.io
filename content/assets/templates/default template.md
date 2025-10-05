@@ -1,4 +1,5 @@
 ---
 created: "{{date}}"
 tags:
+publish:
 ---

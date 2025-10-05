@@ -1,11 +1,12 @@
 ---
-title: "Keep a Changelog"
-source: "https://keepachangelog.com/en/1.1.0/"
+title: Keep a Changelog
+source: https://keepachangelog.com/en/1.1.0/
 author:
 created: 2025-09-29
-description: "Don’t let your friends dump git logs into changelogs."
+description: Don’t let your friends dump git logs into changelogs.
 tags:
-  - "clippings"
+  - clippings
+publish: true
 ---
 
 ### What is a Changelog?

@@ -1,13 +1,14 @@
 ---
-title: "Everything you always wanted to know about DACs* (*but were afraid to ask)"
-source: "https://www.whathifi.com/advice/dacs-what-is-a-dac-and-do-you-need-one"
+title: Everything you always wanted to know about DACs* (*but were afraid to ask)
+source: https://www.whathifi.com/advice/dacs-what-is-a-dac-and-do-you-need-one
 author:
   - "[[Verity Burns]]"
   - "[[Becky Roberts]]"
 created: 2025-09-29
-description: "Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party."
+description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
 tags:
-  - "clippings"
+  - clippings
+publish: true
 ---
 
 ![PL Diamond DAC from the front on hi-fi rack](https://cdn.mos.cms.futurecdn.net/EiqcGqpHPfALGsvAsrBDFf-1920-80.jpg.webp)
