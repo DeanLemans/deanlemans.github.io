@@ -50,9 +50,9 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: desktop(Component.ReaderMode()) },
       ],
     }),
-    desktop(Component.ReaderMode()),
     Component.Explorer(),
   ],
   right: [
@@ -65,15 +65,19 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
+    desktop(Component.CustomText({ text: "My personal site" })),
     mobile(Component.Spacer()),
-    desktop(Component.Search()),
-    desktop(Component.Darkmode()),
-    desktop(Component.DesktopOnly(Component.ReaderMode())),
-    desktop(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: desktop(Component.ReaderMode()) },
+      ],
+    }),
+    Component.Explorer(),
   ],
-  right: [
-    mobile(Component.Search()),
-    mobile(Component.Darkmode()),
-    mobile(Component.DesktopOnly(Component.ReaderMode())),
-  ],
+  right: [desktop(Component.TableOfContents()), desktop(Component.Backlinks())],
 }
