@@ -53,7 +53,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: desktop(Component.ReaderMode()) },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        const omit = ["00-captures"] // to exclude specified nodes
+        return !omit.includes(node.displayName.toLowerCase())
+      },
+    }),
   ],
   right: [
     desktop(conditional(Component.TableOfContents(), notHome)),
