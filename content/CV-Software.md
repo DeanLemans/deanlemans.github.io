@@ -7,7 +7,7 @@ published: 2025-09-29T03:20:52.570+01:00
 
 > [!danger]- WIP  
 > Currently reworking this  
-> I need to split my 2 CV, maby do something with automization for companies?
+> I need to split my 2 CV, maby do something with automation for companies?
 
 > [!info]- Click here for my CV  
 > ***[[CV-DeanLemans.pdf|PDF Version]]***  

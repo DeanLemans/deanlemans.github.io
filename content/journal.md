@@ -1,7 +1,6 @@
 ---
 publish: false
 modified: 2025-10-04
-draft: "true"
 ---
 
 # 2023-12-20

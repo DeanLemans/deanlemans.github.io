@@ -7,6 +7,7 @@ published: 2025-09-25T21:50:15.585+01:00
 tags:
   - research
   - finished
+title: Research Bali
 ---
 
 See nekoweb site

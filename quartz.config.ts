@@ -91,14 +91,14 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: false,
-        includeEmptyFiles: false,
+        enableRSS: true,
+        includeEmptyFiles: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(), // Comment to speed up build time
+      Plugin.CustomOgImages(), // Comment speed up build time
     ],
   },
 }
