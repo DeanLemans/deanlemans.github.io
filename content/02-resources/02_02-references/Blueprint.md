@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 [Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)  
 Bryan Johnson's Blueprint Protocol is a data‑driven anti‑aging routine.
 
