@@ -1,3 +1,4 @@
+- 2025-10-06 20:02 · [[Projects]]
 - 2025-10-06 13:44 · [[Research-Bali]]
 - 2025-10-06 13:42 · [[sintlucas klachten]]
 - 2025-10-06 13:42 · [[Rymes, Poems, and Rough pieces]]
@@ -7,7 +8,6 @@
 - 2025-10-06 13:37 · [[Streisand effect]]
 - 2025-10-06 13:36 · [[Picture Walk]]
 - 2025-10-06 13:36 · [[Existentialism]]
-- 2025-10-06 02:05 · [[Projects]]
 - 2025-10-06 02:05 · [[map-of-maps]]
 - 2025-10-06 02:05 · [[game-list]]
 - 2025-10-06 02:05 · [[book-list]]
