@@ -1,5 +1,0 @@
----
-created: "{{date}}"
-tags:
-publish:
----
