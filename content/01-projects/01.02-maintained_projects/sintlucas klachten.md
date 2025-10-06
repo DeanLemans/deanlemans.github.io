@@ -1,3 +1,7 @@
+---
+publish:
+---
+
 Big problem:
 
 1. De Docent op vrijdag die de Les practice aan het vervangen is vanwege onze creativity weggegaan, kan Amper lesgeven(niks tegen deze docent maar dit is het eerste Jaar dat hij lesgeeft), hij geeft nu Les tot er een andere creativity docent komt en Ricardo weer SD practice kan geven op vrijdag; probleem is we weten niet waneer er een andere creativity docent komt. (Dit kan een week duren of half Jaar)

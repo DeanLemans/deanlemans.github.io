@@ -25,8 +25,8 @@ published: 2025-09-26T11:18:47.241+01:00
 - Need to update this with gardening tools, and electricity vs petrol? Fuel
 
 > [!info] Get to know me!
-> - See my [[book-list]]
-> - My [[game-list]]
+> - See my [[book-list|Library]]
+> - My [[game-list|Game List]]
 > - and [[Finished-Projects]]
 
 ## Repositories Plans

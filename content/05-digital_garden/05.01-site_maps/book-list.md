@@ -7,21 +7,18 @@ modified: 2025-09-28T03:17:52.377+01:00
 published: 2024-10-08 00:00:00 +0100
 ---
 
-
-[[books]]
-
-| File                                                                                           | author           | ( "![](" + cover + ")" )                                                                                     |
-| ---------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| Title                                                                                       | Author           | Cover                                                                                                        |
+| ------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[assets/books/A House Reborn\|A House Reborn]]                                             | Mark Arrows      | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697328855l/179846196._SY475_.jpg) |
 | [[assets/books/An Unborn Hero\|An Unborn Hero]]                                             | Cathfach         | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717535837l/214244416._SY475_.jpg) |
-| [[assets/books/Apocalypse Redux - Books 1-3 Box Set\|Apocalypse Redux - Books 1-3 Box Set]] | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733345315l/222252964._SX318_.jpg) |
-| [[assets/books/Apocalypse Redux Book Five\|Apocalypse Redux Book Five]]                     | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694985977l/199004875._SY475_.jpg) |
-| [[assets/books/Apocalypse Redux Book One\|Apocalypse Redux Book One]]                       | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759016457l/62875923._SY475_.jpg)  |
-| [[assets/books/Apocalypse Redux Book Four\|Apocalypse Redux Book Four]]                     | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683203442l/146745564._SY475_.jpg) |
-| [[assets/books/Apocalypse Redux Book Seven\|Apocalypse Redux Book Seven]]                   | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718683442l/214935110._SY475_.jpg) |
-| [[assets/books/Apocalypse Redux Book Six\|Apocalypse Redux Book Six]]                       | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704743123l/205048367._SY475_.jpg) |
-| [[assets/books/Apocalypse Redux Book Three\|Apocalypse Redux Book Three]]                   | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673609275l/76765944._SY475_.jpg)  |
-| [[assets/books/Apocalypse Redux Book Two\|Apocalypse Redux Book Two]]                       | Jakob H. Greif   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665223591l/62907584._SY475_.jpg)  |
+| [[assets/books/Apocalypse Redux - Books 1-3 Box Set\|Apocalypse Redux - Books 1-3 Box Set]] | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733345315l/222252964._SX318_.jpg) |
+| [[assets/books/Apocalypse Redux Book Five\|Apocalypse Redux Book Five]]                     | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694985977l/199004875._SY475_.jpg) |
+| [[assets/books/Apocalypse Redux Book One\|Apocalypse Redux Book One]]                       | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759016457l/62875923._SY475_.jpg)  |
+| [[assets/books/Apocalypse Redux Book Four\|Apocalypse Redux Book Four]]                     | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683203442l/146745564._SY475_.jpg) |
+| [[assets/books/Apocalypse Redux Book Seven\|Apocalypse Redux Book Seven]]                   | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718683442l/214935110._SY475_.jpg) |
+| [[assets/books/Apocalypse Redux Book Six\|Apocalypse Redux Book Six]]                       | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704743123l/205048367._SY475_.jpg) |
+| [[assets/books/Apocalypse Redux Book Three\|Apocalypse Redux Book Three]]                   | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673609275l/76765944._SY475_.jpg)  |
+| [[assets/books/Apocalypse Redux Book Two\|Apocalypse Redux Book Two]]                       | Jakob H. Grief   | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665223591l/62907584._SY475_.jpg)  |
 | [[assets/books/Atomic Habits\|Atomic Habits]]                                               | James Clear      | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg)          |
 | [[assets/books/ArKendrithyst\|ArKendrithyst]]                                               | Arcs             | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661169052l/51384613.jpg)          |
 | [[assets/books/Azarinth Healer\|Azarinth Healer]]                                           | Rhaegar          | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667961181l/63260494._SY475_.jpg)  |
@@ -81,8 +78,7 @@ published: 2024-10-08 00:00:00 +0100
 | [[assets/books/Tree of Aeons\|Tree of Aeons]]                                               | spaizzzer        | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672681515l/75517360._SX318_.jpg)  |
 | [[assets/books/Vigor Mortis\|Vigor Mortis]]                                                 | Natalie Maher    | ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623906460l/58358714._SX318_.jpg)  |
 
-
-## My Favorite Fiction Books Are:
+## My Favorite Fiction Books Are
 
 | [godclads](https://www.royalroad.com/fiction/59663/godclads) | [Thresholder](https://www.royalroad.com/fiction/60396/thresholder) | [Tenebroum](https://www.royalroad.com/fiction/58643/tenebroum-book-1-stubbed) |
 | ------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -96,7 +92,7 @@ published: 2024-10-08 00:00:00 +0100
 
 ---
 
-## Favorite Non-fiction Books Are:
+## Favorite Non-fiction Books Are
 
 | [The Myth of Sisyphus](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus) | [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) | [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) |
 |----------|----------|----------|
@@ -112,5 +108,5 @@ published: 2024-10-08 00:00:00 +0100
 
 [azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
-> [!info]  
+> [!info]
 > also check out my [[game-list]]

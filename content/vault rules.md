@@ -1,5 +1,5 @@
 ---
-draft: "true"
+publish: false
 ---
 
 TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION
