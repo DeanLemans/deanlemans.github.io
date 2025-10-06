@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Transferred notes from signal
 
 Vault warden  

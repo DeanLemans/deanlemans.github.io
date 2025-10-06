@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # [[My]]
 
 - Too fight against [Fate](<../../short-form/Fate.md>).

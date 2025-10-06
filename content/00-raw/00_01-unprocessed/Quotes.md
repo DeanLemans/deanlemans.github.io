@@ -1,7 +1,11 @@
+---
+draft: true
+---
+
 # [[Quotes]]
 
-The continual search for knowledge...
-"too become the best version of yourself requires you to continuously improve/change your beliefs, and too expand and improve your identity."
+The continual search for knowledge…  
+"too become the best version of yourself requires you to continuously improve/change your beliefs, and too expand and improve your identity."  
 "perseverance in the face of adversity is the key to success."
 
 complicated  

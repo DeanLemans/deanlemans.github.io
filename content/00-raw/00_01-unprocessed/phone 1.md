@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Create daily small goals to achieve
 
 Beyond fireahip  

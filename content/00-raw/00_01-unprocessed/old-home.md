@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 See my [home](<../home.md>)
 
 - simplify my obsidian structure. WIP
@@ -47,7 +51,7 @@ _all books transferred too goodreads._
  when bying things, always look at the buy it for life subreddit. for long term investment in stuff.  
  so that i dont have to buy it again and again. better money management.
 
-## Gratitude.
+## Gratitude
 
 - i am thankful for that i get too eat food when i want
 - i am thankful that i still have 2 parents that love me

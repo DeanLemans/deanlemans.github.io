@@ -1,8 +1,12 @@
+---
+draft: true
+---
+
 "The more evidence you have for a belief, the more strongly you will believe it."
 1. Decide the type of person you want to be. 
 2. Prove it to yourself with small things.  
 The continual search for knowledge  
-[Quotes](<./Quotes.md>)  
+[[Quotes]]  
 Capgraz syndrome  
 Catch-22  
 "Volwasenen willen liever done alsof wij het niet snappen waarover zij het hebben."  
@@ -11,9 +15,9 @@ Man locked out of his smart house
 "Change is a direction, not a destination."  
 'If a behavior is insufficient in any of the four stages, it will not become a habit.  
 Eliminate the cue and your habit will never start.  
-Reduce the craving and you won’t experience enough motivation to act.  
-Make the behavior difficult and you won’t be able to do it.  
-And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future.  
+Reduce the craving and you won't experience enough motivation to act.  
+Make the behavior difficult and you won't be able to do it.  
+And if the reward fails to satisfy your desire, then you'll have no reason to do it again in the future.  
 Without all four, a behavior will not be repeated.'  
 Cue, craving, response and reward  
 All Choices Have Consequences.  
@@ -29,7 +33,7 @@ All Choices Have Consequences.
 "Absorb what is useful. Discard what is not. Add what is uniquely your own."  
 "Life isn't about finding yourself. Life is about creating yourself."  
 "Despite everything, your still you."  
-“And I sat pondering at the edge of a timeless sea. Pondering at what’s left of me. Pondering, Is it truly me?”  
+"And I sat pondering at the edge of a timeless sea. Pondering at what's left of me. Pondering, Is it truly me?"  
 "Born too late to explore the Earth and Too early to explore the stars."  
 The legend of zyzz  
 "Truth in lies, lies in truth."  
@@ -46,7 +50,7 @@ Zelda's lullaby
 "Don't trust the government"  
 46391  
 Queen Elizabeth II "May you rest in peace."  
-“Ask a question. Do research. Form a hypothesis. Test that hypothesis. Analyze the data. Draw a conclusion. Repeat.”  
+"Ask a question. Do research. Form a hypothesis. Test that hypothesis. Analyze the data. Draw a conclusion. Repeat."  
 "Once you give governments power, They don't give it back."  
 2021 Zondag 12 September [scheiden]  
 "Nothing is to be taken seriously on the internet"  

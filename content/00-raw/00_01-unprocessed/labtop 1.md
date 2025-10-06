@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 #todo 
 
 too ask an chatbot what they think of my notes every month.  
