@@ -1,6 +1,13 @@
 ---
-publish: false
+publish: true
 modified: 2025-10-04
+---
+
+# 2025-10-07
+
+I saw something, a goal. A state.  
+I was a tree, i was a dryad, i was somebody with thin burning plants (grass, long moss, roots) for hair. I was the "house" and i was the one living in it.
+
 ---
 
 # 2023-12-20
