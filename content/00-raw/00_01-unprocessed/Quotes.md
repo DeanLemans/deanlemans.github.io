@@ -2,7 +2,7 @@
 draft: true
 ---
 
-# [[Quotes]]
+# [Quotes](<./Quotes.md>)
 
 The continual search for knowledge…  
 "too become the best version of yourself requires you to continuously improve/change your beliefs, and too expand and improve your identity."  
@@ -14,4 +14,4 @@ complicated
 	"too become the best version of yourself requires you to continuously change your beliefs, and to upgrade, expand and improve your identity."  
 	"Fall in love with the process rather than the product"
 
- this is intrinsically linked too [[My]]
+ this is intrinsically linked too [My](<./My.md>)

@@ -9,8 +9,8 @@ published: 2025-09-29T03:32:24.047+01:00
 > Currently reworking this
 
 > [!info]- Click here for my CV  
-> ***[[CV-DeanLemans.pdf|PDF Version]]***  
-> ![[CV-DeanLemans.pdf|100x00]]
+> ***[PDF Version](<./static_files/personal/CV-DeanLemans.pdf>)***  
+> ![100x00](<./static_files/personal/CV-DeanLemans.pdf>)
 
 > [!info] Introduction
 > - Hello, I am a freelance gardener.
@@ -34,10 +34,10 @@ published: 2025-09-29T03:32:24.047+01:00
 
 > [!info]Hobbies
 > 
-> - [[game-list|Gaming]]
+> - [Gaming](<./04-digital_garden/04_01-site_maps/game-list.md>)
 > - Gardening
 > - Mangas
-> - [[book-list|Novels]]
+> - [Novels](<./04-digital_garden/04_01-site_maps/book-list.md>)
 
 > [!info]Projects
 > - [[Finished-Projects]]

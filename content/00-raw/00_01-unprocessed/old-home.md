@@ -66,5 +66,5 @@ chaos and order combined
 the anvil and hammer  
 to forge myself
 
-[[old-home]]  
-[[My]]
+[old-home](<./old-home.md>)  
+[My](<./My.md>)

@@ -6,4 +6,4 @@
 
 by: [[Anemone]]
 
-![[214201208.jpg]]
+![](<../../../static_files/covers/214201208.jpg>)

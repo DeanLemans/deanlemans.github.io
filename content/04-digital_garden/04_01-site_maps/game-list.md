@@ -280,4 +280,4 @@ published: 2025-09-25T22:18:01.024+01:00
 - [Demon Spore](https://demonspore.com)
 
 > [!info]  
-> also check out my [[book-list]]
+> also check out my [book-list](<./book-list.md>)

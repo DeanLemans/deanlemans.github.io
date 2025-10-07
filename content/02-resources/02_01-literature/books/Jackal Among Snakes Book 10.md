@@ -6,4 +6,4 @@
 
 by: [[Nemorosus]]
 
-![[218615107.jpg]]
+![](<../../../static_files/covers/218615107.jpg>)

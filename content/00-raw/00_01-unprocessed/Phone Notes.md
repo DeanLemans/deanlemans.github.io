@@ -6,7 +6,7 @@ draft: true
 1. Decide the type of person you want to be. 
 2. Prove it to yourself with small things.  
 The continual search for knowledge  
-[[Quotes]]  
+[Quotes](<./Quotes.md>)  
 Capgraz syndrome  
 Catch-22  
 "Volwasenen willen liever done alsof wij het niet snappen waarover zij het hebben."  

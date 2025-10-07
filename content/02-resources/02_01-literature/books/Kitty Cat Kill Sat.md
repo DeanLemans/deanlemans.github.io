@@ -6,4 +6,4 @@
 
 by: [[Argus .]]
 
-![[146305853.jpg]]
+![](<../../../static_files/covers/146305853.jpg>)

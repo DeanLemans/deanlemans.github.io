@@ -6,4 +6,4 @@
 
 by: [[kingkennit]]
 
-![[57549500.jpg]]
+![](<../../../static_files/covers/57549500.jpg>)

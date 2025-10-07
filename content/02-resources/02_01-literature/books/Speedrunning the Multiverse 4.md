@@ -6,4 +6,4 @@
 
 by: [[adastra339]]
 
-![[205652190.jpg]]
+![](<../../../static_files/covers/205652190.jpg>)

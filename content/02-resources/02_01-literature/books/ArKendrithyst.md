@@ -6,4 +6,4 @@
 
 by: [[Arcs]]
 
-![[51384613.jpg]]
+![](<../../../static_files/covers/51384613.jpg>)

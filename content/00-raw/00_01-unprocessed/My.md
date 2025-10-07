@@ -2,7 +2,7 @@
 draft: true
 ---
 
-# [[My]]
+# [My](<./My.md>)
 
 - Too fight against [Fate](<../../short-form/Fate.md>).
 - too defy fate.
@@ -14,8 +14,8 @@ draft: true
 - notetaking/writing down thoughts is automatically sharpening my thinking
 - knowledge is not fixed in DNA, you can always change yourself.
 
-This is intrinsically linked [[Quotes]]  
-[[old-home]]
+This is intrinsically linked [Quotes](<./Quotes.md>)  
+[old-home](<./old-home.md>)
 
 # Incomple, Idea for My Philosophy
 

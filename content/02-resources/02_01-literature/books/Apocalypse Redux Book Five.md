@@ -6,4 +6,4 @@
 
 by: [[Jakob H. Greif]]
 
-![[199004875.jpg]]
+![](<../../../static_files/covers/199004875.jpg>)

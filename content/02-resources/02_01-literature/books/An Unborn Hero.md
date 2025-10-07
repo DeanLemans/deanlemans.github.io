@@ -6,4 +6,4 @@
 
 by: [[Cathfach]]
 
-![[214244416.jpg]]
+![](<../../../static_files/covers/214244416.jpg>)

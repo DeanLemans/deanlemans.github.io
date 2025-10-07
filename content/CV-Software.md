@@ -10,8 +10,8 @@ published: 2025-09-29T03:20:52.570+01:00
 > I need to split my 2 CV, maby do something with automation for companies?
 
 > [!info]- Click here for my CV  
-> ***[[CV-DeanLemans.pdf|PDF Version]]***  
-> ![[CV-DeanLemans.pdf|100x00]]
+> ***[PDF Version](<./static_files/personal/CV-DeanLemans.pdf>)***  
+> ![100x00](<./static_files/personal/CV-DeanLemans.pdf>)
 
 > [!info] Introduction
 > - Hello, I am Dean and I'm an aspiring Game Developer! 👋
@@ -35,10 +35,10 @@ published: 2025-09-29T03:20:52.570+01:00
 
 > [!info]Hobbies
 > 
-> - [[game-list|Gaming]]
+> - [Gaming](<./04-digital_garden/04_01-site_maps/game-list.md>)
 > - Gardening
 > - Mangas
-> - [[book-list|Novels]]
+> - [Novels](<./04-digital_garden/04_01-site_maps/book-list.md>)
 
 > [!info]Projects
 > - [[Finished-Projects]]

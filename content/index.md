@@ -5,7 +5,9 @@ modified: 2025-09-26T11:18:47.241+01:00
 published: 2025-09-26T11:18:47.241+01:00
 ---
 
-> [!info] Checkout my **[[CV-Software|Full Portofolio]]!**
+> [!info] Checkout my **[Software CV](<./CV-Software.md>)**
+
+> [!info] Checkout my **[Gardening CV](<./CV-Gardening.md>)**
 
 # Hello! My name is Dean
 
@@ -25,8 +27,8 @@ published: 2025-09-26T11:18:47.241+01:00
 - Need to update this with gardening tools, and electricity vs petrol? Fuel
 
 > [!info] Get to know me!
-> - See my [[book-list|Library]]
-> - My [[game-list|Game List]]
+> - See my [Library](<./04-digital_garden/04_01-site_maps/book-list.md>)
+> - My [Game List](<./04-digital_garden/04_01-site_maps/game-list.md>)
 > - and [[Finished-Projects]]
 
 ## Repositories Plans

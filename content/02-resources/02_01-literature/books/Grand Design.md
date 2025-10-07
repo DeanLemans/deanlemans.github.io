@@ -6,4 +6,4 @@
 
 by: [[Mark Arrows]]
 
-![[199770078.jpg]]
+![](<../../../static_files/covers/199770078.jpg>)

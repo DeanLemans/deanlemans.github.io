@@ -6,4 +6,4 @@
 
 by: [[D. Winchester]]
 
-![[220842079.jpg]]
+![](<../../../static_files/covers/220842079.jpg>)

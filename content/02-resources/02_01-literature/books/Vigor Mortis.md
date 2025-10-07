@@ -6,4 +6,4 @@
 
 by: [[Natalie Maher]]
 
-![[58358714.jpg]]
+![](<../../../static_files/covers/58358714.jpg>)

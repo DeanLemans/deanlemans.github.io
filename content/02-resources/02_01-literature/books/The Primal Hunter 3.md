@@ -6,4 +6,4 @@
 
 by: [[Zogarth]]
 
-![[61252305.jpg]]
+![](<../../../static_files/covers/61252305.jpg>)

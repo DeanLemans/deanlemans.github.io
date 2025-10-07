@@ -109,4 +109,4 @@ published: 2024-10-08 00:00:00 +0100
 [azarinth healer](https://www.amazon.com/Azarinth-Healer-Book-LitRPG-Adventure-ebook/dp/B0BLRD8YPD)
 
 > [!info]
-> also check out my [[game-list]]
+> also check out my [game-list](<./game-list.md>)

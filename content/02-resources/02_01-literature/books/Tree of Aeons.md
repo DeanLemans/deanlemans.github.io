@@ -6,4 +6,4 @@
 
 by: [[spaizzzer]]
 
-![[75517360.jpg]]
+![](<../../../static_files/covers/75517360.jpg>)

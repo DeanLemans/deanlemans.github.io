@@ -6,4 +6,4 @@
 
 by: [[Aest Belequa]]
 
-![[235309022.jpg]]
+![](<../../../static_files/covers/235309022.jpg>)
