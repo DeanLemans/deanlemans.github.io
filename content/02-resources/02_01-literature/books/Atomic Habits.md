@@ -6,4 +6,4 @@
 
 by: [[James Clear]]
 
-![](<../../../static_files/covers/40121378.jpg>)
+![](<../../../static_files/40121378.jpg>)

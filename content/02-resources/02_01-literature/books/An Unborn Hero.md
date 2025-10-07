@@ -6,4 +6,4 @@
 
 by: [[Cathfach]]
 
-![](<../../../static_files/covers/214244416.jpg>)
+![](<../../../static_files/214244416.jpg>)

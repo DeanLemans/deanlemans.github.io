@@ -6,4 +6,4 @@
 
 by: [[C.B. Titus]]
 
-![](<../../../static_files/covers/181337062.jpg>)
+![](<../../../static_files/181337062.jpg>)

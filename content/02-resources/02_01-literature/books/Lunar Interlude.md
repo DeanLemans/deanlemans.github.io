@@ -6,4 +6,4 @@
 
 by: [[Plum Parrot]]
 
-![](<../../../static_files/covers/217511045.jpg>)
+![](<../../../static_files/217511045.jpg>)

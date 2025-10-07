@@ -6,4 +6,4 @@
 
 by: [[SenescentSoul]]
 
-![](<../../../static_files/covers/52976967.jpg>)
+![](<../../../static_files/52976967.jpg>)

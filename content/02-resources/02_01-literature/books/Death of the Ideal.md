@@ -6,4 +6,4 @@
 
 by: [[OstensibleMammal]]
 
-![](<../../../static_files/covers/205600551.jpg>)
+![](<../../../static_files/205600551.jpg>)

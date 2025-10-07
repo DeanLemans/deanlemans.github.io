@@ -6,4 +6,4 @@
 
 by: [[kingkennit]]
 
-![](<../../../static_files/covers/57549500.jpg>)
+![](<../../../static_files/57549500.jpg>)

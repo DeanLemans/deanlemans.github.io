@@ -6,4 +6,4 @@
 
 by: [[Morgan Housel]]
 
-![](<../../../static_files/covers/41881472.jpg>)
+![](<../../../static_files/41881472.jpg>)

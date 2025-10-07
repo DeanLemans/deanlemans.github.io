@@ -6,4 +6,4 @@
 
 by: [[Rhaegar]]
 
-![](<../../../static_files/covers/63260494.jpg>)
+![](<../../../static_files/63260494.jpg>)

@@ -6,4 +6,4 @@
 
 by: [[Zogarth]]
 
-![](<../../../static_files/covers/221637570.jpg>)
+![](<../../../static_files/221637570.jpg>)

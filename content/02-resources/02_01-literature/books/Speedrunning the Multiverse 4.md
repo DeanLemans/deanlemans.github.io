@@ -6,4 +6,4 @@
 
 by: [[adastra339]]
 
-![](<../../../static_files/covers/205652190.jpg>)
+![](<../../../static_files/205652190.jpg>)

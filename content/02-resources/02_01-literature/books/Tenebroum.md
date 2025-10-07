@@ -6,4 +6,4 @@
 
 by: [[D. Winchester]]
 
-![](<../../../static_files/covers/220842079.jpg>)
+![](<../../../static_files/220842079.jpg>)
