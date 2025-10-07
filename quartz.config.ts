@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({
-        markdownLinkResolution: "shortest",
+        markdownLinkResolution: "relative",
         openLinksInNewTab: true,
         prettyLinks: true,
         lazyLoad: true,
