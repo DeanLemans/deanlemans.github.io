@@ -34,10 +34,10 @@ published: 2025-09-29T03:32:24.047+01:00
 
 > [!info]Hobbies
 > 
-> - [Gaming](<./04-digital_garden/04_01-site_maps/game-list.md>)
+> - [Gaming](<./03-digital_garden/04_01-site_maps/game-list.md>)
 > - Gardening
 > - Mangas
-> - [Novels](<./04-digital_garden/04_01-site_maps/book-list.md>)
+> - [Novels](<./03-digital_garden/04_01-site_maps/book-list.md>)
 
 > [!info]Projects
 > - [[Finished-Projects]]

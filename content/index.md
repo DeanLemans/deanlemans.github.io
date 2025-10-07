@@ -5,6 +5,13 @@ modified: 2025-09-26T11:18:47.241+01:00
 published: 2025-09-26T11:18:47.241+01:00
 ---
 
+> [!tip] Update site  
+> **Windows:**
+> - Chrome, Firefox, or Edge → `Ctrl + F5`
+> 
+> **Mac:**
+> - Chrome or Firefox → `Shift + Command + R`
+
 > [!info] Checkout my **[Software CV](<./CV-Software.md>)**
 
 > [!info] Checkout my **[Gardening CV](<./CV-Gardening.md>)**
@@ -16,7 +23,7 @@ published: 2025-09-26T11:18:47.241+01:00
 - I'm indie software developer
 	- I mainly use the Godot game engine.
 
-![[deanpfp.jpg|350|200]]
+![350|200](<./static_files/personal/deanpfp.jpg>)
 
 ## I like Making Games, Gardening And, [Open Source](https://opensource.org/osd)
 
@@ -27,7 +34,7 @@ published: 2025-09-26T11:18:47.241+01:00
 - Need to update this with gardening tools, and electricity vs petrol? Fuel
 
 > [!info] Get to know me!
-> - See my [Library](<./04-digital_garden/04_01-site_maps/book-list.md>)
+> - See my [Library](<./03-digital_garden/04_01-site_maps/book-list.md>)
 > - My [Game List](<./04-digital_garden/04_01-site_maps/game-list.md>)
 > - and [[Finished-Projects]]
 
