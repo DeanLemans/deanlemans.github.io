@@ -54,9 +54,13 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => {
-        const omit = ["00-raw", "journal", "content/02-resources/02_03-clippings"] // to exclude specified nodes
-        return !omit.includes(node.displayName.toLowerCase())
+      filterFn: function (node) {
+        const omitList = ["00-raw", "journal", "02_03-clippings"]
+        const name = (node.displayName + "/" + node.slugSegment).toLowerCase()
+        for (let i = 0; i < omitList.length; i++) {
+          if (name.includes(omitList[i])) return false
+        }
+        return true
       },
     }),
   ],

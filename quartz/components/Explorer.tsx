@@ -46,7 +46,16 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: (node) => {
+    const name = (node.displayName + "/" + node.slugSegment).toLowerCase()
+    return !(
+      name.includes("00-raw") ||
+      name.includes("journal") ||
+      name.includes("02_03-clippings") ||
+      node.slugSegment === "tags"
+    )
+  },
+
   order: ["filter", "map", "sort"],
 }
 
