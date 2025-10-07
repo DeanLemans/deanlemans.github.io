@@ -1,4 +1,4 @@
-- 2025-10-07 21:18 · [index](<./index.md>)
+- 2025-10-07 21:31 · [index](<./index.md>)
 - 2025-10-07 21:18 · [Vigor Mortis](<./02-resources/02_01-literature/books/Vigor Mortis.md>)
 - 2025-10-07 21:18 · [Tree of Aeons](<./02-resources/02_01-literature/books/Tree of Aeons.md>)
 - 2025-10-07 21:18 · [Tree of Aeons 6](<./02-resources/02_01-literature/books/Tree of Aeons 6.md>)
