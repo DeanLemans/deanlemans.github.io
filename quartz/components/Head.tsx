@@ -6,7 +6,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
 
-const CACHE_CLEAR = "1"
+const CACHE_CLEAR = process.env.CACHE_CLEAR ?? "1"
 
 export default (() => {
   const Head: QuartzComponent = ({
