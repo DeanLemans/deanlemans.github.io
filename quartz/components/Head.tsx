@@ -5,6 +5,9 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
+const CACHE_CLEAR = "1"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -25,16 +28,18 @@ export default (() => {
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
+    const iconPath = joinSegments(baseDir, `static/icon.png?v=${CACHE_CLEAR}`)
 
-    // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png?v=${CACHE_CLEAR}`
+
+    const withVersion = (href: string) =>
+      href.includes("?") ? `${href}&v=${CACHE_CLEAR}` : `${href}?v=${CACHE_CLEAR}`
 
     return (
       <head>
@@ -42,7 +47,7 @@ export default (() => {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        {/* Preconnect to CDNs to reduce DNS lookup time */}
+        {/* Preconnects */}
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
 
@@ -57,7 +62,7 @@ export default (() => {
             </noscript>
             <script
               dangerouslySetInnerHTML={{
-                __html: `document.querySelectorAll('link[media="print"]').forEach(function(l){l.media='all'})`,
+                __html: `document.querySelectorAll('link[media="print"]').forEach(l=>l.media='all')`,
               }}
             />
             {cfg.theme.typography.title && (
@@ -79,8 +84,6 @@ export default (() => {
             )}
           </>
         )}
-        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
-        <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -115,58 +118,46 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
-        {/* Inline critical CSS to prevent layout shifts */}
+        {/* Inline critical CSS */}
         <style
           dangerouslySetInnerHTML={{
             __html: `
-              /* Prevent layout shift from font loading */
               body {
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
                 margin: 0;
                 padding: 0;
               }
-              /* Reserve space for KaTeX math elements */
-              .katex, .katex-display {
-                font-size: 1em;
-                min-height: 1.2em;
-              }
-              /* Prevent CLS from list items */
-              ul, ol {
-                margin: 0;
-                padding: 0 0 0 2em;
-              }
-              /* Prevent shifts from centered content */
-              .center {
-                min-height: 1px;
-              }
+              .katex, .katex-display { font-size: 1em; min-height: 1.2em; }
+              ul, ol { margin: 0; padding: 0 0 0 2em; }
+              .center { min-height: 1px; }
             `,
           }}
         />
 
-        {/* Add critical CSS with high priority */}
+        {/* ✅ Versioned CSS */}
         {css.map((resource, index) => {
-          // Preload the first CSS file (index.css) as it's critical
-          if (index === 0) {
-            const href = typeof resource === "string" ? resource : resource.content
+          if (typeof resource === "string") {
+            const versioned = withVersion(resource)
             return (
               <>
-                <link rel="preload" as="style" href={href} />
-                {CSSResourceToStyleElement(resource, true)}
+                {index === 0 && <link rel="preload" as="style" href={versioned} />}
+                <link rel="stylesheet" href={versioned} />
               </>
             )
           }
           return CSSResourceToStyleElement(resource, true)
         })}
+
+        {/* ✅ Versioned JS */}
         {js
-          .filter((resource) => resource.loadTime === "beforeDOMReady")
-          .map((res) => JSResourceToScriptElement(res, true))}
-        {additionalHead.map((resource) => {
-          if (typeof resource === "function") {
-            return resource(fileData)
-          } else {
-            return resource
-          }
-        })}
+          .filter((r) => r.loadTime === "beforeDOMReady")
+          .map((r) =>
+            "src" in r
+              ? JSResourceToScriptElement({ ...r, src: withVersion((r as any).src) }, true)
+              : JSResourceToScriptElement(r, true),
+          )}
+
+        {additionalHead.map((r) => (typeof r === "function" ? r(fileData) : r))}
       </head>
     )
   }
