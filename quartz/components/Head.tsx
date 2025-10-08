@@ -1,12 +1,10 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, pathToRoot, joinSegments, getFileExtension } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
-
-const CACHE_CLEAR = process.env.CACHE_CLEAR ?? "1"
 
 export default (() => {
   const Head: QuartzComponent = ({
@@ -28,7 +26,7 @@ export default (() => {
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, `static/icon.png?v=${CACHE_CLEAR}`)
+    const iconPath = joinSegments(baseDir, `static/icon.png`)
 
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
@@ -36,16 +34,18 @@ export default (() => {
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png?v=${CACHE_CLEAR}`
-
-    const withVersion = (href: string) =>
-      href.includes("?") ? `${href}&v=${CACHE_CLEAR}` : `${href}?v=${CACHE_CLEAR}`
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        {/* no-cache headers */}
+        <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta httpEquiv="Pragma" content="no-cache" />
+        <meta httpEquiv="Expires" content="0" />
 
         {/* Preconnects */}
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
@@ -134,26 +134,25 @@ export default (() => {
           }}
         />
 
-        {/* ✅ Versioned CSS */}
+        {/* CSS */}
         {css.map((resource, index) => {
           if (typeof resource === "string") {
-            const versioned = withVersion(resource)
             return (
               <>
-                {index === 0 && <link rel="preload" as="style" href={versioned} />}
-                <link rel="stylesheet" href={versioned} />
+                {index === 0 && <link rel="preload" as="style" href={resource} />}
+                <link rel="stylesheet" href={resource} />
               </>
             )
           }
           return CSSResourceToStyleElement(resource, true)
         })}
 
-        {/* ✅ Versioned JS */}
+        {/* JS */}
         {js
           .filter((r) => r.loadTime === "beforeDOMReady")
           .map((r) =>
             "src" in r
-              ? JSResourceToScriptElement({ ...r, src: withVersion((r as any).src) }, true)
+              ? JSResourceToScriptElement(r as any, true)
               : JSResourceToScriptElement(r, true),
           )}
 
