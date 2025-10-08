@@ -1,5 +1,15 @@
 ---
-{"publish":true,"title":"Deadman Deliverance","created":"2025-09-28T03:33:38.639+01:00","modified":"2025-09-29T03:54:30.218+01:00","published":"2025-09-29T03:54:30.218+01:00","cssclasses":"","socialImage":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709793752l/203698663._SX318_.jpg"}
+id: '203698663'
+author: C.B. Titus
+title: Deadman Deliverance
+isbn: ''
+pages: '412'
+coverImage: static_files/203698663.jpg
+cover: >-
+  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709793752l/203698663._SX318_.jpg
+---
+---
+publish: true
 ---
 
 # Deadman Deliverance

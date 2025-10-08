@@ -1,5 +1,5 @@
 ---
-draft: true
+published: true
 ---
 
 "The more evidence you have for a belief, the more strongly you will believe it."
