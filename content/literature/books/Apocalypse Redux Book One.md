@@ -8,8 +8,12 @@ coverImage: static_files/62875923.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759016457l/62875923._SY475_.jpg
 ---
+---
+publish: true
+---
+
 # Apocalypse Redux Book One
 
 by: [[Jakob H. Greif]]
 
-![[static_files/62875923.jpg]]
+![](<../../static_files/62875923.jpg>)

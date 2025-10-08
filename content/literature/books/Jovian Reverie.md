@@ -8,8 +8,12 @@ coverImage: static_files/210487296.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711651987l/210487296._SY475_.jpg
 ---
+---
+publish: true
+---
+
 # Jovian Reverie
 
 by: [[Plum Parrot]]
 
-![[static_files/210487296.jpg]]
+![](<../../static_files/210487296.jpg>)

@@ -8,8 +8,12 @@ coverImage: static_files/198960763.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703954332l/198960763._SY475_.jpg
 ---
+---
+publish: true
+---
+
 # The Primal Hunter 8
 
 by: [[Zogarth]]
 
-![[static_files/198960763.jpg]]
+![](<../../static_files/198960763.jpg>)

@@ -8,8 +8,12 @@ coverImage: static_files/146745564.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683203442l/146745564._SY475_.jpg
 ---
+---
+publish: true
+---
+
 # Apocalypse Redux Book Four
 
 by: [[Jakob H. Greif]]
 
-![[static_files/146745564.jpg]]
+![](<../../static_files/146745564.jpg>)

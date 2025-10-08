@@ -8,8 +8,12 @@ coverImage: static_files/197024548.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693803101l/197024548._SX318_.jpg
 ---
+---
+publish: true
+---
+
 # Deadman Running
 
 by: [[C.B. Titus]]
 
-![[static_files/197024548.jpg]]
+![](<../../static_files/197024548.jpg>)

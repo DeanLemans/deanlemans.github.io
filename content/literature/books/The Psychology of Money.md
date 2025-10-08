@@ -8,8 +8,12 @@ coverImage: static_files/41881472.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY475_.jpg
 ---
+---
+publish: true
+---
+
 # The Psychology of Money
 
 by: [[Morgan Housel]]
 
-![[static_files/41881472.jpg]]
+![](<../../static_files/41881472.jpg>)

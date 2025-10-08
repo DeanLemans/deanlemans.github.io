@@ -8,8 +8,12 @@ coverImage: static_files/179772919.jpg
 cover: >-
   https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687282927l/179772919._SX318_.jpg
 ---
+---
+publish: true
+---
+
 # Tree of Aeons 3
 
 by: [[spaizzzer]]
 
-![[static_files/179772919.jpg]]
+![](<../../static_files/179772919.jpg>)
