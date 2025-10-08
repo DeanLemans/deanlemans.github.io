@@ -9,4 +9,5 @@ Knowledge is a form of awareness or familiarity. It is often understood as aware
 
 ---
 
-Intelligence is the knowing of things
+Intelligence is the knowing of things  
+And knowledge would be the efficiency of using that stuff??

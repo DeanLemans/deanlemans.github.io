@@ -1,5 +1,5 @@
 ---
-draft: true
+published: true
 ---
 
 See my [home](<../home.md>)
@@ -11,26 +11,22 @@ See my [home](<../home.md>)
 
 ### Future
 
-- research supplements, (follow [Blueprint](<./short/Blueprint.md>) recommended supplements)
 - try out Polyphasic Sleep patterns
 
 ### Distant Dreams
 
-- a case of hope/humanies hope/path. This will be your big legacy
 - small legacy is passing down this vault down too my descendants, so that they can learn from it.
 - read into Philosophy
 - future house huge inhouse garden with plants that will grow on the stairs and on the walls
 
-## [[Habits]]
+## Wanted Habits
 
-__WIP__  
-	sleep more.  
-	sleep earlier.  
-	_Use phone less, after waking, and before sleep._  
-__Achieved__  
-	meditation  
-	drinking more water, replace soda with water.  
-	eating more fruit.
+sleep more.  
+sleep earlier.  
+_Use phone less, after waking, and before sleep._  
+meditation  
+drinking more water, replace soda with water.  
+eating more fruit.
 
 ### Buy
 
@@ -40,16 +36,12 @@ _all books transferred too goodreads._
 	- stress toy  
 	- Epson Ecotank (printer)  
 	- airfilter (winix)  
-	- CeraVe (face wash)  
-	- toe spacers  
 	- barefoot shoes  
 	- neck training equipment  
 	- monero  
 	- grafting tape  
-	- mosquito bits  
-	- mewing equipment  
  when bying things, always look at the buy it for life subreddit. for long term investment in stuff.  
- so that i dont have to buy it again and again. better money management.
+ so that i dont have to buy it again and again. better budgeting.
 
 ## Gratitude
 

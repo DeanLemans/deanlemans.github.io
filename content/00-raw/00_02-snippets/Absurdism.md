@@ -1,5 +1,5 @@
 ---
-publish:
+publish: true
 ---
 
 the believe that the nature of the universe is meaningless and irrational  

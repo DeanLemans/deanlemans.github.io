@@ -2,11 +2,6 @@
 draft: true
 ---
 
-#todo 
-
-too ask an chatbot what they think of my notes every month.  
-for further refleciton.
-
 too stress less about how too catagorize things.  
 it will only keep you from writings your thoughts down  
 but i will need too it sometime in the future.  

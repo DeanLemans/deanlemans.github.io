@@ -1,6 +1,7 @@
 ---
 publish: true
 modified: 2025-10-04
+title: (Dream) Journal
 ---
 
 # 2025-10-07

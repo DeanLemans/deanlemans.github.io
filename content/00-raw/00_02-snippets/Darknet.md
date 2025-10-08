@@ -1,5 +1,5 @@
 ---
-publish:
+publish: true
 ---
 
 you can access the darknet via [The Onion Routing](<./The Onion Routing.md>), [[Freenet]], and [Invisible Internet Project](<./Invisible Internet Project.md>)
