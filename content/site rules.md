@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 ---
 
 TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION

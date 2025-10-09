@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: function (node) {
-        const omitList = ["00-raw", "journal", "02_03-clippings"]
+        const omitList = ["00-raw", "journal", "site rules", "02_03-clippings"]
         const name = (node.displayName + "/" + node.slugSegment).toLowerCase()
         for (let i = 0; i < omitList.length; i++) {
           if (name.includes(omitList[i])) return false
