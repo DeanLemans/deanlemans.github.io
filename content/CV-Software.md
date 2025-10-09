@@ -33,13 +33,6 @@ published: 2025-09-29T03:20:52.570+01:00
 > - [Udens College](https://www.udenscollege.nl/)
 > - Software Development at [SintLucas](https://www.sintlucas.nl/)
 
-> [!info]Hobbies
-> 
-> - [Gaming](<./03-digital_garden/04_01-site_maps/game-list.md>)
-> - Gardening
-> - Mangas
-> - [Novels](<./03-digital_garden/04_01-site_maps/book-list.md>)
-
 > [!info]Projects
 > - [[Finished-Projects]]
 > - [Github Repos](https://github.com/DeanLemans?tab=repositories)

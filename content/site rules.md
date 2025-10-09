@@ -14,6 +14,7 @@ Rules I follow:
 
 - Only use 1 vault across everything
 - Mitigate folders folder usage for organization.
+- Try not to use external site for content, if possible migrate them to this site. (or at least link them)
 - Avoid non-standard Markdown and if necessary only use semantic HTML.
 - Always pluralize categories and tags.
 - Use internal links profusely.

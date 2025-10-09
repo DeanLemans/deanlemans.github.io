@@ -32,13 +32,6 @@ published: 2025-09-29T03:32:24.047+01:00
 > - [Udens College](https://www.udenscollege.nl/)
 > - Software Development at [SintLucas](https://www.sintlucas.nl/)
 
-> [!info]Hobbies
-> 
-> - [Gaming](<./03-digital_garden/04_01-site_maps/game-list.md>)
-> - Gardening
-> - Mangas
-> - [Novels](<./03-digital_garden/04_01-site_maps/book-list.md>)
-
 > [!info]Projects
 > - [[Finished-Projects]]
 > - [on bullet shapes](<./project/Current_Projects/>)

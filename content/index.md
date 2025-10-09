@@ -33,10 +33,19 @@ aliases:
 	- Game Engine: [Godot](https://godotengine.org/).
 	- IDE: [Zed](https://zed.dev/).
 
-> [!info] Get to know me!
+> [!info] My cool lists
 > - See my [Library](<./03-digital_garden/04_01-site_maps/book-list.md>)
 > - My [Game List](<./03-digital_garden/04_01-site_maps/game-list.md>)
+> - [cool software](https://github.com/stars/DeanLemans/lists/helpfull) unfinished, to to convert to page in this site
 > - and [[Finished-Projects]] (broken)
+> - [note/site rules](<./site rules.md>)
+
+> [!info] Hobbies
+> 
+> - [Gaming](<./03-digital_garden/04_01-site_maps/game-list.md>)
+> - Gardening
+> - Mangas
+> - [Novels](<./03-digital_garden/04_01-site_maps/book-list.md>)
 
 ## Repositories Plans
 
