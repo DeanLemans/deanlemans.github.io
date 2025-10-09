@@ -4,6 +4,22 @@ modified: 2025-10-04
 title: (Dream) Journal
 ---
 
+# 2025-10-09
+
+Growth or developemtn, what is it? What does it mean, what do I mean? Should i mean anything? Do i want to? Do i follow my ego? My ambition? My spite?  
+I am hidden, from myself and from friends, but cracks will form by the relentless tide of time.  
+Hidden, Hidden, Hidden, Hidden, Hidden, Hidden, and unknow.  
+And so you torture yourself, by denying the help of others because of spite and pride.  
+THEY DONT DESERVE ME. THEY DONT DESERVE ME. THEY DONT DESERVE ME. THEY DONT DESERVE ME.  
+Even at the cost/growth/potential of yourself?  
+Perhaps. Does it matter? Change will come for all.  
+It will, doesnt mean i cant change it.
+
+The terrarium, before she died i implied/promised to buy/work on a plant terrarium with her, so she could garden again/do something with plants again, she is to old, was to old.  
+And then she died, im sorry i wast there. (I SHOULD HAVE BEEN THERE MORE! No it isn't, you were on vacation, and she would have forgiven you. Make peace with that fact. I WASNT THERE, im sorry. Last day i sawlivelife you i told you that i was going to bali to study plants. I brought gifts, i wanted to give you plants. Wanted, wanted, wanted. A possibility, that could have been, but isn't. (and cant) eat your rage, eat your sadness. I will become, i will become.)
+
+---
+
 # 2025-10-07
 
 I saw something, a goal. A state.  
@@ -59,7 +75,6 @@ Do not put phone right next too your head
 
 Motivation needed  
 The key to the door in my hand.  
-The time is now  
 Work  
 Evolf  
 Improve
@@ -74,40 +89,20 @@ The programing stuff is really fun, but we still got english, n shit
 I need to get started working again  
 Instead of working i wrote a fucking ryme/rant:
 
-OUR POTENTIAL lies just beyond the closed doors, shining bright and great. The key to unlock it is in our hand, but my mind, suppressed and forgotten, lies behind it too.
+POTENTIAL lies just beyond the closed doors, shining bright and great. The key is in our hand, but my mind, suppressed and forgotten, lies behind it too.
 
-Even with the sliver of potential that shines through the keyhole, we've already achieved so much. But I'm scared to face my own mind, as the subconscious becomes conscious, the forgotten becomes remembered, and the unknown becomes acknowledged.
+Even with the sliver of potential that shines through the keyhole, we've already achieved so much. But we/you/i are scared to face (insert) own mind, as the subconscious becomes conscious, the forgotten becomes remembered, denial dug up by truth, and the unknown becomes acknowledged.
 
-Despite my fear, I still move forward, albeit slowly. The key is in our hand, and we can't delay any longer. We must either face it now or our potential will burn out and break apart.
+Despite my fear, I still move forward, albeit slowly. The key therse hand, and we can't delay any longer. We must face it now or your potential will burn out and break apart.
 
-NO, we can't turn our backs on our potential because we're scared. No, we must face it now or shine bright like a star. Otherwise, we'll forever hold our hate and drown in our guilt, becoming mediocre and fitting in.
+NO, we can't turn our backs on our potential because we're scared. No, we must face it now or shine bright like a star. Or, we'll forever hold our hate and drown in our guilt, becoming mediocre and fitting in.
 
-I have to do it. I won't be weak or delay any longer. It's time to make a change and take the risk. This the inverted Pandora's Box,  
+I have to do it. I won't be weak or delay any longer. It's time to make a change and take the risk. This inverted Pandora's Box,  
 For if we do not face it now our greatest fear shall come to pass. No more mediocracy. We must rage and have the courage to be disliked and denied.
 
-Behind the door lies our potential, but we can't walk the path because we're scared? No, we must face it now. In this WEEK, we must not forget or regret, and so i must stand in the face of adversity.  
+Behind the door lies our potential, but we can't walk the path because we're scared? No, we must face it now. We must not forget or delay, and so i must stand in the face of myself/soul/self.  
 .  
-Like why the fuck, instead of making my homework or making my game i made this nstead
-
----
-
-OUR POTENTIAL lies just beyond the closed doors, a brilliant future shining great and bright. The key to unlock it is in our hand, but my mind, suppressed and forgotten, lies behind it too.
-
-Even with the sliver of potential that shines through the keyhole, we've already achieved so much. But I'm scared to face my own mind, as the subconscious becomes conscious, the forgotten becomes remembered, and the unknown is recognized, and the fear creeps ever closer.
-
-And despite all of my hesitations, I still move forward, albeit slowly. The key is in our hand, and we cannot afford any more delays. We must either face it now or our potential will burn out and break apart.
-
-NO, we can't turn our backs on our potential because we're scared. NO, we must face it now and shine bright like a star. Otherwise, we'll forever drown in our resentment, hate and guilt, sinking forever into mediocrity and conformity.
-
-No more hesitation. No more weakness. It's time for change, and it's time to take risks. This is our inverted Pandora's Box,  
-For if we do not face it now, our greatest fear shall come to pass.
-
-And so i must find the courage to be disliked, to be denied, and too rage against mediocrity.
-
-Behind the door lies our potential, But do we stray from our path out of fear? NO, now is the moment to confront our fears.  
-This very hour, this very second, we must not forget or regret, and so, I must stand tall in the face of adversity.
-
-And though it may bitter at first, you'll soon realize that it was, in fact, an apple of Eden. We must face our fears now, for our future depends on it.
+Like why the fuck, instead of making my homework or making my game i made this instead
 
 ---
 
@@ -250,7 +245,8 @@ Small problem:
 3. Te veel dingen zijn door elkaar gemixed bij bij onze algemene SD vakken (website maken gemixed met game maken en apps maken), ik heb liever dat we onze specificatie eerder konden kiezen. En daar nu Al op kunnen focused (ik snap dat dit voor andere studenten is die nog niet weten welke specificatie Willen done).
 
 Conclusie:  
-4. Tot nu toe is de sint lucas nog teleurstelend omdat we te weinig tijd besteden aan software development, en dat owns SD prac docent moet onze voor onze creativity invallen waardoor we nog minder tijd hebben voor onze lessen in sd.
+4. Tot nu toe is de sint lucas nog teleurstelend omdat we te weinig tijd besteden aan software development, en dat owns SD prac docent moet onze voor onze creativity invallen waardoor we nog minder tijd hebben voor onze lessen in sd.  
+[School klachten](School%20klachten)
 
 ---
 
@@ -277,7 +273,7 @@ I worked in the garden for 3 hours
 Bruh i stopped taking notes. But i finnaly got my 6 day streak back and i now always read 1 hour on the bus  
 And im almost done with atomic habits  
 And im working ahead on my homework although i still need to start on my personality homework  
-And the homework im working ahead on is my gamedev homework (My goad)
+And the homework im working ahead on is my gamedev homework
 
 ---
 
