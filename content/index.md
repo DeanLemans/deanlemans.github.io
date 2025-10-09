@@ -7,10 +7,9 @@ aliases:
   - my-site
 ---
 
-> [!tip] Update site  
+> [!tip] How to update site? (TEMP)  
 > **Windows:**
-> - Chrome, Firefox, or Edge → `Ctrl + F5`
-> 
+> - Chrome, Firefox, or Edge → `Ctrl + F5`  
 > **Mac:**
 > - Chrome or Firefox → `Shift + Command + R`
 
@@ -33,7 +32,6 @@ aliases:
 	- OS: [openSUSE](https://www.opensuse.org/) and [GrepheneOS](https://grapheneos.org/).
 	- Game Engine: [Godot](https://godotengine.org/).
 	- IDE: [Zed](https://zed.dev/).
-- Need to update this with gardening tools, and electricity vs petrol? Fuel
 
 > [!info] Get to know me!
 > - See my [Library](<./03-digital_garden/04_01-site_maps/book-list.md>)

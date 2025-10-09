@@ -7,12 +7,10 @@ modified: 2025-09-25T18:16:42.311+01:00
 published: 2025-09-25T22:18:01.024+01:00
 ---
 
-
-
 > [!info]  
 > I prefer Itch to Steam links.
 
-## My Favorite Games!
+## My Favorite Games
 
 - [SIGNALIS](https://rose-engine.org/signalis)
 - [Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
@@ -87,7 +85,7 @@ published: 2025-09-25T22:18:01.024+01:00
 	</article>
 </details>
 
-### Games I Really Enjoyed Playing.
+### Games I Really Enjoyed Playing
 
 - [Sackboy: A Big Adventure](https://store.steampowered.com/app/1599660/Sackboy_A_Big_Adventure)
 - [DUSK](https://store.steampowered.com/app/519860/DUSK/)
@@ -104,7 +102,7 @@ published: 2025-09-25T22:18:01.024+01:00
 - [DELTATRAVELER](https://deltatraveler.vyletbunni.com/)
 - [Epic Mickey 1 + 2 + rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
 
-### Interesting Games.
+### Interesting Games
 
 <details>
 	<summary>
@@ -125,7 +123,7 @@ published: 2025-09-25T22:18:01.024+01:00
 
 ---
 
-### Game Backlog.
+### Game Backlog
 
 <details>
 	<summary>
@@ -276,8 +274,6 @@ published: 2025-09-25T22:18:01.024+01:00
 - Earthbound/mother 1 + 2 + 3 + original
 - [Gris](https://nomada.studio)
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
-- [Hyper Light Breaker](https://www.hyperlightbreaker.com)
-- [Demon Spore](https://demonspore.com)
 
 > [!info]  
 > also check out my [book-list](<./book-list.md>)

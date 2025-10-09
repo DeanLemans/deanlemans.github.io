@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Map of Maps
 created: 2025-01-17
 modified: 2025-01-17
