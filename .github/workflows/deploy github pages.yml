@@ -37,6 +37,16 @@ jobs:
           CACHE_CLEAR: ${{ env.CACHE_CLEAR }}
         run: npx quartz build
 
+      # --- Cache busting steps ---
+      - name: Force cache bust by touching files
+        run: find public -type f -exec touch {} +
+
+      - name: Append cache-bust query to asset URLs
+        run: |
+          find public -type f -name "*.html" -exec \
+          sed -i "s/\.css\"/.css?${CACHE_CLEAR}\"/g; s/\.js\"/.js?${CACHE_CLEAR}\"/g" {} +
+
+      # --- Upload site ---
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -56,6 +66,15 @@ jobs:
       # cache bust
       - name: Purge GitHub Pages cache
         run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ github.token }}" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
+
+      # optional retry (extra cache clear)
+      - name: Retry cache purge (optional)
+        run: |
+          sleep 10
           curl -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ github.token }}" \
