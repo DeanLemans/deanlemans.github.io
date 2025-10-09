@@ -18,19 +18,15 @@ published: 2025-09-29T03:32:24.047+01:00
 
 > - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
 
-> [!info] Gardening Experience
+> [!info] Experience
 > - Intermediate experience in [Godot](https://godotengine.org/).
-> - Beginner experience in [Git](https://git-scm.com/).
 > - Advanced experience in [Github](https://github.com/DeanLemans).
-> - Intermediate experience in [Zed](https://zed.dev/).
-
-> [!info]Work Experience
-> - Shelf-Stocker(2 years)
 > - Freelance Gardener(1.5 year) *current*
 
 > [!info]Education
-> - [Udens College](https://www.udenscollege.nl/)
+> - [Udens College](https://www.udenscollege.nl/) VMBO
 > - Software Development at [SintLucas](https://www.sintlucas.nl/)
+> - Hovenier at [Yuverta](https://www.yuverta.nl/mbo/richtingen/tuin-en-landschap/hovenier/)
 
 > [!info]Projects
 > - [[Finished-Projects]]
