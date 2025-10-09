@@ -35,8 +35,8 @@ aliases:
 
 > [!info] Get to know me!
 > - See my [Library](<./03-digital_garden/04_01-site_maps/book-list.md>)
-> - My [Game List](<./04-digital_garden/04_01-site_maps/game-list.md>)
-> - and [[Finished-Projects]]
+> - My [Game List](<./03-digital_garden/04_01-site_maps/game-list.md>)
+> - and [[Finished-Projects]] (broken)
 
 ## Repositories Plans
 
