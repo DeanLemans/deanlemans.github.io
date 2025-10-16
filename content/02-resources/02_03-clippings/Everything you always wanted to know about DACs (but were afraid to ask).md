@@ -6,8 +6,6 @@ author:
   - "[[Becky Roberts]]"
 created: 2025-09-29
 description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
-tags:
-  - clippings
 publish: true
 ---
 > [!danger] NOT MINE  

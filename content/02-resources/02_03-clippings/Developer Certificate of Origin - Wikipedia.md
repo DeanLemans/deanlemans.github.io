@@ -1,12 +1,10 @@
 ---
-title: Developer Certificate of Origin - Wikipedia
+title: Developer Certificate of Origin
 source: https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin
 author:
   - "[[Contributors to Wikimedia projects]]"
 created: 2025-09-29
 description:
-tags:
-  - clippings
 publish: true
 ---
 

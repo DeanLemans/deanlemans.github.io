@@ -5,8 +5,6 @@ author:
   - "[[Pursuit Of Laziness]]"
 created: 2025-09-29
 description:
-tags:
-  - clippings
 publish: true
 ---
 > [!danger] NOT MINE  

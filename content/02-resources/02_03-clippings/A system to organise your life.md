@@ -4,11 +4,11 @@ source: https://johnnydecimal.com/
 author:
 created: 2025-10-05
 description: Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
-tags:
-  - clippings
 publish: true
 ---
----
+
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
 
 **Johnny.Decimal is designed to help you find things quickly, with more confidence, and less stress.**
 
@@ -20,7 +20,7 @@ These IDs help you stay organised. They impose constraints that make it harder t
 
 The system is free to use and the concepts are the same at home, work, or that club you manage.
 
-## The problem
+## The Problem
 
 In real life, if you stored your stuff in piles of badly-labelled boxes you'd never find anything again.
 
@@ -30,11 +30,11 @@ If you put *those* boxes in boxes, in boxes, you'd never know which box to open 
 
 FIGURE 11.01B. A CHAOTIC FILE SYSTEM WITH MANY LEVELS OF FOLDERS.
 
-## The solution
+## The Solution
 
 Here's one way to think about how a Johnny.Decimal system works. In this simple analogy, an area is a shelf, a category is a box, and an ID is a manila folder.
 
-### Step 1: Buy ten shelves
+### Step 1: Buy Ten Shelves
 
 Imagine a computer is a garage. We can't put everything on the floor, so we buy ten shelves. Then we dedicate each one to an area of our life -- `life admin`, `home business`, and `tennis club`.<sup><a href="https://johnnydecimal.com/#user-content-fn-room-to-grow">1</a></sup>
 
@@ -42,7 +42,7 @@ Imagine a computer is a garage. We can't put everything on the floor, so we buy 
 
 FIGURE 11.01C. A SHELF FOR EACH MAJOR AREA OF OUR LIFE.
 
-### Step 2: Add some boxes
+### Step 2: Add Some Boxes
 
 Each shelf has space for ten boxes, so we categorise what we want to store. In life admin we decide on five and label them: `me`, `house`, `money`, `online`, and `travel`. Our boxes have space for a number, so we add that too.<sup><a href="https://johnnydecimal.com/#user-content-fn-startat11">2</a></sup>
 
@@ -50,7 +50,7 @@ Each shelf has space for ten boxes, so we categorise what we want to store. In l
 
 FIGURE 11.01D: OUR LIFE ADMIN SHELF ENDS UP WITH FIVE BOXES.
 
-### Step 3: File your stuff in folders
+### Step 3: File Your Stuff in Folders
 
 We put our documents in manila folders. Each folder gets a number starting at `.11` so we can track them. In this case, we've put some insurance policies in `15.23 Travel insurance`. Then put the folder in a box.
 
@@ -58,7 +58,7 @@ We put our documents in manila folders. Each folder gets a number starting at `.
 
 FIGURE 11.01E. WE PUT OUR DOCUMENTS IN NUMBERED FOLDERS AND STORE THEM IN THE RELEVANT BOX.
 
-### This is how we structure our file system
+### This is how We Structure Our File System
 
 Let's return to our computer. The shelves have become our area folders. The boxes are category folders. And the manila folders are the IDs where we save our files.
 
@@ -70,25 +70,25 @@ FIGURE 11.01F. A NEAT FILE STRUCTURE WITH AREAS, CATEGORIES, AND IDS.
 
 Each of our storage folders now has a number, the ID. It always has two digits, a decimal, and two digits. For example, `15.23` `22.11` `31.17`. This number is really useful.
 
-### It provides structure
+### It Provides Structure
 
 The ID tells us exactly where a thing is. The numbers before the decimal are the item's category, and they define the structure of your system.
 
 At a glance, you know what sort of thing the item contains. You'll be astonished at how many of your category numbers you remember.
 
-### They're easy to communicate
+### They're Easy to Communicate
 
 They're short, memorable, and can be spoken out loud. Say it like "sixteen oh-two" or "thirty-one dot seventeen".
 
 This is really handy when you want to tell someone (including your future self) where a thing is.
 
-### Things stay where they are
+### Things Stay where They Are
 
 If you use the alphabet to name folders, they move when a new one is created. So you never get a chance to develop muscle memory.
 
 Numbers solve this problem. In the example above, `11 Me` comes before `12 House` because the folders sort by number. If we made a new folder, `16 Aardvark collection`, nothing would move.
 
-### It imposes limits
+### It Imposes Limits
 
 The 'no more than ten' concept is at the heart of Johnny.Decimal.
 
@@ -96,7 +96,7 @@ When you start looking for something, you have no more than ten area folders to 
 
 You then arrive in a folder with no more than one hundred IDs. If the ID was created recently it will have a higher number. If not, lower. And things created together, stick together. The alphabet isn't around to ruin the party.
 
-## I like it! What next?
+## I like It! What Next?
 
 Welcome to the Johnny.Decimal family, there's plenty to go on with:
 

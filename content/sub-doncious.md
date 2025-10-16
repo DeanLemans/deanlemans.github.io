@@ -1,7 +1,6 @@
 ---
 publish: true
 modified: 2025-10-04
-title: (Dream) Journal
 ---
 
 # 2025-10-09
@@ -16,7 +15,7 @@ Perhaps. Does it matter? Change will come for all.
 It will, doesnt mean i cant change it.
 
 The terrarium, before she died i implied/promised to buy/work on a plant terrarium with her, so she could garden again/do something with plants again, she is to old, was to old.  
-And then she died, im sorry i wast there. (I SHOULD HAVE BEEN THERE MORE! No it isn't, you were on vacation, and she would have forgiven you. Make peace with that fact. I WASNT THERE, im sorry. Last day i sawlivelife you i told you that i was going to bali to study plants. I brought gifts, i wanted to give you plants. Wanted, wanted, wanted. A possibility, that could have been, but isn't. (and cant) eat your rage, eat your sadness. I will become, i will become.)
+And then she died, im sorry i wast there. (I SHOULD HAVE BEEN THERE MORE! No it isn't, you were on vacation, and she would have forgiven you. Make peace with that fact. I WASNT THERE, im sorry. Last day i sawlivelife you i told you that i was going to bali to study plants. I brought gifts, i wanted to give you plants. Wanted, wanted, wanted. A possibility, that could have been, but isn't.)
 
 ---
 

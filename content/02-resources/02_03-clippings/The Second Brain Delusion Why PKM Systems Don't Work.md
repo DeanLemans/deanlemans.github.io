@@ -1,13 +1,14 @@
 ---
 title: "The Second Brain Delusion: Why PKM Systems Don't Work"
-source: "https://turbulencegains.com/second-brain/"
+source: https://turbulencegains.com/second-brain/
 author:
   - "[[Jay]]"
 created: 2025-10-05
-description: "I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think."
-tags:
-  - "clippings"
+description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
 ---
+
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
 
 Hi, I'm Jay. I take things to 35,000 feet for a living or at least I will, once I finish flight training. (This year alone I've logged 10 flights and it's only October.) I'm also a psychology student and a blogger, which means I have a professional obligation to overthink everything.
 
