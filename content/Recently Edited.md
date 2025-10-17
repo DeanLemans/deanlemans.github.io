@@ -1,5 +1,5 @@
+- 2025-10-17 13:08 · [interesting sites](<./03-digital_garden/interesting sites.md>)
 - 2025-10-16 23:20 · [sub-doncious](<./sub-doncious.md>)
-- 2025-10-16 23:20 · [interesting sites](<./03-digital_garden/interesting sites.md>)
 - 2025-10-16 20:04 · [Developer Certificate of Origin - Wikipedia](<./02-resources/02_03-clippings/Developer Certificate of Origin - Wikipedia.md>)
 - 2025-10-16 20:04 · [8 Things to know about vanlife in the Netherlands](<./02-resources/02_03-clippings/8 Things to know about vanlife in the Netherlands.md>)
 - 2025-10-16 20:04 · [A system to organise your life](<./02-resources/02_03-clippings/A system to organise your life.md>)

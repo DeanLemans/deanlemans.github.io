@@ -1,5 +1,5 @@
 #todo  
-Put my bookmark list in here
+
 ---
 
 # Bookmarks
@@ -86,9 +86,6 @@ Put my bookmark list in here
 * [My writings : Juha-Matti Santala](https://hamatti.org/blog/)
 * [Digital Gardening with Quartz](https://be-far.com/Projects/Obsidian/digital-garden)
 * [Edward Snowden](https://freedom.press/people/edward-snowden/)
-
-### Anarchy
-
 * [The Nihilist Void | Nothing matters.](https://marmysz.wordpress.com/)
 * [The Idler's Manifesto: And Other Egoist Writings (English Edition)](https://www.amazon.de/-/en/dp/B0DFJB7P79?crid=1CRWGU64KUTXK&dib=eyJ2IjoiMSJ9.lzC33e8gHqGEeCKCAhbTw2aR6WlkoGY2CbuA-ZDb1p1Lnj9I5wgCAdGEvwbys1GYTyXshdQtu2JvME3EwzbjJZnjj1IZ_qbhStIQm0OaOlTQPItoAXVkVEPWWCjPEufBvMymrkabUlSXtrIwD1ZIv3ogqrLQGZ-Y16tM3pzmf3Vzoj2W5BkQTL00EyopsBEKt-XQc9u9E2AOMsFxFB6Mtfi9h-ZGY9uZjlN-nXBlvdo.ZewiMlrK-Pr1UgE2eOT0lgW2TXQv09ur7TuRuEz-3Uk&dib_tag=se&keywords=the+idlers+manifesto&s=digital-text&sprefix=the+idlers+manifesto%2Cdigital-text%2C79&sr=1-1)
 * [AnarchyValues](https://anarchyvalues.github.io/index.html)
@@ -118,9 +115,6 @@ Put my bookmark list in here
 * [34-20 The Guard-Captain (I) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/2222675/34-20-the-guard-captain-i)
 * [DRAWBOX](https://drawbox.nekoweb.org/)
 * [Our Unending Journey - MangaDex](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
-
-### Miscellaneous
-
 * [play these games](https://www.reddit.com/r/yumenikki/comments/1fttgsc/since_some_people_wanted_me_to_share_my_ynfg/)
 * [The Outsider by Colin Wilson](https://www.goodreads.com/en/book/show/67880)
 * [Can I license my project with an open-source license but disallow commercial use? | AnonymousOverflow](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but-disallow-commercial-use)
