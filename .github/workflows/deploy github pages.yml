@@ -77,31 +77,30 @@ jobs:
           done
 
       # Trigger a Pages rebuild (this requests GitHub Pages to rebuild the site and helps purge CDN)
-      - name: Trigger Pages rebuild (purge CDN)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Poll for Pages published URL instead of calling Pages builds API (some repos return 403)
+      - name: Poll for Pages published URL
         run: |
-          set -e
-          owner_repo="${{ github.repository }}"
-          echo "Triggering Pages rebuild for $owner_repo"
-          curl -s -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-            "https://api.github.com/repos/${owner_repo}/pages/builds" || true
-
-      # Retry once after a short delay to increase likelihood caches are refreshed
-      - name: Retry Pages rebuild (optional)
-        if: always()
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          sleep 10
-          owner_repo="${{ github.repository }}"
-          echo "Retrying Pages rebuild for $owner_repo"
-          curl -s -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-            "https://api.github.com/repos/${owner_repo}/pages/builds" || true
+          echo "Polling for published URL from deploy step..."
+          # Try reading the deploy step's page_url output for up to ~60s
+          timeout=60
+          interval=5
+          elapsed=0
+          page_url=""
+          while [ $elapsed -lt $timeout ]; do
+            # GitHub Actions will expand the expression at runtime for this step.
+            page_url="${{ steps.deployment.outputs.page_url }}"
+            if [ -n "$page_url" ] && [ "$page_url" != "null" ]; then
+              echo "Pages published at: $page_url"
+              break
+            fi
+            echo "page_url not yet available; sleeping ${interval}s..."
+            sleep $interval
+            elapsed=$((elapsed + interval))
+          done
+          if [ -z "$page_url" ] || [ "$page_url" = "null" ]; then
+            echo "Timed out waiting for page_url. The site may still be published at: https://deanlemans.github.io/"
+            echo "If the repository uses the classic Pages site settings, check the repository Pages settings or the Pages publish branch."
+          fi
 
       # Provide a final reminder/log with the published URL
       - name: Publish URL output
