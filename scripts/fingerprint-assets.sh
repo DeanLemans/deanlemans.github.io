@@ -1,12 +1,11 @@
-00_01-my site/scripts/fingerprint-assets.sh#L1-300
 #!/usr/bin/env bash
 #
-# fingerprint-assets.sh
+# fingerprint-assets.sh (extended)
 #
 # Post-build fingerprinting script for Quartz static sites.
 #
 # What it does:
-# - Finds CSS and JS assets under a build directory (default: "public")
+# - Finds common static assets (css, js, images, fonts) under a build directory (default: "public")
 # - Computes a short hash for each asset and renames the file to include the hash:
 #     e.g. /css/main.css -> /css/main.<hash>.css
 # - If a source map exists alongside an asset (e.g. main.js.map), it moves/renames it
@@ -15,8 +14,9 @@
 #
 # Notes:
 # - Run this after your static site is built but before uploading/deploying the files.
-# - This script aims to be safe with spaces in filenames.
-# - It avoids re-fingerprinting files that already look fingerprinted (8 hex chars).
+# - The script is careful not to re-fingerprint filenames that already include an 8-hex hash.
+# - Use the --dry-run mode (pass the first arg as --dry-run or second arg as --dry-run)
+#   to preview what will be renamed without changing files.
 #
 # Usage:
 #   ./fingerprint-assets.sh [build_dir] [--dry-run]
@@ -28,7 +28,7 @@ set -euo pipefail
 # Defaults
 BUILD_DIR=${1:-public}
 DRY_RUN=false
-if [ "${2:-}" = "--dry-run" ] || [ "${1:-}" = "--dry-run" ]; then
+if [ "${1:-}" = "--dry-run" ] || [ "${2:-}" = "--dry-run" ]; then
   DRY_RUN=true
 fi
 
@@ -49,27 +49,48 @@ MAP_FILE="$TMP_DIR/mapping.tsv"
 # Hash length (hex chars)
 HASH_LEN=8
 
-# Find assets to fingerprint: .css and .js (skip files already fingerprinted)
-log "Scanning for .css and .js assets under '$BUILD_DIR'..."
+# Asset extensions to fingerprint
+ASSET_EXTS=(css js png jpg jpeg gif webp svg ico bmp avif woff woff2 ttf otf eot)
+
+# Build find expression for these extensions
+FIND_EXPR=""
+for ext in "${ASSET_EXTS[@]}"; do
+  if [ -z "$FIND_EXPR" ]; then
+    FIND_EXPR="-iname \"*.$ext\""
+  else
+    FIND_EXPR="$FIND_EXPR -o -iname \"*.$ext\""
+  fi
+done
+
+log "Scanning for assets to fingerprint under '$BUILD_DIR'..."
+# Find candidates; skip common directories that shouldn't be touched
 while IFS= read -r -d '' asset; do
   fname=$(basename "$asset")
-  # skip if filename already contains .<8hex>.css or .<8hex>.js
-  if [[ "$fname" =~ \.[0-9a-fA-F]{8}\.(css|js)$ ]]; then
+  # Skip if already fingerprinted with .<8hex> before extension (e.g. main.1a2b3c4d.css)
+  if [[ "$fname" =~ \.[0-9a-fA-F]{8}\.[a-zA-Z0-9]+$ ]]; then
     log "Skipping already-fingerprinted: $asset"
     continue
   fi
 
   # compute hash of file contents (sha256) and take first HASH_LEN hex chars
-  hash=$(sha256sum "$asset" | awk '{print $1}' | cut -c1-"$HASH_LEN")
+  # Use sha256sum if available, otherwise fall back to shasum -a 256
+  if command -v sha256sum >/dev/null 2>&1; then
+    fullhash=$(sha256sum "$asset" | awk '{print $1}')
+  else
+    fullhash=$(shasum -a 256 "$asset" | awk '{print $1}')
+  fi
+  hash=${fullhash:0:HASH_LEN}
+
   dir=$(dirname "$asset")
   ext="${asset##*.}"
   base="${asset%.*}"
   new_asset="$dir/${base##*/}.$hash.$ext"
 
-  # Determine corresponding source map (if any)
+  # For source maps (only relevant to js files)
   map_src="$asset.map"
   map_new="$new_asset.map"
-  # For writing mapping, produce paths relative to BUILD_DIR without leading './'
+
+  # Paths relative to BUILD_DIR (used in mapping table)
   rel_orig=${asset#"$BUILD_DIR"/}
   rel_new=${new_asset#"$BUILD_DIR"/}
 
@@ -82,34 +103,34 @@ while IFS= read -r -d '' asset; do
     continue
   fi
 
-  # Move asset to fingerprinted name
+  # Perform renaming
   log "Renaming: '$rel_orig' -> '$rel_new'"
   mv -v "$asset" "$new_asset"
 
-  # If map exists, move and then update sourceMappingURL inside the JS file (if needed)
+  # Move source map if present and update sourceMappingURL inside JS
   if [ -f "$map_src" ]; then
     log "Renaming source map for $rel_orig"
     mv -v "$map_src" "$map_new"
-    # If the asset is a JS file, update sourceMappingURL reference inside the new js file.
-    if [ "$ext" = "js" ]; then
-      # Replace sourceMappingURL comment (works for both //# and //@)
-      # We perform an in-place substitution to point to the new map filename (basename)
+    if [ "${ext,,}" = "js" ]; then
       new_map_basename=$(basename "$map_new")
-      # Use perl to perform a safe replacement allowing different comment styles
-      perl -0777 -pe "s{(sourceMappingURL=)([^\\s'\";]+)}{\$1${new_map_basename}}g" -i "$new_asset"
+      # update sourceMappingURL comment inside the js file
+      # handle different comment styles
+      perl -0777 -pe "s{(sourceMappingURL=)([^\\s'\";]+)}{\$1${new_map_basename}}g" -i "$new_asset" || true
     fi
   fi
 
   # Record mapping (rel paths)
   echo -e "${rel_orig}\t${rel_new}" >> "$MAP_FILE"
-done < <(find "$BUILD_DIR" -type f \( -iname "*.css" -o -iname "*.js" \) -print0)
+done < <(eval find "\"$BUILD_DIR\"" -type f \( $FIND_EXPR \) -not -path "*/node_modules/*" -not -path "*/.git/*" -print0)
 
 # If dry-run, we're done after showing planned mapping
 if [ "$DRY_RUN" = true ]; then
   log ""
   log "DRY RUN mapping (orig -> new):"
-  column -t -s $'\t' "$MAP_FILE" || true
+  column -t -s $'\t' "$MAP_FILE" || cat "$MAP_FILE"
+  log ""
   log "No files were changed (--dry-run)."
+  log "Run the script without --dry-run to perform actual renaming."
   exit 0
 fi
 
@@ -122,12 +143,12 @@ fi
 
 # Use Python for robust multi-file replacements:
 # - Replace occurrences of both "/{orig}" and "{orig}" in HTML, CSS and JS files.
-# - This handles absolute and relative references.
-# - We avoid replacing occurrences in files under node_modules, .git, etc.
-log "Updating references in HTML, CSS, JS files..."
+# - Also update CSS url(...) references and simple JSON or manifest files that may reference assets.
+# - Avoid replacing occurrences in binary files, node_modules, or .git.
+log "Updating references in HTML, CSS, JS and other text files..."
 
 python3 - <<PY
-import sys, os, io, re, pathlib
+import sys, os, re, pathlib
 
 build_dir = os.path.abspath("${BUILD_DIR}")
 map_file = "${MAP_FILE}"
@@ -140,57 +161,59 @@ with open(map_file, "r", encoding="utf-8") as f:
         if not line:
             continue
         orig, new = line.split("\t")
-        # Normalize slashes to forward slashes for matching inside HTML/CSS
         orig = orig.replace(os.sep, "/").lstrip("/")
         new = new.replace(os.sep, "/").lstrip("/")
         mappings.append((orig, new))
 
-# Sort mappings by descending orig length to avoid partial replacements (e.g. 'app.css' before 'app.css.map')
+# Sort by length to avoid partial replacements
 mappings.sort(key=lambda x: -len(x[0]))
 
-# File types to update (text files served to clients)
-exts = (".html", ".htm", ".css", ".js")
+# File extensions to process as text for reference updates
+TEXT_EXTS = (".html", ".htm", ".css", ".js", ".json", ".xml", ".svg", ".txt", ".map")
 
 def should_process(path):
-    # skip binary-looking or irrelevant directories
-    parts = pathlib.Path(path).parts
+    p = pathlib.Path(path)
+    parts = p.parts
     if ".git" in parts or "node_modules" in parts:
         return False
-    return path.endswith(exts)
+    # Only process expected text file extensions
+    return p.suffix.lower() in TEXT_EXTS
 
 count_files = 0
 count_replacements = 0
 
 for root, dirs, files in os.walk(build_dir):
-    # skip hidden directories often irrelevant
     dirs[:] = [d for d in dirs if d not in (".git", "node_modules")]
     for fn in files:
         fp = os.path.join(root, fn)
-        relp = os.path.relpath(fp, build_dir)
         if not should_process(fp):
             continue
         try:
             with open(fp, "r", encoding="utf-8") as fh:
                 text = fh.read()
         except Exception:
-            # skip files that can't be read as text
             continue
         orig_text = text
         for orig, new in mappings:
-            # Replace both "/orig" and "orig" occurrences; use regex to avoid partial matches inside words
-            # Pattern for absolute path: (/|")?orig(\?|["'\s)>]) -> preserve punctuation
-            # We'll do two passes: absolute and relative
-            # absolute: replace /orig -> /new
+            # Replace occurrences in common contexts:
+            # - HTML attributes: src="...", href='...'
+            # - CSS url(...) references: url("..."), url('...'), url(...)
+            # - Plain occurrences where token boundaries exist
+            # Do absolute replacements first ("/orig" -> "/new")
             text = re.sub(r'(/)'+re.escape(orig)+r'(?=[\?\#\"\'\)\s>])', r'/'+new, text)
-            # relative: replace orig when preceded by start, quote, or whitespace
+            # CSS url(...) absolute
+            text = re.sub(r'url\(\s*([\'"]?)/'+re.escape(orig)+r'([\'"]?)\s*\)', r'url(\1/'+new+r'\2)', text)
+            # Then relative / token-boundary replacements
             text = re.sub(r'(?:(?<=["\'\s\(])|(?<=^))'+re.escape(orig)+r'(?=[\?\#\"\'\)\s>])', new, text)
+            # CSS url(...) relative
+            text = re.sub(r'url\(\s*([\'"]?)'+re.escape(orig)+r'([\'"]?)\s*\)', r'url(\1'+new+r'\2)', text)
         if text != orig_text:
-            # write back
             with open(fp, "w", encoding="utf-8") as fh:
                 fh.write(text)
             count_files += 1
-            # crude count of replacements
+            # approximate replacements count
             count_replacements += sum(orig_text.count(o) - text.count(o) for o, _ in mappings if orig_text.count(o) > text.count(o))
+
 print(f"Updated {count_files} files with fingerprinted references.")
 print(f"Performed ~{abs(count_replacements)} replacements.")
 PY
@@ -202,8 +225,9 @@ column -t -s $'\t' "$MAP_FILE" || cat "$MAP_FILE"
 
 log ""
 log "Tip: upload/deploy the contents of '$BUILD_DIR' (not the original names) to your hosting provider."
-log "Also remove any query-string cache-busting steps if you use filename fingerprinting (they become redundant)."
-log "If you use GitHub Pages, you can additionally trigger Pages rebuilds via the API to shorten CDN propagation."
+log "Because filenames changed, caches should be bypassed for updated assets."
+log "If you still see stale content after deployment, purge any intermediate CDN (Cloudflare, Fastly) or check for a service worker on the client."
+log "Use --dry-run first if you want to preview changes."
 
 # Clean up
 rm -rf "$TMP_DIR"
