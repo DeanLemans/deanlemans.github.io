@@ -37,14 +37,18 @@ jobs:
           CACHE_CLEAR: ${{ env.CACHE_CLEAR }}
         run: npx quartz build
 
-      # --- Cache busting steps ---
-      - name: Force cache bust by touching files
-        run: find public -type f -exec touch {} +
+      # --- Post-build: fingerprint assets and robust cache-busting ---
+      - name: Make fingerprint script executable
+        run: chmod +x ./scripts/fingerprint-assets.sh
 
-      - name: Append cache-bust query to asset URLs
+      - name: Fingerprint CSS/JS assets (post-build)
         run: |
-          find public -type f -name "*.html" -exec \
-          sed -i "s/\.css\"/.css?${CACHE_CLEAR}\"/g; s/\.js\"/.js?${CACHE_CLEAR}\"/g" {} +
+          # Fingerprint assets under the site output dir. The script will rename files
+          # like `main.css` -> `main.<hash>.css` and update references in HTML/CSS/JS.
+          ./scripts/fingerprint-assets.sh public
+
+      - name: Force cache bust by touching any remaining files
+        run: find public -type f -exec touch {} +
 
       # --- Upload site ---
       - name: Upload artifact
@@ -63,19 +67,43 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      # cache bust
-      - name: Purge GitHub Pages cache
+      # Give GitHub Pages a moment to accept the deployment and populate page_url
+      - name: Wait a little for Pages to become reachable
         run: |
-          curl -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ github.token }}" \
-            https://api.github.com/repos/${{ github.repository }}/pages/builds
+          echo "Waiting for Pages to finalize..."
+          for i in 1 2 3 4 5; do
+            sleep 5
+            echo "waited $((i * 5))s"
+          done
 
-      # optional retry (extra cache clear)
-      - name: Retry cache purge (optional)
+      # Trigger a Pages rebuild (this requests GitHub Pages to rebuild the site and helps purge CDN)
+      - name: Trigger Pages rebuild (purge CDN)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          owner_repo="${{ github.repository }}"
+          echo "Triggering Pages rebuild for $owner_repo"
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/repos/${owner_repo}/pages/builds" || true
+
+      # Retry once after a short delay to increase likelihood caches are refreshed
+      - name: Retry Pages rebuild (optional)
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           sleep 10
-          curl -X POST \
+          owner_repo="${{ github.repository }}"
+          echo "Retrying Pages rebuild for $owner_repo"
+          curl -s -X POST \
             -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ github.token }}" \
-            https://api.github.com/repos/${{ github.repository }}/pages/builds
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/repos/${owner_repo}/pages/builds" || true
+
+      # Provide a final reminder/log with the published URL
+      - name: Publish URL output
+        run: |
+          echo "Pages deployment finished. URL (may take a moment to propagate): ${{ steps.deployment.outputs.page_url }}"
