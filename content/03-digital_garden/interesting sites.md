@@ -119,3 +119,4 @@
 * [The Outsider by Colin Wilson](https://www.goodreads.com/en/book/show/67880)
 * [Can I license my project with an open-source license but disallow commercial use? | AnonymousOverflow](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but-disallow-commercial-use)
 * [Artifex](https://artifex.com/solutions/printers)
+* [Open source plant](https://osseeds.org/)

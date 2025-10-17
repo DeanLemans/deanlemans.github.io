@@ -1,5 +1,6 @@
-- 2025-10-17 13:08 · [interesting sites](<./03-digital_garden/interesting sites.md>)
-- 2025-10-16 23:20 · [sub-doncious](<./sub-doncious.md>)
+- 2025-10-17 16:12 · [ideas](<./00-raw/ideas.md>)
+- 2025-10-17 16:10 · [interesting sites](<./03-digital_garden/interesting sites.md>)
+- 2025-10-16 23:20 · [sub-concious](<./sub-concious.md>)
 - 2025-10-16 20:04 · [Developer Certificate of Origin - Wikipedia](<./02-resources/02_03-clippings/Developer Certificate of Origin - Wikipedia.md>)
 - 2025-10-16 20:04 · [8 Things to know about vanlife in the Netherlands](<./02-resources/02_03-clippings/8 Things to know about vanlife in the Netherlands.md>)
 - 2025-10-16 20:04 · [A system to organise your life](<./02-resources/02_03-clippings/A system to organise your life.md>)
@@ -27,4 +28,3 @@
 - 2025-10-08 22:40 · [Speedrunning the Multiverse 3](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 3.md>)
 - 2025-10-08 22:40 · [Speedrunning the Multiverse 2](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 2.md>)
 - 2025-10-08 22:40 · [Speedrunning the Multiverse 4](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 4.md>)
-- 2025-10-08 22:40 · [Kitty Cat Kill Sat](<./02-resources/02_01-literature/books/Kitty Cat Kill Sat.md>)
