@@ -47,59 +47,7 @@ export default (() => {
         <meta httpEquiv="Pragma" content="no-cache" />
         <meta httpEquiv="Expires" content="0" />
 
-        {/* Aggressive client-side cache clearing:
-            - Unregisters service workers
-            - Deletes Cache Storage entries
-            - Clears localStorage/sessionStorage
-            - Reloads the page once with a cache-busting query param
-            This runs immediately in the head to reduce chance of serving stale resources. */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function(){
-                try {
-                  // Unregister all service workers
-                  if ('serviceWorker' in navigator && navigator.serviceWorker.getRegistrations) {
-                    navigator.serviceWorker.getRegistrations().then(function(regs){
-                      regs.forEach(function(r){
-                        try { r.unregister(); } catch(e){}
-                      });
-                    }).catch(function(){});
-                  }
-
-                  // Delete all Cache Storage entries
-                  if (window.caches && caches.keys) {
-                    caches.keys().then(function(keys){
-                      return Promise.all(keys.map(function(key){
-                        try { return caches.delete(key); } catch(e){ return Promise.resolve(false); }
-                      }));
-                    }).catch(function(){});
-                  }
-
-                  // Clear local/session storage (best-effort)
-                  try { if (window.localStorage) { localStorage.clear(); } } catch(e){}
-                  try { if (window.sessionStorage) { sessionStorage.clear(); } } catch(e){}
-
-                  // Ensure we reload once with a cache-busting query param to force fresh fetches.
-                  // Avoid infinite reload loops by checking for an existing cache_cleared param.
-                  var marker = 'cache_cleared';
-                  if (window.location && window.location.href.indexOf(marker) === -1) {
-                    var sep = window.location.href.indexOf('?') === -1 ? '?' : '&';
-                    try {
-                      // Use replace so history isn't flooded
-                      window.location.replace(window.location.href + sep + marker + '=' + Date.now());
-                    } catch (e) {
-                      // fallback to reload if replace fails
-                      window.location.reload(true);
-                    }
-                  }
-                } catch (e) {
-                  // swallow errors; we don't want to break page render
-                }
-              })();
-            `,
-          }}
-        />
+        {/* Client-side aggressive cache-clearing removed. Fingerprinting is used to bust caches. */}
 
         {/* Preconnects */}
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
