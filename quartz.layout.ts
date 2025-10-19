@@ -54,16 +54,16 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: function (node) {
-        const omitList = ["00-raw", "journal", "site rules", "02_03-clippings"]
-        const name = (node.displayName + "/" + node.slugSegment).toLowerCase()
-        for (let i = 0; i < omitList.length; i++) {
-          if (name.includes(omitList[i])) return false
-        }
-        return true
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["00-raw", "journal", "site rules", "02_03-clippings"])
+
+        // can also use node.slug or by anything on node.data
+        // note that node.data is only present for files that exist on disk
+        // (e.g. implicit folder nodes that have no associated index.md)
+        return !omit.has(node.displayName.toLowerCase())
       },
-    }),
-  ],
+    })
   right: [
     desktop(conditional(Component.TableOfContents(), notHome)),
     desktop(conditional(Component.Backlinks(), and(notHome, notCV))),

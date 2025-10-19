@@ -1,6 +1,8 @@
 ---
 publish: true
 modified: 2025-10-04
+tags:
+  - exclude
 ---
 
 # 2025-10-09
