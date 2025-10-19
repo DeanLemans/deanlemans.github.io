@@ -4,14 +4,16 @@ author: James Clear
 title: Atomic Habits
 isbn: ''
 pages: '319'
-coverImage: '[[static_files/40121378.jpg]]'
+coverImage: static_files/40121378.jpg
+cover: >-
+  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg
+---
 ---
 publish: true
-
 ---
 
 # Atomic Habits
 
 by: [[James Clear]]
 
-![[static_files/40121378.jpg]]
+![](<../../../static_files/40121378.jpg>)
