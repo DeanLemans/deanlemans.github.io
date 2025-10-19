@@ -1,15 +1,13 @@
 ---
-id: '222252964'
+id: "222252964"
 author: Jakob H. Greif
 title: Apocalypse Redux - Books 1-3 Box Set
-isbn: ''
-pages: '1633'
-coverImage: static_files/222252964.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733345315l/222252964._SX318_.jpg
----
+isbn: ""
+pages: "1633"
+coverImage: "[222252964.jpg](<../../../static_files/222252964.jpg>)"
 ---
 publish: true
+
 ---
 
 # Apocalypse Redux - Books 1-3 Box Set

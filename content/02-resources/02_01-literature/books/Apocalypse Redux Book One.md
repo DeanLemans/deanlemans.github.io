@@ -1,15 +1,13 @@
 ---
-id: '62875923'
+id: "62875923"
 author: Jakob H. Greif
 title: Apocalypse Redux Book One
-isbn: ''
-pages: '558'
-coverImage: static_files/62875923.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759016457l/62875923._SY475_.jpg
----
+isbn: ""
+pages: "558"
+coverImage: "[62875923.jpg](<../../../static_files/62875923.jpg>)"
 ---
 publish: true
+
 ---
 
 # Apocalypse Redux Book One

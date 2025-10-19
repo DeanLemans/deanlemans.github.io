@@ -1,15 +1,13 @@
 ---
-id: '146745564'
+id: "146745564"
 author: Jakob H. Greif
 title: Apocalypse Redux Book Four
-isbn: ''
-pages: '574'
-coverImage: static_files/146745564.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683203442l/146745564._SY475_.jpg
----
+isbn: ""
+pages: "574"
+coverImage: "[146745564.jpg](<../../../static_files/146745564.jpg>)"
 ---
 publish: true
+
 ---
 
 # Apocalypse Redux Book Four
