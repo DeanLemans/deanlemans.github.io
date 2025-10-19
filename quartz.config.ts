@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "deanlemans.github.io",
-    ignorePatterns: ["static_files/templates", ".obsidian"],
+    ignorePatterns: ["static_files/templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -70,7 +70,7 @@ const config: QuartzConfig = {
         disableBrokenWikilinks: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.RoamFlavoredMarkdown(),
+      //Plugin.RoamFlavoredMarkdown(),
       Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({
