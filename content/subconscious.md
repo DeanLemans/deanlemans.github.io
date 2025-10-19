@@ -3,7 +3,14 @@ publish: true
 modified: 2025-10-04
 tags:
   - exclude
+title: Subconscious
+enableToc: false
 ---
+
+> [!fail] this does not exist  
+> For those who come across this, dont share.  
+> Reason: not professional  
+> Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 2025-10-09
 

@@ -1,30 +1,30 @@
-- 2025-10-19 21:29 · [[index]]
-- 2025-10-19 21:29 · [[index]]
-- 2025-10-19 21:17 · [[index]]
-- 2025-10-19 21:05 · [[index]]
-- 2025-10-19 21:05 · [[index]]
-- 2025-10-19 21:05 · [[index]]
-- 2025-10-19 21:05 · [[index]]
-- 2025-10-19 21:05 · [[index]]
-- 2025-10-19 20:40 · [[The Second Brain Delusion Why PKM Systems Don't Work]]
-- 2025-10-19 20:40 · [[The psychology of “second brains” curious about your real struggles - rObsidianMD]]
-- 2025-10-19 20:40 · [[Subble – Stop overpaying for unused software licences]]
-- 2025-10-19 20:40 · [[sketch your mind conference]]
-- 2025-10-19 20:40 · [[off-grid open tech]]
-- 2025-10-19 20:40 · [[Lazygit Turns 5 Musings on Git, TUIs, and Open Source]]
-- 2025-10-19 20:40 · [[Keep a Changelog]]
-- 2025-10-19 20:39 · [[Git Subtree Alternative to Git Submodule  Atlassian Git Tutorial]]
-- 2025-10-19 20:39 · [[Everything you always wanted to know about DACs (but were afraid to ask)]]
-- 2025-10-19 20:39 · [[Developer Certificate of Origin - Wikipedia]]
-- 2025-10-19 20:39 · [[A system to organise your life]]
-- 2025-10-19 20:39 · [[8 Things to know about vanlife in the Netherlands]]
-- 2025-10-19 20:39 · [[site rules]]
-- 2025-10-19 20:38 · [[godot-platformer]]
-- 2025-10-19 19:29 · [[game-list]]
-- 2025-10-19 19:28 · [[sub-concious]]
-- 2025-10-17 16:12 · [[ideas]]
-- 2025-10-17 16:10 · [[interesting sites]]
-- 2025-10-10 11:56 · [[plant knowledge]]
-- 2025-10-09 22:37 · [[CV-Gardening]]
-- 2025-10-09 22:27 · [[index]]
-- 2025-10-09 22:12 · [[Research-Bali]]
+- 2025-10-19 21:40 · [subconscious](<./subconscious.md>)
+- 2025-10-19 21:29 · [index](<./index.md>)
+- 2025-10-19 21:29 · [index](<./index.md>)
+- 2025-10-19 21:17 · [index](<./index.md>)
+- 2025-10-19 21:05 · [index](<./index.md>)
+- 2025-10-19 21:05 · [index](<./index.md>)
+- 2025-10-19 21:05 · [index](<./index.md>)
+- 2025-10-19 21:05 · [index](<./index.md>)
+- 2025-10-19 21:05 · [index](<./index.md>)
+- 2025-10-19 20:40 · [The Second Brain Delusion Why PKM Systems Don't Work](<./02-resources/02_03-clippings/The Second Brain Delusion Why PKM Systems Don't Work.md>)
+- 2025-10-19 20:40 · [The psychology of “second brains” curious about your real struggles - rObsidianMD](<./02-resources/02_03-clippings/The psychology of “second brains” curious about your real struggles - rObsidianMD.md>)
+- 2025-10-19 20:40 · [Subble – Stop overpaying for unused software licences](<./02-resources/02_03-clippings/Subble – Stop overpaying for unused software licences.md>)
+- 2025-10-19 20:40 · [sketch your mind conference](<./02-resources/02_03-clippings/sketch your mind conference.md>)
+- 2025-10-19 20:40 · [off-grid open tech](<./02-resources/02_03-clippings/off-grid open tech.md>)
+- 2025-10-19 20:40 · [Lazygit Turns 5 Musings on Git, TUIs, and Open Source](<./02-resources/02_03-clippings/Lazygit Turns 5 Musings on Git, TUIs, and Open Source.md>)
+- 2025-10-19 20:40 · [Keep a Changelog](<./02-resources/02_03-clippings/Keep a Changelog.md>)
+- 2025-10-19 20:39 · [Git Subtree Alternative to Git Submodule  Atlassian Git Tutorial](<./02-resources/02_03-clippings/Git Subtree Alternative to Git Submodule  Atlassian Git Tutorial.md>)
+- 2025-10-19 20:39 · [Everything you always wanted to know about DACs (but were afraid to ask)](<./02-resources/02_03-clippings/Everything you always wanted to know about DACs (but were afraid to ask).md>)
+- 2025-10-19 20:39 · [Developer Certificate of Origin - Wikipedia](<./02-resources/02_03-clippings/Developer Certificate of Origin - Wikipedia.md>)
+- 2025-10-19 20:39 · [A system to organise your life](<./02-resources/02_03-clippings/A system to organise your life.md>)
+- 2025-10-19 20:39 · [8 Things to know about vanlife in the Netherlands](<./02-resources/02_03-clippings/8 Things to know about vanlife in the Netherlands.md>)
+- 2025-10-19 20:39 · [site rules](<./site rules.md>)
+- 2025-10-19 20:38 · [godot-platformer](<./01-projects/01_02-maintained_projects/godot-platformer.md>)
+- 2025-10-19 19:29 · [game-list](<./03-digital_garden/04_01-site_maps/game-list.md>)
+- 2025-10-17 16:12 · [ideas](<./00-raw/ideas.md>)
+- 2025-10-17 16:10 · [interesting sites](<./03-digital_garden/interesting sites.md>)
+- 2025-10-10 11:56 · [plant knowledge](<./School/plant knowledge.md>)
+- 2025-10-09 22:37 · [CV-Gardening](<./CV-Gardening.md>)
+- 2025-10-09 22:27 · [index](<./index.md>)
+- 2025-10-09 22:12 · [Research-Bali](<./01-projects/01_02-maintained_projects/Research-Bali.md>)
