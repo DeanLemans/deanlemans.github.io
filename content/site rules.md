@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - exclude
 ---
 
 TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION

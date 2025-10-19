@@ -4,6 +4,8 @@ source: https://app.events.ringcentral.com/events/sketch-your-mind-conference/re
 author:
 created: 2025-10-13
 description:
+tags:
+  - exclude
 ---
 
 > [!danger] NOT MINE  

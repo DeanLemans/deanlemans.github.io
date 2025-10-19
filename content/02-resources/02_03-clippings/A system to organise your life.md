@@ -5,6 +5,8 @@ author:
 created: 2025-10-05
 description: Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
 publish: true
+tags:
+  - exclude
 ---
 
 > [!danger] NOT MINE  

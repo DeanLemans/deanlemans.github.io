@@ -5,6 +5,8 @@ author:
 created: 2025-09-29
 description: Don’t let your friends dump git logs into changelogs.
 publish: true
+tags:
+  - exclude
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

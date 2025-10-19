@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Dean's site",
-    pageTitleSuffix: "",
+    //pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -76,23 +76,23 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({
         markdownLinkResolution: "relative",
         openLinksInNewTab: true,
-        prettyLinks: true,
+        prettyLinks: false,
         lazyLoad: true,
       }),
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts(), Plugin.ExplicitPublish()],
     emitters: [
-      Plugin.AliasRedirects(),
+      //Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       //Plugin.Citations(), //STILL NEED TO CONFIGURE THIS
-      Plugin.TagPage(),
+      //Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-        includeEmptyFiles: true,
+        includeEmptyFiles: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

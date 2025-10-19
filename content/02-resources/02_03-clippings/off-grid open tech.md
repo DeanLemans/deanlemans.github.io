@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - exclude
 ---
 
 <iframe

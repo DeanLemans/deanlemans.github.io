@@ -5,6 +5,8 @@ author:
   - "[[Jay]]"
 created: 2025-10-05
 description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
+tags:
+  - exclude
 ---
 
 > [!danger] NOT MINE  
