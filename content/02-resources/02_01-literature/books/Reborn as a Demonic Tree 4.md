@@ -1,0 +1,15 @@
+---
+id: 213387621
+author: "Xkarnation"
+title: "Reborn as a Demonic Tree 4"
+isbn: 
+pages: 586
+coverImage: "[[static_files/213387621.jpg]]"
+publish: true
+---
+
+# Reborn as a Demonic Tree 4
+
+by: [[Xkarnation]]
+
+![[static_files/213387621.jpg]]
