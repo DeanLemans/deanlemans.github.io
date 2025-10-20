@@ -76,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({
         markdownLinkResolution: "relative",
         openLinksInNewTab: true,
-        prettyLinks: false,
+        prettyLinks: true,
         lazyLoad: true,
       }),
       Plugin.Description(),
@@ -88,7 +88,7 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       //Plugin.Citations(), //STILL NEED TO CONFIGURE THIS
-      //Plugin.TagPage(),
+      Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
