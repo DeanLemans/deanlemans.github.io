@@ -1,15 +1,13 @@
 ---
-id: '197024548'
+id: "197024548"
 author: C.B. Titus
 title: Deadman Running
-isbn: ''
-pages: '375'
-coverImage: static_files/197024548.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693803101l/197024548._SX318_.jpg
----
+isbn: ""
+pages: "375"
+coverImage: "[197024548.jpg](<../../../static_files/197024548.jpg>)"
 ---
 publish: true
+
 ---
 
 # Deadman Running

@@ -1,15 +1,13 @@
 ---
-id: '214935110'
+id: "214935110"
 author: Jakob H. Greif
 title: Apocalypse Redux Book Seven
-isbn: ''
-pages: '587'
-coverImage: static_files/214935110.jpg
-cover: >-
-  https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718683442l/214935110._SY475_.jpg
----
+isbn: ""
+pages: "587"
+coverImage: "[214935110.jpg](<../../../static_files/214935110.jpg>)"
 ---
 publish: true
+
 ---
 
 # Apocalypse Redux Book Seven
