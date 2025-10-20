@@ -6,9 +6,9 @@ tags:
 
 TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION
 
-A vault is simply a folder of files. This is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian gives me that freedom.
+A folder of files. This is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian and quartz give me that freedom.
 
-The following is not absolute, just how i use this vault.
+The following is not absolute, just how i use this vault/site/notes.
 
 ## My Rules
 
@@ -69,16 +69,8 @@ Every few months I set aside time for a "random revisit". I use the *random note
 
 People have asked me if this could be automated with language models but I do not care to do so. I enjoy this process. Doing this maintenance helps me understand my own patterns. 
 
-## Properties and Templates
-
-Almost every note I create starts from a [template](https://github.com/kepano/kepano-obsidian/tree/main/Templates). 
-
-- **Dates** — created, start, end, published
-
-The [.obsidian/types.json](https://github.com/kepano/kepano-obsidian/blob/main/.obsidian/types.json) file lists which properties are assigned to which types (i.e. `date`, `number`, `text`, etc).
-
 ## Publishing to the Web
 
 This site content is written in Obsidian. And the site code is edited with Zed. I use a *static site generator* called Quartz to automatically compile my notes into a website and convert them from Markdown to HTML.
 
-For this site, I push notes from Obsidian to a GitHub repo using the github desktop. The notes are then automatically compiled using Quartz. I host my site freely on github pages and neocities with my CI workflow. (like to CI here) #todo 
+For this site, I push notes from Obsidian to a GitHub repo using the github desktop. The notes are then automatically compiled using Quartz. I host my site freely on github pages and neocities with my CI workflow. (link to CI here) #todo 

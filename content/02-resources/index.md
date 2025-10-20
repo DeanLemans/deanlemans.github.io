@@ -1,7 +1,7 @@
 ---
 publish: true
-title:
+title: Resources
 tags:
 ---
 
-Test
+This folder is for references? Need to explain better

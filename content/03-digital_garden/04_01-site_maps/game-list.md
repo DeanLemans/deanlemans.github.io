@@ -7,6 +7,9 @@ modified: 2025-09-25T18:16:42.311+01:00
 published: 2025-09-25T22:18:01.024+01:00
 ---
 
+#todo  
+Add my old playstation, and wii games to this list
+
 > [!info]  
 > I prefer Itch to Steam links.
 

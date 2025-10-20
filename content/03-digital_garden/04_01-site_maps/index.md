@@ -1,6 +1,6 @@
 ---
 publish: true
-title:
+title: Cool maps
 ---
 
-Test
+Lists of things i like, need to better integrate this into site. (book list almost done migrating)

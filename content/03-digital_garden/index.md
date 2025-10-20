@@ -1,6 +1,6 @@
 ---
 publish: true
-title:
+title: Digital Garden
 ---
 
-Test
+Digital things i like? Need to explain better

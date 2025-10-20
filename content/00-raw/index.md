@@ -5,4 +5,4 @@ tags:
   - exclude
 ---
 
-Test
+Raw and unfiltered ideas, enter at your own risk

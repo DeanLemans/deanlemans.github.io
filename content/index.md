@@ -34,11 +34,11 @@ aliases:
 	- IDE: [Zed](https://zed.dev/).
 
 > [!info] My cool lists
-> - See my [Book Library](<./03-digital_garden/04_01-site_maps/book-list.md>)
+> - See my [Book Library](<./03-digital_garden/04_01-site_maps/book-list.md>) [index](<./02-resources/02_01-literature/books/index.md>)
 > - My [Game Library](<./03-digital_garden/04_01-site_maps/game-list.md>)
 > - [cool software](https://github.com/stars/DeanLemans/lists/helpfull) unfinished, to to convert to page in this site
 > - and [[Finished-Projects]] (broken)
-> - [note/site rules](<./site rules.md>)
+> - [note/site rules](<./notes rules.md>)
 
 > [!info] Hobbies
 > 

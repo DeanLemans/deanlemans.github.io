@@ -16,12 +16,11 @@ published: 2025-09-29T03:32:24.047+01:00
 > - Hello, I am a freelance gardener.
 > - I am currently focused on maintenance and cleanup
 
-> - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
-
 > [!info] Experience
 > - Intermediate experience in [Godot](https://godotengine.org/).
 > - Advanced experience in [Github](https://github.com/DeanLemans).
-> - Freelance Gardener(1.5 year) *current*
+> - Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development)
+> - Freelance Gardener(1 years) *current*
 
 > [!info]Education
 > - [Udens College](https://www.udenscollege.nl/) VMBO
@@ -30,8 +29,6 @@ published: 2025-09-29T03:32:24.047+01:00
 
 > [!info]Projects
 > - [[Finished-Projects]]
-> - [on bullet shapes](<./project/Current_Projects/>)
-> - [Github Repos](https://github.com/DeanLemans?tab=repositories)
 
 > [!info]Languages
 > - Dutch *(Native)*

@@ -14,10 +14,10 @@ published: 2025-09-29T03:20:52.570+01:00
 > ![100x00](<./static_files/personal/CV-DeanLemans.pdf>)
 
 > [!info] Introduction
-> - Hello, I am Dean and I'm an aspiring Game Developer! 👋
+> - Hello, I am Dean and I'm an indie Software Developer! 👋
 > - I am experienced in Godot.
 
-> - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development) with a focus on Game Development.
+> - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development)
 
 > [!info]Developer Experience
 > - Intermediate experience in [Godot](https://godotengine.org/).

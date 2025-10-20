@@ -1,8 +1,8 @@
 ---
 publish: true
-title:
+title: Clippings
 tags:
   - exclude
 ---
 
-Test
+Articles from the internet i like
