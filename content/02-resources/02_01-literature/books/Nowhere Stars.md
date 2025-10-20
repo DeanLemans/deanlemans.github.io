@@ -1,13 +1,11 @@
 ---
-id: "214201208"
+id: 214201208
 author: Anemone
 title: Nowhere Stars
-isbn: ""
-pages: "291"
+isbn:
+pages: 291
 coverImage: "[214201208.jpg](<../../../static_files/214201208.jpg>)"
----
 publish: true
-
 ---
 
 # Nowhere Stars

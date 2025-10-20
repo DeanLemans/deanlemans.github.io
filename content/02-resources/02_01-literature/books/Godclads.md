@@ -1,13 +1,11 @@
 ---
-id: "204122030"
+id: 204122030
 author: OstensibleMammal
 title: Godclads
-isbn: "1956021515"
-pages: "586"
+isbn: 1956021515
+pages: 586
 coverImage: "[204122030.jpg](<../../../static_files/204122030.jpg>)"
----
 publish: true
-
 ---
 
 # Godclads

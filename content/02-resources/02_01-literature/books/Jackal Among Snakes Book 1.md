@@ -1,13 +1,11 @@
 ---
-id: "200500089"
+id: 200500089
 author: Nemorosus
 title: Jackal Among Snakes Book 1
-isbn: ""
-pages: "369"
+isbn:
+pages: 369
 coverImage: "[200500089.jpg](<../../../static_files/200500089.jpg>)"
----
 publish: true
-
 ---
 
 # Jackal Among Snakes Book 1

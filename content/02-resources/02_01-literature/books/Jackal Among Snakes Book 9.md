@@ -1,13 +1,11 @@
 ---
-id: "216857249"
+id: 216857249
 author: Nemorosus
 title: Jackal Among Snakes Book 9
-isbn: ""
-pages: "457"
+isbn:
+pages: 457
 coverImage: "[216857249.jpg](<../../../static_files/216857249.jpg>)"
----
 publish: true
-
 ---
 
 # Jackal Among Snakes Book 9

@@ -1,13 +1,11 @@
 ---
-id: "57549500"
+id: 57549500
 author: kingkennit
 title: Sylver Seeker
-isbn: ""
-pages: "400"
+isbn:
+pages: 400
 coverImage: "[57549500.jpg](<../../../static_files/57549500.jpg>)"
----
 publish: true
-
 ---
 
 # Sylver Seeker

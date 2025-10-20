@@ -1,13 +1,11 @@
 ---
-id: "199770078"
+id: 199770078
 author: Mark Arrows
 title: Grand Design
-isbn: ""
-pages: "570"
+isbn:
+pages: 570
 coverImage: "[199770078.jpg](<../../../static_files/199770078.jpg>)"
----
 publish: true
-
 ---
 
 # Grand Design

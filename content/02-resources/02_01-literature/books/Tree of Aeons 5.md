@@ -1,13 +1,11 @@
 ---
-id: "203699126"
+id: 203699126
 author: spaizzzer
 title: Tree of Aeons 5
-isbn: ""
-pages: "618"
+isbn:
+pages: 618
 coverImage: "[203699126.jpg](<../../../static_files/203699126.jpg>)"
----
 publish: true
-
 ---
 
 # Tree of Aeons 5

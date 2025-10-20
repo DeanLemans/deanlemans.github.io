@@ -1,13 +1,11 @@
 ---
-id: "203698663"
+id: 203698663
 author: C.B. Titus
 title: Deadman Deliverance
-isbn: ""
-pages: "412"
+isbn:
+pages: 412
 coverImage: "[203698663.jpg](<../../../static_files/203698663.jpg>)"
----
 publish: true
-
 ---
 
 # Deadman Deliverance

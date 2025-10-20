@@ -1,13 +1,11 @@
 ---
-id: "41881472"
+id: 41881472
 author: Morgan Housel
 title: The Psychology of Money
-isbn: "0857197681"
-pages: "242"
+isbn: 857197681
+pages: 242
 coverImage: "[41881472.jpg](<../../../static_files/41881472.jpg>)"
----
 publish: true
-
 ---
 
 # The Psychology of Money

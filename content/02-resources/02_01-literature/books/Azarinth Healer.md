@@ -1,13 +1,11 @@
 ---
-id: "63260494"
+id: 63260494
 author: Rhaegar
 title: Azarinth Healer
-isbn: ""
-pages: "708"
+isbn:
+pages: 708
 coverImage: "[63260494.jpg](<../../../static_files/63260494.jpg>)"
----
 publish: true
-
 ---
 
 # Azarinth Healer

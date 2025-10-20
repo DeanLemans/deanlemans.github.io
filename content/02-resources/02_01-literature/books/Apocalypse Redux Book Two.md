@@ -1,13 +1,11 @@
 ---
-id: "62907584"
+id: 62907584
 author: Jakob H. Greif
 title: Apocalypse Redux Book Two
-isbn: ""
-pages: "432"
+isbn:
+pages: 432
 coverImage: "[62907584.jpg](<../../../static_files/62907584.jpg>)"
----
 publish: true
-
 ---
 
 # Apocalypse Redux Book Two

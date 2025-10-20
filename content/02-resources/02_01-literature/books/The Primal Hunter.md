@@ -1,13 +1,11 @@
 ---
-id: "60111529"
+id: 60111529
 author: Zogarth
 title: The Primal Hunter
-isbn: ""
-pages: "716"
+isbn:
+pages: 716
 coverImage: "[60111529.jpg](<../../../static_files/60111529.jpg>)"
----
 publish: true
-
 ---
 
 # The Primal Hunter

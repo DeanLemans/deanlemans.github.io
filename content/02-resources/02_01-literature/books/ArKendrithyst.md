@@ -1,13 +1,11 @@
 ---
-id: "51384613"
+id: 51384613
 author: Arcs
 title: ArKendrithyst
-isbn: ""
-pages: undefined
+isbn:
+pages:
 coverImage: "[51384613.jpg](<../../../static_files/51384613.jpg>)"
----
 publish: true
-
 ---
 
 # ArKendrithyst

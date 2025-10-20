@@ -1,13 +1,11 @@
 ---
-id: "217511045"
+id: 217511045
 author: Plum Parrot
 title: Lunar Interlude
-isbn: "1039453856"
-pages: "431"
+isbn: 1039453856
+pages: 431
 coverImage: "[217511045.jpg](<../../../static_files/217511045.jpg>)"
----
 publish: true
-
 ---
 
 # Lunar Interlude
