@@ -1,10 +1,10 @@
 ---
 id: 230267346
-author: "D. Winchester"
-title: "Tenebroum 4"
-isbn: 
+author: D. Winchester
+title: Tenebroum 4
+isbn:
 pages: 336
-coverImage: "[[static_files/230267346.jpg]]"
+coverImage: "[230267346.jpg](<../../../static_files/230267346.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[D. Winchester]]
 
-![[static_files/230267346.jpg]]
+![](<../../../static_files/230267346.jpg>)

@@ -1,10 +1,10 @@
 ---
 id: 61137289
-author: "Nicoli Gonnella"
-title: "Silence"
+author: Nicoli Gonnella
+title: Silence
 isbn: 1637660944
 pages: 482
-coverImage: "[[static_files/61137289.jpg]]"
+coverImage: "[61137289.jpg](<../../../static_files/61137289.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/61137289.jpg]]
+![](<../../../static_files/61137289.jpg>)

@@ -1,10 +1,10 @@
 ---
 id: 201246007
-author: "Xkarnation"
-title: "Reborn as a Demonic Tree 2"
-isbn: 
+author: Xkarnation
+title: Reborn as a Demonic Tree 2
+isbn:
 pages: 690
-coverImage: "[[static_files/201246007.jpg]]"
+coverImage: "[201246007.jpg](<../../../static_files/201246007.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Xkarnation]]
 
-![[static_files/201246007.jpg]]
+![](<../../../static_files/201246007.jpg>)

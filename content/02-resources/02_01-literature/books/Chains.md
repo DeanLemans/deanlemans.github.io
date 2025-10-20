@@ -1,10 +1,10 @@
 ---
 id: 220235312
-author: "Nicoli Gonnella"
-title: "Chains"
+author: Nicoli Gonnella
+title: Chains
 isbn: 1637662858
 pages: 762
-coverImage: "[[static_files/220235312.jpg]]"
+coverImage: "[220235312.jpg](<../../../static_files/220235312.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/220235312.jpg]]
+![](<../../../static_files/220235312.jpg>)

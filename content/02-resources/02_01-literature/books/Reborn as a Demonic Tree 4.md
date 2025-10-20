@@ -1,10 +1,10 @@
 ---
 id: 213387621
-author: "Xkarnation"
-title: "Reborn as a Demonic Tree 4"
-isbn: 
+author: Xkarnation
+title: Reborn as a Demonic Tree 4
+isbn:
 pages: 586
-coverImage: "[[static_files/213387621.jpg]]"
+coverImage: "[213387621.jpg](<../../../static_files/213387621.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Xkarnation]]
 
-![[static_files/213387621.jpg]]
+![](<../../../static_files/213387621.jpg>)

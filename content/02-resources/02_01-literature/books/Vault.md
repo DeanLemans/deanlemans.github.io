@@ -1,10 +1,10 @@
 ---
 id: 146391760
-author: "Nicoli Gonnella"
-title: "Vault"
+author: Nicoli Gonnella
+title: Vault
 isbn: 163766169X
 pages: 768
-coverImage: "[[static_files/146391760.jpg]]"
+coverImage: "[146391760.jpg](<../../../static_files/146391760.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/146391760.jpg]]
+![](<../../../static_files/146391760.jpg>)

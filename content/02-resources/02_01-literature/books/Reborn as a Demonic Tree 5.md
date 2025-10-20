@@ -1,10 +1,10 @@
 ---
 id: 217904790
-author: "Xkarnation"
-title: "Reborn as a Demonic Tree 5"
-isbn: 
+author: Xkarnation
+title: Reborn as a Demonic Tree 5
+isbn:
 pages: 685
-coverImage: "[[static_files/217904790.jpg]]"
+coverImage: "[217904790.jpg](<../../../static_files/217904790.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Xkarnation]]
 
-![[static_files/217904790.jpg]]
+![](<../../../static_files/217904790.jpg>)

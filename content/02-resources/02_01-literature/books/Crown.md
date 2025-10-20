@@ -1,10 +1,10 @@
 ---
 id: 199274407
-author: "Nicoli Gonnella"
-title: "Crown"
+author: Nicoli Gonnella
+title: Crown
 isbn: 163766205X
 pages: 949
-coverImage: "[[static_files/199274407.jpg]]"
+coverImage: "[199274407.jpg](<../../../static_files/199274407.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/199274407.jpg]]
+![](<../../../static_files/199274407.jpg>)

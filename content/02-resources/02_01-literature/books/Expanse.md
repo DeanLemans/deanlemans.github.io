@@ -1,10 +1,10 @@
 ---
 id: 64486947
-author: "Nicoli Gonnella"
-title: "Expanse"
+author: Nicoli Gonnella
+title: Expanse
 isbn: 1637661533
 pages: 1128
-coverImage: "[[static_files/64486947.jpg]]"
+coverImage: "[64486947.jpg](<../../../static_files/64486947.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/64486947.jpg]]
+![](<../../../static_files/64486947.jpg>)

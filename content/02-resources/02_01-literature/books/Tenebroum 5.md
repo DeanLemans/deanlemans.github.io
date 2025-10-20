@@ -1,10 +1,10 @@
 ---
 id: 238203930
-author: "D. Winchester"
-title: "Tenebroum 5"
-isbn: 
+author: D. Winchester
+title: Tenebroum 5
+isbn:
 pages: 323
-coverImage: "[[static_files/238203930.jpg]]"
+coverImage: "[238203930.jpg](<../../../static_files/238203930.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[D. Winchester]]
 
-![[static_files/238203930.jpg]]
+![](<../../../static_files/238203930.jpg>)

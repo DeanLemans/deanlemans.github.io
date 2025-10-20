@@ -1,10 +1,10 @@
 ---
 id: 115714495
-author: "Nicoli Gonnella"
-title: "Abyss"
+author: Nicoli Gonnella
+title: Abyss
 isbn: 1637661673
 pages: 774
-coverImage: "[[static_files/115714495.jpg]]"
+coverImage: "[115714495.jpg](<../../../static_files/115714495.jpg>)"
 publish: true
 ---
 
@@ -12,4 +12,4 @@ publish: true
 
 by: [[Nicoli Gonnella]]
 
-![[static_files/115714495.jpg]]
+![](<../../../static_files/115714495.jpg>)
