@@ -13,3 +13,7 @@ publish: true
 by: [[spaizzzer]]
 
 ![](<../../../static_files/123907368.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

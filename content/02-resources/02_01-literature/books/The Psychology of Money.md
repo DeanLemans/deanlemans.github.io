@@ -13,3 +13,7 @@ publish: true
 by: [[Morgan Housel]]
 
 ![](<../../../static_files/41881472.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

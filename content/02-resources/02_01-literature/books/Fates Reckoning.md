@@ -13,3 +13,7 @@ publish: true
 by: [[Plum Parrot]]
 
 ![](<../../../static_files/222673268.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

@@ -13,3 +13,7 @@ publish: true
 by: [[Zogarth]]
 
 ![](<../../../static_files/60604264.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

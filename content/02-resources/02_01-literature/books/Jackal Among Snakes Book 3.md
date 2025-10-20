@@ -13,3 +13,7 @@ publish: true
 by: [[Nemorosus]]
 
 ![](<../../../static_files/201357660.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

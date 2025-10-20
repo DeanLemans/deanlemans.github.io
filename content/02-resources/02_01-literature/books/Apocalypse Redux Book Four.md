@@ -13,3 +13,7 @@ publish: true
 by: [[Jakob H. Greif]]
 
 ![](<../../../static_files/146745564.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

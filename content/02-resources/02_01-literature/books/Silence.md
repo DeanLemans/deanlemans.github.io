@@ -13,3 +13,7 @@ publish: true
 by: [[Nicoli Gonnella]]
 
 ![](<../../../static_files/61137289.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

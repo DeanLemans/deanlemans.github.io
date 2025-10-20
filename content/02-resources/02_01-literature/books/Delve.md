@@ -13,3 +13,7 @@ publish: true
 by: [[SenescentSoul]]
 
 ![](<../../../static_files/52976967.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)

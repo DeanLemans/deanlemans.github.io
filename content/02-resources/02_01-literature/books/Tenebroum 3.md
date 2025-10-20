@@ -13,3 +13,7 @@ publish: true
 by: [[D. Winchester]]
 
 ![](<../../../static_files/223844784.jpg>)
+
+---
+
+[book-list](<../../../03-digital_garden/04_01-site_maps/book-list.md>)
