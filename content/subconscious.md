@@ -12,13 +12,51 @@ enableToc: false
 > Reason: not professional  
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+# 2025-10-21
+
+There is a being and a hole  
+*denial*  
+There is a crow stuck  
+*reckoning*
+There is a lie and the self
+*living*
+There is a face, and a mask.
+*antipathy*
+There is a denial, and yourself
+*something*
+A sneer and the face
+*spite*
+A void in your chest
+*something lost*
+The self, fratured for survival
+*abstraction*
+There are words in the air
+*a splinter, now becomming*
+A multitude, stuck in 1
+*agony*
+A pale black spear, struck in stone
+*a greatness, abandoned*
+There is a crown, and a parasite
+*ego*
+
+There was a boy, stuck and betrayed, a spear inherited, spite to the world and ruled by ego, fractured but still being. Splinters growing whole yet different, a multitude pulling a self apart. Knowledge, stuck to a blinded crow, cynic knowledge.
+There was a boy, wearing a hole as a face, because a mask could not cover it.
+
+There is a agony, chained up tight in the coldest pit of self. Denial, i see no hole.
+
+There is a howl, a statement into the void, a plea of agony, but not of help, because i can do most, if not all. Myself.
+
+A hut and the hermit, a finding
+
+There is a derision
+
 # 2025-10-09
 
 Growth or developemtn, what is it? What does it mean, what do I mean? Should i mean anything? Do i want to? Do i follow my ego? My ambition? My spite?  
 I am hidden, from myself and from friends, but cracks will form by the relentless tide of time.  
 Hidden, Hidden, Hidden, Hidden, Hidden, Hidden, and unknow.  
 And so you torture yourself, by denying the help of others because of spite and pride.  
-THEY DONT DESERVE ME. THEY DONT DESERVE ME. THEY DONT DESERVE ME. THEY DONT DESERVE ME.  
+THEY DONT DESERVE ME. THEY DONT DESERVE ME. (there is a spite, hanging in the air)  
 Even at the cost/growth/potential of yourself?  
 Perhaps. Does it matter? Change will come for all.  
 It will, doesnt mean i cant change it.
