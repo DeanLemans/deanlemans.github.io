@@ -1,11 +1,14 @@
 ---
 publish: true
-created: 2025-09-25T20:38:23.203+01:00
-modified: 2025-09-26T11:18:47.241+01:00
-published: 2025-09-26T11:18:47.241+01:00
+created: 2025-09-25
+modified: 2025-10-21
 aliases:
   - my-site
 ---
+
+# Dean Lemans – Freelance Gardener & Indie Software Developer
+
+![Dean Lemans](<./static_files/personal/deanpfp.jpg>)
 
 > [!tip] How to update site? (TEMP)  
 > **Windows:**
@@ -17,40 +20,47 @@ aliases:
 
 > [!info] Checkout my **[Gardening CV](<./CV-Gardening.md>)**
 
-# Hello! My name is Dean
+## About Me
 
-- I'm a freelance Gardener.
-	- I'm mostly focused on maintenance.
-- I'm indie software developer
-	- I mainly use the Godot game engine.
+- **Gardener:** Focused on maintenance and practical landscaping.  
+- **Software Developer:** Indie dev using the [Godot](https://godotengine.org/) and creating Static Sites.  
+- Passionate about games, gardening, and open source ([OSD](https://opensource.org/osd)).
 
-![350|200](<./static_files/personal/deanpfp.jpg>)
+## Check Out My CVs
 
-## I like Making Games, Gardening And, [Open Source](https://opensource.org/osd)
+> [!info] **Software CV** – Detailed technical and development experience.  
+> [View Software CV](<./CV-Software.md>)
 
-- The software I use:
-	- OS: [openSUSE](https://www.opensuse.org/) and [GrepheneOS](https://grapheneos.org/).
-	- Game Engine: [Godot](https://godotengine.org/).
-	- IDE: [Zed](https://zed.dev/).
+> [!info] **Gardening CV** – Practical hands-on gardening projects and experience.  
+> [View Gardening CV](<./CV-Gardening.md>)
 
-> [!info] My cool lists
-> - See my [Book Library](<./03-digital_garden/04_01-site_maps/book-list.md>) [index](<./02-resources/02_01-literature/books/index.md>)
-> - My [Game Library](<./03-digital_garden/04_01-site_maps/game-list.md>)
-> - [cool software](https://github.com/stars/DeanLemans/lists/helpfull) unfinished, to to convert to page in this site
-> - and [[Finished-Projects]] (broken)
-> - [note/site rules](<./notes rules.md>)
+## Tools & Technologies
 
-> [!info] Hobbies
-> 
-> - [Gaming](<./03-digital_garden/04_01-site_maps/game-list.md>)
-> - Gardening
-> - Mangas
-> - [Novels](<./03-digital_garden/04_01-site_maps/book-list.md>)
+- **Operating Systems:** [openSUSE](https://www.opensuse.org/), [GrapheneOS](https://grapheneos.org/)  
+- **Game Engine:** [Godot](https://godotengine.org/)  
+- **IDE:** [Zed](https://zed.dev/)  
+- **Version Control & Workflow:** GitHub - Codeberg and Git - JJ  
 
-## Repositories Plans
+## Interests & Hobbies
 
-[GitHub](https://github.com) for publicity, [Codeberg](https://codeberg.org) for my real work, and [Radicle](https://radicle.xyz) for backups.  
-I am going to mirror between all of these eventually(when I have time)
+- Gaming and Game Development  
+- Gardening and Outdoor Work  
+- Manga and Novels  
+- Open Source Contributions  
 
-> [!info] Contact
+> [!info] Favorite Collections  
+> - [Book Library](<./03-digital_garden/04_01-site_maps/book-list.md>) – literature and reference  
+> - [Game Library](<./03-digital_garden/04_01-site_maps/game-list.md>)  
+> - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
+> - Finished-Projects *(under construction)*  
+> - [Site Notes & Rules](<./notes rules.md>)  
+
+## Repositories Strategy
+
+- **GitHub:** Public work and portfolio.  
+- **Codeberg:** real work.  
+- **Radicle:** Decentralized backup.  
+- Mirror strategy ensures all code is available and versioned across platforms.
+
+> [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**

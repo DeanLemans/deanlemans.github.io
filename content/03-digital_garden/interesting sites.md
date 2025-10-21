@@ -1,4 +1,8 @@
-#todo  
+---
+publish: true
+---
+
+My bookmarks, need to filter it to: interesting sites
 
 ---
 
@@ -88,8 +92,6 @@
 * [Edward Snowden](https://freedom.press/people/edward-snowden/)
 * [The Nihilist Void | Nothing matters.](https://marmysz.wordpress.com/)
 * [The Idler's Manifesto: And Other Egoist Writings (English Edition)](https://www.amazon.de/-/en/dp/B0DFJB7P79?crid=1CRWGU64KUTXK&dib=eyJ2IjoiMSJ9.lzC33e8gHqGEeCKCAhbTw2aR6WlkoGY2CbuA-ZDb1p1Lnj9I5wgCAdGEvwbys1GYTyXshdQtu2JvME3EwzbjJZnjj1IZ_qbhStIQm0OaOlTQPItoAXVkVEPWWCjPEufBvMymrkabUlSXtrIwD1ZIv3ogqrLQGZ-Y16tM3pzmf3Vzoj2W5BkQTL00EyopsBEKt-XQc9u9E2AOMsFxFB6Mtfi9h-ZGY9uZjlN-nXBlvdo.ZewiMlrK-Pr1UgE2eOT0lgW2TXQv09ur7TuRuEz-3Uk&dib_tag=se&keywords=the+idlers+manifesto&s=digital-text&sprefix=the+idlers+manifesto%2Cdigital-text%2C79&sr=1-1)
-* [AnarchyValues](https://anarchyvalues.github.io/index.html)
-* [AnarchyValues Results](https://anarchyvalues.github.io/results.html?e=75.0&d=22.5&g=72.5&s=51.7)
 * [retro swap](https://retoswap.com/)
 * [Open Home Foundation](https://www.openhomefoundation.org/)
 * [Progress Update and Roadmap - Accrescent Blog](https://blog.accrescent.app/posts/progress-update-and-roadmap/)

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Resources
+title: 02 Resources
 tags:
 ---
 

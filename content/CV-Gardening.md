@@ -10,9 +10,13 @@ modified: 2025-10-21
 > [!info]- Click here for PDF  
 > ***[PDF Version](<./static_files/personal/CV-DeanLemans3>)***  
 
+---
+
 > [!info] Introduction
 > - Hello, I am a freelance gardener.
 > - I am currently focused on maintenance and cleanup
+
+---
 
 > [!info] Experience
 > - Intermediate experience in [Godot](https://godotengine.org/).
@@ -31,3 +35,8 @@ modified: 2025-10-21
 > [!info]Languages
 > - Dutch *(Native)*
 > - English *(Advanced)*
+
+--- 
+
+> [!info] Contact me!
+> - See my **[Contact Links](https://linksta.cc/@Dean)**

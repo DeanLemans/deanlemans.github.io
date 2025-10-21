@@ -30,15 +30,11 @@ modified: 2025-10-21
 > - Intermediate experience in [Zed](https://zed.dev/).  
 > - Intermediate experience in CI/CD (GitHub Actions).  
 
----
-
 > [!info] Work Experience  
 > - Shelf-Stocker *(2 years)*  
 > - Indie Software Developer *(current)*  
 >   - Building automation tools and static sites.  
 >   - Maintaining automated deployment pipelines for Quartz projects.  
-
----
 
 > [!info] Educations  
 > - [Udens College](https://www.udenscollege.nl/)  
@@ -51,10 +47,11 @@ modified: 2025-10-21
 > - [GitHub Repositories](https://github.com/DeanLemans?tab=repositories)  
 > - Quartz-based portfolio (this site): Built with Quartz and deployed via GitHub Actions, ensuring automated CI/CD publishing to GitHub Pages."  
 
----
-
 > [!info] Languages  
 > - Dutch *(Native)*  
 > - English *(Advanced)*  
 
 ---
+
+> [!info] Contact me!
+> - See my **[Contact Links](https://linksta.cc/@Dean)**
