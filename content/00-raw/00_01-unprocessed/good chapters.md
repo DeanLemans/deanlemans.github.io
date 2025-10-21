@@ -14,3 +14,4 @@ A list of chapters i really like, i lost a lot of them on my old phone
 * [Lunar Phoenix - Lunar Phoenix - Fimfiction](https://www.fimfiction.net/story/582100/1/lunar-phoenix/lunar-phoenix)
 * [34-20 The Guard-Captain (I) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/2222675/34-20-the-guard-captain-i)
 * [DRAWBOX](https://drawbox.nekoweb.org/)
+Return Of The Shattered Constellation chapter 92. Good chap

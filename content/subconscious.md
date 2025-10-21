@@ -14,32 +14,44 @@ enableToc: false
 
 # 2025-10-21
 
+me, so spitefull, and of joy, silence and restiction. but what do i see in the mirror? its me
+
+Seek that which you hate, you will often find a (clouded) mirror, you will just see the negative things of yourself you tried to hide. YOU ARE DENIAL, YOU DONT EXIST, THIS DOESNT EXIST, WHATS THAT IN FRONT OF YOU?!?! WEL I DONT FUCKING REMEMBER
+
+And so, your chains decided to help you, couldt take it.
+
+A howl, not because of you, but as an expression. Maby of lament, of hate, of joy
+
+"I AM BETTER THEN MY EGO, what a hypocrite, couldt be me (so me)"
+
+---
+
 There is a being and a hole  
 *denial*  
 There is a crow stuck  
-*reckoning*
-There is a lie and the self
-*living*
-There is a face, and a mask.
-*antipathy*
-There is a denial, and yourself
-*something*
-A sneer and the face
-*spite*
-A void in your chest
-*something lost*
-The self, fratured for survival
-*abstraction*
-There are words in the air
-*a splinter, now becomming*
-A multitude, stuck in 1
-*agony*
-A pale black spear, struck in stone
-*a greatness, abandoned*
-There is a crown, and a parasite
+*reckoning*  
+There is a lie and the self  
+*living*  
+There is a face, and a mask.  
+*antipathy*  
+There is a denial, and yourself  
+*something*  
+A sneer and the face  
+*spite*  
+A void in your chest  
+*something lost*  
+The self, fratured for survival  
+*abstraction*  
+There are words in the air  
+*a splinter, now becoming*  
+A multitude, stuck in 1  
+*agony*  
+A pale black spear, struck in stone  
+*a greatness, abandoned*  
+There is a crown, and a parasite  
 *ego*
 
-There was a boy, stuck and betrayed, a spear inherited, spite to the world and ruled by ego, fractured but still being. Splinters growing whole yet different, a multitude pulling a self apart. Knowledge, stuck to a blinded crow, cynic knowledge.
+There was a boy, stuck and betrayed, a spear inherited, spite to the world and ruled by ego, fractured but still being. Splinters growing whole yet different, a multitude pulling a self apart. Knowledge, stuck to a blinded crow, cynic knowledge.  
 There was a boy, wearing a hole as a face, because a mask could not cover it.
 
 There is a agony, chained up tight in the coldest pit of self. Denial, i see no hole.
@@ -48,7 +60,9 @@ There is a howl, a statement into the void, a plea of agony, but not of help, be
 
 A hut and the hermit, a finding
 
-There is a derision
+There is a derision, towards you. And a reflectoion
+
+---
 
 # 2025-10-09
 
@@ -77,6 +91,364 @@ I was a tree, i was a dryad, i was somebody with thin burning plants (grass, lon
 
 Create daily small goals to achieve  
 When you face have bad choices, you make your own option
+
+---
+
+# 2024 Stuff I Did not Put a Date on
+
+***My road of life***  
+The road my life.  
+The resources my philosophy  
+Some parts are more smooth then others  
+Some more rough then others  
+I once walked naked  
+I once had no guide, and i then i discovered philosophy  
+And so now philosophy as my resourse  
+It became easier, more bearible  
+Still, there was something missing  
+I realilsed i was alone (i at least it felt that way), and so i went seeking  
+I realised that there were others walking their own path. (my family)  
+Some paths were closer then others  
+Some realise that there were others, some did/do not  
+The ones that see, try too help (in their own way) and understand  
+It doesn't always works of course  
+But the mere fact that they try means a whole lot to me.  
+And while i dont always express it.  
+I love them a lot. (no matter if they see or not)  
+***i wrote this wholy myself. I am proud of myself, that is my gift too myself (being proud of it)***
+
+Like a crevace has been mended.  
+A broken path fixed even more.  
+
+Improved sorting.  
+Created a laptop 1 file. (need do do this for my PC also.)  
+Now a separate special file for each of my devices.  
+And a single unified file folder for unified stuff. (the long term folder)
+
+*great fears of mine:*  
+Time traveling and erasing myself, or something dear too me.  
+The infinite march of time that will eventually consume us all.  
+My dreams and ambition staring at me for not actualising them on my deadbed.  
+Buried myself under one too many layers of irony so that I don't even know who I am anymore.
+
+I just synced everything form my notetaking separate notetaking app form my laptop and phone. (still need to structure it)  
+From standdard note app and xiami note app. (need too check on different accounts too see if i missed any old notes)  
+Everything is now synced and in obsidian. (but not yet structured/organised)
+
+Too improve my thought processes.  
+Too refine and improve  
+Too adapt  
+Too overcome adversity  
+Too evolve
+
+and so now i am tired 02:50  
+I want too sleep.  
+Read the final manga  
+And rest myself  
+*from me too myself*
+
+Identity?:  
+I am a reader.  
+I am a badminton player.  
+I meditation practiser.  
+I am a programmer.  
+I am a healthy person.  
+I am a thinker.  
+I am not an addict.  
+I am someone that reflects on my actions.  
+I have music in my soul
+
+The meaning of life is whatever you make of it, you make your own meaning
+
+Truth in lies, lies in truth.
+
+Metaphors:  
+The dolls around my bed represent my inner child and my the dreamer, its also a statement that I will never abandon them for they are in the center of my identity and are one of my pillars that support my identity. (If they get destroyed for one reason or another I will try to recover them and/or buy new ones, this is too prevent my identity from collapsing)
+
+You temporary rise the level of your motivation and you fall to the level of your  
+Established system. (You foundation/your anchor)  
+Repeat this process and you will improve indefinitely.
+
+Habit breaking:  
+Too much on phone; put away my phone, don't have my phone with me and say that I will not touch it with willpower, for that is just an excuse of fallback.
+
+Fears:  
+The infinite march of time that will eventually consume us all.  
+My dreams and ambition staring at me at my deadbed for not actualising them.  
+Buried myself under one too many layers of irony so that I don't even know who I am anymore.
+
+When you face have bad choices, you make your own option  
+Weekly notes for phone for less clutter n shit, this is 1 weel of weekly notes  
+**start working on you homework earlier**  
+You are not working on your homework in the vacation.  
+Vacation is rest  
+Im willing too get bad grades for my rest.  
+Researh "buy it for life" stuff  
+
+**Be nice, be forgiving, but dont be a pushover and retaliate if needed.**  
+Important. Solution too paradox is external validation and proving too myself that i have improved  
+***. On how too act, compartalazation or unity/singularity. I choose a mixture of both, work out the details #important #placeholder .***
+
+My indescripable scibbles have now meaning/intent behind them. This is for focus and for not falling into despair again. *What changed. Find the meaning*
+
+Accept the paradox, dont get too stuck up into it, but if leftover time, try too acknowledge it, then understand, and then solve it.
+
+Try too use the drive for games and apply it too other things, or at least use it as the carrot (reward). Find out what i could use as the stick
+
+Meditations, went too deep too fast (tried to be alone with my own thought without training wheels), should have kept focuaing on breating, focusing on breating now feels 'fake' new training wheels are **music**.
+
+Sleep earlier/better. Keep minimalistic goal. ***too fall in the with the process of sleeping, so that i never want too skip on it again*
+
+For my adiction. I will abstain for 3 days in a week. **need meditation for help with the great game of improvement of I**
+
+and so now the first eggs is hatched, a hope for freedom, too fight against cencorship, with cool hats and an eyepatch. **I shall sail the high seas.** (music. The first. Lonliness - epic mountain. 26 december 04:10)
+
+Too further this vault is too develop myself, too sort this vault is too structure myself, too sync this vault is synchronise all my thaughts into one. For focus.
+
+The natural birth of the planer/adult was denied because of corona, i never learned. The child/dreamer (separate of same?) is in charge, it is only focusing on short term things. (he dreamer us not inherently bad.) this second brain is my attempt too artificialy birth that which was taken from me. (metaphor of structure/state of current mind/thoughts.)
+
+A case for hope -melodysheep (use this sentace, use meaning behind it.)
+
+Too see levi as an adversity too overcome. A goal too be worked towards, his accomplishments.
+
+I dont think im that smart, i just stand on the shoulders of titans. But i dont shame myself for it, I dont have too invent everything myself. I pride myself in the fact that i can find the information that easily
+
+With the refinement of music ongong, i am turning yet more complete.
+
+New rule about i discovered. Do not make you hobby your job. But also dont make you job all too shitty, do something you would almost do as an hobby. **important** 
+
+Do not fall into the trap of 'fresh start'. Just do it right now. But if possible use to advantage
+
+**small consistent changes, change your system**
+
+i critisize people in my mind of how they can improven. When i dont even havr those things myself. **Change.** #important 
+
+Rule discoverd. **do not invole myself in politics.**
+
+***too always improve myself***
+
+I have improved myself by noting my thaught down in here.  
+**do not pick apart my every move and decision. It will only bring me stress**
+
+ideal. Tit for tat. i.
+
+'come now take the step.  
+Dont look back, therse is nothing left  
+Beyond the veil  
+Youve tried an yet you failed  
+Too save her,  
+Claws upon your heart, rip and tear your soul apart  
+Youve lost the game,  
+Its always the same.  
+When you stand before a god.  
+And even still i resist  
+The end of time and space  
+And so i cry i defiance, 'i will not go quite into the long night'.'
+
+**i am the guy that im waiting for to saveme** *no one else will*
+
+I can deal with life without needing a external boost
+
+I have full control.  
+I do not let peer presure influence me
+
+We are standing on the shoulders of giants, why not take advantage of it?  
+Overcoming thyself
+
+Are doing it deliberate? Or just for the pleasure. If your doing it just for the pleasure, stop doing it.
+
+Kindle the flame. The soul  
+Improve the vessel. The body  
+Upgrade the control. The mind
+
+Do not distract myself with music, or any other distraction for that matter.
+
+Do not limit myself too 1 perspective. Always consider/relfect through multiple lenses
+
+Too (try) only breathing through the nose.
+
+Not too stress too much about catagorising everything. (rule. Absolute rule. Principle. Etc.) it will only bring me stress. Too only write ideas down.
+
+Do not follow only the opinion of many. Too go against the stream. Resist the rule, but try too hide it. Too be part of the rebelion/corpo, but too hide that fact.  
+There will come a time i shall be open about it. But that time is not now.  
+Too scream against fate, too deny it with all my might
+
+Too not subscribe too the herd mentality
+
+[something great and terible is growing within you]
+
+i want too earn enough mony with my job, so that i can live and do whatever i want. <https://digdeeper.neocities.org/articles/school#point>
+
+Too dig deeper  
+Too seek the truth  
+Too uncover the conspiracies that cloud the world.
+
+And so a change in mind (set) is needed. I consider learning programing fun, i will not see it as something i have too do, but something i can do.
+
+Too not subscribe too any stigma. (adhd, bipolar, protagonist.)  
+The only stige i shoul subscribe too is my own, and my own is my name  
+My stigma is the dean of dean's
+
+Too choose my own path, but too take inspiration from others
+
+The current school system is actually a competition, and the winner is actually the liar, the abuser, the trickster.  
+The good performer wont win.
+
+I can bypass the school system by being self thought
+
+Too battle alzheimers.
+1. Sleep. Too clean the mind.
+2. Diet. Too eat healthy.
+3. Exercise. Too train the body. (move)
+4. Educe stress. Too calm the mind (menage)
+5. Too learn. Too create the 'buffer'
+
+South scrimshaw. Game
+
+My name, my name the only truth that ia only mine in truth. The meaning behind it uniquely my own. The one thing that is absolute of me.
+
+The mix of female and male ideals. To be both yet neither. To be something new (OVERRULED BY PRATICALITY)
+
+Reforged from near ruin  
+I am the anvil and the hammer.  
+I shall reforge myself.
+
+For future inheritor. Let them skip school. Some is necicary
+
+I detest school, not learning.  
+Do not your dislike of school hinder your advances of skill.  
+That does mean i shall never give my 100 for school stuff  
+Exeption: things that improve my skills in useful things. (programming, game making. Etc)
+
+Is the tit for tat method actually that good? Is it just a trick from the elites too try too get us too behave certain ways?
+
+Good habits balace out bad habits.
+
+I can do things before and after work.
+
+Love thyself.
+
+In motion but not in action.  
+**action is needed**
+
+Funny reacion: i am Dean/ik ben dean.  
+Reason: i am batman satire
+
+Too stop nail biting.  
+My teeth are getting damaged.  
+Shit.  
+It is les then before.  
+I decide too almost stop my nail biting. Right here and now.
+
+Too stop the tick of suddenly breathing through mouth.  
+Only nose.
+
+The "wtf am i doing with my life" feeling just hit.  
+It is what it is, is not helping.  
+Overcoming adversity mantra/affirmation. Effect is lessening.  
+I need action
+
+Just sync all my yt subscriptions.  
+Template for yt channel to sub too is: {name channel}. Yt
+
+deep question: do i love myself?. If not: figure out why and how too. #important 
+
+Stop the tick of suddenly breathing through your mouth.
+
+Download music from FNF Mario madness.
+
+I need more of clarity. Too improve myself is too unspecific.
+
+Frameshift. Too change perspective  
+Perspective. Too frameshift.  
+Too change your frame of reference  
+Too see through a different lens.  
+Too understand more.  
+Too gather insight  
+Improve the materials.  
+Too create a fallback. The foundation.  
+The path.  
+***connection of metaphors***  
+The broken path is being walked upon.  
+The path is being mended by words and thoughs.  
+Philosophy are the clothes.  
+Too make the tredge easier
+
+Put al the research things in journal
+
+Constructive nonconformity rather than rebellion without reason.  
+To be an example of what could be.
+
+Too use analogs and metaphors for more complex thinking
+
+Too go against the stream.  
+Too go against the rules. And having a good reason too defy them  
+No thoughlessly being a dick by rejecting norms/rules
+
+Me is currently a mirror that lets the minimal through.  
+Need too express myself more.  
+I dont express emotions for shit.  
+Expression is almost always the same.  
+While i am deeply emotional  
+I am not showing that compasion of mine outwardly  
+The only ones i do that too is my family.  
+And even that is minimally.  
+area of improvement #important  
+So while i reflect a lot, i don't let people see that  
+At least not immediately.
+
+My body/mind are (both)/is my temple. The palid sanctuary. It is damaged and must be fixed. And filled.  
+The order of things do not matter in this paticuar thing  
+Foundations are sloppy.  
+The materials can be improved upon.  
+A pillar to make all not fall apart from 1 mistake  
+***connection of metaphors***  
+I need something that makes me fulfilled and happy.  
+I still feel empty.  
+But still better then i was before.  
+My thought/words fill the crevases of my mind.  
+The cement too fix.  
+But it is only 1 thing. I need another material too structure mysel/improve the foundation.
+
+I am in motion but not in action.  
+One of my bigger problems, to be honest.
+
+Still procrastinating with writhing this down instead of doing homework.  
+This = writhing my thoughts down.
+
+Slacking in my meditation again. Need too do more. For letting out steam  
+Too express myself in my own mind
+
+Too adapt and overcome. Too change and be flexible.
+
+Too accept things i cannot change. (or too much effort to do so. There are of coarce exceptions)  
+Example's: external events, other people's behaviors, aspects of your past.  
+too accept these things as something i cannot change #important 
+
+Hugging face. Research
+
+Too not subscribe too stigmas, but too gather insight from them.  
+Too learn and grow from them.
+
+I have made a lot of improvements over these last few months.  
+I wrote most of it in 5 months  
+Write the improvements down as a reward and for more clarity. #important
+
+i/me/you discovery. Too be less lazy. Extremely #important 
+
+Too run an an uncencored ai on my computer. Dolphin mixtral
+
+Providing problems, in and of itself is not a bad thing.  
+An assumption is that providing/proofing that a problem exist but not giving an immediate solution is a bad thing.  
+That is not the case.  
+just saying that a problem exist can go a long way too solving said problem. #important
+
+Everyones solutiom is different. Realization
+
+Too create my own naritive. Too let no one else decide my story.  
+But too take inspiration/insight from other peoples story (marcus aurilious) is good  
+"i am my own god, i choose who i want to be."  
+Too shape my identity
 
 ---
 
