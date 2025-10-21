@@ -5,12 +5,11 @@ modified: 2025-09-25T20:38:23.173+01:00
 published: 2025-09-29T03:32:24.047+01:00
 ---
 
-> [!danger]- WIP  
+> [!danger] WIP  
 > Currently reworking this
 
-> [!info]- Click here for my CV  
-> ***[PDF Version](<./static_files/personal/CV-DeanLemans.pdf>)***  
-> ![100x00](<./static_files/personal/CV-DeanLemans.pdf>)
+> [!info]- Click here for PDF  
+> ***[PDF Version](<./static_files/personal/CV-DeanLemans3>)***  
 
 > [!info] Introduction
 > - Hello, I am a freelance gardener.
@@ -22,7 +21,7 @@ published: 2025-09-29T03:32:24.047+01:00
 > - Software Development at [SintLucas](https://www.sintlucas.nl/opleiding/software-development)
 > - Freelance Gardener(1 years) *current*
 
-> [!info]Education
+> [!info] Educations
 > - [Udens College](https://www.udenscollege.nl/) VMBO
 > - Software Development at [SintLucas](https://www.sintlucas.nl/)
 > - Hovenier at [Yuverta](https://www.yuverta.nl/mbo/richtingen/tuin-en-landschap/hovenier/)
