@@ -14,15 +14,13 @@ enableToc: false
 
 # 2025-10-23
 
-- Too fight against [Fate](<../../short-form/Fate.md>).
-- Too defy fate.
-- Too deny my destiny.
+These words here, are to write myself down, a reflection, but mere words do not explain and cannot contain the whole of me.
+- I am not these words, i am not even my name.
+- Then who am i? Myself
 
-The individual is the biggest minority.
+And so i burned myself from within, to ashes. And i will be again, not from ashes, but from self.
 
-And so i burned myself from within, to ashes. And so i will be again, not from ashes, but from self.
-
-Hidden behind the mask of pragmatism, lies the dreamer of the improbable. And ego binds it.
+Hidden behind the mask of pragmatism, lies the dreamer of the improbable. And ego compels the mask it.
 
 # 2025-10-21
 

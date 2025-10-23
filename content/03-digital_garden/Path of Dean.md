@@ -2,11 +2,27 @@
 publish: true
 ---
 
-### Preface Plans
+### Preface
 
-All of these plans can be mixed, matched, and sorted as needed; they're not hard rules/absolutes, since nothing survives the real world without getting intact. So, just pick them apart, dissect them and grab the useful bits for me right now.  
+All of these things can be mixed, matched, and sorted as needed; they're not hard rules/absolutes, since nothing survives the real world without getting intact. So, just pick them apart, dissect them and grab the useful bits for me right now.  
 Reality's always shifting, so these are just 'frameworks' I can tear into and fuse together when i want.  
 **Create multiple fallbacks/backups in case of fuckups.**
+
+---
+
+# Current Plan
+
+**Work in the green sector and figure out what i like to to.**  
+Sting cutter = no  
+Tree caretaking = ?  
+Plant nursery  
+	Big plants = ?  
+	Small plant = ?  
+Bricklaying  
+Landscape architecture  
+Mushrooms  
+Hydrophonics  
+Automation?
 
 ---
 

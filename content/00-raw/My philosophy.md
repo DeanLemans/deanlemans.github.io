@@ -12,3 +12,5 @@ I want to create, I want to experience more, in order to be more.
 I want power, in everyway in which that expresses itself.  
 I want power, such that things unfold in my favor.  
 I want to be more then I am now, and I will do things such that i will be more.
+
+A multitude (trapped) in one

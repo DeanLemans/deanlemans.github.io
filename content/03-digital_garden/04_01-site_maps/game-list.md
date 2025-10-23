@@ -158,6 +158,8 @@ Add my old playstation, and wii games to this list
 - [The Thousand-Year Door](https://www.mariowiki.com/Paper_Mario:_The_Thousand-Year_Door)
 - [Stellar Blade](https://www.stellar-blade.com)
 - [Crow Country](https://crowcountrygame.com)
+- Rayman 4
+- Epic Mickey 3
 - [Post Void](https://store.steampowered.com/app/1285670/Post_Void)
 - [CRYPT WORLDS](https://www.cicadamarionette.com/Games/CryptWorlds/Main.html)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian)

@@ -1,30 +1,30 @@
-- 2025-10-23 20:50 · [Path of Dean](<./00-raw/Path of Dean.md>)
-- 2025-10-23 20:49 · [My philosophy](<./00-raw/My philosophy.md>)
-- 2025-10-23 20:42 · [subconscious](<./subconscious.md>)
-- 2025-10-23 20:41 · [old](<./00-raw/old.md>)
-- 2025-10-23 20:40 · [TODO](<./00-raw/TODO.md>)
-- 2025-10-23 20:40 · [Quotes](<./00-raw/Quotes.md>)
-- 2025-10-23 20:39 · [index](<./index.md>)
-- 2025-10-23 20:38 · [index](<./index.md>)
-- 2025-10-23 20:25 · [Rymes, Poems, and Rough pieces](<./02-resources/02_01-literature/Rymes, Poems, and Rough pieces.md>)
-- 2025-10-23 20:04 · [Belief](<./00-raw/00_01-small/Belief.md>)
-- 2025-10-21 21:29 · [good chapters](<./00-raw/good chapters.md>)
-- 2025-10-21 21:06 · [plant knowledge](<./School/plant knowledge.md>)
-- 2025-10-21 21:05 · [interesting sites](<./03-digital_garden/interesting sites.md>)
-- 2025-10-21 21:04 · [index](<./index.md>)
-- 2025-10-21 21:04 · [index](<./index.md>)
-- 2025-10-21 21:04 · [index](<./index.md>)
-- 2025-10-21 21:03 · [index](<./index.md>)
-- 2025-10-21 21:03 · [index](<./index.md>)
-- 2025-10-21 21:02 · [CV-Software](<./CV-Software.md>)
-- 2025-10-21 21:02 · [CV-Gardening](<./CV-Gardening.md>)
-- 2025-10-21 19:31 · [home](<./home.md>)
-- 2025-10-20 21:00 · [Azarinth Healer](<./02-resources/02_01-literature/books/Azarinth Healer.md>)
-- 2025-10-20 21:00 · [Vigor Mortis](<./02-resources/02_01-literature/books/Vigor Mortis.md>)
-- 2025-10-20 21:00 · [Speedrunning the Multiverse](<./02-resources/02_01-literature/books/Speedrunning the Multiverse.md>)
-- 2025-10-20 21:00 · [Speedrunning the Multiverse 2](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 2.md>)
-- 2025-10-20 21:00 · [Speedrunning the Multiverse 3](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 3.md>)
-- 2025-10-20 21:00 · [Speedrunning the Multiverse 4](<./02-resources/02_01-literature/books/Speedrunning the Multiverse 4.md>)
-- 2025-10-20 21:00 · [Kitty Cat Kill Sat](<./02-resources/02_01-literature/books/Kitty Cat Kill Sat.md>)
-- 2025-10-20 21:00 · [ArKendrithyst](<./02-resources/02_01-literature/books/ArKendrithyst.md>)
-- 2025-10-20 21:00 · [Tenebroum](<./02-resources/02_01-literature/books/Tenebroum.md>)
+- 2025-10-23 22:43 · [[index]]
+- 2025-10-23 22:43 · [[book-list]]
+- 2025-10-23 22:41 · [[index]]
+- 2025-10-23 22:40 · [[Path of Dean]]
+- 2025-10-23 22:40 · [[good chapters]]
+- 2025-10-23 22:39 · [[TODO]]
+- 2025-10-23 22:36 · [[game-list]]
+- 2025-10-23 22:30 · [[My philosophy]]
+- 2025-10-23 22:26 · [[Projects]]
+- 2025-10-23 22:16 · [[subconscious]]
+- 2025-10-23 20:41 · [[old]]
+- 2025-10-23 20:40 · [[Quotes]]
+- 2025-10-23 20:38 · [[index]]
+- 2025-10-23 20:25 · [[Rymes, Poems, and Rough pieces]]
+- 2025-10-23 20:04 · [[Belief]]
+- 2025-10-21 21:06 · [[plant knowledge]]
+- 2025-10-21 21:05 · [[interesting sites]]
+- 2025-10-21 21:04 · [[index]]
+- 2025-10-21 21:04 · [[index]]
+- 2025-10-21 21:04 · [[index]]
+- 2025-10-21 21:03 · [[index]]
+- 2025-10-21 21:03 · [[index]]
+- 2025-10-21 21:02 · [[CV-Software]]
+- 2025-10-21 21:02 · [[CV-Gardening]]
+- 2025-10-21 19:31 · [[home]]
+- 2025-10-20 21:00 · [[Azarinth Healer]]
+- 2025-10-20 21:00 · [[Vigor Mortis]]
+- 2025-10-20 21:00 · [[Speedrunning the Multiverse]]
+- 2025-10-20 21:00 · [[Speedrunning the Multiverse 2]]
+- 2025-10-20 21:00 · [[Speedrunning the Multiverse 3]]
