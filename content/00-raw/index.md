@@ -5,4 +5,4 @@ tags:
   - exclude
 ---
 
-Raw and unfiltered ideas, enter at your own risk
+Raw and unrefined, enter at your own risk

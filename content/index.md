@@ -6,6 +6,10 @@ aliases:
   - my-site
 ---
 
+# What is This Site? WIP
+
+It is a potofolio and a legacy. Created to showcase who i am and for a future where i am dead
+
 # Dean Lemans – Freelance Gardener & Indie Software Developer
 
 ![Dean Lemans](<./static_files/personal/deanpfp.jpg>)

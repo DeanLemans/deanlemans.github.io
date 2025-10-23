@@ -12,7 +12,29 @@ enableToc: false
 > Reason: not professional  
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+# 2025-10-23
+
+- Too fight against [Fate](<../../short-form/Fate.md>).
+- Too defy fate.
+- Too deny my destiny.
+
+The individual is the biggest minority.
+
+And so i burned myself from within, to ashes. And so i will be again, not from ashes, but from self.
+
+Hidden behind the mask of pragmatism, lies the dreamer of the improbable. And ego binds it.
+
 # 2025-10-21
+
+The idea of self insight must be lessend, i must actually change, praticialityego
+
+Scab given life
+
+And so through metaphors and mirros and filters and windows. I am not, at least a something has been fiiilterdd?
+
+a split in myself? a sratch wound that became you(at least a part. a shell?) a part hidden out of loniness, denial, ambition and hollow praticality?
+
+WHERE IS THAT JOY, THAT CHILD HAPPY SELF?, BURIED BEHIND MASKS YOU HIDE YOURSELF IN THE NAME OF PRATICALITY. EGO. AMBITION. GET OUT!
 
 me, so spitefull, and of joy, silence and restiction. but what do i see in the mirror? its me
 
@@ -450,6 +472,77 @@ But too take inspiration/insight from other peoples story (marcus aurilious) is 
 "i am my own god, i choose who i want to be."  
 Too shape my identity
 
+Stoicism has been fucked In the ass with people who think it's cool using it  
+"WE DENY YOU ANATHEMA, TILL THE END OFF ETERNITY WE WILL DENY YOU. MAY YOUR BLIGHTED EXISTENCE NEVER SET FOOT IN THIS PLACE EVER IN ETERNITY."  
+On our own we are not yet whole, And one in two we are not yet complete, but then the third came and we were complete.  
+Putting the task off is just going to increase your stress. Procrastination  
+Don't be sad that it's over, be happy that it happened.  
+Command of ones self  
+Optimise only when you can afford to do so. Afford as in money but also as in mentan wellbeing, well rested  
+And so we live in the age of excess, so now I must find my anchor otherwise I will get pulled in like many others.  
+So I have decided to pursue philosophy, the design for living. As my grounding point/anchor.  
+I wish for you to let go of grudges and guilts.  
+Carry yourself as a king, but do not act haughty. For me. Too cary myself with confidence. But too not be a dick  
+Expect nothing of other people, but do ask for help.  
+"I don't engage in these conversations, there unhealthy."  
+Meaning: don't engage in drama  
+Solitary confinement  
+
+Remain resolute and determined in the face of adversity  
+
+Attachments and endless cravings  
+
+Too live in the real/too grasp the inner mind  
+
+Sitting still/boredom is important. Meditations is an advanced form of that  
+Daydreaming creates more eficient brain pattern, just let your mind wander  
+Usuzumi no hate  
+
+What i did matter, i matter (for far future, too leave a legacy behind)  
+Chris wiliamson  
+I  
+
+Stoicism is not: suppressing emption. It is letting this emotion pass through you and not acting on them, it is experiencing them at the right time  
+Example: anger, i want too strangle someond/do stupid shit. It is then not doing stupid shit/strangling someone.  
+Sadness: self-destructive behaviors/isolating myself. It is then: not engaging in self destructive behavior/not isolating myself.  
+
+Self overcomming  
+Self-disatisfaction, self-improvement, self-rediscovery. Looping forever and ever  
+Destroy the ilusions, see who you really are, how did you feel? The truth.  
+Even if not 100% objective, it is seeing deeper who you really are  
+Statue of wisdom, the power of the loner  
+
+You fall to the level of your systems.  
+
+My ideal = the ubermench, the absurd hero, the self, 
+
+Apply: consistensy/decipline and meditations/reflections. (Only compare yourself too yourself, can look to other people for inspiration)  
+
+Steal from 1 person and its copyright, steal from multiple and its original  
+
+Stop being cheap about everything.  
+Some things are fine, but just not every fucking thing  
+Become self employed  
+
+Partial non conformity  
+Take risks  
+
+Too change is your own choice. And the biggest risk is not ataining your own preset goals.  
+I am my own greatness and my own limitation. The limitation can be overcome.  
+Be kind too yourself and forgivr myself. But not all too much, sometimes hardness is needed for change.  
+Balance is key  
+
+Video games dont have to be over-analyzed. Just enjoy it  
+The only way not too play your broken/stupid game is not too choose.  
+Too make an long term (etetnal) legacy, not a short lasting one that no one will remember.  
+
+A beiing of contradictions evolved is a being of paradoxes  
+
+"The more evidence you have for a belief, the more strongly you will believe it."
+1. Decide the type of person you want to be. 
+2. Prove it to yourself with small things.  
+The continual search for knowledge  
+
 ---
 
 # 2023-12-14
@@ -781,3 +874,7 @@ how tf do i use this
 # 2023-07-31
 
 the beginning
+
+# 2021 Zondag 12 September
+
+[scheiden], something lost. Because i was blind
