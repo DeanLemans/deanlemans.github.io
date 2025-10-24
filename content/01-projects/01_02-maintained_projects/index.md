@@ -1,6 +1,6 @@
 ---
 publish: true
-title:
+title: 01.02 Maintained Projects
 tags:
 ---
 

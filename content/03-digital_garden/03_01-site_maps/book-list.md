@@ -9,7 +9,7 @@ published: 2024-10-08 00:00:00 +0100
 
 This is my list of books i have read:
 
-[click here to enter book list](../../02-resources/02_01-literature/books/index.md)
+[click here to enter book list](<../../02-resources/02_01-literature/books/index.md>)
 
 My backlog of books:
 - Blake's prophetic books (divine rebellion)

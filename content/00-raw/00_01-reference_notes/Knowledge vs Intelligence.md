@@ -1,7 +1,5 @@
 ---
-draft: true
-tags:
-  - ideas
+publish: true
 ---
 
 [Knowledge vs Intelligence](<./Knowledge vs Intelligence.md>)  

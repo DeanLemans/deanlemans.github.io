@@ -31,3 +31,6 @@ Topics
 - Reasearc/article on Knowledge vs Intelligence
 - Aristoles _Nicomachean Ethics_
 - Catch-22 (Joseph Heller)
+- Solitary confinement  
+
+Download music from FNF Mario madness.

@@ -1,5 +1,9 @@
+---
+publish: true
+---
+
 > [!NOTE]  
-> I dont care where they come from.
+> I dont care where they come from, i just save them here
 
 "Volwasenen willen liever done alsof wij het niet snappen waarover zij het hebben."  
 Man locked out of his smart house  

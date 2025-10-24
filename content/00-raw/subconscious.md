@@ -277,9 +277,7 @@ Overcoming thyself
 
 Are doing it deliberate? Or just for the pleasure. If your doing it just for the pleasure, stop doing it.
 
-Kindle the flame. The soul  
-Improve the vessel. The body  
-Upgrade the control. The mind
+
 
 Do not distract myself with music, or any other distraction for that matter.
 
@@ -291,13 +289,13 @@ Not too stress too much about catagorising everything. (rule. Absolute rule. Pri
 
 Do not follow only the opinion of many. Too go against the stream. Resist the rule, but try too hide it. Too be part of the rebelion/corpo, but too hide that fact.  
 There will come a time i shall be open about it. But that time is not now.  
-Too scream against fate, too deny it with all my might
 
 Too not subscribe too the herd mentality
 
 [something great and terible is growing within you]
 
-i want too earn enough mony with my job, so that i can live and do whatever i want. <https://digdeeper.neocities.org/articles/school#point>
+i want too earn enough mony with my job, so that i can live and do whatever i want.  
+<https://digdeeper.neocities.org/articles/school#point>
 
 Too dig deeper  
 Too seek the truth  
@@ -314,7 +312,7 @@ Too choose my own path, but too take inspiration from others
 The current school system is actually a competition, and the winner is actually the liar, the abuser, the trickster.  
 The good performer wont win.
 
-I can bypass the school system by being self thought
+I can bypass the school system by being teaching myself
 
 Too battle alzheimers.
 1. Sleep. Too clean the mind.
@@ -374,8 +372,6 @@ Template for yt channel to sub too is: {name channel}. Yt
 deep question: do i love myself?. If not: figure out why and how too. #important 
 
 Stop the tick of suddenly breathing through your mouth.
-
-Download music from FNF Mario madness.
 
 I need more of clarity. Too improve myself is too unspecific.
 
@@ -445,8 +441,6 @@ Too accept things i cannot change. (or too much effort to do so. There are of co
 Example's: external events, other people's behaviors, aspects of your past.  
 too accept these things as something i cannot change #important 
 
-Hugging face. Research
-
 Too not subscribe too stigmas, but too gather insight from them.  
 Too learn and grow from them.
 
@@ -463,7 +457,7 @@ An assumption is that providing/proofing that a problem exist but not giving an 
 That is not the case.  
 just saying that a problem exist can go a long way too solving said problem. #important
 
-Everyones solutiom is different. Realization
+Everyones solutiom is different. #important  
 
 Too create my own naritive. Too let no one else decide my story.  
 But too take inspiration/insight from other peoples story (marcus aurilious) is good  
@@ -480,11 +474,11 @@ Optimise only when you can afford to do so. Afford as in money but also as in me
 And so we live in the age of excess, so now I must find my anchor otherwise I will get pulled in like many others.  
 So I have decided to pursue philosophy, the design for living. As my grounding point/anchor.  
 I wish for you to let go of grudges and guilts.  
-Carry yourself as a king, but do not act haughty. For me. Too cary myself with confidence. But too not be a dick  
+Carry yourself as a king, but do not act haughty. For me. Too cary myself with confidence.  
 Expect nothing of other people, but do ask for help.  
+
 "I don't engage in these conversations, there unhealthy."  
 Meaning: don't engage in drama  
-Solitary confinement  
 
 Remain resolute and determined in the face of adversity  
 
@@ -496,23 +490,18 @@ Sitting still/boredom is important. Meditations is an advanced form of that
 Daydreaming creates more eficient brain pattern, just let your mind wander  
 Usuzumi no hate  
 
-What i did matter, i matter (for far future, too leave a legacy behind)  
-Chris wiliamson  
-I  
+What i did matter, i matter (for far future, too leave a legacy behind), but i must not forget the now
 
 Stoicism is not: suppressing emption. It is letting this emotion pass through you and not acting on them, it is experiencing them at the right time  
 Example: anger, i want too strangle someond/do stupid shit. It is then not doing stupid shit/strangling someone.  
-Sadness: self-destructive behaviors/isolating myself. It is then: not engaging in self destructive behavior/not isolating myself.  
+Sadness: self-destructive behaviors/isolating myself. It is then: not engaging in self destructive behavior/not isolating myself. (spite)
 
 Self overcomming  
 Self-disatisfaction, self-improvement, self-rediscovery. Looping forever and ever  
 Destroy the ilusions, see who you really are, how did you feel? The truth.  
 Even if not 100% objective, it is seeing deeper who you really are  
-Statue of wisdom, the power of the loner  
 
 You fall to the level of your systems.  
-
-My ideal = the ubermench, the absurd hero, the self, 
 
 Apply: consistensy/decipline and meditations/reflections. (Only compare yourself too yourself, can look to other people for inspiration)  
 
@@ -539,7 +528,8 @@ A beiing of contradictions evolved is a being of paradoxes
 "The more evidence you have for a belief, the more strongly you will believe it."
 1. Decide the type of person you want to be. 
 2. Prove it to yourself with small things.  
-The continual search for knowledge  
+
+The continual search for knowledge, seems interesting. Should i do it?
 
 ---
 

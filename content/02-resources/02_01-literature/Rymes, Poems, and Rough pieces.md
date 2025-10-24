@@ -238,4 +238,10 @@ See [Rymes, Poems, and Rough pieces](<../../00-raw/Rymes, Poems, and Rough piece
 This is not the end. Humans said.  
 And so it became humankind war cry  
 And so they screamed and twitch and rage.  
-And they survived  
+And they survived 
+
+---
+
+Kindle the flame. The soul  
+Improve the vessel. The body  
+Upgrade the control. The mind

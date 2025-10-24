@@ -1,6 +1,6 @@
 ---
 publish: true
-title: References
+title: 02.02 References
 ---
 
 The reference folder

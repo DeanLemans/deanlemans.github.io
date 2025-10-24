@@ -53,8 +53,8 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 - Open Source Contributions  
 
 > [!info] Favorite Collections  
-> - [Book Library](<./03-digital_garden/04_01-site_maps/book-list.md>) – literature and reference  
-> - [Game Library](<./03-digital_garden/04_01-site_maps/game-list.md>)  
+> - [Book Library](<./03-digital_garden/03_01-site_maps/book-list.md>) – literature and reference  
+> - [Game Library](<./03-digital_garden/03_01-site_maps/game-list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
 > - Finished-Projects *(under construction)*  
 > - [Site Notes & Rules](<./notes rules.md>)  

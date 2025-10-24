@@ -1,6 +1,6 @@
 
 > [!NOTE] Title  
-> A manifesto? My philosopy My beliefs?
+> A manifesto? My philosopy? My beliefs? Thesis of Self?
 
 - The brain is for generating ideas and obsidian is for holding them.
 - Notetaking/writing down thoughts is automatically sharpening my thinking.
@@ -14,3 +14,5 @@ I want power, such that things unfold in my favor.
 I want to be more then I am now, and I will do things such that i will be more.
 
 A multitude (trapped) in one
+
+My ideal = the ubermench, the absurd hero, the self, 
