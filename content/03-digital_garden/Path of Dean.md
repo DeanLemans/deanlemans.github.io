@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Path of Dean
 ---
 
 ### Preface

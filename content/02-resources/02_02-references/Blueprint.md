@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Blueprint
 ---
 
 [Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)  

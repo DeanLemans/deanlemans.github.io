@@ -2,9 +2,10 @@
 publish: true
 tags:
   - exclude
+title: Notes Rules
 ---
 
-TO BE REWERITTEN, THIS IS FOR NOW JUST INSPIRATION
+TO BE REWERITTEN
 
 A folder of files. This is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian and quartz give me that freedom.
 

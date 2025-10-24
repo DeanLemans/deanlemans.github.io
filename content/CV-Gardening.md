@@ -2,6 +2,7 @@
 publish: true
 created: 2025-09-25
 modified: 2025-10-21
+title: CV Gardening
 ---
 
 > [!danger] WIP  

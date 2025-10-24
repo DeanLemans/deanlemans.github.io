@@ -1,2 +1,2 @@
 Acer platanoides - noorse esdoorn  
-Acer pseudoplatanus - gewon esdoorn
+Acer pseudoplatanus - gewoon esdoorn

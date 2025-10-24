@@ -7,8 +7,6 @@ author:
 created: 2025-09-29
 description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
 publish: true
-tags:
-  - exclude
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

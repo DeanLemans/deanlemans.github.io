@@ -5,8 +5,6 @@ author:
 created: 2025-09-29
 description: Home page for Subble
 publish: true
-tags:
-  - exclude
 ---
 
 > [!danger] NOT MINE  

@@ -1,30 +1,32 @@
-- 2025-10-24 13:04 · [[index]]
-- 2025-10-24 13:03 · [[index]]
-- 2025-10-24 13:02 · [[index]]
-- 2025-10-24 13:02 · [[book-list]]
-- 2025-10-24 13:02 · [[Vigor Mortis]]
-- 2025-10-24 13:02 · [[Vault]]
-- 2025-10-24 13:02 · [[Tree of Aeons]]
-- 2025-10-24 13:02 · [[Tree of Aeons 7]]
-- 2025-10-24 13:02 · [[Tree of Aeons 6]]
-- 2025-10-24 13:02 · [[Tree of Aeons 5]]
-- 2025-10-24 13:02 · [[Tree of Aeons 4]]
-- 2025-10-24 13:02 · [[Tree of Aeons 3]]
-- 2025-10-24 13:02 · [[Tree of Aeons 2]]
-- 2025-10-24 13:02 · [[Threshold]]
-- 2025-10-24 13:02 · [[The Psychology of Money]]
-- 2025-10-24 13:02 · [[The Primal Hunter]]
-- 2025-10-24 13:02 · [[The Primal Hunter 9]]
-- 2025-10-24 13:02 · [[The Primal Hunter 8]]
-- 2025-10-24 13:02 · [[The Primal Hunter 7]]
-- 2025-10-24 13:02 · [[The Primal Hunter 6]]
-- 2025-10-24 13:02 · [[The Primal Hunter 5]]
-- 2025-10-24 13:02 · [[The Primal Hunter 4]]
-- 2025-10-24 13:02 · [[The Primal Hunter 3]]
-- 2025-10-24 13:02 · [[The Primal Hunter 2]]
-- 2025-10-24 13:02 · [[The Primal Hunter 13]]
-- 2025-10-24 13:02 · [[The Primal Hunter 12]]
-- 2025-10-24 13:02 · [[The Primal Hunter 11]]
-- 2025-10-24 13:02 · [[The Primal Hunter 10]]
-- 2025-10-24 13:02 · [[The Mite Forge]]
-- 2025-10-24 13:02 · [[The Frozen Realm]]
+--- {{date}} ---
+
+- 2025-10-24 14:55 · path of dean
+- 2025-10-24 14:54 · CV-Gardening
+- 2025-10-24 14:54 · CV-Software
+- 2025-10-24 14:54 · notes rules
+- 2025-10-24 14:52 · plant knowledge
+- 2025-10-24 14:51 · Roel Bouwman heeft STUDIEWIJZER P1 HO31x Onderhoud Basis.docx en 2 andere elementen toegevoegd
+- 2025-10-24 14:51 · Roel Bouwman heeft Inheemse flora.pptx toegevoegd
+- 2025-10-24 14:51 · Roel Bouwman heeft Hoofdstuk 4 Nomenclatuur.pptx en 3 andere elementen toegevoegd
+- 2025-10-24 14:51 · Roel Bouwman heeft bosplantsoen.pptx toegevoegd 1
+- 2025-10-24 14:51 · Roel Bouwman heeft Bomen.pptx toegevoegd
+- 2025-10-24 14:51 · Roel Bouwman heeft bosplantsoen.pptx toegevoegd
+- 2025-10-24 14:48 · plant knowledge
+- 2025-10-24 14:43 · streisand effect
+- 2025-10-24 14:43 · pomodoro technique
+- 2025-10-24 14:43 · picture walk
+- 2025-10-24 14:43 · discipline
+- 2025-10-24 14:42 · destiny
+- 2025-10-24 14:42 · blueprint
+- 2025-10-24 14:42 · rymes, and poems
+- 2025-10-24 14:41 · vanlife research
+- 2025-10-24 14:40 · zettelkasten
+- 2025-10-24 14:24 · Evergreen notes
+- 2025-10-24 14:22 · “Better note-taking” misses the point; what matters is “better thinking”
+- 2025-10-24 14:22 · education
+- 2025-10-24 14:14 · book-list
+- 2025-10-24 14:07 · knowledge vs intelligence
+- 2025-10-24 14:05 · The toxic schooling system
+- 2025-10-24 13:36 · atomic notes
+- 2025-10-24 13:15 · index
+- 2025-10-24 13:15 · The Second Brain Delusion Why PKM Systems Don't Work

@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Destiny
 ---
 
 the path is not yet walked upon  

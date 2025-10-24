@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Picture Walk
 ---
 
 A reading technique that involves skimming the chapter you are planning on reading to reach an partly understanding of it.  

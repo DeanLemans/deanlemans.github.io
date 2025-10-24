@@ -3,6 +3,7 @@ tags:
   - vanlilfe
   - research
 draft: "true"
+title: Vanlife Research
 ---
 
 Look into nederlands vanlife communities  

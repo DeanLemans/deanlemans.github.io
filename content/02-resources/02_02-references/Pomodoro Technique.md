@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Pomodoro Technique
 ---
 
 setting a timer for at least 10-20 minutes and in that time, only focus on working.  

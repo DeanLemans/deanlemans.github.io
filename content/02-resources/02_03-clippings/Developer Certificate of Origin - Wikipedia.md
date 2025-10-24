@@ -6,8 +6,6 @@ author:
 created: 2025-09-29
 description:
 publish: true
-tags:
-  - exclude
 ---
 
 > [!danger] NOT MINE  

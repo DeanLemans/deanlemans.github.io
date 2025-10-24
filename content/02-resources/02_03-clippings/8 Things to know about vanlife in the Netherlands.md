@@ -7,7 +7,6 @@ created: 2025-10-03
 description: 8 Things to know about vanlife in the Netherlands. A blog about travel and life on the road. Nelda Travel Diaries
 tags:
   - vanlilfe
-  - exclude
 publish: true
 ---
 

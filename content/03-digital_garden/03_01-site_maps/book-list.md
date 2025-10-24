@@ -18,3 +18,4 @@ My backlog of books:
 - The golden rule / mean (ethical philosophy)
 - Outlier (Malcolm Gladwell)
 - Money: Master the Game (Tony Robbins)
+- Summerhill: A Radical Approach to Child Rearing

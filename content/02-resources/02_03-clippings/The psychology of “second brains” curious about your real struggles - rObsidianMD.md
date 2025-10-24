@@ -6,8 +6,6 @@ author:
 created: 2025-09-29
 description: View on Redlib, an alternative private front-end to Reddit.
 publish: true
-tags:
-  - exclude
 ---
 
 > [!danger] NOT MINE  
