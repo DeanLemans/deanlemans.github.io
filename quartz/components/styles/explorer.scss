@@ -31,7 +31,7 @@
   flex-direction: column;
   overflow-y: hidden;
 
-  min-height: 1.2rem;
+  min-height: 1.2rem !important;
   flex: 0 1 auto;
   &.collapsed {
     flex: 0 1 1.2rem;
@@ -102,7 +102,7 @@ button.desktop-explorer {
   align-items: center;
 
   & h2 {
-    font-size: 1rem;
+    font-size: 1.5rem !important;
     display: inline-block;
     margin: 0;
   }
@@ -118,7 +118,7 @@ button.desktop-explorer {
     margin-bottom: 0.5rem;
 
     & > a {
-      font-size: 1.25rem;
+      font-size: 1.1rem !important;
     }
   }
 
@@ -171,9 +171,9 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem; // Folder title size
+    font-size: 1.05rem !important;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 2rem !important;
     display: inline-block;
   }
 
@@ -199,7 +199,7 @@ button.desktop-explorer {
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.5rem !important;
       pointer-events: none;
     }
   }

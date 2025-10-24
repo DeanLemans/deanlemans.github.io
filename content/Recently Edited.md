@@ -1,5 +1,4 @@
---- {{date}} ---
-
+- 2025-10-24 16:16 · home
 - 2025-10-24 15:59 · LLM
 - 2025-10-24 15:59 · zettelkasten
 - 2025-10-24 15:59 · vanlife research
@@ -9,7 +8,6 @@
 - 2025-10-24 15:48 · interesting sites
 - 2025-10-24 15:47 · TODO
 - 2025-10-24 15:42 · path of dean
-- 2025-10-24 15:40 · home
 - 2025-10-24 15:39 · game-list
 - 2025-10-24 15:39 · book-list
 - 2025-10-24 14:54 · CV-Gardening

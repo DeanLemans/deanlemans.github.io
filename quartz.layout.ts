@@ -50,7 +50,6 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: desktop(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer({
@@ -78,7 +77,6 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: desktop(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer(),
