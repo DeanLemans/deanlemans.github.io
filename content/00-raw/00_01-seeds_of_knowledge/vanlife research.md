@@ -34,7 +34,7 @@ If there is an accident with the van during work use, there is a higher likely p
 
 core issue could possibly be solved with how uber works, they can use personal vehicle for work.
 
-Log van usage (personal vs. Work kilometers) immediately and check your current registration on the RDW website. [Research-Bali](<../01_02-maintained_projects/Research-Bali.md>) Register as ZZP'er with KvK, consult  
+Log van usage (personal vs. Work kilometers) immediately and check your current registration on the RDW website. [Research-Bali](<../../01-projects/01_02-maintained_projects/Research-Bali.md>) Register as ZZP'er with KvK, consult  
 Belastingdienst for tax guidance specific to your income.
 
 ## Long Term

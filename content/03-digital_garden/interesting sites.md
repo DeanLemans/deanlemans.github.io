@@ -1,8 +1,8 @@
 ---
 publish: true
+created: 10-10-2025
+modified: 2025-10-24
 ---
-
-My bookmarks, need to filter it to: interesting sites
 
 ---
 
@@ -20,16 +20,11 @@ My bookmarks, need to filter it to: interesting sites
 * [Act 1: OMORI BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
 * [.flow | LOL RUST](http://lolrust.site/game/dotflow/)
 * [Outskirts - Godot Environment Demo by jedenjenda23](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
-* [how to become a twitch streamer at DuckDuckGo](https://duckduckgo.com/?q=how+to+become+a+twitch+streamer&ia=web)
-* [how to become a vtuber at DuckDuckGo](https://duckduckgo.com/?q=how+to+become+a+vtuber&ia=web)
 * [freelancegamedevs.com](https://www.freelancegamedevs.com/)
 * [Hard Light Productions](https://www.hard-light.net/)
 * [COCA LEAF at DuckDuckGo](https://duckduckgo.com/?q=COCA+LEAF&ia=web)
 * [Kiri Artemis](https://expiredpopsicle.com/)
 * [About the Traveling Gardener - The Traveling Gardener](https://thetravelinggardener.com/about-traveling-gardener/)
-* [drunken fist at DuckDuckGo](https://duckduckgo.com/?q=drunken+fist&ia=images&iax=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F52%2F05%2Fcc%2F5205cc10faa4732d638363ef9816a79b.jpg)
-* [prebiotics at DuckDuckGo](https://duckduckgo.com/?q=prebiotics&ia=images&iax=images)
-* [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
 * [Thus Spoke Zarathustra - Wikiquote](https://en.wikiquote.org/wiki/Thus_Spoke_Zarathustra)
 * [The Lunduke Journal](https://lunduke.com/)
 * [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
@@ -51,7 +46,6 @@ My bookmarks, need to filter it to: interesting sites
 * [Zotero | Your personal research assistant](https://www.zotero.org/)
 * [Are you sure you remember the way out?](https://vaje.neocities.org/)
 * [THE CALLOUS ETERNAL](https://gnawdraw.neocities.org/)
-* [omarchy "theory" at DuckDuckGo](https://duckduckgo.com/?q=omarchy+%22theory%22&norw=1&ia=web)
 * [Open Syllabus: Galaxy](https://galaxy.opensyllabus.org/)
 * [World Wide Website](https://oyaswmi.net/)
 * [Chattable](https://iframe.chat/)
@@ -77,14 +71,12 @@ My bookmarks, need to filter it to: interesting sites
 * [Intro | nikiv.dev](https://nikiv.dev/)
 * [This time it's personal](https://sadgrl.online/posts/its-personal/)
 * [README](https://patternlanguage.cc/README)
-* [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 * [Studio Idem](https://studio-idem.com/)
 * [GitAds Documentation | GitAds: Docs, Help & FAQs](https://docs.gitads.dev/)
 * [Development containers](https://containers.dev/)
 * [GNU Health | Freedom and Equity in Healthcare](https://www.gnuhealth.org/)
 * [The Living Philosophy | Substack](https://www.thelivingphilosophy.com/)
 * [Server Part Deals](https://serverpartdeals.com/)
-* [Dual Licensing](https://duallicensing.com/)
 * [Indie Open Source / Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 * [Garden of Learning : Juha-Matti Santala](https://notes.hamatti.org/)
 * [My writings : Juha-Matti Santala](https://hamatti.org/blog/)
@@ -99,7 +91,6 @@ My bookmarks, need to filter it to: interesting sites
 * [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 * [Death Grips](https://thirdworlds.net/)
 * [Mullvad Leta](https://leta.mullvad.net/)
-* [Mining-Dutch](https://www.mining-dutch.nl/)
 * [Products - Fabric of the Universe](https://www.fabricoftheuniverse.com/en-nl/collections/all)
 * [Our Unending Journey - MangaDex](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 * [play these games](https://www.reddit.com/r/yumenikki/comments/1fttgsc/since_some_people_wanted_me_to_share_my_ynfg/)

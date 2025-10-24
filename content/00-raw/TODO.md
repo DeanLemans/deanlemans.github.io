@@ -32,5 +32,9 @@ Topics
 - Aristoles _Nicomachean Ethics_
 - Catch-22 (Joseph Heller)
 - Solitary confinement  
+- Drunken fist
+- prebiotics
+- Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
+- [Dual Licensing](https://duallicensing.com/)
 
 Download music from FNF Mario madness.

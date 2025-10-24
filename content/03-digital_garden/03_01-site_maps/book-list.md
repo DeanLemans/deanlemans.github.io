@@ -1,10 +1,10 @@
 ---
 publish: true
-title: Dean's Collection!
-description: books i have read
-created: 2024-10-08 00:00:00 +0100
-modified: 2025-09-28T03:17:52.377+01:00
-published: 2024-10-08 00:00:00 +0100
+title: Dean's Book Collection!
+description: collection of books
+created: 2024-10-08
+modified: 2025-09-28
+published: 2024-10-08
 ---
 
 This is my list of books i have read:

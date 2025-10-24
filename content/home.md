@@ -1,8 +1,8 @@
 ---
 publish: false
-created: 2025-09-25T20:38:23.203+01:00
-modified: 2025-09-28T03:20:27.057+01:00
-published: 2025-09-28T03:20:27.057+01:00
+created: 2025-09-25
+modified: 2025-09-28
+published: 2025-09-28
 ---
 
 Will eventually the mirror/split home compared to index, this will be focused more on my notes.

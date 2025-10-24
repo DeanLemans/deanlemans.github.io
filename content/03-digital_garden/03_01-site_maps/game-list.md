@@ -1,10 +1,10 @@
 ---
 publish: true
-title: Game Collection!
+title: Dean's Game Collection!
 description: collection of games
-created: 2024-10-08 00:00:00 +0100
-modified: 2025-09-25T18:16:42.311+01:00
-published: 2025-09-25T22:18:01.024+01:00
+created: 2024-10-08
+modified: 2025-09-25
+published: 2025-09-25
 ---
 
 #todo  

@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Path of Dean
+created: 2025-07-25
+modified: 2025-10-24
 ---
 
 ### Preface

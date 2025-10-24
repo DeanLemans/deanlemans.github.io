@@ -1,6 +1,17 @@
 --- {{date}} ---
 
-- 2025-10-24 14:55 · path of dean
+- 2025-10-24 15:59 · LLM
+- 2025-10-24 15:59 · zettelkasten
+- 2025-10-24 15:59 · vanlife research
+- 2025-10-24 15:58 · Research-Bali
+- 2025-10-24 15:58 · godot-platformer
+- 2025-10-24 15:57 · index
+- 2025-10-24 15:48 · interesting sites
+- 2025-10-24 15:47 · TODO
+- 2025-10-24 15:42 · path of dean
+- 2025-10-24 15:40 · home
+- 2025-10-24 15:39 · game-list
+- 2025-10-24 15:39 · book-list
 - 2025-10-24 14:54 · CV-Gardening
 - 2025-10-24 14:54 · CV-Software
 - 2025-10-24 14:54 · notes rules
@@ -19,14 +30,3 @@
 - 2025-10-24 14:42 · destiny
 - 2025-10-24 14:42 · blueprint
 - 2025-10-24 14:42 · rymes, and poems
-- 2025-10-24 14:41 · vanlife research
-- 2025-10-24 14:40 · zettelkasten
-- 2025-10-24 14:24 · Evergreen notes
-- 2025-10-24 14:22 · “Better note-taking” misses the point; what matters is “better thinking”
-- 2025-10-24 14:22 · education
-- 2025-10-24 14:14 · book-list
-- 2025-10-24 14:07 · knowledge vs intelligence
-- 2025-10-24 14:05 · The toxic schooling system
-- 2025-10-24 13:36 · atomic notes
-- 2025-10-24 13:15 · index
-- 2025-10-24 13:15 · The Second Brain Delusion Why PKM Systems Don't Work
