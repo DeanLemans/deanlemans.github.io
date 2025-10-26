@@ -1,3 +1,10 @@
+- 2025-10-26 23:20 · now
+- 2025-10-26 23:13 · trajectory
+- 2025-10-26 22:31 · Make your own website
+- 2025-10-26 22:31 · slash pages
+- 2025-10-26 21:20 · Superbloom
+- 2025-10-26 20:54 · This is Not My Side Hustle ⁂ starbreaker.org
+- 2025-10-26 20:42 · What Is To Be Done  CJ The X
 - 2025-10-24 16:16 · home
 - 2025-10-24 15:59 · LLM
 - 2025-10-24 15:59 · zettelkasten
@@ -7,7 +14,6 @@
 - 2025-10-24 15:57 · index
 - 2025-10-24 15:48 · interesting sites
 - 2025-10-24 15:47 · TODO
-- 2025-10-24 15:42 · path of dean
 - 2025-10-24 15:39 · game-list
 - 2025-10-24 15:39 · book-list
 - 2025-10-24 14:54 · CV-Gardening
@@ -22,9 +28,3 @@
 - 2025-10-24 14:51 · Roel Bouwman heeft bosplantsoen.pptx toegevoegd
 - 2025-10-24 14:48 · plant knowledge
 - 2025-10-24 14:43 · streisand effect
-- 2025-10-24 14:43 · pomodoro technique
-- 2025-10-24 14:43 · picture walk
-- 2025-10-24 14:43 · discipline
-- 2025-10-24 14:42 · destiny
-- 2025-10-24 14:42 · blueprint
-- 2025-10-24 14:42 · rymes, and poems
