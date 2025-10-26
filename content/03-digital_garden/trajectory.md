@@ -1,35 +1,25 @@
 ---
 publish: true
-title: Path of Dean
+title: Trajectory
 created: 2025-07-25
 modified: 2025-10-24
 ---
+
+> [!NOTE]Alternative titles
+> - Future
+> - plans
+> - horizon
+> - path-ahead
 
 ### Preface
 
 All of these things can be mixed, matched, and sorted as needed; they're not hard rules/absolutes, since nothing survives the real world without getting intact. So, just pick them apart, dissect them and grab the useful bits for me right now.  
 Reality's always shifting, so these are just 'frameworks' I can tear into and fuse together when i want.  
-**Create multiple fallbacks/backups in case of fuckups.**
+**always Create multiple fallbacks/backups in case of fuckups.**
 
 ---
 
-# Current Plan
-
-**Work in the green sector and figure out what i like to to.**  
-Sting cutter = no  
-Tree caretaking = ?  
-Plant nursery  
-	Big plants = ?  
-	Small plant = ?  
-Bricklaying  
-Landscape architecture  
-Mushrooms  
-Hydrophonics  
-Automation?
-
----
-
-### Plan A: Freelance Gardener → 1-man Company → BV
+### Plan A: Freelance Gardener → 1-man Company → BV **(current plan)**
 
 - Get VCA certificaat, KVK uitrekstelsel, aansprakelijkheidsverzekering, modelovereenkomst, register at KVK, build experience, get tools
 - Freelancer means more pay but less job security; instead, more freedom and broader experience.
@@ -97,11 +87,6 @@ Automation?
 	- Time-intensive, inconsistent income early on, reliance on platforms for visibility.
 - making a game in free-time to make better use of my time.
 
-### Terrarium plan(minor plan)
-
-- plant terrarium requires the least room, so I can do it in my van.
-- plans.
-
 ### Fallback: Failure/bankrupt/homeless
 
 - Preventative:
@@ -123,8 +108,9 @@ Automation?
 - Someone must inherit my notes; so upload privately online and set up a digital inheritance, but also try to keep a physical copy for a backup
 - Cryopreservation sleep; actionable: Sign up, costs $50,000 (higher chance of being successful the longer I live).
 
-### Micro Steps / Misc
+### Misc/mini Plan
 
+- Plant terrarium requires the least room, so I can do it in my van.
 - Do ?? And sell it for 10 euro and do this 10 times another 10 times and then another 10 times.
 - future house huge inhouse garden with plants that will grow on the stairs and on the walls
 - when bying things, always look at the buy it for life subreddit. for long term investment in stuff.
