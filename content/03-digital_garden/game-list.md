@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Dean's Game Collection!
+title: Game Collection!
 description: collection of games
 created: 2024-10-08
 modified: 2025-09-25

@@ -16,13 +16,9 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 > [!tip] How to update site? (TEMP)  
 > **Windows:**
-> - Chrome, Firefox, or Edge → `Ctrl + F5`  
+> - open this site in browser → `Ctrl + F5`  
 > **Mac:**
-> - Chrome or Firefox → `Shift + Command + R`
-
-> [!info] Checkout my **[Software CV](<./CV-Software.md>)**
-
-> [!info] Checkout my **[Gardening CV](<./CV-Gardening.md>)**
+> - open this site in browser → `Shift + Command + R`
 
 ## About Me
 
@@ -32,32 +28,33 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 ## Check Out My CVs
 
-> [!info] **Software CV** – Detailed technical and development experience.  
-> [View Software CV](<./CV-Software.md>)
+> [!info] [Software CV](<./CV-Software.md>)  
+> Detailed technical and development experience. 
 
-> [!info] **Gardening CV** – Practical hands-on gardening projects and experience.  
-> [View Gardening CV](<./CV-Gardening.md>)
+> [!info] [Gardening CV](<./CV-Gardening.md>)  
+> Practical hands-on gardening projects and experience.
 
 ## Tools & Technologies
 
 - **Operating Systems:** [openSUSE](https://www.opensuse.org/), [GrapheneOS](https://grapheneos.org/)  
 - **Game Engine:** [Godot](https://godotengine.org/)  
 - **IDE:** [Zed](https://zed.dev/)  
-- **Version Control & Workflow:** GitHub - Codeberg and Git - JJ  
+- **Version Control & Workflow:** GitHub/Codeberg and Git  
 
 ## Interests & Hobbies
 
 - Gaming and Game Development  
 - Gardening and Outdoor Work  
 - Manga and Novels  
-- Open Source Contributions  
+- Open Source
+- [Indie Web]
 
 > [!info] Favorite Collections  
-> - [Book Library](<./03-digital_garden/03_01-site_maps/book-list.md>) – literature and reference  
-> - [Game Library](<./03-digital_garden/03_01-site_maps/game-list.md>)  
+> - [Book Library](<./03-digital_garden/book-list.md>) – literature and reference  
+> - [Game Library](<./03-digital_garden/game-list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
 > - Finished-Projects *(under construction)*  
-> - [Site Notes & Rules](<./notes rules.md>)  
+> - [Site Notes & Rules](<./site rules.md>)  
 
 ## Repositories Strategy
 

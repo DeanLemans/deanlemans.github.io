@@ -16,4 +16,4 @@ by: [[Cathfach]]
 
 ---
 
-[book-list](<../../../03-digital_garden/03_01-site_maps/book-list.md>)
+[book-list](<../../../03-digital_garden/book-list.md>)
