@@ -16,9 +16,9 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 > [!tip] How to update site? (TEMP)  
 > **Windows:**
-> - open this site in browser → `Ctrl + F5`  
+>  	- `Ctrl + F5`  
 > **Mac:**
-> - open this site in browser → `Shift + Command + R`
+> 	-  `Shift + Command + R`
 
 ## About Me
 
@@ -36,15 +36,18 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 ## Tools & Technologies
 
-- **Operating Systems:** [openSUSE](https://www.opensuse.org/), [GrapheneOS](https://grapheneos.org/)  
-- **Game Engine:** [Godot](https://godotengine.org/)  
-- **IDE:** [Zed](https://zed.dev/)  
-- **Version Control & Workflow:** GitHub/Codeberg and Git  
+- Software
+	- **Operating Systems:** [openSUSE](https://www.opensuse.org/), [GrapheneOS](https://grapheneos.org/)  
+	- **Game Engine:** [Godot](https://godotengine.org/)  
+	- **IDE:** [Zed](https://zed.dev/)  
+	- **Version Control & Workflow:** GitHub/Codeberg and Git 
+- Hardware
+	- Mostly electric but if its to weak i just is maximum of aspen 2
 
 ## Interests & Hobbies
 
 - Gaming and Game Development  
-- Gardening and Outdoor Work  
+- Gardening  
 - Manga and Novels  
 - Open Source
 - [Indie Web]
@@ -53,8 +56,7 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 > - [Book Library](<./03-digital_garden/book-list.md>) – literature and reference  
 > - [Game Library](<./03-digital_garden/game-list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
-> - Finished-Projects *(under construction)*  
-> - [Site Notes & Rules](<./site rules.md>)  
+> - [Site Development](<./site rules.md>)  
 
 ## Repositories Strategy
 

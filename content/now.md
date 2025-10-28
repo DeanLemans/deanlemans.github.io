@@ -8,7 +8,7 @@ publish: true
 - **3 days/week** → working as a internship hovenier (Plan B – active)
 - **2 days/week** → freelance gardener (Plan A – active)
 - Both feed into same goal: _figure out what I actually enjoy and where I want to specialize._
-- See: [trajectory](<./trajectory.md>) for more information about my plans.
+- See: [trajectory](<./trajectory.md>) for more information about plans.
 
 --- 
 
