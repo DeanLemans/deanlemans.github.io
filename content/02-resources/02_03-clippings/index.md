@@ -5,4 +5,6 @@ tags:
   - exclude
 ---
 
-Articles from the internet i like
+Articles from the internet i like.
+a vault for stuff not mine.
+an archive place for stuff i like on the internet.
