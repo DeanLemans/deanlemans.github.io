@@ -4,7 +4,6 @@ title: Game Collection!
 description: collection of games
 created: 2024-10-08
 modified: 2025-09-25
-published: 2025-09-25
 ---
 
 #todo  

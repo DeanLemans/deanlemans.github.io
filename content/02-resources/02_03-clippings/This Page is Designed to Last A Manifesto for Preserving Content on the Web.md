@@ -1,6 +1,6 @@
 ---
 title:
-source: "https://jeffhuang.com/designed_to_last/"
+source: https://jeffhuang.com/designed_to_last/
 author:
 created: 2025-10-31
 description:

@@ -4,7 +4,6 @@ title: Book Library!
 description: Library of Dean
 created: 2024-10-08
 modified: 2025-09-28
-published: 2024-10-08
 ---
 
 # Dean's Book Library!
