@@ -4,37 +4,84 @@ title: External Sites
 ---
 # Cool Personal sites
 
-> [!NOTE]Alternative titles 
-> - Influences 
-> - Signal Boost 
-> - Cool Personal Sites 
-> - [Blogroll](https://www.thoughtco.com/what-is-blogroll-3476580) 
+> [!NOTE]Alternative titles
+> - Influences
+> - Signal Boost
+> - Cool Personal Sites
+> - [Blogroll](https://www.thoughtco.com/what-is-blogroll-3476580)
 ---
 
-| [Dig Deeper](https://digdeeper.neocities.org/)                                               | [Daniel's virtual place](https://displayman.neocities.org/)                                                                          |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [>>SLIME-NET](https://skumsoft.ltd/slimenet/indexx.html)                                     | [Juha-Matti Santala](https://hamatti.org/)                                                                                           |
-| [The Living Philosophy](https://www.thelivingphilosophy.com/)                                | [Studio Idem](https://studio-idem.com/)                                                                                              |
-| [Kiri Artemis](https://expiredpopsicle.com/)                                                 | [Logan's Blog](https://lberrymage.dev/)                                                                                              |
-| [THE CALLOUS ETERNAL](https://gnawdraw.neocities.org/)                                       | [Melanie Sumner](https://melsumner.github.io/)                                                                                       |
-| [Dave Rupert](https://daverupert.com/)                                                       | [The Traveling Gardener](https://thetravelinggardener.com/about-traveling-gardener/)                                                 |
-| [ang's corner!](https://angs-corner.nekoweb.org/)                                            | [woof](https://cannibalcat.club/)                                                                                                    |
-| [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site/)                                          | [Welcome to my blog ^_^](https://blog.zoy.sh/)                                                                                       |
-| [World Wide Website](https://oyaswmi.net/)                                                   | [VoracityVoracity](https://voracity.nexus/)                                                                                          |
-| [WHITEDESERT](https://whitedesert.neocities.org/)                                            | [Death Grips](https://thirdworlds.net/)                                                                                              |
-| [The Nihilist Void](https://marmysz.wordpress.com/)                                          | [Aaron Parecki](https://aaronparecki.com/)                                                                                           |
-| [Andres Estrella](https://andresestrella.vercel.app/)                                        | [Jason Textfiles](http://textfiles.com/jason/)                                                                                       |
-| [ASCII Textfiles](https://ascii.textfiles.com/)                                              | [Gavart](https://gavart.ist/)                                                                                                        |
-| [Andy Matuschak Notes](https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu)              | [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/) |
-| [Bhupesh TIL](https://til.bhupesh.me/)                                                       | [Mark1626 Knowledge - Astronomy](https://mark1626.github.io/knowledge/#astronomy)                                                    |
-| [Vale Rocks](https://vale.rocks/)                                                            | [Purarue](https://purarue.xyz/x/)                                                                                                    |
-| [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)                   | [Scott Spence Contact](https://scottspence.com/contact)                                                                              |
-| [Paul Copplestone Knowledge](https://paul.copplest.one/knowledge/)                           | [NKintc Brainless](https://nkintc.gitbook.io/brainless)                                                                              |
-| [Andy Matuschak](https://andymatuschak.org/)                                                 | [Pawamoy](https://pawamoy.github.io/)                                                                                                |
-| [Swyx Ideas](https://www.swyx.io/ideas?show=Essays)                                          | [100R](https://100r.co/site/home.html)                                                                                               |
-| [Aleen42 Wiki](https://wiki.aleen42.com/)                                                    | [Andy Matuschak Notes 2](https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9)                                                    |
-| [Jesse Squires TIL](https://jessesquires.github.io/TIL/)                                     | [Simon Willison TIL](https://til.simonwillison.net/)                                                                                 |
-| [Lyz-Code Blue Book](https://lyz-code.github.io/blue-book/)                                  | [Nikiv Dev](https://nikiv.dev/)                                                                                                      |
-| [Pavel Oom Dev](https://paveloom.dev/)                                                       | [Andy Matuschak Notes 3](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX)                                                    |
-| [David Gasquez Obsidian](https://publish.obsidian.md/davidgasquez/README)                    | [Nikiv Wiki Old](https://wiki-old.nikiv.dev/)                                                                                        |
-| [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development) |                                                                                                                                      |
+<section style="display: flex; gap: 50px; flex-wrap: wrap;">
+
+
+  <ul style="
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;">
+  <li><a href="https://digdeeper.neocities.org/">Dig Deeper</a></li>
+  <li><a href="https://skumsoft.ltd/slimenet/indexx.html">>>SLIME-NET</a></li>
+  <li><a href="https://www.thelivingphilosophy.com/">The Living Philosophy</a></li>
+  <li><a href="https://expiredpopsicle.com/">Kiri Artemis</a></li>
+  <li><a href="https://gnawdraw.neocities.org/">THE CALLOUS ETERNAL</a></li>
+  <li><a href="https://daverupert.com/">Dave Rupert</a></li>
+  <li><a href="https://angs-corner.nekoweb.org/">ang's corner!</a></li>
+  <li><a href="https://we-b.site/">҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌</a></li>
+  <li><a href="https://oyaswmi.net/">World Wide Website</a></li>
+  <li><a href="https://whitedesert.neocities.org/">WHITEDESERT</a></li>
+  <li><a href="https://marmysz.wordpress.com/">The Nihilist Void</a></li>
+  <li><a href="https://andresestrella.vercel.app/">Andres Estrella</a></li>
+  <li><a href="https://ascii.textfiles.com/">ASCII Textfiles</a></li>
+  <li><a href="https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu">Andy Matuschak Notes</a></li>
+  <li><a href="https://til.bhupesh.me/">Bhupesh TIL</a></li>
+  <li><a href="https://vale.rocks/">Vale Rocks</a></li>
+  <li><a href="https://braindump.jethro.dev/posts/antifragile_ideas/">Antifragile Ideas</a></li>
+  <li><a href="https://paul.copplest.one/knowledge/">Paul Copplestone Knowledge</a></li>
+  <li><a href="https://andymatuschak.org/">Andy Matuschak</a></li>
+  <li><a href="https://www.swyx.io/ideas?show=Essays">Swyx Ideas</a></li>
+  <li><a href="https://wiki.aleen42.com/">Aleen42 Wiki</a></li>
+  <li><a href="https://jessesquires.github.io/TIL/">Jesse Squires TIL</a></li>
+  <li><a href="https://lyz-code.github.io/blue-book/">Lyz-Code Blue Book</a></li>
+  <li><a href="https://paveloom.dev/">Pavel Oom Dev</a></li>
+  <li><a href="https://publish.obsidian.md/davidgasquez/README">David Gasquez Obsidian</a></li>
+  <li><a href="https://paperfellows.com/blog/voloboev-writing-research-and-development">Paperfellows Blog</a></li>
+</ul>
+
+  <ul style="
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;">
+  <li><a href="https://displayman.neocities.org/">Daniel's virtual place</a></li>
+  <li><a href="https://hamatti.org/">Juha-Matti Santala</a></li>
+  <li><a href="https://studio-idem.com/">Studio Idem</a></li>
+  <li><a href="https://lberrymage.dev/">Logan's Blog</a></li>
+  <li><a href="https://melsumner.github.io/">Melanie Sumner</a></li>
+  <li><a href="https://thetravelinggardener.com/about-traveling-gardener/">The Traveling Gardener</a></li>
+  <li><a href="https://cannibalcat.club/">woof</a></li>
+  <li><a href="https://blog.zoy.sh/">Welcome to my blog ^_^</a></li>
+  <li><a href="https://voracity.nexus/">VoracityVoracity</a></li>
+  <li><a href="https://thirdworlds.net/">Death Grips</a></li>
+  <li><a href="https://aaronparecki.com/">Aaron Parecki</a></li>
+  <li><a href="http://textfiles.com/jason/">Jason Textfiles</a></li>
+  <li><a href="https://gavart.ist/">Gavart</a></li>
+  <li><a href="https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/">10x Developer Workflow on Windows</a></li>
+  <li><a href="https://mark1626.github.io/knowledge/#astronomy">Mark1626 Knowledge - Astronomy</a></li>
+  <li><a href="https://purarue.xyz/x/">Purarue</a></li>
+  <li><a href="https://scottspence.com/contact">Scott Spence Contact</a></li>
+  <li><a href="https://nkintc.gitbook.io/brainless">NKintc Brainless</a></li>
+  <li><a href="https://pawamoy.github.io/">Pawamoy</a></li>
+  <li><a href="https://100r.co/site/home.html">100R</a></li>
+  <li><a href="https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9">Andy Matuschak Notes 2</a></li>
+  <li><a href="https://til.simonwillison.net/">Simon Willison TIL</a></li>
+  <li><a href="https://nikiv.dev/">Nikiv Dev</a></li>
+  <li><a href="https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX">Andy Matuschak Notes 3</a></li>
+  <li><a href="https://wiki-old.nikiv.dev/">Nikiv Wiki Old</a></li>
+</ul>
+
+</section>
