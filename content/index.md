@@ -11,10 +11,9 @@ aliases:
 It is a potofolio and a legacy. Created to showcase who i am and for a future where i am dead
 
 # Dean Lemans – Freelance Gardener & Indie Software Developer
+![450|250](<./static_files/personal/deanpfp.jpg>)
 
-![Dean Lemans](<./static_files/personal/deanpfp.jpg>)
-
-> [!tip] How to update site? (TEMP)  
+> [!tip] How to update site? (TEMPORARY TILL I FIX CACHE ISSUES)  
 > **Windows:**
 >  	- `Ctrl + F5`  
 > **Mac:**
@@ -23,8 +22,8 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 ## About Me
 
 - **Gardener:** Focused on maintenance and practical landscaping.  
-- **Software Developer:** Indie dev using the [Godot](https://godotengine.org/) and creating Static Sites.  
-- Passionate about games, gardening, and open source ([OSD](https://opensource.org/osd)).
+- **Software Developer:** Indie dev using [Godot](https://godotengine.org/) and creating Static Sites.  
+- Passionate about games, gardening, and [open source](https://opensource.org/osd)).
 
 ## Check Out My CVs
 
@@ -41,8 +40,8 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 	- **Game Engine:** [Godot](https://godotengine.org/)  
 	- **IDE:** [Zed](https://zed.dev/)  
 	- **Version Control & Workflow:** GitHub/Codeberg and Git 
-- Hardware
-	- Mostly electric but if its to weak i just is maximum of aspen 2
+- Hardware (gardening)
+	- Mostly electric tools, but if its to weak i use a maximum of aspen 2
 
 ## Interests & Hobbies
 
@@ -50,10 +49,10 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 - Gardening  
 - Manga and Novels  
 - Open Source
-- [Indie Web]
+- Indie Web
 
 > [!info] Favorite Collections  
-> - [Book Library](<./03-digital_garden/book-list.md>) – literature and reference  
+> - [Book Library](<./02-resources/02_01-literature/books/index.md>) – literature and reference  
 > - [Game Library](<./03-digital_garden/game-list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
 > - [Site Development](<./site rules.md>)  

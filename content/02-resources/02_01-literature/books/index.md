@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Read Books
+title: Book Library!
+description: Library of Dean
+created: 2024-10-08
+modified: 2025-11-03
+enableToc:
+---
+# Dean's Book Library!
+
+I have not yet transferred all books to here.
+
 ---
 
-The list of books i have read.  
-I have not yet transferred all books to here  
-
----
-
-backlog of books:
+### my backlog of books:
 - Blake's prophetic books (divine rebellion)
 - Jung's _Red Book_ (integration of shadow self)
 - Gnostic apocrypha (defiance of demiurgic fate)
@@ -16,3 +20,6 @@ backlog of books:
 - Outlier (Malcolm Gladwell)
 - Money: Master the Game (Tony Robbins)
 - Summerhill: A Radical Approach to Child Rearing
+
+---
+Below here are the books I have finished reading:
