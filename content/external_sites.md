@@ -31,36 +31,35 @@ title: External Sites
 - [World Wide Website](https://oyaswmi.net/)
 - [VoracityVoracity](https://voracity.nexus/)
 - [WHITEDESERT](https://whitedesert.neocities.org/)
-- [♡ girl ritual ♡](https://internet-girl.carrd.co/)
 - [Death Grips](https://thirdworlds.net/)
 - [The Nihilist Void](https://marmysz.wordpress.com/)
-- <https://aaronparecki.com/>
-- <https://andresestrella.vercel.app/>
-- http://textfiles.com/jason/
-- https://ascii.textfiles.com/
-- https://gavart.ist/
-- https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu
-- https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/
-- https://til.bhupesh.me/
-- https://mark1626.github.io/knowledge/#astronomy
-- https://vale.rocks/
-- https://purarue.xyz/x/
-- https://braindump.jethro.dev/posts/antifragile_ideas/
-- https://scottspence.com/contact
-- https://paul.copplest.one/knowledge/
-- https://nkintc.gitbook.io/brainless
-- https://andymatuschak.org/
-- https://pawamoy.github.io/
-- https://www.swyx.io/ideas?show=Essays
-- https://100r.co/site/home.html
-- https://wiki.aleen42.com/
-- https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9
-- https://jessesquires.github.io/TIL/
-- https://til.simonwillison.net/
-- https://lyz-code.github.io/blue-book/
-- https://nikiv.dev/
-- https://paveloom.dev/
-- https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX
-- https://publish.obsidian.md/davidgasquez/README
-- https://wiki-old.nikiv.dev/
-- https://paperfellows.com/blog/voloboev-writing-research-and-development
+- - [Aaron Parecki](https://aaronparecki.com/)
+- [Andres Estrella](https://andresestrella.vercel.app/)
+- [Jason Textfiles](http://textfiles.com/jason/)
+- [ASCII Textfiles](https://ascii.textfiles.com/)
+- [Gavart](https://gavart.ist/)
+- [Andy Matuschak Notes](https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu)
+- [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
+- [Bhupesh TIL](https://til.bhupesh.me/)
+- [Mark1626 Knowledge - Astronomy](https://mark1626.github.io/knowledge/#astronomy)
+- [Vale Rocks](https://vale.rocks/)
+- [Purarue](https://purarue.xyz/x/)
+- [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
+- [Scott Spence Contact](https://scottspence.com/contact)
+- [Paul Copplestone Knowledge](https://paul.copplest.one/knowledge/)
+- [NKintc Brainless](https://nkintc.gitbook.io/brainless)
+- [Andy Matuschak](https://andymatuschak.org/)
+- [Pawamoy](https://pawamoy.github.io/)
+- [Swyx Ideas](https://www.swyx.io/ideas?show=Essays)
+- [100R](https://100r.co/site/home.html)
+- [Aleen42 Wiki](https://wiki.aleen42.com/)
+- [Andy Matuschak Notes 2](https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9)
+- [Jesse Squires TIL](https://jessesquires.github.io/TIL/)
+- [Simon Willison TIL](https://til.simonwillison.net/)
+- [Lyz-Code Blue Book](https://lyz-code.github.io/blue-book/)
+- [Nikiv Dev](https://nikiv.dev/)
+- [Pavel Oom Dev](https://paveloom.dev/)
+- [Andy Matuschak Notes 3](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX)
+- [David Gasquez Obsidian](https://publish.obsidian.md/davidgasquez/README)
+- [Nikiv Wiki Old](https://wiki-old.nikiv.dev/)
+- [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
