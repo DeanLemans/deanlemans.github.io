@@ -4,7 +4,7 @@ created: 10-10-2025
 modified: 2025-10-24
 ---
 
-for featured personal sites see: [blogroll](../blogroll.md)
+for featured personal sites see: [external_sites](../external_sites.md)
 ---
 
 # Bookmarks

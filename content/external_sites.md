@@ -1,8 +1,7 @@
 ---
 publish: true
-title: Blogroll
+title: External Sites
 ---
-
 # Blogroll
 
 ---
@@ -10,10 +9,7 @@ title: Blogroll
 Something in de past
 ---
 
-> [!NOTE] Alternative titles
-> - Featured Sites
-> - External Reading
-> - Useful Websites
+> [!NOTE]Alternative titles
 > - Influences
 > - Signal Boost
 > - Indie Web
@@ -51,66 +47,45 @@ Something in de past
 - https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/
 - https://til.bhupesh.me/
 
----
 - https://mark1626.github.io/knowledge/#astronomy
 
----
 - https://vale.rocks/
 
----
 - https://purarue.xyz/x/
 
----
 - https://braindump.jethro.dev/posts/antifragile_ideas/
 
----
 - https://scottspence.com/contact
 
----
 - https://paul.copplest.one/knowledge/
 
----
 - https://nkintc.gitbook.io/brainless
 
----
 - https://andymatuschak.org/
 
----
 - https://pawamoy.github.io/
 
----
 - https://www.swyx.io/ideas?show=Essays
 
----
 - https://100r.co/site/home.html
 
----
 - https://wiki.aleen42.com/
 
----
 - https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9
 
----
 - https://jessesquires.github.io/TIL/
 
----
 - https://til.simonwillison.net/
 
----
 - https://lyz-code.github.io/blue-book/
 
----
 - https://nikiv.dev/
 
----
 - https://paveloom.dev/
 
----
 - https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX
 
----
 - https://publish.obsidian.md/davidgasquez/README
 
----
 - https://wiki-old.nikiv.dev/
 - https://paperfellows.com/blog/voloboev-writing-research-and-development
