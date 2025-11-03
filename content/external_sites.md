@@ -2,17 +2,13 @@
 publish: true
 title: External Sites
 ---
-# Blogroll
-
----
-
-Something in de past
----
+# Cool Personal sites
 
 > [!NOTE]Alternative titles
 > - Influences
 > - Signal Boost
-> - Indie Web
+> - Cool Personal Sites
+> - [Blogroll](https://www.thoughtco.com/what-is-blogroll-3476580)
 
 ---
 
