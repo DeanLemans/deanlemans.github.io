@@ -23,3 +23,7 @@ publish: true
 | Mushrooms | ? |
 | Hydroponics | ? |
 | Automation | ? |
+
+
+
+[What is a now page?](https://nownownow.com/about)
