@@ -4,16 +4,17 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
-html,
-body {
+html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
-  height: 100vh;
+}
+
+body {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
+  background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
   background-color: var(--light);
@@ -153,10 +154,7 @@ a {
 }
 
 .page {
-  max-width: 100%;
-  width: 100vw;
-  margin: 0;
-
+  width: calc(#{map.get($breakpoints, desktop)} + 100%);
   & article {
     & > h1 {
       font-size: 2rem;
@@ -208,7 +206,13 @@ a {
       column-gap: #{map.get($mobileGrid, columnGap)};
       row-gap: #{map.get($mobileGrid, rowGap)};
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
-      margin: 0;
+    }
+
+    @media all and not ($desktop) {
+      padding: 0 1rem;
+    }
+    @media all and ($mobile) {
+      margin: 0 auto;
     }
 
     & .sidebar {
@@ -237,10 +241,13 @@ a {
     }
 
     & .sidebar.right {
+      margin-right: 0;
       flex-direction: column;
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;
+      }
+      @media all and not ($desktop) {
         position: initial;
         height: unset;
         width: 100%;
@@ -282,6 +289,17 @@ a {
     & footer {
       max-width: 100%;
       min-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      @media all and ($tablet) {
+        margin-right: 0;
+      }
+      @media all and ($mobile) {
+        margin-right: 0;
+        margin-left: 0;
+      }
+    }
+    & footer {
       margin-left: 0;
       margin-right: 0;
     }
