@@ -19,3 +19,5 @@ I owe nothing to others.
 
 I act. I survive. I persist. I evolve.
 Silence, masks, hidden depth, lies and deception
+
+[my_philosophy](../my_philosophy.md)
