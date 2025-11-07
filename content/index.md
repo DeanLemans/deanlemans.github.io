@@ -27,10 +27,10 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 ## Check Out My CVs
 
-> [!info] [Software CV](<./CV-Software.md>)  
+> [!info] [Software CV](<./cv_software.md>)  
 > Detailed technical and development experience. 
 
-> [!info] [Gardening CV](<./CV-Gardening.md>)  
+> [!info] [Gardening CV](<./cv_gardening.md>)  
 > Practical hands-on gardening projects and experience.
 
 ## Tools & Technologies
@@ -55,7 +55,7 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 > - [Book Library](<./02-resources/02_01-literature/books/index.md>) – literature and reference  
 > - [Game Library](<./03-digital_garden/game-list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
-> - [Site Development](<./site rules.md>)  
+> - [Site Development](<./site_rules.md>)  
 
 ## Repositories Strategy
 

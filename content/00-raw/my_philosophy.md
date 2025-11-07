@@ -1,3 +1,6 @@
+---
+title: My philosophy
+---
 
 > [!NOTE] Title  
 > A manifesto? My philosopy? My beliefs? Thesis of Self?

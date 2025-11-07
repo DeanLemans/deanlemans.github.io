@@ -6,7 +6,7 @@ draft: "true"
 title: Vanlife Research
 ---
 
-Look into nederlands vanlife communities  
++ [ ] Look into nederlands vanlife communities  
 Context (up to change)  
 I want to live in a van, and also use it for work
 

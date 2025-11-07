@@ -6,13 +6,26 @@ tags:
 title: Subconscious
 enableToc: false
 ---
+# subconsious
 
+alt titles/posibilities: dream diary, behind the mask, a trueer self, diary, me myself and I, unconscious, supressed, released
 > [!fail] this does not exist  
 > For those who come across this, dont share.  
 > Reason: not professional  
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-2025-11-02
+# 2025-11-07
+lies on lies on lies,
+didnt have energy to go to school today because of the stupid fucking work, im already searching for a new company.
+i love gardening, but do i love everything green? no, i need to find the specifics [now](../now.md)
+
+so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](../trajectory.md) for it. capture it.
+
+im currently trying to integrate a [planner](https://github.com/ivan-lednev/obsidian-day-planner) and [tasker](https://github.com/obsidian-tasks-group/obsidian-tasks) into my vault.(i also hope somebody is going to integrate the dataview plugin into quartz)
+
+i was motion withouth action, now i am better(the before)
+
+# 2025-11-02
 What is left of me?
 
 
@@ -207,11 +220,12 @@ Weekly notes for phone for less clutter n shit, this is 1 weel of weekly notes
 You are not working on your homework in the vacation.  
 Vacation is rest  
 Im willing too get bad grades for my rest.  
-Researh "buy it for life" stuff  
++ [ ] Researh "buy it for life" stuff  
 
 **Be nice, be forgiving, but dont be a pushover and retaliate if needed.**  
 Important. Solution too paradox is external validation and proving too myself that i have improved  
-***. On how too act, compartalazation or unity/singularity. I choose a mixture of both, work out the details #important #placeholder .***
+
++ [ ] On how too act, compartalazation or unity/singularity. I choose a mixture of both, work out the details #important #placeholder .***
 
 My indescripable scibbles have now meaning/intent behind them. This is for focus and for not falling into despair again. *What changed. Find the meaning*
 
@@ -239,13 +253,13 @@ I dont think im that smart, i just stand on the shoulders of titans. But i dont 
 
 With the refinement of music ongong, i am turning yet more complete.
 
-New rule about i discovered. Do not make you hobby your job. But also dont make you job all too shitty, do something you would almost do as an hobby. **important** 
++ [ ] New rule about i discovered. Do not make you hobby your job. But also dont make you job all too shitty, do something you would almost do as an hobby. **important** 
 
 Do not fall into the trap of 'fresh start'. Just do it right now. But if possible use to advantage
 
 **small consistent changes, change your system**
 
-i critisize people in my mind of how they can improven. When i dont even havr those things myself. **Change.** #important 
++ [ ] i critisize people in my mind of how they can improven. When i dont even havr those things myself. **Change.** #important 
 
 Rule discoverd. **do not invole myself in politics.**
 
@@ -373,7 +387,7 @@ I need action
 Just sync all my yt subscriptions.  
 Template for yt channel to sub too is: {name channel}. Yt
 
-deep question: do i love myself?. If not: figure out why and how too. #important 
+- [ ] deep question: do i love myself?. If not: figure out why and how too.
 
 Stop the tick of suddenly breathing through your mouth.
 

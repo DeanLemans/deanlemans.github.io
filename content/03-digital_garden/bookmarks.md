@@ -4,9 +4,17 @@ created: 2025-10-10
 modified: 2025-10-24
 ---
 for featured personal sites see: [external_sites](../external_sites.md)
+
 ---
 
 # Bookmarks
+
+  <li><a href="https://mark1626.github.io/knowledge/#astronomy">Mark1626 Knowledge - Astronomy</a></li>
+
+<li><a href="https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/">10x Developer Workflow on Windows</a></li>
+
+  <li><a href="https://braindump.jethro.dev/posts/antifragile_ideas/">Antifragile Ideas</a></li>
+  <li><a href="https://paperfellows.com/blog/voloboev-writing-research-and-development">Paperfellows Blog</a></li>
 
 * [Act 1: OMORI BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
 * [.flow | LOL RUST](http://lolrust.site/game/dotflow/)

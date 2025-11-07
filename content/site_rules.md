@@ -2,12 +2,14 @@
 publish: true
 tags:
   - exclude
-title: Notes Rules
+title: Site Rules
 ---
 
-TO BE REWERITTEN
+currently being rewritten!
 
-A folder of files. This is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian and quartz give me that freedom.
+---
+
+A folder of files. A vault. A portofolio. A personal site. It is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian, Quartz, and Markdown give me that freedom.
 
 The following is not absolute, just how i use this vault/site/notes.
 
@@ -16,13 +18,14 @@ The following is not absolute, just how i use this vault/site/notes.
 Rules I follow:
 
 - Only use 1 vault across everything
-- Mitigate folders folder usage for organization.
-- Try not to use external site for content, if possible migrate them to this site. (or at least link them)
+- Mitigate folder usage for organization.
+- [ ] Try not to use external site for content, if possible migrate them to this site. (or at least link them)
 - Avoid non-standard Markdown and if necessary only use semantic HTML.
 - Always pluralize categories and tags.
 - Use internal links profusely.
 
-Having a [consistent style](https://stephango.com/style) collapses hundreds of future decisions into one, and gives me focus. For example, I always pluralize tags so I never have to wonder what to name new tags. Make your own style guide. You can always change your rules later.
+Having a [consistent style](https://stephango.com/style) collapses hundreds of posibilities into one, and gives me focus. For example, I always pluralize tags so I never have to wonder what to name new tags. Make your own style guide. You can always change your rules later.
+[A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)
 
 ## Folders and Organization
 
@@ -30,22 +33,25 @@ I try to minimize my usage of folders
 I avoid folders because many of my entries belong to more than one area of thought.  
 I don't want the overhead of having to consider where something should go.
 
-My notes are primarily organized using the `categories` property.
++ [ ] My notes will be primarily organized using the `categories`and tags.
 
-**Most of my notes are in the root of the vault**, not a folder. This where I write about my personal world: journal entries, essays, notes, and other personal notes. If a note is in the root, I know it's something I wrote, or relates directly to me.
+
+This where I write about my personal world: journal entries, essays, notes, and other personal notes. If a note is in the root, I know it's something I wrote, or relates directly to me.
+
+everything except the [index](02-resources/02_03-clippings/index.md) folder, is written by me.
 
 Two reference folders I use:
 
 - **Clippings** where I save things other people wrote, mostly essays, articles, and high quality wiki pages.
 
-Three admin folders exist so that their contents don't show up in the file navigation:
+1 admin folders exist so that their contents don't show up in the file navigation:
 
-- **assets** for images, audio, videos, PDFs, etc.
-- **Templates** for templates.
+- **static_files** for images, audio, videos, PDFs, etc.
 
 ## Links
 
-i need to search through to my notes and add more internal links.  
++ [ ] i need to search through to my notes and add more internal links. 
+
 I try to always link the first mention of something. Often the link is *unresolved*, meaning that the note for that link isn't created yet. Unresolved links are important because they are breadcrumbs for future connections between things.
 
 A journal entry in the **root** of my vault might look something like this:
@@ -74,4 +80,8 @@ People have asked me if this could be automated with language models but I do no
 
 This site content is written in Obsidian. And the site code is edited with Zed. I use a *static site generator* called Quartz to automatically compile my notes into a website and convert them from Markdown to HTML.
 
-For this site, I push notes from Obsidian to a GitHub repo using the github desktop. The notes are then automatically compiled using Quartz. I host my site freely on github pages and neocities with my CI workflow. (link to CI here) #todo 
+For this site, I push notes from Obsidian to a GitHub repo using a git GUI. The notes are then automatically compiled using Github actions. I host my site freely on github pages and neocities with my CI workflow. 
+
+(link to CI here)
+
+- [ ] link to CI of site here
