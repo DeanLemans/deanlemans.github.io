@@ -281,4 +281,4 @@ The Dark Queen of Mortholme
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
 
 > [!info]  
-> also check out my [book-list](<./book-list.md>)
+> also check out my [book_list](<./book_list.md>)

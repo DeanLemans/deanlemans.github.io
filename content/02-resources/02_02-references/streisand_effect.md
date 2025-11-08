@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Streisand Effect
+title: Streisand effect
 ---
 
 the more you try to hide/restrict information the more people will find out.

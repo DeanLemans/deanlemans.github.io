@@ -1,5 +1,6 @@
 ---
 publish: false
+title: Cool chapters
 ---
 
 A list of chapters i like, i lost a lot of them on my old phone

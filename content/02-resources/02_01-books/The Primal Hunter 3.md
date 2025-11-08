@@ -16,4 +16,4 @@ by: [[Zogarth]]
 
 ---
 
-[book-list](<../../03-digital_garden/book-list.md>)
+[book_list](<../../03-digital_garden/book_list.md>)

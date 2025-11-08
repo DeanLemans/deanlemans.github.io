@@ -53,7 +53,7 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 > [!info] Favorite Collections  
 > - [Book Library](<./02-resources/02_01-books/index.md>) – literature and reference  
-> - [Game Library](<./03-digital_garden/game-list.md>)  
+> - [Game Library](<./03-digital_garden/game_list.md>)  
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*  
 > - [Site Development](<./site_rules.md>)  
 
