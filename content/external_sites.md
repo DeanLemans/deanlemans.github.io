@@ -1,6 +1,8 @@
 ---
 publish: true
 title: External Sites
+aliases:
+  - blogroll
 ---
 # Cool Personal sites
 

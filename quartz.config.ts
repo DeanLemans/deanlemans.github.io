@@ -12,7 +12,11 @@ const config: QuartzConfig = {
     //pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "umami",
+      host: "cloud.umami.is",
+      websiteId: "07347aa1-25ef-4528-9a54-dd223835d10a",
+    },
     locale: "en-US",
     baseUrl: "deanlemans.github.io",
     ignorePatterns: ["static_files/templates", ".obsidian", ".trash"],
@@ -66,7 +70,6 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: true,
-        mermaid: false,
         disableBrokenWikilinks: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
@@ -83,7 +86,7 @@ const config: QuartzConfig = {
     ],
     filters: [Plugin.RemoveDrafts(), Plugin.ExplicitPublish()],
     emitters: [
-      //Plugin.AliasRedirects(),
+      Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
