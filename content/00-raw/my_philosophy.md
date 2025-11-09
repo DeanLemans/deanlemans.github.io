@@ -17,6 +17,16 @@ draft: "true"
 > change/improvement is not a destination, it is a direction/a way of being/living.
 > do onto others, before they do onto you?(dont be that saint to afraid to offend people).
 > 
+> Eruditas, the pursuit of knowledge and intellectual clarity. knowledge isnt static, its the process of constantly refining and learning more.
+> Vitalis, the balance of physical health and strength.(overcome)
+> Dominatus, the quiet strength of superiority through understatement and strategic restraint
+> 
+> Memento Mori, rememer that you can Die.
+> (why not must?)
+> Memento Vivere, remember that yoy can Live.
+> 
+> growth, to be more, in mind spirit, tactics, soul, social, body
+
 
 
 # My Manifesto / Philosophy / Beliefs / Thesis of Self / Doctrine

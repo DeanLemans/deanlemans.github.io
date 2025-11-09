@@ -14,6 +14,49 @@ alt titles/posibilities: dream diary, behind the mask, a trueer self, diary, me 
 > Reason: not professional  
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+
+2025-??-??
+
+# musing Dean
+
+Because I am Young Arrogant and Hate Everything You Stand For.
+
+in the eye of the storm of your own thoughts, miditate.
+
+stand and deliver.
+
+Contingency Bleak: deadman switch
+
+[FALL BACK: INITIATED!!] 
+{FALL BACK: INITIATED!!}
+FALL BACK: INITIATED!!FALL BACK: INITIATED!!] 
+
+finality
+
+the great deception: life
+
+---
+
+and so now i rememer who i will be, or how i will be born;
+from behind myself, a reflection of what can be,
+locked up, chained, a flow/symbol and idea of self, self regenerating able to regenerate even when i am shatterd, more then one. myself/I/Dean.
+broken and shatterd and confused, i still am and will be.
+
+---
+
+i spite you, you who think i cannot be more then you are, despise, resent you, so i wait, so that when i am, you will not see my growth.
+FUCK YOU
+i need that van.
+will i really reatrict myself like this, because of resentment.
+
+- and so, why shouldnt i use my grandmas dead to run away, to be my own? a reasnable reason for them for why i would run away
+
+- your labels are sad, i like to eat food, suddenly im a foodie, etc
+
+- oh woe the fatebreaker
+
+
+
 # 2025-11-07
 lies on lies on lies,
 didnt have energy to go to school today because of the stupid fucking work, im already searching for a new company.

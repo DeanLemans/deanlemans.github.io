@@ -2,6 +2,8 @@
 publish: true
 title: Dream
 description: a dream i had, i wrote it down half aspleep, it felt so important, like something i wanted to do and didt do, anthor place another time. an ideal to be reached
+aliases:
+  - dream
 ---
 # 2025-10-end (written)
 

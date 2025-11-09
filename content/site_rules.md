@@ -13,6 +13,8 @@ A folder of files. A vault. A portofolio. A personal site. It is important becau
 
 The following is not absolute, just how i use this vault/site/notes.
 
+# folder stucture/sorting system(should i keep the raw folder hidden here?)
+
 ## My Rules
 
 Rules I follow:
