@@ -8,16 +8,17 @@ enableToc: false
 ---
 # subconsious
 
-alt titles/posibilities: dream diary, behind the mask, a trueer self, diary, me myself and I, unconscious, supressed, released
+alt titles/posibilities: 
+dream diary, behind the mask, a truer self, diary, me myself and I, unconscious, supressed thoughts
 > [!fail] this does not exist  
 > For those who come across this, dont share.  
-> Reason: not professional  
+> Reason: not professional, personal and controversial
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
-2025-??-??
+# 2025-??-??
 
-# musing Dean
+musing Dean
 
 Because I am Young Arrogant and Hate Everything You Stand For.
 
@@ -50,9 +51,7 @@ i need that van.
 will i really reatrict myself like this, because of resentment.
 
 - and so, why shouldnt i use my grandmas dead to run away, to be my own? a reasnable reason for them for why i would run away
-
 - your labels are sad, i like to eat food, suddenly im a foodie, etc
-
 - oh woe the fatebreaker
 
 

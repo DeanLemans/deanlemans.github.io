@@ -23,6 +23,8 @@ Man locked out of his smart house"
 > Ripples in the fabric of space. A hell of inward-facing teeth, extending to infinity. A tongue that peeled the soul, eyes like apertures into insanity. Slavering planetoids shoved through the eye of a needle. Cracks where a thousand maws closed. A sigh of contentment like thunder in a tiny bowl.
 > Reality reasserted itself.
 
+> that unease you feel, that hate you feel to those?, that is your subconsisous screaming to you "i see myself in this! i hate this! so i need to resolve this"
+
 > You are waiting for the revolution? My own began a long time ago! When you will be ready (God, what an endless wait!) I won't mind going along with you for awhile. But when you stop, I shall continue on my insane and triumphal way toward the great and sublime conquest of the nothing!
 
 > effective and efficient without regard to delicate sensibilities
