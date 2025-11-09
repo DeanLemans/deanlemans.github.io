@@ -11,7 +11,9 @@ aliases:
 It is a potofolio and a legacy. Created to showcase who i am and for a future where i am dead
 
 # Dean Lemans – Freelance Gardener & Indie Software Developer
-![450|250](<./static_files/personal/deanpfp.jpg>)
+<div style="text-align:center;">
+  <img src="./static_files/personal/deanpfp.jpg" style="width:350px;max-width:100%;height:auto;">
+</div>
 
 > [!tip] How to update site? (TEMPORARY TILL I FIX CACHE ISSUES)  
 > **Windows:**
