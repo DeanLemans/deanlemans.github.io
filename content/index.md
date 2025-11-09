@@ -1,9 +1,12 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2025-10-21
+modified: 2025-11-09
 aliases:
   - my-site
+  - my-site/
+  - /my-site/
+  - /my-site
 ---
 
 # What is This Site? WIP
