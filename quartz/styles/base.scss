@@ -189,7 +189,6 @@ a {
     row-gap: #{map.get($desktopGrid, rowGap)};
     grid-template-areas: #{map.get($desktopGrid, templateAreas)};
     width: 100%;
-    max-width: 100%;
     margin: 0;
     padding: 0;
 

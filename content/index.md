@@ -15,7 +15,7 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 
 # Dean Lemans – Freelance Gardener & Indie Software Developer
 <div style="text-align:center;">
-  <img src="./static_files/personal/deanpfp.jpg" style="width:350px;max-width:100%;height:auto;">
+  <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:350px;max-width:100%;height:auto;">
 </div>
 
 > [!tip] How to update site? (TEMPORARY TILL I FIX CACHE ISSUES)  
