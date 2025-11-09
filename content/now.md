@@ -2,7 +2,7 @@
 title: Now
 publish: true
 ---
-
+# now
 # Current
 
 - **3 days/week** → working as a internship hovenier (Plan B – active)

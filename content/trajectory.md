@@ -114,3 +114,5 @@ Reality's always shifting, so these are just 'frameworks' I can tear into and fu
 - Do ?? And sell it for 10 euro and do this 10 times another 10 times and then another 10 times.
 - future house huge inhouse garden with plants that will grow on the stairs and on the walls
 - when bying things, always look at the buy it for life subreddit. for long term investment in stuff.
+- dont overanalyze, avoid stagnation by overpreperation/paralysis by over analysis
+- avoid sunken ship falacy
