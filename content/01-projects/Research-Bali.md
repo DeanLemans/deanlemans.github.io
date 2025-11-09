@@ -1,12 +1,11 @@
 ---
 publish: true
 description: observations, notes, and research from my time in Bali
-created: 2025-09-25
+created: 2025-08-25
 modified: 2025-09-25
 tags:
-  - research
   - finished
 title: Research Bali
 ---
 
-[Research site link](https://dean.nekoweb.org/)
+[Bali Research link](https://dean.nekoweb.org/)

@@ -1,5 +1,5 @@
 ---
-title: My philosophy
+title: My philosophy?
 ---
 
 > [!NOTE] Title  
@@ -18,4 +18,23 @@ I want to be more then I am now, and I will do things such that i will be more.
 
 A multitude (trapped) in one
 
-My ideal = the ubermench, the absurd hero, the self, 
+My ideal = the ubermench, the self, 
+
+What defines me?
+
+Growth. 
+To be more, to be more, weightless, external resposibilty will not bind me, internal responsibilty to myself.
+
+Self. To be myself, inexorably, arogantly, hatefully, spitefull, to be.
+
+(Unformed)
+Hidden. Silent, masks, veil
+
+I am.
+Not my name. Not my body.
+I change. I grow. Selfishly to other and selfless to myself.
+
+I owe nothing to others.
+
+I act. I survive. I persist. I evolve.
+Silence, masks, hidden depth, lies and deception

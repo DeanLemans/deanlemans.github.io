@@ -1,8 +1,6 @@
 ---
 publish: true
-title: 01 Projects things
+title: 01 Projects
 tags:
 ---
-
-Project folder, currently still barebones.  
-I need to add gardening projects here
+my projects and work folder

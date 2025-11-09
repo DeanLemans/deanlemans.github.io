@@ -1,5 +1,7 @@
 ---
-publish: false
+publish: true
+tags:
+  - current
 ---
 
 Big problem:

@@ -1,11 +1,11 @@
 ---
-publish: false
-title: web Point N Click
+publish: true
+title: web Point and Click
 description: first game made in JavaScript
 created: 2025-09-25T20:38:23.175+01:00
 modified: 2025-09-25T20:38:23.176+01:00
 tags:
-  - gamedev
+  - finished
 ---
 
 > [!info]- Made with:  
@@ -20,7 +20,7 @@ tags:
 
 > It's a small game with a grand total of 1 level.
 
-![PointNClick](<../assets/post/Point-and-click-adventure.png>)
+![PointNClick](<static_files/Point-and-click-adventure.png>)
 
 > [!info]
 > - [Click here to play](https://deanlemans.github.io/point-N-click-adventure/) the game.
