@@ -9,13 +9,16 @@ publish: true
 Man locked out of his smart house  
 "We only trust in our own causes"  
 "Change is a direction, not a destination."  
-'If a behavior is insufficient in any of the four stages, it will not become a habit.  
-Eliminate the cue and your habit will never start.  
+
+'If a behavior is insufficient in any of the four stages, it will not become a habit, Eliminate the cue and your habit will never start.  
 Reduce the craving and you won't experience enough motivation to act.  
 Make the behavior difficult and you won't be able to do it.  
 And if the reward fails to satisfy your desire, then you'll have no reason to do it again in the future.  
 Without all four, a behavior will not be repeated.'  
+
 Cue, craving, response and reward  
+
+
 All Choices Have Consequences.  
 "Each problem that I solved became a rule, which served afterwards to solve other problems."  
 "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become."  
