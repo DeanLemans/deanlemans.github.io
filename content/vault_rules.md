@@ -3,13 +3,41 @@ publish: true
 tags:
   - exclude
 title: Site Rules
+description: vault rules, sorting system, naming rules, creating rules
 ---
 
 currently being rewritten!
 
+
 ---
 
-A folder of files. A vault. A portofolio. A personal site. It is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian, Quartz, and Markdown give me that freedom.
+to be integrated:
+(adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
+
+work fast
+become a finisher
+make art everyday 
+it doesnt have to be perfect
+sleep
+vault mentality(record everything store it)
+
+always use open formats (pandoc?)
+- odt instead of docx
+
+
+a system should be self reinforcing/defending
+it should not be 100% my responsibility for maintaining a vault structure, instead i should build a system that partially reinforces itself.
+
+
+create a monthly and yearly review.
+
+some things can be automated, such as automated spellcheck, throwing a warning when building the site when a note doesnt have a tag. but at the same time i must keep the process enjoyable
+
+i currently use the jhony decibel for folder names, and evergreen/digital garden, and also a memex kind of structure, i have a public part of my site for finished work, and also a 00-raw folder for unfinished stuff, my site publishes notes via the 'publish: true', all notes are created with 'publish: false'
+
+---
+
+A folder of files. A vault. A portofolio. A personal site. A digital garden. A memex. It is important because it complies with [file over app](https://stephango.com/file-over-app) philosophy. If you want to create digital pieces that last, they must be files you can control, in opem formats that are easy to retrieve and read. Obsidian, Quartz, and Markdown give me that freedom.
 
 The following is not absolute, just how i use this vault/site/notes.
 
@@ -44,7 +72,7 @@ everything except the [index](02-resources/02_03-clippings/index.md) folder, is 
 
 Two reference folders I use:
 
-- **Clippings** where I save things other people wrote, mostly essays, articles, and high quality wiki pages.
+- **02-resources/02_03-clippings** where I save things other people wrote, mostly essays, articles, and high quality wiki pages.
 
 1 admin folders exist so that their contents don't show up in the file navigation:
 
@@ -72,11 +100,11 @@ Fractal journaling and randomization are how I tame the wilderness that a knowle
 
 Throughout the day I use Obsidian's *unique note* hotkey to write individual thoughts as they come up. This shortcut automatically creates a note with the prefix `YYYY-MM-DD HHmm` to which I may add a title that describes the idea.
 
-Every few days I review these journal fragments and compile the salient thoughts. I then review those reviews monthly, and review the monthly reviews yearly. The result is a fractal web of my life that I can zoom in and out of at varying degrees of detail. I can trace back where individual thoughts came from, and how they bubbled up into bigger themes.
+Every few weeks I review these journal fragments and compile the salient? thoughts. I then review those reviews monthly, and review the monthly reviews yearly. The result is a fractal web of my life that I can zoom in and out of at varying degrees of detail. I can trace back where individual thoughts came from, and how they bubbled up into bigger themes.
 
-Every few months I set aside time for a "random revisit". I use the *random note* hotkey to quickly travel randomly through my vault. I often use the local graph at shallow depth to see related notes. This helps me revisit old ideas, create missing links, and find inspiration in past thoughts. It's also an opportunity to do maintenance, like fix formatting based on new rules in my personal style guide.
+Every few weeks I set aside time for a "random revisit". I use the *random note* hotkey to quickly travel through my vault. I often use the local graph at shallow depth to see related notes. This helps me revisit old ideas, create missing links, and find inspiration in past thoughts. It's also an opportunity to do maintenance, like fix formatting based on new rules in my personal style guide.
 
-People have asked me if this could be automated with language models but I do not care to do so. I enjoy this process. Doing this maintenance helps me understand my own patterns. 
+I enjoy this process. Doing this maintenance helps me understand my own patterns. 
 
 ## Publishing to the Web
 
@@ -87,3 +115,14 @@ For this site, I push notes from Obsidian to a GitHub repo using a git GUI. The 
 (link to CI here)
 
 - [ ] link to CI of site here
+
+---
+
+i also mirror my site to neocities
+
+my site repository is also mirrored on codeberg for backup
+
+i have a local and external usb backup (with BORG BACKUP), for all of my vault and obsidian configuration
+
+i sync my files between my phones and laptop via syncthing, i use the extra backup feature from that for well.. extra backup! (it create a backup every day, and keep that for 10 days)
+
