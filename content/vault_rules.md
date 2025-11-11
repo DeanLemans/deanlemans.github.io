@@ -41,29 +41,28 @@ aliases:
 
 ## 3. System Philosophy
 
-- System should be self-reinforcing and self-defending  
+- System should be self-reinforcing/defending  
 - Minimize overhead; vault should maintain itself wherever possible  
 - Structure for scalability: multiple projects, multiple contributors, long-term reference  
-- Include versioning and 256-hash to confirm vault integrity to future-proof against edits or deletions
+- Include versioning and 256-hash to confirm vault integrity to future-proof against edits, deletions, or cencoring.
 
 ---
 
 ## 4. Reviews and Automation
 
 - Schedule monthly and yearly reviews for both content and structure  
-- Automate repetitive tasks:  
-  - spellcheck  
-  - tag or category validation  
-  - unresolved link notifications  
-- Maintain enjoyment and flow during maintenance  
-- Design automation to degrade gracefully if tools or scripts become obsolete  
+- [ ] Automate repetitive tasks:  
+  - [ ] spellcheck  
+  - [ ] tag or category validation  
+  - [ ] unresolved link notifications  
+- enjoy the doing, dont make it a burden
 
 ---
 
 ## 5. Structure and Publishing Rules
 
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault  
-- Public site contains polished work; `00-raw` contains drafts and experimental notes  
+- Public site contains polished work; [00-raw](00-raw/index.md) contains drafts and experimental notes  
 - Publishing rules:  
   - `publish: true` → accessible in site  
 
@@ -82,9 +81,8 @@ aliases:
 
 - A folder of files. A vault. A portfolio. A digital garden. A memex.  
 - Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)  
-- Store files in open, readable formats  
-- Use consistent naming and metadata for searchability and automation  
-- Tools: Obsidian, Quartz, Markdown
+- Store files in open and readable formats.
+- Use consistent naming and metadata for searchability and discoverbility.  
 
 ---
 
@@ -95,6 +93,7 @@ aliases:
 - Use a single vault to centralize all content  
 - Reduce folder complexity to simplify navigation and maintainability  
 - [ ] Migrate external content locally or at least link it  
+- [ ] when linking an external thing, use an archived version
 - writen in standard markdown and sometimes embeded html.
 - Always pluririze tags 
 - Heavy use of internal links for interconnectivity  
@@ -120,7 +119,7 @@ aliases:
 - Capture properties, ratings, and notes in reference files  
 - Use [Web Clipper](https://stephango.com/obsidian-web-clipper) for external material  
 - Include timestamps or revision history for all notes  
-- Maintain consistent frontmatter (tags, categories, modified date)  
+- Maintain consistent frontmatter (tags and modified date)  
 
 ---
 
@@ -139,7 +138,7 @@ aliases:
 - Reconnect older ideas to current projects  
 - Opportunity for maintenance: style, metadata, internal links  
 
-- Include script to check for broken links and missing metadata  
+- [ ] Include script to check for broken links and missing metadata  
 
 ---
 
@@ -156,10 +155,11 @@ aliases:
 
 ## 9. Backup and Sync Strategy
 
-- Mirror site to Neocities  
+- Mirror site on Neocities  
+- [ ] Mirror site on Nekoweb  
 - Repository mirrored on Codeberg  
 - Local + external USB backup via BORG BACKUP  
 - Sync across devices with Syncthing  
 - Maintain rolling backups for at least 10 days  
-- Periodically test backups for integrity and restore capability  
+- [ ] validate backups for via hash
 
