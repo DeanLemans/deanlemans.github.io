@@ -3,7 +3,9 @@ publish: true
 title: External Sites
 aliases:
   - blogroll
+modified: 2025-11-11
 ---
+
 # Cool Personal sites
 
 > [!NOTE]Alternative titles
@@ -17,12 +19,12 @@ aliases:
 
 
   <ul style="
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;">
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;">
   <li><a href="https://digdeeper.neocities.org/">Dig Deeper</a></li>
   <li><a href="https://skumsoft.ltd/slimenet/indexx.html">>>SLIME-NET</a></li>
   <li><a href="https://www.thelivingphilosophy.com/">The Living Philosophy</a></li>
@@ -52,13 +54,13 @@ aliases:
 </ul>
 
   <ul style="
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    margin-left: 20%;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;">
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	margin-left: 20%;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;">
   <li><a href="https://displayman.neocities.org/">Daniel's virtual place</a></li>
   <li><a href="https://hamatti.org/">Juha-Matti Santala</a></li>
   <li><a href="https://studio-idem.com/">Studio Idem</a></li>
@@ -90,4 +92,4 @@ aliases:
 
 
 
-+ [ ] fix css embeded layout on mobile
+- [ ] fix css embedded layout on mobile

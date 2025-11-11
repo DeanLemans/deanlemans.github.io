@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: exclude
+tags:
+  - exclude
 title: Site Rules
 description: vault rules, sorting system, naming rules, creating rules
 aliases:

@@ -1,6 +1,7 @@
 ---
 publish: true
-aliases: [education]
+aliases:
+  - education
 modified: 2025-11-11
 ---
 

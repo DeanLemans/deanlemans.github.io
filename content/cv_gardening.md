@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2025-10-21
+modified: 2025-11-11
 title: CV Gardening
 ---
 
-> [!danger] WIP  
+> [!danger] WIP
 > Currently reworking this
 
-> [!info]- Click here for PDF  
-> ***[PDF Version](<./static_files/personal/CV-DeanLemans3>)***  
+> [!info]- Click here for PDF
+> ***[PDF Version](<./static_files/personal/CV-DeanLemans3>)***
 
 ---
 
@@ -37,7 +37,7 @@ title: CV Gardening
 > - Dutch *(Native)*
 > - English *(Advanced)*
 
---- 
+---
 
 > [!info] Contact me!
 > - See my **[Contact Links](https://linksta.cc/@Dean)**

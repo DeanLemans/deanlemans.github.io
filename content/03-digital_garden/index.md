@@ -1,6 +1,7 @@
 ---
 publish: true
 title: 03 Digital Garden
+modified: 2025-11-11
 ---
 
 Digital things i like?

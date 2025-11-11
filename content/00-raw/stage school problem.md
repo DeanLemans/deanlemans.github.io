@@ -1,10 +1,14 @@
+---
+modified: 2025-11-11
+---
+
 # leerbedrijf dingen
 
 ---
 
-# Tri/fundemental
+# Tri/fundamental
 
-problem: 
+problem:
 1. verwachting is dat ik werknemer word, ik ben van plan om na opleiding.
 2. ik heb ervaring nodig, om voor mezelf te beginnen
 3. tri verwacht dat ze een werknemer kunnen geven aan het bedrijf, en dit loopt vast met wat ik in de toekomst wil.
@@ -14,22 +18,23 @@ oplossing: idk
 
 
 ---
+
 # Ploegmakers/secondary
 
-problem: 
+problem:
 1. alleen maar bosmaaien en bladblazen
-2. groot groen is niet mijn ding, niet praktisch met wat ik in de toekomst wil doen.
+2. groot groen is niet mijn ding, niet praktisch met wat ik in de toekomst wil done.
 3. zeggen dat ik niet gemotiveerd ben.
 4. ik doe niks van de school opdrachten
-5. plan maken voor jan? maar ik ga toch weg, ik ga wel mee in het gesprek
+5. plan maken voor jan? maar ik ga toch weg, ik ga well mee in het gesprek
 
 ---
 
 leerbedrijven:
-perfect requirements: 1 persoons-bedrijf dat onderhoud en tuinaanleg doet, persoonlijke focus, allround-hovenier, klein groen lijkt ook leuk. 
+perfect requirements: 1 persoons-bedrijf dat onderhoud en tuinaanleg doet, persoonlijke focus, allround-hovenier, klein groen lijkt ook leuk.
 
 ---
-- https://randolfigarden.nl/ (meer ontwerp/architect)
+- <https://randolfigarden.nl/> (meer ontwerp/architect)
 niet opgenomen: contact opnemen via mail of whatsapp
 ---
 
@@ -37,41 +42,30 @@ niet opgenomen: contact opnemen via mail of whatsapp
 gepensioneer, zoekt geen stagair
 ---
 
-- https://www.helpikhebeentuin.nl/ (aanleg en onderhoud)
-- 
+- <https://www.helpikhebeentuin.nl/> (aanleg en onderhoud)
 ---
-- https://vansleeuwenhoveniers.nl/vacatures/ (aanleg en onderhoud, meer op bouw gefocust)
-- 
+- <https://vansleeuwenhoveniers.nl/vacatures/> (aanleg en onderhoud, meer op bouw gefocust)
 ---
-- https://www.lipsgroen.nl/vacature-leerling-hovenier/ 
-- 
+- <https://www.lipsgroen.nl/vacature-leerling-hovenier/>
 ---
-- https://jorisvlassaktuinen.nl/vacatures/
-- 
+- <https://jorisvlassaktuinen.nl/vacatures/>
 ---
-- https://www.leonkerkhoftuinaanleg.nl/vacatures/ (onderhoud en aanleg)
+- <https://www.leonkerkhoftuinaanleg.nl/vacatures/> (onderhoud en aanleg)
 - 06 57 39 01 85
 ---
-- https://ruho.nl/ (geeft ook begeleiding 1-manzaak)
-- 
+- <https://ruho.nl/> (geeft ook begeleiding 1-manzaak)
 ---
-- https://tuinspecialist-chris.nl/ (aanleg, 1-manzaak)
-- 
+- <https://tuinspecialist-chris.nl/> (aanleg, 1-manzaak)
 ---
-- https://www.vansummerentuinen.nl/ (1man zaak)
-- 
+- <https://www.vansummerentuinen.nl/> (1man zaak)
 ---
-- http://vantieltuinen.nl/ (1 man zaak)
-- 
+- <http://vantieltuinen.nl/> (1 man zaak)
 ---
-- https://egelantiertuinen.nl/ (1 man zaak)
-- 
+- <https://egelantiertuinen.nl/> (1 man zaak)
 ---
-- http://www.vanderwijsttuinen.nl/ (1 man zaak)
-- 
+- <http://www.vanderwijsttuinen.nl/> (1 man zaak)
 ---
-- https://huismangroen.nl/ (1 man zaak)
-- 
+- <https://huismangroen.nl/> (1 man zaak)
 ---
 - geen site;
 	- Mex Worx
@@ -96,7 +90,7 @@ ik ben Dean, ik ben 18 jaar. zon 1 jaar in het groen onderhoud voor mezelf, en d
 
 Het sprak me heel aan omdat ik op zoek was naar een groen leerbedrijf met variatie in het werk, zodat ik veel kan leren.
 
-Ik werk al in een bedrijf gefocust groot groen(beetje gemeente werk), maar dit blijkt mij niet leuk te vallen. Daarom ben ik op zoek naar een beter leerbedrijf met een wat persoonlijkere/kleinere focus.
+Ik werk al in een bedrijf gefocust groot groen(beetje gemeente werk), maar dit blijkt mij niet leuk te vallen. Daarom ben ik op zoek naar een better leerbedrijf met een wat persoonlijkere/kleinere focus.
 
 ---
 

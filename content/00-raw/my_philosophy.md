@@ -1,7 +1,7 @@
 ---
 title: My philosophy?
 created: 2024-05-09
-modified: 2025-11-09
+modified: 2025-11-11
 publish:
 draft: "true"
 aliases:
@@ -18,28 +18,27 @@ aliases:
 > trust fully in your own cause, use that of others to your own benefit.
 > change/improvement is not a destination, it is a direction/a way of being/living.
 > do onto others, before they do onto you?(dont be that saint to afraid to offend people).
-> 
-> Eruditas, the pursuit of knowledge and intellectual clarity. knowledge isnt static, its the process of constantly refining and learning more.
+>
+> Eruditas, the pursuit of knowledge and intellectual clarity. knowledge isn't static, its the process of constantly refining and learning more.
 > Vitalis, the balance of physical health and strength.(overcome)
 > Dominatus, the quiet strength of superiority through understatement and strategic restraint
-> 
-> Memento Mori, rememer that you can Die.
+>
+> Memento Mori, remember that you can Die.
 > (why not must?)
-> Memento Vivere, remember that yoy can Live.
-> 
+> Memento Vivere, remember that you can Live.
+>
 > growth, to be more, in mind spirit, tactics, soul, social, body
-
-
 
 # My Manifesto / Philosophy / Beliefs / Thesis of Self / Doctrine
 
 ## I. Challenge to Self
+
 (to my ego, my arrogance, my pride, and myself)
 	to have my ideas challenged, tested, and attacked, and when they fail, i will have greater insight/knowledge on how to act/improve in the future, failure/mistakes is never the end, simply another learning point (obstacles in the path of self)
 
 ## II. Knowledge & Reflection
 
-- My brain is for generating ideas and notetaking is for holding them, refining and adapting them in usable shape, not that the brain cant already to this, notetaking is more of a adition then a replacement.
+- My brain is for generating ideas and notetaking is for holding them, refining and adapting them in usable shape, not that the brain cant already to this, notetaking is more of a addition then a replacement.
 - Notetaking/writing down thoughts to not loose ideas between cracks of memory, it is reflection, a confrontation of past ideas/ideals that may prove wrong in the future.
 - Knowledge is not fixed in DNA, you can always change yourself, things are inherited yes, but that does not mean they are set in the law of the world/reality/stone.
 
@@ -81,7 +80,18 @@ aliases:
 - Silence, masks, hidden depth, lies and deception. to master myself and to master/influence others
 
 
+
 ---
+
+### solution
+
+- the ego must be better then the ego,
+- the ego must master the self,
+- the self must master the ego,
+- ego must tame itself in order to become more
+
+---
+
 ### Links
 
 - [trajectory](../trajectory.md)

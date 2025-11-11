@@ -21,3 +21,8 @@ a service that could/can be a subscrition that aims to help old people with inte
 ---
 
 # gardening
+
+a 1 man company focused on maintenance or aanleg.
+start with ZZP
+expand/marketing/starting: searching for projects via flyers, facebook(for old people)
+quantity or quality? several smaller gardens for or 1 big projetcs that brings in the money

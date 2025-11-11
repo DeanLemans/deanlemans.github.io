@@ -1,7 +1,9 @@
 ---
 title: Old Pastebin
 description: i need to integrate this into my vault. sum random shit in here
+modified: 2025-11-11
 ---
+
 # an old pastebin
 
 Day 1 - Explosive Power (fast + crisp movements, 5-6 reps)
@@ -68,11 +70,11 @@ azijn herbicide4
 
 haibane renmei
 
-https://framatube.org/w/g4L4nfHrXjKEVGQYVfaYpm
+<https://framatube.org/w/g4L4nfHrXjKEVGQYVfaYpm>
 
-https://garden.org/learn/articles/view/60/Organic-Fertilizers/
+<https://garden.org/learn/articles/view/60/Organic-Fertilizers/>
 
-https://www.soilmanagementindia.com/plant-nutrients/list-of-16-essential-plant-nutrients-with-their-functions/2604
+<https://www.soilmanagementindia.com/plant-nutrients/list-of-16-essential-plant-nutrients-with-their-functions/2604>
 
 how to choose a a license for your own work
 
@@ -95,9 +97,9 @@ warhammer vermintide 2
 
 fractured blooms game
 
-https://www.goodreads.com/list/show/219561.TejoMed_Wellness_Longevity_Reads
+<https://www.goodreads.com/list/show/219561.TejoMed_Wellness_Longevity_Reads>
 
-https://newzapiens.com/
+<https://newzapiens.com/>
 
 clam av
 
@@ -107,17 +109,17 @@ hypertext garden
 
 a brief history and ethos of the digital garden
 
-https://www.reddit.com/r/ObsidianMD/comments/1n2gwmq/core_insights_for_obsidian_beginners/
+<https://www.reddit.com/r/ObsidianMD/comments/1n2gwmq/core_insights_for_obsidian_beginners/>
 
 mycopsychosis ga.e
 
-database of hobo signs and sources(focus on pratical stuff)
+database of hobo signs and sources(focus on practical stuff)
 
 collagen health benefit
 
-desision grid for making desisions
+decision grid for making decisions
 
-https://m.youtube.com/watch?v=SgnJfyckomo&pp=0gcJCR4Bo7VqN5tD
+<https://m.youtube.com/watch?v=SgnJfyckomo&pp=0gcJCR4Bo7VqN5tD>
 
 powerblock
 

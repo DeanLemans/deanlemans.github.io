@@ -3,17 +3,18 @@ publish: true
 title: 00 Raw
 tags:
   - exclude
+modified: 2025-11-11
 ---
 
 Also know as the true part of my site, i dont want to maintain 2 site (normal and professional 'image'), so i just decided to create a excluded folder in my site that is for normal use.
 
-this is the true site/side of my site, the normal porion is filtered for work/profesional use.
+this is the true site/side of my site, the normal porion is filtered for work/professional use.
 
-Alt titles:  
+Alt titles:
 True site
-Hidden  
-Casual  
-Truth  
+Hidden
+Casual
+Truth
 Behind the scenes
 
 

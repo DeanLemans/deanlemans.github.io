@@ -1,6 +1,8 @@
 ---
 description: something i based on something but i forgot what. there was something here once, something new perhaps?
+modified: 2025-11-11
 ---
+
 # a perspective
 
 Grey the Paradox, prisoner of restraint, keen of mind and holder of pragmatism

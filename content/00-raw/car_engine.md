@@ -1,8 +1,9 @@
 ---
 description: most relialbe engine type shi
+modified: 2025-11-11
 ---
-# reliable/long term car engine
 
+# reliable/long term car engine
 
 Toyota 1HZ – Legendary 4.2L inline-6 diesel. Gear-driven + a tiny belt you could change blindfolded. No turbo, no drama. Just runs.
 
@@ -19,4 +20,4 @@ Opel C24NE – 2.4L gas 4-cylinder. Iron block, iron head. Ultra-basic design = 
 Mercedes OM314 – Old-school 3.8L industrial diesel. 4-cylinder, gear-driven cam, no turbo. Tiny footprint, giant heart.
 
 This list sticks to fully cast-iron engines only.
-there are plenty of other legendary “million-mile” motors out there with aluminum heads.(but those are not really meant to last a million-mile)
+there are plenty of other legendary "million-mile" motors out there with aluminum heads.(but those are not really meant to last a million-mile)

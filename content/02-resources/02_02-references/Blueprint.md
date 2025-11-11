@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Blueprint
+modified: 2025-11-11
 ---
 
-[Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)  
+[Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)
 Bryan Johnson's Blueprint Protocol is a data‑driven anti‑aging routine.
 
 - Diet: very strict, nutrient-dense meals and precise calorie and timing rules.

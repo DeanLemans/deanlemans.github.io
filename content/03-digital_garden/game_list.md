@@ -3,13 +3,13 @@ publish: true
 title: Game Collection!
 description: collection of games
 created: 2024-10-08
-modified: 2025-09-25
+modified: 2025-11-11
 ---
 
-#todo  
+#todo
 Add my old playstation, and wii games to this list
 
-> [!info]  
+> [!info]
 > I prefer Itch to Steam links.
 
 ## My Favorite Games
@@ -134,7 +134,7 @@ The Dark Queen of Mortholme
 	</summary>
 	<article>
 		<p><a href="https://mods.one/mod/nemuri">NEMURI</a> + <a href="https://mods.one/mod/cep">CEP</a> for base game</p>
-		<p><a href="https://mods.one/mod/ambien">AMBIEN</a></p>
+		<p><a href="https://mods.one/mod/ambien">Ambient</a></p>
 		<p><a href="https://mods.one/mod/reverie">reverie</a></p>
 		<p><a href="https://mods.one/mod/autumnbreak">Autumn break</a></p>
 	</article>
@@ -280,5 +280,5 @@ The Dark Queen of Mortholme
 - [Gris](https://nomada.studio)
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
 
-> [!info]  
+> [!info]
 > also check out my [book_list](<./book_list.md>)

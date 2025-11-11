@@ -1,13 +1,18 @@
+---
+modified: 2025-11-11
+---
+
 # School learning
 
 # roel bouwman
+
 - 06-41777024
 
 - POC (moet teruggestuurd worden naar adminisrtatue yuverta)
 
 - praktijk of bedrijf, kennistoets op school
 
-- meld aan bedrijf welke focus je hebt van periode
+- meld aan bedrijf welke focus je hebt van period
 
 - vca VOL aanvragen
 
@@ -20,7 +25,7 @@
 3. aanleg softscape(plant)
 4. bemesting
 5. aanleg hardscape
-6. meer bouw leren(tuinen kan ik wel maar nog niet veel ervaring bouw)
+6. meer bouw leren(tuinen kan ik well maar nog niet veel ervaring bouw)
 
 ---
 
@@ -33,6 +38,7 @@ kalk
 koeienmest
 
 # 4 manieren beheersing
+
 - chemisch
 - thermisch(heet water, branden)
 - mechinaal
@@ -45,7 +51,7 @@ schrepel
 
 ---
 wat kan hovenier zijn?
-iemand die tuinaanleg doet voor een klant, dit kan bijvoorbeeld: 
+iemand die tuinaanleg doet voor een klant, dit kan bijvoorbeeld:
 electricitijd(belichting)
 loodgieter(kraan)
 onderhoud.
@@ -64,8 +70,9 @@ heermoes == arme grond
 ---
 
 # kantsteken
+
 - na het maaien
-- als gras lang is
+- also gras lang is
 - netheid
 - kant_
  - snijder(motorisch)
@@ -73,10 +80,12 @@ heermoes == arme grond
  - knipper(netheid)
 
 # verticuleren
+
 see teams for more
 - afharken van afval
 
-# doorzaaien/bemesten 
+# doorzaaien/bemesten
+
 - 1/2 keer per jaar
 - bemesten kan in de zomer
 - kale plekken doorzaaien
@@ -85,12 +94,13 @@ see teams for more
 - best verhouding NPK: 12/10/18 PH: 6,5/7(kalk strooien kan helpen met PH, maar niet veel.)
 
 # bezanden/dressen
+
 - 1/2 per jaar(voorjaar /najaar)
 - bodemstructuur verbeteren
 - opervlakte vlak/even maken
 - bezanden op klei
 - dressen is vlakmaken(kan ook: egaliseeren)
-- nooit doen: grond opgooien op gras dat er al licht, oude gras vormt een harde/stoorende laag.
+- nooit done: grond opgooien op gras dat er al licht, oude gras vormt een harde/stoorende laag.
 - mei/juni
 
 ---
@@ -98,6 +108,7 @@ see teams for more
 # machinesonderhoud, + startklaar
 
 ## Welke machine is dit?
+
 Bladblazer, 4tak
 - welk onderhoud doe je zelf?
 Bijvullen, harnas, buis, filter vervangeng, air-intake, olie.
@@ -107,9 +118,10 @@ Buis = 3.71
 - welke pbm is nodig?
 Oorkappen, veiligheids bril, handschoenen, mondkapje.
 - hoe maak je machine startklaar?
-Benzine er in doen, en aan startkoord trekken.
+Benzine er in done, en aan startkoord trekken.
 
 ## Heggeschaar
+
 Onderhoud
 1 afblazen
 2 insprayen
@@ -142,8 +154,8 @@ Smeering
 
 Plant met veel takken dicht op elkaar.
 
-
 # hagen
+
 - afscheiding
 - privacy
 - biodiversiteit -> meidoorn
@@ -153,6 +165,7 @@ Plant met veel takken dicht op elkaar.
 Meeste groei zit boven in de haag(hadden we dit niet al eerder gehad?)
 
 ## Snoeiwijze
+
 Zijkanten dan bovenkant
 
 Na het haag knippen het afval laten liggen voor biodiversiteit, egel eet slakken.

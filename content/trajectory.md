@@ -2,7 +2,7 @@
 publish: true
 title: Trajectory
 created: 2025-07-25
-modified: 2025-10-24
+modified: 2025-11-11
 ---
 
 > [!NOTE]Alternative titles
@@ -13,8 +13,8 @@ modified: 2025-10-24
 
 ### Preface
 
-All of these things can be mixed, matched, and sorted as needed; they're not hard rules/absolutes, since nothing survives the real world without getting intact. So, just pick them apart, dissect them and grab the useful bits for me right now.  
-Reality's always shifting, so these are just 'frameworks' I can tear into and fuse together when i want.  
+All of these things can be mixed, matched, and sorted as needed; they're not hard rules/absolutes, since nothing survives the real world without getting intact. So, just pick them apart, dissect them and grab the useful bits for me right now.
+Reality's always shifting, so these are just 'frameworks' I can tear into and fuse together when i want.
 **always Create multiple fallbacks/backups in case of fuckups.**
 
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Streisand effect
+modified: 2025-11-11
 ---
 
 the more you try to hide/restrict information the more people will find out.
