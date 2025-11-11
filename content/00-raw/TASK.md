@@ -34,3 +34,8 @@ Topics
 - [ ] [Dual Licensing](https://duallicensing.com/)
 
 + [ ] i need to search through to my notes and add more internal links. 
+
+---
+# done
+
+- [x] Link to CI workflow here ✅ 2025-11-11

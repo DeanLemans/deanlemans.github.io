@@ -10,7 +10,9 @@ aliases:
 ---
 # Site Rules and Vault System
 
-currently being rewritten!
+> [!note] note
+> this vault is written as a legacy of mine,
+> therefore it should be future proof.
 
 ---
 
@@ -21,37 +23,47 @@ currently being rewritten!
 - make art everyday  
 - it doesn't have to be perfect  
 - sleep quality is absolute  
-- vault mentality (record everything, store it)
+- vault mentality (record everything, store it)  
+- design workflows that remain useful and understandable decades from now
 
 ---
 
 ## 2. Format and Compatibility
 
 - Always use open formats (pandoc?)  
-- Prefer `.odt` instead of `.docx`
+- Prefer `.odt` over `.docx`  
+- Maintain forward-compatible formats to avoid vendor lock-in  
+- Keep metadata in human-readable form 
 
 ---
 
 ## 3. System Philosophy
 
-- A system should be self-reinforcing and self-defending.  
-- It should not be 100% my responsibility for maintaining a vault structure; instead, I should build a system that partially reinforces itself.
+- System should be self-reinforcing and self-defending  
+- Minimize overhead; vault should maintain itself wherever possible  
+- Structure for scalability: multiple projects, multiple contributors, long-term reference  
+- Include versioning and 256-hash to confirm vault integrity to future-proof against edits or deletions
 
 ---
 
 ## 4. Reviews and Automation
 
-- Create a monthly and yearly review cycle.  
-- Some tasks can be automated: automated spellcheck, warnings when notes lack tags, etc.  
-- enjoyment in the process.
+- Schedule monthly and yearly reviews for both content and structure  
+- Automate repetitive tasks:  
+  - spellcheck  
+  - tag or category validation  
+  - unresolved link notifications  
+- Maintain enjoyment and flow during maintenance  
+- Design automation to degrade gracefully if tools or scripts become obsolete  
 
 ---
 
 ## 5. Structure and Publishing Rules
 
-- I currently use the Jhony Decibel naming scheme, an evergreen/digital garden system, and a memex-style structure.  
-- Public site contains finished work; `00-raw` folder contains unfinished work.  
-- Notes are published using `publish: true`; drafts remain `publish: false`.
+- Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault  
+- Public site contains polished work; `00-raw` contains drafts and experimental notes  
+- Publishing rules:  
+  - `publish: true` → accessible in site  
 
 **Folder Structure**  
 - `00-raw`  
@@ -59,95 +71,93 @@ currently being rewritten!
 - `02-resources`  
 - `03-digital_garden`  
 
-- Always use underscores _ for spaces in file and folder names.
+- Always use underscores `_` for spaces  
+- Include index.md in each folder for context and information.  
 
 ---
 
 ## 6. Vault Philosophy
 
-- A folder of files. A vault. A portfolio. A personal site. A digital garden. A memex.  
-- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md).  
-- Files must be in open formats that are easy to retrieve and read.  
-- Tools: Obsidian, Quartz, Markdown.
-
-*Note: This workflow is not absolute, but reflects my personal approach.*
+- A folder of files. A vault. A portfolio. A digital garden. A memex.  
+- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)  
+- Store files in open, readable formats  
+- Use consistent naming and metadata for searchability and automation  
+- Tools: Obsidian, Quartz, Markdown
 
 ---
 
 # 7. Folder Structure / Sorting System
 
-### 7.1 My Rules
+### 7.1 Core Rules
 
-- Only use one vault across everything.  
-- Minimize folder usage to reduce overhead.  
-- [ ] Migrate external content where possible, or at least link it.  
-- Avoid non-standard Markdown; use semantic HTML if necessary.  
-- Always pluralize tags.  
-- Use internal links extensively.  
-
-- Consistent style collapses hundreds of possibilities into a single decision path.  
-- Make a personal style guide; it can evolve over time.
+- Use a single vault to centralize all content  
+- Reduce folder complexity to simplify navigation and maintainability  
+- [ ] Migrate external content locally or at least link it  
+- writen in standard markdown and sometimes embeded html.
+- Always pluririze tags 
+- Heavy use of internal links for interconnectivity  
 
 ---
 
-### 7.2 Folders and Organization
-
-- Minimize folder usage to reduce decision overhead.  
-- Notes are primarily organized using the 4 main folders + tags.  
+### 7.2 Folder Organization
 
 **Reference Folder**  
-- `02-resources/02_03-clippings` — saves external essays, articles, and high-quality wiki pages.
+- `02-resources/02_03-clippings` — external content (essays, articles, high-quality wiki pages)  
 
 **Admin Folder (hidden in navigation)**  
-- `static_files` — images, audio, videos, PDFs, etc.
+- `static_files` — images, audio, template, PDFs, etc.  
 
-**Raw Folder (hidden but accessible)**  
-- `00-raw` — unpolished or unfinished notes.
-
----
-
-### 7.3 Links
-
-- Always link the first mention of a concept.  
-- Capture properties, ratings, and thoughts in reference notes.  
-- Use [Web Clipper](https://stephango.com/obsidian-web-clipper) to preserve external content.  
-- Heavy linking helps trace idea evolution and relationships over time.
+**Raw Folder (hidden, accessible)**  
+- `00-raw` — drafts, unpolished experiments, 'unprofesional' stuff
 
 ---
 
-### 7.4 Pruning and Random Revisit
+### 7.3 Links and Metadata
 
-- Pruning + randomization tame the growth of a knowledge base.  
-- Occasionally comb through notes to update content and metadata.  
-- Use `modified: {{current date}}` to track edits.
+- Always link first mentions; unresolved links act as breadcrumbs  
+- Capture properties, ratings, and notes in reference files  
+- Use [Web Clipper](https://stephango.com/obsidian-web-clipper) for external material  
+- Include timestamps or revision history for all notes  
+- Maintain consistent frontmatter (tags, categories, modified date)  
 
-**Fractal Journaling**  
-- Use Obsidian’s *unique note* hotkey to log individual thoughts.  
-- Notes automatically receive `YYYY-MM-DD HHmm` prefixes; titles describe content.  
-- Review fragments weekly, compile salient points, review monthly, and yearly.  
-- Creates a fractal web of life for tracing thought evolution.
+---
+
+### 7.4 Pruning, Random Revisit
+
+- Periodically review notes to update content, metadata, and structure  
+- `modified: {{date}}` to track edits  
+
+**Pruning**
+- Use Obsidian's *unique note* hotkey to log thoughts  
+- Weekly compilation, monthly review, yearly meta-review  
+- Preserves a fractal web of thought for analysis and historical reference  
 
 **Random Note Exploration**  
-- Use the graph view to discover related notes.  
-- Helps revisit ideas, create links, inspire new insights.  
-- Opportunity for maintenance: formatting, metadata, and style guide updates.
+- Graph view exploration to find related notes  
+- Reconnect older ideas to current projects  
+- Opportunity for maintenance: style, metadata, internal links  
+
+- Include script to check for broken links and missing metadata  
 
 ---
 
 ## 8. Publishing to the Web
 
-- Notes are written in Markdown with Obsidian; site code edited in Zed.  
-- Quartz static site generator compiles Markdown into HTML.  
-- Deployment: push notes to GitHub via GUI, compile with GitHub Actions.  
-- Hosting: GitHub Pages and Neocities, using CI workflow.
+- Markdown content edited in Obsidian, site code in Zed  
+- Quartz static site generator converts Markdown to HTML  
+- Deployment via GitHub GUI + GitHub Actions  
+- Hosting: GitHub Pages, Neocities ([CI/CD available here](https://github.com/DeanLemans/deanlemans.github.io/tree/v4/.github/workflows))
 
-- [ ] Link to CI workflow here
+- [ ] archive site via something like waybackmachine
 
 ---
 
 ## 9. Backup and Sync Strategy
 
-- Mirror site to Neocities.  
-- Repository mirrored on Codeberg for backup.  
-- Local + external USB backups via BORG BACKUP for all vault + Obsidian configs.  
-- Sync files across devices via Syncthing; extra backup keeps 10 days of history.  
+- Mirror site to Neocities  
+- Repository mirrored on Codeberg  
+- Local + external USB backup via BORG BACKUP  
+- Sync across devices with Syncthing  
+- Maintain rolling backups for at least 10 days  
+- Periodically test backups for integrity and restore capability  
+
