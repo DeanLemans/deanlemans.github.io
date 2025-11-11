@@ -4,6 +4,9 @@ tags:
   - exclude
 title: Site Rules
 description: vault rules, sorting system, naming rules, creating rules
+aliases:
+  - site_rules
+  - vault_rules
 ---
 
 currently being rewritten!
