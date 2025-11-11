@@ -4,8 +4,8 @@ title: Analytics
 description:
 publish:
 ---
-plausible vs matomo vs goat counter vs umani
+reqq: open source, scalability, simplicity
 
-i want something simple withough
+plausible vs matomo vs goat counter vs umani
 
 landed on umani because of its balance between features and simplicity

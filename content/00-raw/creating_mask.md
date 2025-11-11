@@ -10,4 +10,4 @@ dreamwalker
 
 
 
-- [ ] connect with keyoxide or indieouth.(or no)
+- [ ] connect with keyoxide or indieouth.(or not?)
