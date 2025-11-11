@@ -7,6 +7,8 @@ description: vault rules, sorting system, naming rules, creating rules
 aliases:
   - site_rules
   - vault_rules
+  - Site Rules
+  - Vault Rules
 ---
 # Site Rules and Vault System
 
