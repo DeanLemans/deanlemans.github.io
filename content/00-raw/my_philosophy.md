@@ -4,6 +4,8 @@ created: 2024-05-09
 modified: 2025-11-09
 publish:
 draft: "true"
+aliases:
+  - my_philosphy
 ---
 
 > [!NOTE] A note to those that read this. (TLDR; FUCK OFF)

@@ -4,12 +4,16 @@ title: Quotes
 aliases:
   - Quotes
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
+tags:
+  - permanent
 ---
 alt title:
 stuff from books, lines is found interesting, snippets from something
 some stuff i expanded on because i found it fitting
 
-actually linking/sourcing them is to much effort, so to bad if you want to find the origin. go do it yourself
+actually linking/sourcing them is to much effort, so to bad if you want to find the origin. go do it yourself.
+
+i dont agree wholy with everything in here, still need to prune a bit
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 draft: "true"
 title: Rymes, Poems, and Rough pieces
+tags:
+  - permanent
 ---
 
 # Complete

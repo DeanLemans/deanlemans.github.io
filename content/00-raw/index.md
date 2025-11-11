@@ -15,3 +15,6 @@ Hidden
 Casual  
 Truth  
 Behind the scenes
+
+
+content: raw ideas/thoughts that i havtn fully fleshed out
