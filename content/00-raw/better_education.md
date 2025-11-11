@@ -1,7 +1,7 @@
 ---
 publish: true
-aliases:
-  - education
+aliases: [education]
+modified: 2025-11-11
 ---
 
 # Introduction
@@ -12,19 +12,19 @@ So i will try to seek/find/create what a better education system is
 
 # What Must it Be? / Reqruiments
 
-Teach  
-	Autonomy  
-	Self learning  
-	Learning how to learn  
-	The love/want to learn  
-	Practical feedback  
+Teach
+	Autonomy
+	Self learning
+	Learning how to learn
+	The love/want to learn
+	Practical feedback
 	 practical knowledge (how the real world functions)
-	Teachers as mentors, not just repeaters of information  
+	Teachers as mentors, not just repeaters of information
 	Multi disciplinary teaching
 
-Inspiration/sources  
+Inspiration/sources
 
-(problem, below sacrifice systematic growth and uniformity in and focus more on autonomy, this will not be adopted by governments)  
-Summerhill: A Radical Approach to Child Rearing  
-Free school movement  
+(problem, below sacrifice systematic growth and uniformity in and focus more on autonomy, this will not be adopted by governments)
+Summerhill: A Radical Approach to Child Rearing
+Free school movement
 Modern School (Ferrer Schools)
