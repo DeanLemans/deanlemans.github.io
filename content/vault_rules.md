@@ -14,164 +14,140 @@ currently being rewritten!
 
 ---
 
-## Integration Plan
+## 1. Integration Plan
 
 (adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
 - become a finisher  
 - make art everyday  
-- it doesnt have to be perfect  
+- it doesn't have to be perfect  
 - sleep quality is absolute  
-- vault mentality (record everything store it)
+- vault mentality (record everything, store it)
 
 ---
 
-## Format and Compatibility
+## 2. Format and Compatibility
 
-always use open formats (pandoc?)  
-- odt instead of docx  
-
----
-
-## System Philosophy
-
-a system should be self reinforcing/defending  
-it should not be 100% my responsibility for maintaining a vault structure, instead i should build a system that partially reinforces itself.
+- Always use open formats (pandoc?)  
+- Prefer `.odt` instead of `.docx`
 
 ---
 
-## Reviews and Automation
+## 3. System Philosophy
 
-create a monthly and yearly review.
-
-some things can be automated, such as automated spellcheck, throwing a warning when building the site when a note doesnt have a tag. but at the same time i must keep the process enjoyable.
-
----
-
-## Structure and Publishing Rules
-
-i currently use the jhony decibel for folder names, and evergreen/digital garden, and also a memex kind of structure.  
-i have a public part of my site for finished work, and also a 00-raw folder for unfinished stuff.  
-my site publishes notes via the 'publish: true', all notes are created with 'publish: false'.
-
-folder structure:  
-00-raw  
-01-projects  
-02-resources  
-03-digital_garden  
-
-always use _ for spaces.
+- A system should be self-reinforcing and self-defending.  
+- It should not be 100% my responsibility for maintaining a vault structure; instead, I should build a system that partially reinforces itself.
 
 ---
 
-## Vault Philosophy
+## 4. Reviews and Automation
 
-A folder of files. A vault. A portofolio. A personal site. A digital garden. A memex.  
-It is important because it complies with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md) philosophy.  
-If you want to create digital pieces that last, they must be files you can control, in opem formats that are easy to retrieve and read.  
-Obsidian, Quartz, and Markdown give me that freedom.
-
-The following is not absolute, just how i use this vault/site/notes.
+- Create a monthly and yearly review cycle.  
+- Some tasks can be automated: automated spellcheck, warnings when notes lack tags, etc.  
+- enjoyment in the process.
 
 ---
 
-# Folder Structure / Sorting System
+## 5. Structure and Publishing Rules
 
-## My Rules
+- I currently use the Jhony Decibel naming scheme, an evergreen/digital garden system, and a memex-style structure.  
+- Public site contains finished work; `00-raw` folder contains unfinished work.  
+- Notes are published using `publish: true`; drafts remain `publish: false`.
 
-Rules I follow:
+**Folder Structure**  
+- `00-raw`  
+- `01-projects`  
+- `02-resources`  
+- `03-digital_garden`  
 
-- Only use 1 vault across everything  
-- Mitigate folder usage for organization.  
-- [ ] Try not to use external site for content, if possible migrate them to this site. (or at least link them)  
-- Avoid non-standard Markdown and if necessary only use semantic HTML.  
-- Always pluralize  tags.  
-- Use internal links profusely.  
-
-Having a [consistent style](https://stephango.com/style) collapses hundreds of possibilities into one, and gives me focus.  
-For example, I always pluralize tags so I never have to wonder what to name new tags.  
-Make your own style guide. You can always change your rules later.  
+- Always use underscores _ for spaces in file and folder names.
 
 ---
 
-## Folders and Organization
+## 6. Vault Philosophy
 
-I try to minimize my usage of folders.  
-I don't want the overhead of having to consider where something should go.
+- A folder of files. A vault. A portfolio. A personal site. A digital garden. A memex.  
+- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md).  
+- Files must be in open formats that are easy to retrieve and read.  
+- Tools: Obsidian, Quartz, Markdown.
 
-+ [ ] My notes will be primarily organized using the 4 folders and tags.
-
-This is where I write about my personal world: journal entries, essays, notes, and other personal things.  
-
-everything except the [02.03-clippings](02-resources/02_03-clippings/index.md) folder, is written by me.
-
-1 reference folder I use:
-- **02-resources/02_03-clippings** where I save things other people wrote, mostly essays, articles, and high quality wiki pages.
-
-1 admin folders exist so that their contents don't show up in the file navigation:
-- **static_files** for images, audio, videos, PDFs, etc.
-
-1 raw folder exists hidden in my site for more "unprofesional" you can still access it like any normal folder, its just hidden from the explorer.:
-- **00-raw**
+*Note: This workflow is not absolute, but reflects my personal approach.*
 
 ---
 
-## Links
+# 7. Folder Structure / Sorting System
 
-I try to always link the first mention of something.  
+### 7.1 My Rules
 
-In these reference notes I capture properties, my rating, and thoughts about that thing.  
-I use [Web Clipper](https://stephango.com/obsidian-web-clipper) to capture external content, as to not lose them in case of cencoring.
+- Only use one vault across everything.  
+- Minimize folder usage to reduce overhead.  
+- [ ] Migrate external content where possible, or at least link it.  
+- Avoid non-standard Markdown; use semantic HTML if necessary.  
+- Always pluralize tags.  
+- Use internal links extensively.  
 
-A heavy linking style becomes more useful as time goes on, because I can trace how ideas emerged, and the branching paths these ideas created.
-
----
-
-## Pruning and Random Revisit
-
-Pruning and randomization are how I tame the wilderness that a knowledge base can grow into.
-
-sometimes i just decide to comb through my notes to update the content and metadata.
-i have a 'modified: {{current date}}' so that i can see when i edited it last time
-
-Throughout the day I use Obsidian's *unique note* hotkey to write individual thoughts as they come up.  
-This shortcut automatically creates a note with the prefix `YYYY-MM-DD HHmm` to which I may add a title that describes the idea.
-
-Every few weeks I review these fragments and compile them.  
-I review those reviews monthly, and review the monthly reviews yearly.  
-The result is a fractal web of my life that I can zoom in and out of at varying degrees of detail.  
-
-Every few weeks I set aside time for a random note search
-I use the graph at shallow depth to see related notes.  
-This helps me revisit old ideas, create missing links, and find inspiration in past thoughts.  
-It's also an opportunity to do maintenance, like fix formatting based on new rules in this personal style guide.
-
-I enjoy this process.  
-Doing this maintenance helps me understand my own patterns. 
+- Consistent style collapses hundreds of possibilities into a single decision path.  
+- Make a personal style guide; it can evolve over time.
 
 ---
 
-## Publishing to the Web
+### 7.2 Folders and Organization
 
-This site content is written in markdown with Obsidian.  
-And the site code is edited with Zed.  
-I use a *static site generator* called Quartz to automatically compile my notes into a website.
+- Minimize folder usage to reduce decision overhead.  
+- Notes are primarily organized using the 4 main folders + tags.  
 
-For this site, I push notes from Obsidian to a GitHub repo using a git GUI.  
-The notes are then automatically compiled using Github actions.  
-I host my site freely on github pages and neocities with my CI workflow.  
+**Reference Folder**  
+- `02-resources/02_03-clippings` — saves external essays, articles, and high-quality wiki pages.
 
-(link to CI here)
+**Admin Folder (hidden in navigation)**  
+- `static_files` — images, audio, videos, PDFs, etc.
 
-- [ ] link to CI of site here
+**Raw Folder (hidden but accessible)**  
+- `00-raw` — unpolished or unfinished notes.
 
 ---
 
-## Backup and Sync Strategy
+### 7.3 Links
 
-i also mirror my site to neocities
+- Always link the first mention of a concept.  
+- Capture properties, ratings, and thoughts in reference notes.  
+- Use [Web Clipper](https://stephango.com/obsidian-web-clipper) to preserve external content.  
+- Heavy linking helps trace idea evolution and relationships over time.
 
-my site repository is also mirrored on codeberg for backup
+---
 
-i have a local and external usb backup (with BORG BACKUP), for all of my vault and obsidian configuration
+### 7.4 Pruning and Random Revisit
 
-i sync my files between my phones and laptop via syncthing, i use the extra backup feature from that for well.. extra backup! (it create a backup every day, and keep that for 10 days)
+- Pruning + randomization tame the growth of a knowledge base.  
+- Occasionally comb through notes to update content and metadata.  
+- Use `modified: {{current date}}` to track edits.
+
+**Fractal Journaling**  
+- Use Obsidian’s *unique note* hotkey to log individual thoughts.  
+- Notes automatically receive `YYYY-MM-DD HHmm` prefixes; titles describe content.  
+- Review fragments weekly, compile salient points, review monthly, and yearly.  
+- Creates a fractal web of life for tracing thought evolution.
+
+**Random Note Exploration**  
+- Use the graph view to discover related notes.  
+- Helps revisit ideas, create links, inspire new insights.  
+- Opportunity for maintenance: formatting, metadata, and style guide updates.
+
+---
+
+## 8. Publishing to the Web
+
+- Notes are written in Markdown with Obsidian; site code edited in Zed.  
+- Quartz static site generator compiles Markdown into HTML.  
+- Deployment: push notes to GitHub via GUI, compile with GitHub Actions.  
+- Hosting: GitHub Pages and Neocities, using CI workflow.
+
+- [ ] Link to CI workflow here
+
+---
+
+## 9. Backup and Sync Strategy
+
+- Mirror site to Neocities.  
+- Repository mirrored on Codeberg for backup.  
+- Local + external USB backups via BORG BACKUP for all vault + Obsidian configs.  
+- Sync files across devices via Syncthing; extra backup keeps 10 days of history.  
