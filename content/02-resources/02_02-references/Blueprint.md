@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Blueprint
 modified: 2025-11-11
 ---

@@ -37,7 +37,7 @@ Topics
 - [ ] [Dual Licensing](https://duallicensing.com/)
 
 - [ ] i need to search through to my notes and add more internal links.
-
+- [ ] rethink the references folder
 ---
 
 # done
