@@ -15,14 +15,14 @@ currently being rewritten!
 ---
 
 to be integrated:
-(adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
 
-work fast
-become a finisher
-make art everyday 
-it doesnt have to be perfect
-sleep
-vault mentality(record everything store it)
+
+(adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
+- become a finisher
+- make art everyday 
+- it doesnt have to be perfect
+- sleep quality is absolute
+- vault mentality(record everything store it)
 
 always use open formats (pandoc?)
 - odt instead of docx
@@ -37,6 +37,14 @@ create a monthly and yearly review.
 some things can be automated, such as automated spellcheck, throwing a warning when building the site when a note doesnt have a tag. but at the same time i must keep the process enjoyable
 
 i currently use the jhony decibel for folder names, and evergreen/digital garden, and also a memex kind of structure, i have a public part of my site for finished work, and also a 00-raw folder for unfinished stuff, my site publishes notes via the 'publish: true', all notes are created with 'publish: false'
+
+folder structure:
+00-raw
+01-projects
+02-resources
+03-digital_garden
+
+always use _ for spaces.
 
 ---
 
@@ -82,8 +90,6 @@ Two reference folders I use:
 - **static_files** for images, audio, videos, PDFs, etc.
 
 ## Links
-
-+ [ ] i need to search through to my notes and add more internal links. 
 
 I try to always link the first mention of something. Often the link is *unresolved*, meaning that the note for that link isn't created yet. Unresolved links are important because they are breadcrumbs for future connections between things.
 

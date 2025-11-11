@@ -33,3 +33,4 @@ Topics
 - [ ] Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
 - [ ] [Dual Licensing](https://duallicensing.com/)
 
++ [ ] i need to search through to my notes and add more internal links. 
