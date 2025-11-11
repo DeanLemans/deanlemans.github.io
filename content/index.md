@@ -9,21 +9,11 @@ aliases:
   - my-site/
 ---
 
-# What is This Site? WIP
-
-It is a potofolio and a legacy. Created to showcase who i am and for a future where i am dead
-
 # Dean Lemans – Freelance Gardener & Indie Software Developer
 
 <div style="text-align:center;">
-  <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:350px;max-width:100%;height:auto;">
+  <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
 </div>
-
-> [!tip] How to update site? (TEMPORARY TILL I FIX CACHE ISSUES)
-> **Windows:**
->  	- `Ctrl + F5`
-> **Mac:**
-> 	-  `Shift + Command + R`
 
 ## About Me
 
@@ -34,10 +24,10 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 ## Check Out My CVs
 
 > [!info] [Software CV](<./cv_software.md>)
-> Detailed technical and development experience.
+> Detailed development experience.
 
 > [!info] [Gardening CV](<./cv_gardening.md>)
-> Practical hands-on gardening projects and experience.
+> gardening experience.
 
 ## Tools & Technologies
 
@@ -47,11 +37,10 @@ It is a potofolio and a legacy. Created to showcase who i am and for a future wh
 	- **IDE:** [Zed](https://zed.dev/)
 	- **Version Control & Workflow:** GitHub/Codeberg and Git
 - Hardware (gardening)
-	- Mostly electric tools, but if its to weak i use a maximum of aspen 2
-
+	- I prefer electric as they are lighter, but sometimes electric is just to weak, in that case I will just use Aspen fueled
 ## Interests & Hobbies
 
-- Gaming and Game Development
+- Gaming
 - Gardening
 - Manga and Novels
 - Open Source

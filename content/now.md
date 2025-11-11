@@ -4,7 +4,7 @@ publish: true
 modified: 2025-11-11
 ---
 
-# now
+# /now
 
 # Current
 
