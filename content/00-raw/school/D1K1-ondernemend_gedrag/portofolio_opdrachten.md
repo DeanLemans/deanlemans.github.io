@@ -159,3 +159,140 @@ Gebruik één van de onderstaande vormen om de opdracht uit te werken en op te n
 
 
 ---
+
+# Portfolio-opdracht: Werkproces D1-K1-W2
+
+## Doel
+
+**Onderzoekt kansen en mogelijkheden voor ondernemend gedrag**
+
+## Voorbereiding
+
+- [ ] Lees de opdracht goed door
+- [ ] Stel vragen aan je begeleider als je iets niet begrijpt
+
+## Opdracht: Kansen en mogelijkheden voor verbetering onderzoeken
+
+Deze opdracht voer je uit voor de omgeving die je hebt gekozen in [Opdracht 1](#). In deze opdracht verzamel je ideeën voor kansen en mogelijkheden voor verbetering. Je bedenkt wat **je zelf wilt verbeteren** en waarom. Je maakt afspraken met mensen die ook kansen kunnen aandragen en analyseert alle ideeën om het beste idee te kiezen.
+
+### Tijdsduur
+
+- [ ] Spreek met je begeleider af in welke period je aan deze opdracht werkt
+
+## Stappenplan
+
+### 1. Kansen en mogelijkheden onderzoeken
+
+- [ ] Bespreek met anderen in de organisatie welke kansen en mogelijkheden zij zien
+- Stappen:
+  - [ ] Bedenk zelf welke ideeën jij ziet voor verbetering, bijvoorbeeld:
+	- Verbeteren van klanttevredenheid
+	- Uitbreiden van het netwerk van de organisatie
+  - [ ] Identificeer mensen binnen of buiten de organisatie die ideeën kunnen hebben
+  - [ ] Maak afspraken met deze mensen
+  - [ ] Bespreek welke ideeën zij hebben voor kansen en mogelijkheden voor verbetering voor de organisatie
+  - [ ] Bespreek ook jouw eigen ideeën met hen
+
+### 2. Kies het beste idee
+
+- [ ] Vertaal de aangedragen kansen naar concrete ideeën
+- [ ] Analyseer elk idee aan de hand van:
+  - Aanleiding van het idee
+  - Argumenten voor ontwikkeling/verandering
+  - Afgewogen opties
+  - Meerwaarde voor betrokkenen
+  - Impact op mens, milieu en maatschappij
+- [ ] Weeg alle vooren nadelen af
+- [ ] Kies het beste idee en leg uit waarom
+
+### 3. Logboek bijhouden
+
+- [ ] Beantwoord in je logboek:
+  - Welke activiteiten heb je uitgevoerd?
+  - Welke feedback heb je gekregen en van wie?
+  - Wat heb je met de feedback gedaan?
+  - Wat zou je nog willen verbeteren? Wat wil je bereiken? Hoe pak je dat aan?
+  - Welke aandachtspunten neem je mee naar de volgende opdracht? Wat wil je bereiken? Hoe pak je dat aan en wat heb je daarvoor nodig?
+
+## Bewijsstukken
+
+- [ ] Idee voor kansen en mogelijkheden voor verbetering
+- [ ] Aantekeningen van gesprekken over kansen met anderen
+- [ ] Actueel logboek
+
+
+
+---
+
+# Portfolio-opdracht: Werkproces D1-K1-W3
+
+## Doel
+
+**Past ondernemend gedrag toe met ontwikkelingsgerichte en/of veranderingsgerichte initiatieven**
+
+## Voorbereiding
+
+- [ ] Lees de opdracht goed door
+- [ ] Stel vragen aan je begeleider als je iets niet begrijpt
+
+## Opdracht: Verbetervoorstel
+
+Werk je idee uit opdracht 2 uit in een verbetervoorstel en een stappenplan.
+Je bedenkt wat je wilt verbeteren, waarom en hoe je dat wilt doen.
+
+### Tijdsduur
+
+- [ ] Spreek met je begeleider af tijdens welke period je aan de opdracht werkt
+
+## Stappenplan
+
+### 1. Verbetervoorstel
+
+- [ ] Bepaal welke kansen en mogelijkheden voor verbetering je wilt aanpakken op je BPV, werk, opleiding, hobby of sportvereniging
+- [ ] Beschrijf zo precies mogelijk wat er moet veranderen:
+  - [ ] Wat is de aanleiding voor het verbetervoorstel? Onderbouw met trends, ontwikkelingen of vakkennis
+  - [ ] Wat is het doel dat je wilt realiseren?
+  - [ ] Voor wie verandert er iets door je verbetervoorstel? Beschrijf wat er voor alle betrokkenen verandert
+  - [ ] Wat levert het verbetervoorstel op als je het invoert? En voor wie?
+  - [ ] Welke risico's heeft het voorstel?
+  - [ ] Zijn er alternatieven? Waarin verschillen ze van je originele voorstel?
+
+### 2. Stappenplan uitvoering
+
+- [ ] Vul je persoonlijke ontwikkelingsstappenplan (opdracht 1) aan met een stappenplan voor je verbetervoorstel
+- [ ] Beschrijf hoe je het verbetervoorstel wilt invoeren:
+  - [ ] Welke acties uitgevoerd moeten worden, inclusief acties om overige betrokkenen mee te krijgen
+  - [ ] In welke volgorde de acties uitgevoerd moeten worden
+  - [ ] Wie de acties uitvoeren
+  - [ ] Wanneer de acties uitgevoerd moeten worden
+  - [ ] Welke hulpmiddelen nodig zijn om de acties uit te voeren
+  - [ ] Wiens expertise en invloed je nodig hebt en hoe je deze mensen wilt benaderen
+  - [ ] Welke risico's je loopt bij de invoering van het voorstel
+- [ ] Bespreek het plan van aanpak met je begeleider
+- [ ] Vraag feedback en maak hiervan aantekeningen
+- [ ] Pas je plan van aanpak aan waar nodig
+
+### 3. Terugkijken
+
+- [ ] Onderzoek jouw eigen bijdrage aan het verbetervoorstel samen met je begeleider
+- [ ] Beantwoord:
+  - Hoe vond je het om in de organisatie kansen en mogelijkheden te onderzoeken?
+  - Op welke manier heeft jouw ondernemende gedrag bijgedragen?
+  - Kijk naar je persoonlijke ontwikkelingsplan: hoe kan het verbetervoorstel hieraan bijdragen? Welke ondersteuning heb je nog nodig?
+- [ ] Schrijf aantekeningen in je logboek of neem het gesprek op
+
+### 4. Logboek bijhouden
+
+- [ ] Welke activiteiten heb je bij deze opdracht uitgevoerd?
+- [ ] Welke feedback heb je gekregen en van wie?
+- [ ] Wat heb je met de feedback gedaan?
+- [ ] Wat zou je nog willen verbeteren? Wat wil je dan bereiken? Hoe ga je dat aanpakken?
+
+## Bewijsstukken
+
+- [ ] Een verbetervoorstel
+- [ ] Een verslag van jouw eigen bijdrage aan het verbetervoorstel
+- [ ] Een goedgekeurd plan van aanpak
+- [ ] Aantekeningen of een filmpje van het terugkijken
+- [ ] Een bijgewerkt plan van aanpak voor persoonlijke ontwikkeling
+- [ ] Een actueel logboek
