@@ -3,7 +3,7 @@ publish: true
 title: Game Collection!
 description: collection of games
 created: 2024-10-08
-modified: 2025-11-11
+modified: 2025-11-17
 ---
 
 #todo
@@ -11,6 +11,7 @@ Add my old playstation, and wii games to this list
 
 > [!info]
 > I prefer Itch to Steam links.
+> [my gamer test](https://apps.quanticfoundry.com/profiles/gamerprofile/o3CEpX8Z6nq4cjPr8Q8ZRS/)
 
 ## My Favorite Games
 
@@ -103,6 +104,7 @@ Add my old playstation, and wii games to this list
 - [It Takes Two](https://www.ea.com/games/it-takes-two)
 - [DELTATRAVELER](https://deltatraveler.vyletbunni.com/)
 - [Epic Mickey 1 + 2 + rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
+- Lunistice
 
 ### Interesting Games
 
@@ -126,7 +128,7 @@ The Dark Queen of Mortholme
 
 ---
 
-### Game Backlog
+## Game Backlog
 
 <details>
 	<summary>
@@ -173,12 +175,13 @@ The Dark Queen of Mortholme
 - [CLOCKWORLD](https://store.steampowered.com/app/1767620/CLOCKWORLD__Arolls_Legacy/)
 - [ETCETERA](https://slitherbop.itch.io/etcetera)
 - [Crypt Underworld](https://lilithzone.itch.io/crypt-underworld)
+- Your Turn To Die: Death Game By Majority
+- The Red Strings Club
+- Katawa Shoujo
 - [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad)
 - [south scrimshaw](https://nomarsh.itch.io)
 - [Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity)
 - [Manifold Garden](https://manifold.garden)
-- [TUNIC](https://tunicgame.com)
-- [Artic Eggs](https://the-water-museum.itch.io/arctic-eggs)
 - [Drawn to Life 1 + 2](https://wikiless.tiekoetter.com/wiki/Drawn_to_Life?lang=en)
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
 - [Haste](https://store.steampowered.com/app/1796470/Haste/)

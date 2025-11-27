@@ -6,13 +6,16 @@ created: 2025-11-14
 
 > [!NOTE] Verwerk alle antwoorden in je profiel.
 
-# Portfolio-opdracht 1: Ik en mijn omgeving D1-K1-W1
+# Portfolio-opdracht 1: Ik en mijn omgeving
+
+## D1-K1-W1 Onderzoekt het eigen ondernemend gedrag in een bepaalde omgeving
 
 Deze portfolio-opdracht gaat over het werkproces:
-D1-K1-W1: Onderzoekt het eigen ondernemend gedrag in een bepaalde omgeving
 
-opdracht: maak een profiel van jezelf, het profiel is een beschrijving van jouw eigenschappen, kennis, vaardigheden, ambitie en motivatie. je onderzoekt welke eigenschappen die hebt. daarna onderzoek je wat ondernemend gedrag is en wanneer mensen het verwacht dat je het vertoont.
-presenteer dit profiel aan je medestudenten/collegas en stelt het nog bij also dat nodig is.
+opdracht:
+> maak een profiel van jezelf, het profiel is een beschrijving van jouw eigenschappen, kennis, vaardigheden, ambitie en motivatie. je onderzoekt welke eigenschappen die hebt. daarna onderzoek je wat ondernemend gedrag is en wanneer mensen het verwacht dat je het vertoont.
+
+presenteer/vraag feedback dit profiel aan je medestudenten/collegas en stelt het nog bij also dat nodig is.
 
 ---
 
@@ -121,7 +124,6 @@ Voor deze opdracht onderzoek je jouw eigen omgeving. Dit kan je BPV, werk, oplei
 
 Onderzoek de gekozen omgeving/organisatie. Onderzoek ten minste de volgende punten:
 
-
 - Wat is het voor soort omgeving/organisatie? Wat zijn de belangrijkste kenmerken?
 - Welke rol, activiteiten/taken en verantwoordelijkheden heb jij binnen deze omgeving/organisatie?
 - Wie maken er deel van uit en wat voor rollen, taken/activiteiten en verantwoordelijkheden hebben zij?
@@ -130,7 +132,7 @@ Onderzoek de gekozen omgeving/organisatie. Onderzoek ten minste de volgende punt
 
 ## 4. Profiel Presenteren
 
-Bespreek je profiel met je medestudenten en je docent. Also je de opdrachten in je leerbedrijf uitvoert, bespreek je je profiel met je leidinggevende en je collega's. Vraag je medestudenten en/of collega's om feedback op je profiel. Klopt het profiel met het beeld dat zij van jou hebben? Maak aantekeningen van de feedback en pas op basis van de feedback je profiel aan also dat nodig is. Bespreek je definitieve profiel met je begeleider. Bespreek welke onderdelen je verder wilt ontwikkelen. Maak samen een stappenplan voor de realisatie daarvan. In de bijlage vind je een formulier dat je hiervoor kunt gebruiken.
+Bespreek je profiel met je medestudenten en je docent. Als je de opdrachten in je leerbedrijf uitvoert, bespreek je je profiel met je leidinggevende en je collega's. Vraag je medestudenten en/of collega's om feedback op je profiel. Klopt het profiel met het beeld dat zij van jou hebben? Maak aantekeningen van de feedback en pas op basis van de feedback je profiel aan also dat nodig is. Bespreek je definitieve profiel met je begeleider. Bespreek welke onderdelen je verder wilt ontwikkelen. Maak samen een stappenplan voor de realisatie daarvan. In de bijlage vind je een formulier dat je hiervoor kunt gebruiken.
 
 ## 5. Je Houdt een Logboek Bij
 
@@ -144,7 +146,7 @@ Beantwoord in je logboek de volgende vragen:
 
 ## Vormen
 
-Gebruik één van de onderstaande vormen om de opdracht uit te werken en op te nemen in je portfolio:
+Gebruik onderstaande vorm om de opdracht uit te werken en op te nemen in je portfolio:
 
 - [ ] Verslag (in odt en beeld)
 
@@ -164,7 +166,7 @@ Gebruik één van de onderstaande vormen om de opdracht uit te werken en op te n
 
 ## Doel
 
-**Onderzoekt kansen en mogelijkheden voor ondernemend gedrag**
+> **Onderzoekt kansen en mogelijkheden voor ondernemend gedrag**
 
 ## Voorbereiding
 
@@ -228,7 +230,7 @@ Deze opdracht voer je uit voor de omgeving die je hebt gekozen in [Opdracht 1](#
 
 ## Doel
 
-**Past ondernemend gedrag toe met ontwikkelingsgerichte en/of veranderingsgerichte initiatieven**
+> **Past ondernemend gedrag toe met ontwikkelingsgerichte en/of veranderingsgerichte initiatieven**
 
 ## Voorbereiding
 

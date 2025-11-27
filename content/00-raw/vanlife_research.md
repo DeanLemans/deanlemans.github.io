@@ -4,7 +4,7 @@ tags:
   - vanlilfe
 draft: "true"
 title: Vanlife Research
-modified: 2025-11-11
+modified: 2025-11-16
 ---
 
 + [ ] Look into nederlands vanlife communities
@@ -51,13 +51,9 @@ Need to research into reduced environmental impact so that it could qualify for 
 
 Instead of still officially living with my parents, but i should instead consider a postadres or a shared address service (possibly through PostNL), this is to mitigate the risk with authorities.
 
-Track expensess via (firefly, maby, actual (ADD LINKS)) #todo
-
 Continue registering as living with your parents if it works, but prepare documentation (e.g., mileage logs) to prove your van's use is primarily personal.
 
  Build an emergency fund
-
- Focus on accurate tax filings to maximize deductions/examptions consult a fiscalist for a one-time review.
 
  Build a professional online presence (via this site, i still need to restructure this)
 

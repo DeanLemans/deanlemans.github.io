@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2025-11-11
+modified: 2025-11-16
 tags:
   - exclude
 title: Subconscious
@@ -15,6 +15,12 @@ dream diary, behind the mask, a truer self, diary, me myself and I, unconscious,
 > For those who come across this, dont share.
 > Reason: not professional, personal and controversial
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+
+2025-11-16
+
+and so, a weight lifted of my back, expectations and old promises, i felt so light, but then that **weight** came back, lighter then before, but also sharper, like i itt wil cut deeper when i before, like i became more sensitive/AWARE of it. is this a good thing? i dont know. but it is change, and that is at least better then stagnation.
 
 # 2025-??-??
 

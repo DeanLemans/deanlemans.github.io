@@ -1,7 +1,7 @@
 ---
 title:
 created: 2025-11-08
-modified: 2025-11-11
+modified: 2025-11-14
 ---
 
 ---
@@ -26,3 +26,4 @@ a 1 man company focused on maintenance or aanleg.
 start with ZZP
 expand/marketing/starting: searching for projects via flyers, facebook(for old people)
 quantity or quality? several smaller gardens for or 1 big projetcs that brings in the money
+growth/scale?:
