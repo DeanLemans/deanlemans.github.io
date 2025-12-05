@@ -1,12 +1,12 @@
 ---
-modified: 2025-11-23
+modified: 2025-11-28
 ---
 # periode 1
 
 
-​￼# School learning
+# School learning
 
-​￼# roel bouwman
+# roel bouwman
 
 - 06-41777024
 
@@ -20,7 +20,7 @@ modified: 2025-11-23
 
 - - -
 
-​￼# leerdoelen
+# leerdoelen
 
 1. klantvriendelijkheid/sociaal zijn.
 2. onkruidverdelger
@@ -112,3 +112,30 @@ Voedingstoffen in de bodem
 - kleideeltjes(-> kleihumus complex -> opneembaar vermogen voeding(maakt voeding vrij))
 - verwening(minerale deeltjes)
 - wortels
+
+# week 3
+
+Mest
+- organisch 
+- anorganisch
+- bodem verbeteraars
+     -  soorten
+     - koemest
+     - eiwitten van insecten
+     - kunstmest
+     - 
+    -  merk: bayer
+
+Bodem vs mest
+- mest; voeding, NPK, 
+- bodemverbeteraar; compost, verbetert structuur
+
+Wortelgoed; kaal wortel (goedkoopst)
+Kluit; gaas, met grond er nog aan (2 duurste)
+Container; in een pot (duurste)
+
+Plantgat; 1/3 groter dan kluit/wortels, onder de grond maken. Plant vanaf de kwekerijdiepte/kleurlijn.
+Bovenste laag apart.
+Vierkant gat is bijna altijd beter.
+Zet boompaal schuin
+Boompaal 1/3 de grond in

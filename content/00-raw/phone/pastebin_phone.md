@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-18
+modified: 2025-11-28
 ---
 (To be digested)
 The ability to create singular written works is mostly impervious to education and technical supplementation; it is overwhelmingly what we used to call gifted or God-given and today call either genetic or inspired. (View Highlight)
@@ -11,3 +11,31 @@ Sr: https://lite.evernote.com/note/d69cf793-1f14-48f4-bd48-43f41bd88678
 ---
 
 Power was not loyalty. Magic was not worship. Faith could be wielded like any other blade, or abandoned when its edge dulled.
+
+---
+
+![](../../static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg)
+It would work, it would just make the water come out of your faucet a bit slower and wouldn't generate much power.
+
+Typical flow rate for a kitchen faucet is 2.2 gallons per minute say. That's 139 grams of water per second.
+
+And let's overestimate the velocity and say it's 3 m/s (6.7 mph). Then the kinetic energy of 139 g of water at that speed is 0.63 J, so the max power generated would be 0.63 W (and it would be less because we're overestimating and a turbine can't capture all the energy).
+
+A 5 V USB charger drawing 1 A, which is what those really slow basic phone chargers with none of the faster charging capabilities draw, is already using 5 W. So you couldn't even charge a phone on this if you had the water running constantly.
+
+Maybe you could charge your phone while you run your bath. But what's the point of that?
+
+Edit: If you hooked it up to a battery it might actually not be completely useless. It would charge very slowly and you'd have a power bank when you need it. Still probably not worth the inconvenience and cost of the device.
+
+Edit 2: Actually even with a battery it's pretty useless. You have to remember it's only producing any power when the tap is running. And that power is really low. See this comment and this comment. You would not have a power bank when you need it, you could leave it there for months and it still wouldn't be charged when you need it.
+
+Edit 3: Actually there's a pretty significant thing I missed here. I calculated the power based on kinetic energy of the water we see coming out of the faucet, which is what you would get with the kind of water wheel design you see in the image, I think.
+
+However, if we calculate the power using pressure * flow rate, we find that the 2.2 gallons per minute with a pressure of 60 PSI gives a theoretical maximum power collection of 57.4 Watts. This is shockingly more. I guess this represents hooking up a turbine directly to the tap, before any contact with air, and driving the turbine using the water pressure.
+
+Doing this would of course lower the water pressure coming out of the tap significantly, though you could only partially lower it and still collect a decent amount of energy. You could indeed charge your phone while the tap is running. Though that's still not really practical. You could also use it to charge a power bank. Of course you could also just use your wall outlet. The electricity here is worth like 70 cents per year if you run the tap 15 minutes a day. The device would still take decades to pay for itself.
+
+From what I understand the discrepancy here can be accounted for mostly with turbulent kinetic energy. Most kitchen faucets have an aerator attached which will mix air into the water, and this converts a lot of the kinetic energy that was directed out of the tap into turbulent kinetic energy which can no longer be collected with a turbine. It's surprising how much of the energy gets converted though. I'm not super qualified here, I might still be missing something. Maybe someone who knows more than me can help verify this is right.
+
+---
+

@@ -3,7 +3,7 @@ publish: true
 title: Game Collection!
 description: collection of games
 created: 2024-10-08
-modified: 2025-11-17
+modified: 2025-11-29
 ---
 
 #todo
@@ -56,6 +56,8 @@ Add my old playstation, and wii games to this list
 	</article>
 </details>
 
+
+- Voin
 - [Celeste](https://www.celestegame.com)
 - [Pseudoregalia](https://rittzler.itch.io/pseudoregalia)
 - [Cult of the Lamb](https://www.cultofthelamb.com)
@@ -87,6 +89,8 @@ Add my old playstation, and wii games to this list
 		<p>Where is the dlc?</p>
 	</article>
 </details>
+
+Citizen Sleeper 1 + 2
 
 ### Games I Really Enjoyed Playing
 
@@ -194,8 +198,6 @@ The Dark Queen of Mortholme
 - [.45 PARABELLUM BLOODHOUND](https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action)
 - [NIGHTMARE OPERATOR](https://store.steampowered.com/app/2957360/NIGHTMARE_OPERATOR)
 - [VOIN](https://store.steampowered.com/app/2464530/VOIN)
-- [Earthblade](https://exok.com/games/earthblade)
-- [Possessor(s)](https://store.steampowered.com/app/2132890/Possessors)
 - [DOWNHILL](https://store.steampowered.com/app/3433000/DOWNHILL/)
 - [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 - [Crowsworn](https://crowsworn.com)

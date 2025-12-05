@@ -1,9 +1,8 @@
 ---
 publish: true
 title: 03 Digital Garden
-modified: 2025-11-11
+modified: 2025-11-29
 ---
-
-Digital things i like?
-
-Lists of things i like, need to better integrate this into site. (book list almost done migrating)
+list of lists
+map of content
+garden?

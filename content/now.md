@@ -1,21 +1,18 @@
 ---
-title: Now
+title: \Now
 publish: true
-modified: 2025-11-11
+modified: 2025-12-05
 ---
-
-# /now
-
-# Current
-
 - **3 days/week** → working as a internship hovenier (Plan B – active)
 - **2 days/week** → freelance gardener (Plan A – active)
 - Both feed into same goal: _figure out what I actually enjoy and where I want to specialize._
 - See: [trajectory](<./trajectory.md>) for more information about plans.
 
 ---
+<script src="https://recentfm.rknight.me/now.js?u=beyond_selfhood"></script>
+[listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
-| Area                         | Current verdict / interest |
+| Area                         | Current / interest |
 | ---------------------------- | -------------------------- |
 | String cutting (large areas) | ❌ No                       |
 | Plant nursery – big plants   | ?                          |

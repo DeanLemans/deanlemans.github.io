@@ -1,10 +1,15 @@
 ---
-title: Old Pastebin
+title: Fleeting Notes
 description: i need to integrate this into my vault. sum random shit in here
-modified: 2025-11-11
+modified: 2025-11-29
 ---
+- Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
+- Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.  
+    Old Corollary always was a presumptuous kid.
+- Corollary, The Second: Physical dependence of mental states eliminates free will and choice. We become automata. The nice thing is that this solves the human/AI debate rather neatly. And neatness isn't one of the Ten Commandments. Or is it? Maybe it was put into the fine print.
+- Corollary, The Third: Lack of choice leads to the trivialisation of all moral and behavioural questions, the negation of all that's good and bad and an emptiness of tautological dimensions.
+- Footnote, The Rescuer: Being a philosopher, I can't afford to resolve everything in a couple of paragraphs, so I resort to hierachial reductionism...or some such anachronism (notice my fondness for words I can't pronounce). At a fundamental level, everything can be explained in principle by physical laws, notwithstanding the Uncertainty Principle. Still, one can try to explain stuff at higher hierachial levels. For instance, I can try to explain human behaviour on the basis of behavioural patterns, analogies and edifying assumptions, rather than interactions between neurons in the brain. Phew! For a moment there, I thought I was out of a pastime.
 
-# an old pastebin
 
 Day 1 - Explosive Power (fast + crisp movements, 5-6 reps)
 Kettlebell Swing (2-hand or 1-hand) - 5 reps × 6-8 sets

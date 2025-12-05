@@ -3,7 +3,7 @@ publish: true
 title: External Sites
 aliases:
   - blogroll
-modified: 2025-11-11
+modified: 2025-12-05
 ---
 
 # Cool Personal sites
@@ -90,6 +90,9 @@ modified: 2025-11-11
 
 </section>
 
+
+- <https://kovidgoyal.net/>
+- <https://sive.rs/>
 
 
 - [ ] fix css embedded layout on mobile
