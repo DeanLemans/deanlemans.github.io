@@ -1,7 +1,7 @@
 ---
 title: My philosophy?
 created: 2024-05-09
-modified: 2025-11-11
+modified: 2025-12-01
 publish:
 draft: "true"
 aliases:
@@ -29,6 +29,8 @@ aliases:
 >
 > growth, to be more, in mind spirit, tactics, soul, social, body
 
+
+# begin
 # My Manifesto / Philosophy / Beliefs / Thesis of Self / Doctrine
 
 ## I. Challenge to Self

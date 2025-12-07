@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-28
+modified: 2025-12-05
 ---
 # periode 1
 
@@ -139,3 +139,21 @@ Bovenste laag apart.
 Vierkant gat is bijna altijd beter.
 Zet boompaal schuin
 Boompaal 1/3 de grond in
+
+Dungking.eu
+
+
+# week 4
+
+- cunet = ruimte voor al het straatwerk
+
+Pad 1 meter breed; cunet 1.1 meter
+
+Formaat knlinkers
+- Waal (5; 20; 6-8)
+- dik (7; 20; 6-8)
+- kei (10; 20; 6-10)
+
+10-20-10 = bkk (beton knlinker)
+
+

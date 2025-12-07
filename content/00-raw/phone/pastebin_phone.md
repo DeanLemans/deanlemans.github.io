@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-28
+modified: 2025-12-06
 ---
 (To be digested)
 The ability to create singular written works is mostly impervious to education and technical supplementation; it is overwhelmingly what we used to call gifted or God-given and today call either genetic or inspired. (View Highlight)
@@ -39,3 +39,7 @@ From what I understand the discrepancy here can be accounted for mostly with tur
 
 ---
 
+Although while Irwyn was preparing to delve in, Elizabeth instead chose to go explore the ‘feast hall’. Irwyn was not hungry as the Trial still repressed all their physical needs and told her as much. To which she just shrugged, decided it was fine to ‘indulge gluttony’ and left, promising to be back soon with snacks.
+
+
+---

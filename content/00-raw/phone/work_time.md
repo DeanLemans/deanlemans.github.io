@@ -1,5 +1,5 @@
 ---
-modified: 2025-11-26
+modified: 2025-12-03
 ---
 # Leon kerkhof (nieuw leerbedrijf)
 
@@ -10,6 +10,12 @@ modified: 2025-11-26
 > up == new
 
 ---
+
+3-12-2025 Wo 8 uur en 0 minuten (45 minuten pauze)
+
+2-12-2025 Di 8 uur en 15 minuten (45 minuten pauze)
+
+1-12-2025 Ma 8 uur en 15 minuten (45 minuten pauze)
 
 26-11-2025 We 8 uur 15 minuten (45 minuten pauze)
 
