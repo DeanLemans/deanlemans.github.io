@@ -1,5 +1,5 @@
 ---
-modified: 2025-12-05
+modified: 2025-12-27
 ---
 Muse
 Poet
@@ -8,3 +8,6 @@ Musician
 Bard
 
 A contractor
+
+Technican
+

@@ -1,5 +1,5 @@
 ---
-modified: 2025-12-06
+modified: 2025-12-30
 ---
 (To be digested)
 The ability to create singular written works is mostly impervious to education and technical supplementation; it is overwhelmingly what we used to call gifted or God-given and today call either genetic or inspired. (View Highlight)
@@ -43,3 +43,39 @@ Although while Irwyn was preparing to delve in, Elizabeth instead chose to go ex
 
 
 ---
+I have not been dominated by the Dominant Idea of my Age; I have chosen mine own allegiance, and served it. I have proved by a lifetime that there is that in man which saves him from the absolute tyranny of Circumstance, which in the end conquers and remolds Circumstance,—the immortal fire of Individual Will, which is the salvation of the Future.”
+
+
+---
+
+
+1 find common ground
+2 show interest
+3 seize weakness
+
+
+---
+Keep it private till its permanent
+
+
+---
+
+
+---
+
+I am, the seeker.
+Grasp it al
+Know it all
+Grow
+
+
+---
+Can you dream of eternity?
+Can you imagine it?
+Is imagination (eventually) limitless, if it is, then we should be able to right?
+
+---
+Hate till it all burns, crawl into yourself, collapse, rage, hate and pain.
+An emptiness, a touch lost.
+What is left
+Chains and hesitation
