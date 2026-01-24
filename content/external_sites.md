@@ -3,7 +3,7 @@ publish: true
 title: External Sites
 aliases:
   - blogroll
-modified: 2025-12-05
+modified: 2026-01-24
 ---
 
 # Cool Personal sites
@@ -95,4 +95,3 @@ modified: 2025-12-05
 - <https://sive.rs/>
 
 
-- [ ] fix css embedded layout on mobile

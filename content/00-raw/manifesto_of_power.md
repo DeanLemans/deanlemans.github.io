@@ -1,7 +1,7 @@
 ---
 title: My philosophy?
 created: 2024-05-09
-modified: 2025-12-01
+modified: 2026-01-24
 publish:
 draft: "true"
 aliases:
@@ -28,9 +28,10 @@ aliases:
 > Memento Vivere, remember that you can Live.
 >
 > growth, to be more, in mind spirit, tactics, soul, social, body
-
+> copy the great, steal their ideas the spirit of it. and make it yours
 
 # begin
+
 # My Manifesto / Philosophy / Beliefs / Thesis of Self / Doctrine
 
 ## I. Challenge to Self
@@ -92,6 +93,12 @@ aliases:
 - the self must master the ego,
 - ego must tame itself in order to become more
 
+---
+
+48 rules of power
+Evil Overlord List
+The Universal Genre Savvy Guide
+how to win friends and influence people
 ---
 
 ### Links

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2025-11-11
+modified: 2026-01-24
 title: CV Software
 ---
 
@@ -51,6 +51,12 @@ title: CV Software
 > [!info] Languages
 > - Dutch *(Native)*
 > - English *(Advanced)*
+
+## Repositories Strategy
+
+- **GitHub:** Public work and portfolio.
+- **Radicle:** Decentralized backup.
+- Mirror strategy ensures all code is available and versioned across platforms.
 
 ---
 

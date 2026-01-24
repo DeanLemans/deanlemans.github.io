@@ -1,5 +1,5 @@
 ---
-modified: 2025-12-07
+modified: 2026-01-24
 ---
 
 build personal ai assisten, not chatgpt, not claude, something based on all, that can hijac other models to do its own reasoniong, in the beginning a local ai something already build for uncencorised [something like this](https://huggingface.co/dphn/Dolphin3.0-Llama3.1-8B) and then use something like this(jailbreak)
@@ -42,18 +42,18 @@ Topics
 - [ ] <https://starbreaker.org/blogroll/index.html> search ts
 - [ ] read <https://rosswintle.uk/2024/02/a-manifesto-for-small-static-web-apps/>
 - [ ] <https://jamesg.blog/>
+- [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023?mibextid=Zxz2cZ>
 - [ ] <https://journal.miso.town/>
 - [ ] web host? <https://ichi.city/>
-- [ ] build shi https://32bit.cafe/cyowebsite/
-- [ ] verifycation shi https://starbreaker.org/verify/index.html
-- [ ] link sharing https://shareopenly.org/add/
-- [ ] future reference for music page https://ddbentl.com/tunes
-- [ ] idk man https://basementcommunity.com/ https://tilde.club/
-- [ ] seems cool man https://ysap.sh/
-- [ ] transfer goodreads to <https://www.librarything.com/ > https://www.bookshelf.town/create
-
+- [ ] build shi <https://32bit.cafe/cyowebsite/>
+- [ ] verifycation shi <https://starbreaker.org/verify/index.html>
+- [ ] restructure site🔺
+- [ ] link sharing <https://shareopenly.org/add/>
+- [ ] future reference for music page <https://ddbentl.com/tunes>
+- [ ] idk man <https://basementcommunity.com/> <https://tilde.club/>
+- [ ] seems cool man <https://ysap.sh/>
+- [x] transfer goodreads to <https://www.librarything.com/> > <https://www.bookshelf.town/create> ✅ 2026-01-20
+- [x] Link to CI workflow here ✅ 2025-11-11
 ---
 
-# done
 
-- [x] Link to CI workflow here ✅ 2025-11-11

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2025-11-11
+modified: 2026-01-24
 aliases:
   - /my-site
   - /my-site/
@@ -9,7 +9,7 @@ aliases:
   - my-site/
 ---
 
-# Dean Lemans – Freelance Gardener & Indie Software Developer
+# Dean Lemans – Freelance Gardener & open source solutions
 
 <div style="text-align:center;">
   <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
@@ -18,8 +18,8 @@ aliases:
 ## About Me
 
 - **Gardener:** Focused on maintenance and practical landscaping.
-- **Software Developer:** Indie dev using [Godot](https://godotengine.org/) and creating Static Sites.
-- Passionate about games, gardening, and [open source](https://opensource.org/osd)).
+- **Software Development:** using [Godot](https://godotengine.org/) and creating Static Sites.
+- Passionate about computers, gardening, and [open source](https://opensource.org/osd).
 
 ## Check Out My CVs
 
@@ -36,8 +36,7 @@ aliases:
 	- **Game Engine:** [Godot](https://godotengine.org/)
 	- **IDE:** [Zed](https://zed.dev/)
 	- **Version Control & Workflow:** GitHub/Codeberg and Git
-- Hardware (gardening)
-	- I prefer electric as they are lighter, but sometimes electric is just to weak, in that case I will just use Aspen fueled
+
 ## Interests & Hobbies
 
 - Gaming
@@ -52,12 +51,7 @@ aliases:
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*
 > - [Site Development](<./vault_rules.md>)
 
-## Repositories Strategy
 
-- **GitHub:** Public work and portfolio.
-- **Codeberg:** real work.
-- **Radicle:** Decentralized backup.
-- Mirror strategy ensures all code is available and versioned across platforms.
 
 > [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**
