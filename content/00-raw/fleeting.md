@@ -2,6 +2,7 @@
 title: Fleeting Notes
 description: i need to integrate this into my vault. sum random shit in here
 modified: 2025-11-29
+publish: true
 ---
 - Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
 - Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.  

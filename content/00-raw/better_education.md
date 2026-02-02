@@ -7,7 +7,7 @@ modified: 2025-11-11
 
 # Introduction
 
-It has already been proven that the current school systems are dogshit [The toxic schooling system](<../02-resources/02_03-clippings/The toxic schooling system.md>)
+It has already been proven that the current school systems are dogshit [The toxic schooling system](<clippings/The toxic schooling system.md>)
 
 So i will try to seek/find/create what a better education system is
 

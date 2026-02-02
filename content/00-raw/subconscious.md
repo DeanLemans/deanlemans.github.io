@@ -1,5 +1,5 @@
 ---
-publish: true
+publish:
 modified: 2026-01-24
 tags:
   - exclude

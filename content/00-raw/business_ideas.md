@@ -1,7 +1,8 @@
 ---
-title:
+title: 
 created: 2025-11-08
 modified: 2025-11-14
+publish: true
 ---
 
 ---

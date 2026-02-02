@@ -46,7 +46,7 @@ aliases:
 - Indie Web
 
 > [!info] Favorite Collections
-> - [Book Library](<./02-resources/02_01-books/index.md>) – literature and reference
+> - [Book Library](<./02-deans_library/02_01-books/index.md>) – literature and reference
 > - [Game Library](<./03-digital_garden/game_list.md>)
 > - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*
 > - [Site Development](<./vault_rules.md>)

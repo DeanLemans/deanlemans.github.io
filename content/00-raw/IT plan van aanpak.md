@@ -1,5 +1,6 @@
 ---
 modified: 2026-01-09
+publish: true
 ---
 
 # IT ondernemings plan

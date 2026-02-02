@@ -1,5 +1,6 @@
 ---
 modified: 2026-01-24
+publish: true
 ---
 
 - **Maintain three copies of your data**: This includes the original data plus at least two copies. This ensures redundancy in case one or two copies are corrupted or compromised during a ransomware attack or a hardware failure.

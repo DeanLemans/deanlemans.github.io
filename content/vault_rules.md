@@ -82,7 +82,7 @@ modified: 2025-11-11
 ## 6. Vault Philosophy
 
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
-- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](02-resources/02_03-clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)
+- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](00-raw/clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)
 - Store files in open and readable formats.
 - Use consistent naming and metadata for searchability and discoverbility.
 
