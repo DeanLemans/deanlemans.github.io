@@ -12,7 +12,7 @@ modified: 2026-02-17
 ---
 
 <iframe
-	src="https://listenbrainz.org/user/YOUR_USER_NAME/embed/pin"
+	src="https://listenbrainz.org/user/beyond_selfhood/embed/pin"
 	frameborder="0"
 	width="650"
 	height="155"
