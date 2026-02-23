@@ -1,10 +1,13 @@
 ---
 publish: true
 created: 2025-10-10
-modified: 2025-11-11
+modified: 2026-02-11
+title: My Bookmarks
+aliases:
+  - bookmarks
 ---
 
-for featured personal sites see: [external_sites](../external_sites.md)
+for featured personal sites see: [external_sites](external_sites.md)
 
 ---
 

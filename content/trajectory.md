@@ -2,9 +2,10 @@
 publish: true
 title: Trajectory
 created: 2025-07-25
-modified: 2025-11-11
+modified: 2026-02-23
 ---
 
+- [ ] implement the other plans i made in bali [Research-Bali](01-projects/Research-Bali.md)
 > [!NOTE]Alternative titles
 > - Future
 > - plans

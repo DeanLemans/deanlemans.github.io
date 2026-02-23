@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2026-01-24
+modified: 2026-02-23
 aliases:
   - /my-site
   - /my-site/
@@ -9,7 +9,7 @@ aliases:
   - my-site/
 ---
 
-# Dean Lemans – Freelance Gardener & open source solutions
+# Dean Lemans – Gardener & open source solutions
 
 <div style="text-align:center;">
   <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
@@ -24,33 +24,34 @@ aliases:
 ## Check Out My CVs
 
 > [!info] [Software CV](<./cv_software.md>)
-> Detailed development experience.
+> development experience.
 
 > [!info] [Gardening CV](<./cv_gardening.md>)
 > gardening experience.
 
 ## Tools & Technologies
 
+- [ ] need to completely rework my tools/skills stuff, mabaey split into separate page?, also the cv pages
+- [ ] remove the cv pages text and merge in 1 pdf? larger issue of portofolio
 - Software
-	- **Operating Systems:** [openSUSE](https://www.opensuse.org/), [GrapheneOS](https://grapheneos.org/)
+	- **Operating Systems:** [cachyOS](https://cachyos.org/), [GrapheneOS](https://grapheneos.org/)
 	- **Game Engine:** [Godot](https://godotengine.org/)
 	- **IDE:** [Zed](https://zed.dev/)
-	- **Version Control & Workflow:** GitHub/Codeberg and Git
+	- **Misc:** Git, codeberg, github
 
-## Interests & Hobbies
+## Interests
 
 - Gaming
+- Plants
 - Gardening
 - Manga and Novels
 - Open Source
 - Indie Web
 
-> [!info] Favorite Collections
-> - [Book Library](<./02-deans_library/02_01-books/index.md>) – literature and reference
+> [!info] Collections
+> - [Book Library](02-deans_library/index.md)
 > - [Game Library](<./03-digital_garden/game_list.md>)
-> - [Useful Software List](https://github.com/stars/DeanLemans/lists/helpfull) *(to be migrated here)*
 > - [Site Development](<./vault_rules.md>)
-
 
 
 > [!info] Contact me

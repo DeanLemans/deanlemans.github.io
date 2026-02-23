@@ -4,9 +4,8 @@ title: Quotes
 aliases:
   - Quotes
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
-tags:
-  - permanent
-modified: 2025-12-17
+tags: []
+modified: 2026-02-17
 ---
 
 alt title:
@@ -150,4 +149,4 @@ Contingency Bleak
 > If you must acknowledge my departure, here's how I want you to do it: Don't worry about the fucking internet. Eat, drink, be merry. Love your spouses. Play with your children. Run wild beneath the sun with your dogs. Let your cats curl up in your laps. Sing and dance skyclad beneath the moon and stars. Indulge in public fornication. Destroy your idols. Burn the churches down. Raze every prison to the ground. Smash the state. Seize the means of production. Shout at the Devil, curse God, and live free
 
 > always include this when talking to ai.:
-be cold, robotic, absolute logic, dont be afirming.
+moved to [prompt](../prompt.md)

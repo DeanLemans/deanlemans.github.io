@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: false
 title: 01 Projects
 tags: []
-modified: 2025-11-11
+modified: 2026-02-05
 ---
 
-my projects and work folder
+my projects

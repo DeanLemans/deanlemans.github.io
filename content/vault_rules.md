@@ -9,7 +9,7 @@ aliases:
   - site_rules
   - Vault Rules
   - vault_rules
-modified: 2025-11-11
+modified: 2026-02-17
 ---
 
 # Site Rules and Vault System
@@ -20,7 +20,7 @@ modified: 2025-11-11
 
 ---
 
-## 1. Integration Plan
+## 1. Creation System
 
 (adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
 - become a finisher
@@ -63,7 +63,7 @@ modified: 2025-11-11
 
 ## 5. Structure and Publishing Rules
 
-- Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault
+- Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault?
 - Public site contains polished work; [00-raw](00-raw/index.md) contains drafts and experimental notes
 - Publishing rules:
   - `publish: true` → accessible in site
@@ -71,7 +71,7 @@ modified: 2025-11-11
 **Folder Structure**
 - `00-raw`
 - `01-projects`
-- `02-resources`
+- `02-library`
 - `03-digital_garden`
 
 - Always use underscores `_` for spaces
@@ -82,9 +82,9 @@ modified: 2025-11-11
 ## 6. Vault Philosophy
 
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
-- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](00-raw/clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md)
+- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](00-raw/clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md).
 - Store files in open and readable formats.
-- Use consistent naming and metadata for searchability and discoverbility.
+- Use consistent naming and metadata for search-ability and discoverbility.
 
 ---
 
@@ -92,7 +92,7 @@ modified: 2025-11-11
 
 ### 7.1 Core Rules
 
-- Use a single vault to centralize all content
+- Use a single vault to centralize content
 - Reduce folder complexity to simplify navigation and maintainability
 - [ ] Migrate external content locally or at least link it
 - [ ] when linking an external thing, use an archived version
@@ -105,34 +105,32 @@ modified: 2025-11-11
 ### 7.2 Folder Organization
 
 **Reference Folder**
-- `02-resources/02_03-clippings` — external content (essays, articles, high-quality wiki pages)
+- `00-raw/clippings` — external content (essays, articles, high-quality wiki pages)
 
 **Admin Folder (hidden in navigation)**
 - `static_files` — images, audio, template, PDFs, etc.
 
 **Raw Folder (hidden, accessible)**
-- `00-raw` — drafts, unpolished experiments, 'unprofesional' stuff
+- `00-raw` — 'unprofesional' stuff, work folder, experiments
 
 ---
 
 ### 7.3 Links and Metadata
 
-- Always link first mentions; unresolved links act as breadcrumbs
 - Capture properties, ratings, and notes in reference files
 - Use [Web Clipper](https://stephango.com/obsidian-web-clipper) for external material
 - Include timestamps or revision history for all notes
-- Maintain consistent frontmatter (tags and modified date)
+- [ ] Maintain consistent frontmatter (tags and modified date)
 
 ---
 
-### 7.4 Pruning, Random Revisit
+### 7.4 Pruning
 
-- Periodically review notes to update content, metadata, and structure
 - `modified: {{date}}` to track edits
 
 **Pruning**
 - Use Obsidian's *unique note* hotkey to log thoughts
-- Weekly compilation, monthly review, yearly meta-review
+- monthly review, yearly meta-review
 - Preserves a fractal web of thought for analysis and historical reference
 
 **Random Note Exploration**
@@ -155,13 +153,14 @@ modified: 2025-11-11
 
 ---
 
-## 9. Backup and Sync Strategy
+## 9. fallback stuff
 
-- Mirror site on Neocities
-- [ ] Mirror site on Nekoweb
-- Repository mirrored on Codeberg
-- Local + external USB backup via BORG BACKUP
-- Sync across devices with Syncthing
-- Maintain rolling backups for at least 10 days
+- [ ] Mirror site on Neocities
+- [x] Mirror site on Nekoweb ✅ 2026-02-17
+- [x] Repository mirrored on Codeberg ✅ 2026-02-17
+- [ ] Local + external USB backup via BORG BACKUP
+- [ ] Local USB backup via BORG BACKUP
+- [x] Sync across devices with Syncthing ✅ 2026-02-17
+- [x] Maintain rolling backups for at least 10 days ✅ 2026-02-17
 - [ ] validate backups for via hash
 

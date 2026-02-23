@@ -1,11 +1,12 @@
 ---
 title: My philosophy?
 created: 2024-05-09
-modified: 2026-01-24
+modified: 2026-02-23
 publish:
 draft: "true"
 aliases:
   - my_philosphy
+description: No Gods, No Masters, No Idols
 ---
 
 > [!NOTE] A note to those that read this. (TLDR; FUCK OFF)
@@ -32,7 +33,7 @@ aliases:
 
 # begin
 
-# My Manifesto / Philosophy / Beliefs / Thesis of Self / Doctrine
+# My Manifesto / Philosophy / Thesis of ? / A Doctrine
 
 ## I. Challenge to Self
 
@@ -82,8 +83,6 @@ aliases:
 - I act. I survive. I persist. I evolve.
 - Silence, masks, hidden depth, lies and deception. to master myself and to master/influence others
 
-
-
 ---
 
 ### solution
@@ -99,9 +98,3 @@ aliases:
 Evil Overlord List
 The Universal Genre Savvy Guide
 how to win friends and influence people
----
-
-### Links
-
-- [trajectory](../trajectory.md)
-- [now](../now.md)

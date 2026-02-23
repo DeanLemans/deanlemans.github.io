@@ -3,15 +3,11 @@ publish: true
 title: Game Collection!
 description: collection of games
 created: 2024-10-08
-modified: 2025-11-29
+modified: 2026-02-16
 ---
 
-#todo
-Add my old playstation, and wii games to this list
-
-> [!info]
-> I prefer Itch to Steam links.
-> [my gamer test](https://apps.quanticfoundry.com/profiles/gamerprofile/o3CEpX8Z6nq4cjPr8Q8ZRS/)
+- [ ] Add my old playstation, and wii games to this list
+- [ ] write reviews, find platform for the reviews
 
 ## My Favorite Games
 
@@ -56,13 +52,12 @@ Add my old playstation, and wii games to this list
 	</article>
 </details>
 
-
-- Voin
+- [VOIN](https://store.steampowered.com/app/2464530/VOIN)
+- Cogmind
 - [Celeste](https://www.celestegame.com)
 - [Pseudoregalia](https://rittzler.itch.io/pseudoregalia)
 - [Cult of the Lamb](https://www.cultofthelamb.com)
 - [Hades 1 + 2](https://www.supergiantgames.com/games/hades-ii)
-- [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
 - [Illusion Carnaval](https://kiz-qi.itch.io/illusion-carnival)
 <details>
 	<summary>
@@ -112,6 +107,7 @@ Citizen Sleeper 1 + 2
 
 ### Interesting Games
 
+- [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
 <details>
 	<summary>
 		<a href="https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/">7 Days to End with You</a>
@@ -128,7 +124,7 @@ Citizen Sleeper 1 + 2
 		<p>Very pretty but so much lost potential because its so short</p>
 	</article>
 </details>
-The Dark Queen of Mortholme
+
 
 ---
 
@@ -172,23 +168,38 @@ The Dark Queen of Mortholme
 - [PAPER ANGEL](https://slitherbop.itch.io/paper-angel)
 - [Nier: Replicant](https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139)
 - [Mad Father](https://store.steampowered.com/app/483980/Mad_Father)
+- 异化之恶〇Abnormal Treatment
 - [Misao](https://store.steampowered.com/app/691450/Misao__2024_HD_Remaster)
 - [Disillusion](https://store.steampowered.com/app/1490060/Disillusion) + [remaster](https://disillusionst.itch.io/disillusion-st)
 - [CAUTIOUS V](https://beefstrong.itch.io/cautious-v-)
 - [8:11](https://goth-6669.itch.io/811)
+- Nova Drift
+- mio momories in orbit
 - [CLOCKWORLD](https://store.steampowered.com/app/1767620/CLOCKWORLD__Arolls_Legacy/)
+- Elin (elona)
 - [ETCETERA](https://slitherbop.itch.io/etcetera)
 - [Crypt Underworld](https://lilithzone.itch.io/crypt-underworld)
+- EXAPUNKS
 - Your Turn To Die: Death Game By Majority
 - The Red Strings Club
 - Katawa Shoujo
+- katy rain 2: soothsayer
 - [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad)
+- White Knuckle
 - [south scrimshaw](https://nomarsh.itch.io)
+- Town to City
+- Northern Journey
+- Split Fiction
 - [Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity)
 - [Manifold Garden](https://manifold.garden)
 - [Drawn to Life 1 + 2](https://wikiless.tiekoetter.com/wiki/Drawn_to_Life?lang=en)
+- OYASUMII
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
 - [Haste](https://store.steampowered.com/app/1796470/Haste/)
+- Anodyne 2: Return to Dust
+- NaissanceE
+- Everhood
+- soma
 - [The Midnight Walk](https://store.steampowered.com/app/2863640/The_Midnight_Walk)
 - [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGee's Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?)
 - [Tears of Metal](https://store.steampowered.com/app/1913120/Tears_of_Metal)
@@ -197,11 +208,11 @@ The Dark Queen of Mortholme
 - [Constance](https://store.steampowered.com/app/2313700/Constance)
 - [.45 PARABELLUM BLOODHOUND](https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action)
 - [NIGHTMARE OPERATOR](https://store.steampowered.com/app/2957360/NIGHTMARE_OPERATOR)
-- [VOIN](https://store.steampowered.com/app/2464530/VOIN)
 - [DOWNHILL](https://store.steampowered.com/app/3433000/DOWNHILL/)
 - [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 - [Crowsworn](https://crowsworn.com)
 - [Clair Obscure: Expedition 33](https://www.expedition33.com)
+- KARLSON
 - [Reanimal](https://reanimal.thqnordic.com)
 - [Tenjutsu](https://www.devolverdigital.com/games/tenjutsu)
 - [Morsels](https://furcula.ca)
@@ -228,10 +239,13 @@ The Dark Queen of Mortholme
 - [PRAGMATA](https://www.capcom-games.com/pragmata/)
 - [Without a Dawn](https://jessemakkonen.com/without_a_dawn.html)
 - [s.p.l.i.t](https://store.steampowered.com/app/3684610/split)
+- in Stars And Time
 - [Road to Vostok](https://www.roadtovostok.com)
+- OCTOPATH TRAVELER (all games)
 - [PVKK](https://pvkk.game)
 - [Late Homework](https://sodaraptor.itch.io/late-homework)
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
+- hylics
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
 <details>
@@ -260,12 +274,15 @@ The Dark Queen of Mortholme
 - [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL)
 - [FAITH: The Unholy Trinity](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/?curator_clanid=6856383&curator_listid=32813)
 - [Evil Tonight](https://dyagames.itch.io/evil-tonight)
+- FogPiercer
 - [Gunmetal Gothic](https://ynoham.com/)
 - [The Forgotten City](https://forgottencitygame.com)
+- Deep Snow Delivery
 - [Ocarina of Time](https://archive.org/details/the-legend-of-zelda-ocarina-of-time-usa_202012) + [mods](https://hylianmodding.com/mods)
 - Super mario galaxy 1 + 2 + [mods](https://aurumsmods.com/nmg)
 - [fear and hunger 1 + 2](https://mirohaver.itch.io)
 - [Outrider Mako](https://store.steampowered.com/app/1072400/Outrider_Mako)
+- shapez 2
 - [Nitro Express](https://store.steampowered.com/app/3088250/Nitro_Express)
 - [Corn Kidz 64](https://store.steampowered.com/app/2575900/Corn_Kidz_64)
 - [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
@@ -284,6 +301,15 @@ The Dark Queen of Mortholme
 - Earthbound/mother 1 + 2 + 3 + original
 - [Gris](https://nomada.studio)
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
+- MINDHACK
+- ROUTINE
+- Hauntii
+- VEIN
+- Rusted Moss
+- Project Malice
+- Refind Self: The Personality Test Game
+- Ratatan
+- Into The Grid
 
 > [!info]
 > also check out my [book_list](<./book_list.md>)

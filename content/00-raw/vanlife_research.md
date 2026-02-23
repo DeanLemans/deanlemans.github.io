@@ -4,7 +4,7 @@ tags:
   - vanlilfe
 draft: "true"
 title: Vanlife Research
-modified: 2025-11-16
+modified: 2026-02-23
 ---
 
 + [ ] Look into nederlands vanlife communities
@@ -57,26 +57,13 @@ Continue registering as living with your parents if it works, but prepare docume
 
  Build a professional online presence (via this site, i still need to restructure this)
 
-# Digest This
+#### **Year 3–5 (or later idk)
 
-+ **Grow Your Gardening Business**: (e.g., a simple website via WordPress) and join platforms like Werkspot to secure steady clients. Aim to complete a short certification course (e.g., in sustainable gardening from a local vocational school) to increase your rates and credibility.
-	+ **Income Diversification**: Start small by offering related services (e.g., lawn maintenance packages or eco-advice) to boost earnings. Target a 20-30% income increase in the first year.
-+ **Health and Well-Being**: Prioritize routine health checks and join vanlife communities for support.
++ **Vanlife development**:
+	+ ** travel planning**: plan trips around Europe (for example Germany → Belgium). Within Schengen zone so i can stay up to 90 days without extra paperwork.
+	+ **Risk management**: by year 3, make sure the van is fully legal and documented. Set money aside for repairs, upgrades, or backup vehicle if something breaks down.
+		
++ **Lifestyle adjustments**:
+	+ **More stable base**: vanlife can take a toll physically and mentally. By year 4, consider saving for fixed place ( example in regions like Friesland where vanlife is more accepted).
 
-#### **Year 3-5: Scale and Evaluate Transitions**
-
-+ **Vanlife Evolution**:
-	+ **Long-Term Mobility**: If you enjoy the nomadic aspect, plan EU trips (e.g., to Germany or Belgium) for seasonal work, using Schengen rules for up to 90 days. Explore legal van-dwelling options, like buying land for a tiny house,
-	+ **Risk Mitigation**: By year 3, aim to have your van fully compliant and documented, Save for potential upgrades or a backup vehicle to handle breakdowns.
-+ **Career Advancement**:
-	+ **Business Expansion**: Scale your freelance work by hiring a part-time assistant or partnering with other ZZP'ers (e.g., for larger gardening projects). Set financial goals, like reaching the ZZP income threshold for mandatory pension contributions, to secure your future.
-	+ **Diversification**: Explore related fields, such as urban farming or consulting for green businesses, to reduce reliance on physical labor. Use KvK resources for business courses to formalize your operations.
-+ **Lifestyle Transitions**:
-	+ **Evaluate Alternatives**: If vanlife strains your health or finances, plan a gradual shift. For example, by year 4, save for a small apartment (e.g., in a van-friendly area like Friesland) and use the van for weekends only. This hybrid approach maintains freedom while providing stability.
-	+ **Exit Strategy**: If freelancing gardening doesn't scale, consider pivoting to digital work (e.g., online gardening tutorials) or stable jobs in horticulture. Use tools like the UWV website for career advice and retraining programs.
-
-#### **Potential Challenges and Contingencies**
-
-+ **Financial**: Inflation and rising costs (e.g., fuel taxes) could impact your budget—monitor with apps and adjust plans annually.
-+ **Legal**: Stay updated on changes via Rijksoverheid newsletters; if issues arise, consult a lawyer early.
-+ **Personal**: Vanlife can lead to burnout; incorporate breaks and hobbies to maintain balance.
++ **Legal**: watch out for legal bullshit from the government, keep up to date with relevant laws. get legal advice, cunsult lawyer or smth

@@ -1,6 +1,6 @@
 ---
 publish:
-modified: 2026-01-24
+modified: 2026-02-23
 tags:
   - exclude
 title: Subconscious
@@ -17,6 +17,18 @@ dream diary, behind the mask, a truer self, diary, me myself and I, unconscious,
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
+traitor, traitor
+why
+sufferering, despair
+
+
+---
+
+scream, until you are left
+howl in rage
+for the world did not listen
+
+---
 I am, the seeker.
 Grasp it al
 Know it all
