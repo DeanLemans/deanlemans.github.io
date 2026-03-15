@@ -1,5 +1,5 @@
 ---
-modified: 2026-02-23
+modified: 2026-03-14
 title:
 description: things and stuff i still/want to do
 ---
@@ -39,7 +39,7 @@ Topics
 - [ ] Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
 - [ ] [Dual Licensing](https://duallicensing.com/)
 
-- [ ] i need to search through to my notes and add more internal links.
+- [ ] i need to search through to my notes and add more internal links. 
 - [ ] rethink the references folder
 - [ ] <https://starbreaker.org/blogroll/index.html> search ts
 - [ ] read <https://rosswintle.uk/2024/02/a-manifesto-for-small-static-web-apps/>
@@ -47,6 +47,7 @@ Topics
 - [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023?mibextid=Zxz2cZ>
 - [ ] <https://journal.miso.town/>
 - [ ] web host? <https://ichi.city/>
+- [ ] self actualization?
 - [ ] build shi <https://32bit.cafe/cyowebsite/>
 - [ ] verifycation shi <https://starbreaker.org/verify/index.html>
 - [ ] restructure site🔺

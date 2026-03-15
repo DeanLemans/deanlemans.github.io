@@ -4,7 +4,9 @@ title: Dream
 description: a dream i had, i wrote it down half aspleep, it felt so important, like something i wanted to do and didt do, anthor place another time. an ideal to be reached
 aliases:
   - dream
-modified: 2025-11-11
+modified: 2026-02-24
+tags:
+  - dream
 ---
 
 # 2025-10-end (written)

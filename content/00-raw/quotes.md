@@ -5,7 +5,7 @@ aliases:
   - Quotes
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 tags: []
-modified: 2026-02-17
+modified: 2026-03-11
 ---
 
 alt title:
@@ -58,6 +58,8 @@ Man locked out of his smart house"
 > Any society that you build will have its limits. And outside the limits of any society the unruly and heroic tramps will wander, with their wild & virgin thoughts - they who cannot live without planning ever new and dreadful outbursts of rebellion! I shall be among them!
 
 > We are treating the symptoms, not the cause. we need to find the origin of what went wrong/is going wrong and improve/cure/understand it. to be better
+
+>grants skills related to alchemy, persuasion, manipulation, and religious practices. No matter the labels, no matter the definitions, you shall continue to further the goals of the Malefic Viper while grasping all the power you possibly can along the way.
 
 > Wherein Twilight learns, to her dismay,
 > the limits to which logic will carry unpopular arguments,
