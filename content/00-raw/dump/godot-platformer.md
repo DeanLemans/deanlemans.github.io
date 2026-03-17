@@ -1,9 +1,9 @@
 ---
-publish: true
+publish: false
 title: Godot Platformer
 description: first game made in godot
 created: 2025-09-25
-modified: 2025-11-11
+modified: 2026-03-17
 tags:
   - finished
   - gamedev

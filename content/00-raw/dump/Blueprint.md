@@ -1,7 +1,8 @@
 ---
-publish: true
+publish: false
 title: Blueprint
-modified: 2025-11-11
+modified: 2026-03-17
+created: 2026-03-17
 ---
 
 [Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)

@@ -1,13 +1,29 @@
 ---
-modified: 2026-01-09
-publish: true
+modified: 2026-03-17
+publish: false
+title: IT ondernemings plan
+aliases: IT ondernemings plan
+created: 2026-03-17
 ---
 
 # IT ondernemings plan
 
+random shit:
+personal subscription? services for older people who dont know tech.  
+maby just normalal selling?  
+helping with computers and such
+
+business plan:  
+how:  
+advertise via facebook as most old people are on there  
+what:  
+a service that could/can be a subscrition that aims to help old people with interner related stuff(like help with laptorp, phone, or tv)
+
+
+---
+
 how: sell/advertise via facebook for huiservice
 what: windows iso, office software, en huiservice
-
 
 barebones:
 adverteer op facebook dat ik met it kan helpen, op het begin gefocused op oudere groep mensen omdat hun nog meer hulp nodig hebben.
@@ -77,6 +93,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 - Vraag of ze je willen aanraden
 - Laat een briefje/kaartje achter met je naam + nummer
 - Eigen kaartje maken kan handig zijn
+
 ---
 
 ## Possible services
@@ -94,6 +111,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 - PC en laptop instellen met basis software en verkopen
 - Advies bij het kopen van een nieuwe pc/laptop
 - Technologisch advies in begrijpelijke taal
+
 ---
 
 ## Groei / scale

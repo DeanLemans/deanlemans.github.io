@@ -7,6 +7,7 @@ created: 2026-03-17
 ---
 
 # now
+
 [create_plant_terrarium](01-projects/create_plant_terrarium.md)
 [how_to_grow_moss](01-projects/how_to_grow_moss.md)
 [shed_greenhouse](01-projects/shed_greenhouse.md)
@@ -22,18 +23,7 @@ created: 2026-03-17
 	width="650"
 	height="155"
 ></iframe>
->
-[listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
-| Area                         | Current / interest |
-| ---------------------------- | ------------------ |
-| String cutting (large areas) | ❌ No               |
-| Plant nursery – big plants   | ?                  |
-| Plant nursery – small plants | ?                  |
-| Bricklaying / hardscaping    | ?                  |
-| Landscape architecture       | ?                  |
-| Mushrooms                    | ?                  |
-| Hydroponics                  | ?                  |
-| Automation                   | ?                  |
+[listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
 [What is a now page?](https://nownownow.com/about)

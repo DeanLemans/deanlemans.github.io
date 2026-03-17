@@ -24,10 +24,10 @@ aliases:
 
 ## Check Out My CVs
 
-> [!info] [Software CV](<./cv_software.md>)
+> [!info] [Software CV](<./00-raw/cv_software.md>)
 > development experience.
 
-> [!info] [Gardening CV](<./cv_gardening.md>)
+> [!info] [Gardening CV](<./00-raw/cv_gardening.md>)
 > gardening experience.
 
 ## Tools & Technologies

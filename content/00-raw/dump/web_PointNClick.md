@@ -1,9 +1,9 @@
 ---
-publish: true
+publish: false
 title: web Point and Click
 description: first game made in JavaScript
-created: 2025-09-25T20:38:23.175+01:00
-modified: 2025-11-11
+created: 2025-09-25
+modified: 2026-03-17
 tags:
   - finished
 ---

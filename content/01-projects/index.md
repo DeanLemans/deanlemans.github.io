@@ -1,10 +1,10 @@
 ---
 publish: true
-title: My Cool Projects
+title: 01 My Projects
 tags: []
 modified: 2026-03-17
 created: 2026-03-17
-aliases: My Cool Projects
+aliases: 01 My Projects
 ---
 
-# My Cool Projects
+# 01 My Projects

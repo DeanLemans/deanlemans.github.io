@@ -50,6 +50,7 @@ Topics
 - [ ] <https://jamesg.blog/>
 - [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023?mibextid=Zxz2cZ>
 - [ ] <https://journal.miso.town/>
+- [ ] connect with keyoxide or indieouth.(or not?)
 - [ ] web host? <https://ichi.city/>
 - [ ] self actualization?
 - [ ] build shi <https://32bit.cafe/cyowebsite/>

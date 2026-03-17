@@ -1,22 +1,13 @@
 ---
-modified: 2025-12-05
+modified: 2026-03-17
+title: yuverta school notes
+aliases: yuverta school notes
+created: 2026-03-17
 ---
-# periode 1
 
+# yuverta school notes
 
-# School learning
-
-# roel bouwman
-
-- 06-41777024
-
-- POC (moet teruggestuurd worden naar adminisrtatue yuverta)
-
-- praktijk of bedrijf, kennistoets op school
-
-- meld aan bedrijf welke focus je hebt van period
-
-- vca VOL aanvragen
+## period 1
 
 - - -
 
@@ -52,6 +43,7 @@ specifiek certificaat voor chemisch.(afgeraden, voor gezondheid mens en tuin)
 schrepel
 
 ---
+
 wat kan hovenier zijn?
 iemand die tuinaanleg doet voor een klant, dit kan bijvoorbeeld:
 electricitijd(belichting)
@@ -61,23 +53,21 @@ metselen
 bestraten
 dakpan
 
-
-
 ---
-# Periode 2:
+
+# Period 2
 
 ## week 1
-Opbouw bodem
-![](../../static_files/IMG_20251114_143023_609.jpg)
-![](../../static_files/IMG_20251114_142822_694.jpg)
 
+Opbouw bodem
+![](../static_files/IMG_20251114_143023_609.jpg)
+![](../static_files/IMG_20251114_142822_694.jpg)
 
 Hoe Bodemverbetering:
 - Compost
 - Schimmel
 - insecten
 - Bacterie
-
 
 # week 2
 
@@ -89,7 +79,7 @@ Hoe Bodemverbetering:
 - licht (zon)
 - water(transport voeding)
 - voedingstoffen(groei en ontwikkeling)
-- temperatuur(boven 10 celcius, groei)
+- temperatuur(boven 10 Celsius, groei)
 - koolstof (groei en fotosynthese)
 - zuurgraad(bij juiste PH is voeding opname mogelijk)
 
@@ -100,12 +90,12 @@ Kringlopen
 - koolstof(fotosynthese) {co2 = koolstof + water + licht -> glucose + waterstof}
 - stikstof (bacterien)
 
-![](../../static_files/IMG_20251121_142806_592.jpg)
+![](../static_files/IMG_20251121_142806_592.jpg)
 Iperen.com/kennis-nieuws
 
 Processen in de plant
 - fotosynthese
-- transport(houtvaten,  ![](../../static_files/IMG_20251121_144226_134.jpg)bostvaten)
+- transport(houtvaten, ![](../static_files/IMG_20251121_144226_134.jpg)bostvaten)
 
 Voedingstoffen in de bodem
 - bodemvocht
@@ -116,18 +106,17 @@ Voedingstoffen in de bodem
 # week 3
 
 Mest
-- organisch 
+- organisch
 - anorganisch
 - bodem verbeteraars
-     -  soorten
-     - koemest
-     - eiwitten van insecten
-     - kunstmest
-     - 
-    -  merk: bayer
+	 - soorten
+	 - koemest
+	 - eiwitten van insecten
+	 - kunstmest
+	- merk: bayer
 
 Bodem vs mest
-- mest; voeding, NPK, 
+- mest; voeding, NPK,
 - bodemverbeteraar; compost, verbetert structuur
 
 Wortelgoed; kaal wortel (goedkoopst)
@@ -142,7 +131,6 @@ Boompaal 1/3 de grond in
 
 Dungking.eu
 
-
 # week 4
 
 - cunet = ruimte voor al het straatwerk
@@ -155,5 +143,4 @@ Formaat knlinkers
 - kei (10; 20; 6-10)
 
 10-20-10 = bkk (beton knlinker)
-
 

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 created: 2025-10-10
 modified: 2026-03-17
 title: My Bookmarks
@@ -9,6 +9,8 @@ aliases: My Bookmarks
 # My Bookmarks
 
 for featured personal sites see: [external_sites](external_sites.md)
+
+cool projects that aren't my own
 
 ---
 

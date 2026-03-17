@@ -4,7 +4,7 @@ tags:
   - green
   - research
 publish: true
-title: shed_greenhouse
+title: shed greenhouse project
 aliases: shed greenhouse project
 created: 2026-03-15
 ---

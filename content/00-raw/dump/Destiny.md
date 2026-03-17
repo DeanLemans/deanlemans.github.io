@@ -1,7 +1,8 @@
 ---
-publish: true
+publish: false
 title: Destiny
-modified: 2025-11-11
+modified: 2026-03-17
+created: 2026-03-17
 ---
 
 the path is not yet walked upon

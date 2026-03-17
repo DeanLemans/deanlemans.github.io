@@ -1,7 +1,6 @@
 ---
 publish: true
-tags:
-  - exclude
+tags: []
 title: Site Rules and Vault System
 description: vault rules, sorting system, naming rules, creating rules
 modified: 2026-03-17

@@ -10,7 +10,7 @@ title: CV Software
 > I need to split my 2 CV, maby do something with automation for companies?
 
 > [!info]- Click here for PDF
-> ***[PDF Version](<./static_files/personal/CV-DeanLemans.pdf>)***
+> ***[PDF Version](<../static_files/personal/CV-DeanLemans.pdf>)***
 
 ---
 
