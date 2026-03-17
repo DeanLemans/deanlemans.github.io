@@ -34,10 +34,10 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     conditional(Component.Breadcrumbs(), notHome),
-    conditional(Component.ArticleTitle(), notHome),
     conditional(Component.ContentMeta(), notHome),
   ],
   left: [
+    Component.PageTitle(),
     desktop(Component.CustomText({ text: "My personal site" })),
     mobile(Component.Spacer()),
     Component.Flex({
@@ -62,8 +62,9 @@ export const defaultContentPageLayout: PageLayout = {
 };
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle()],
+  beforeBody: [],
   left: [
+    Component.PageTitle(),
     desktop(Component.CustomText({ text: "My personal site" })),
     mobile(Component.Spacer()),
     Component.Flex({
