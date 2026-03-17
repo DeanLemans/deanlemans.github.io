@@ -1,16 +1,17 @@
 ---
 created: 2026-03-15
 modified: 2026-03-17
-title: my_suplement_stack
-aliases: my_suplement_stack
+title: My Suplement Stack
+aliases: My Suplement Stack
 publish: true
 ---
 
 # My Suplement Stack
 
-- [ ] need to add more research to build up my choises
+- [ ] need to add more research to build up my choices
 - [ ] need to do several tests(blood, sleep, etc) in order to add or remove suplements.
 - [ ] rework this so it includes normal meals(do i want/need this?)
+
 ---
 
 order

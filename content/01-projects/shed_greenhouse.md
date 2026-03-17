@@ -4,12 +4,12 @@ tags:
   - green
   - research
 publish: true
-title: shed greenhouse project
-aliases: shed greenhouse project
+title: Shed Greenhouse Project
+aliases: Shed Greenhouse Project
 created: 2026-03-15
 ---
 
-# shed greenhouse project
+# Shed Greenhouse Project
 
 [create_plant_terrarium](create_plant_terrarium.md)
 [[how_to_grow_moss]]

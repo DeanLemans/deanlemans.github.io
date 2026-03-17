@@ -3,14 +3,14 @@ tags:
   - research
   - vanlilfe
 draft: "true"
-title: deans vanlife research
+title: "Dean's Vanlife Research"
 modified: 2026-03-17
-aliases: deans vanlife research
+aliases: "Dean's Vanlife Research"
 created: 2026-03-17
 publish: true
 ---
 
-# deans vanlife research
+# Dean's Vanlife Research
 
 + [ ] Look into nederlands vanlife communities
 + [ ] need to add my drawn vanlife design to here

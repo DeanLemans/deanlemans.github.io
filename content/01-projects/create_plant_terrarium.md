@@ -4,9 +4,11 @@ tags:
   - green
   - research
 created: 2026-03-12
-title: create_plant_terrarium
-aliases: mix for terrarium substrate
+title: Creating Plant terrarium
+aliases: Creating Plant terrarium
 ---
+
+# Creating Plant terrarium
 
 **what needed?**
 container
@@ -16,7 +18,7 @@ springtails
 
 ---
 
-# mix for terrarium substrate
+## mix for terrarium substrate
 
 - 1 part, cocos fibre
 - 2 part, sphagnum/ground moss(dried)

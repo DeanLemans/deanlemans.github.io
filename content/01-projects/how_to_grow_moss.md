@@ -1,14 +1,14 @@
 ---
-modified: 2026-03-15
+modified: 2026-03-17
 created: 2026-03-15
-title: how_to_grow_moss
-aliases: how_to_grow_moss
+title: how To Grow Moss
+aliases: how To Grow Moss
 tags:
-  - research
   - green
+  - research
 ---
 
-# how\_to\_grow\_moss
+# how To Grow Moss
 
 [Mossariums’ How To Guide](../00-raw/clippings/Mossariums’%20How%20To%20Guide.md)
 

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: index
+title: 03 Digital Garden(old)
 modified: 2026-03-17
 aliases: index
 created: 2026-03-17
