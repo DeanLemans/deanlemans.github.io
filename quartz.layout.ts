@@ -1,23 +1,21 @@
-import { PageLayout, SharedLayout } from "./quartz/cfg"
-import * as Component from "./quartz/components"
+import { PageLayout, SharedLayout } from "./quartz/cfg";
+import * as Component from "./quartz/components";
 
-const and =
-  (...conds: Array<(p: any) => boolean>) =>
-  (p: any) =>
-    conds.every((c) => c(p))
+const and = (...conds: Array<(p: any) => boolean>) => (p: any) =>
+  conds.every((c) => c(p));
 
 const notSlug = (page: any, slugs: string[]) => {
-  const s = page?.fileData?.slug
-  return !slugs.includes(s)
-}
+  const s = page?.fileData?.slug;
+  return !slugs.includes(s);
+};
 
-const notHome = (page: any) => notSlug(page, ["index", "home"])
-const notCV = (page: any) => notSlug(page, ["CV-Software", "CV-Gardening"])
+const notHome = (page: any) => notSlug(page, ["index", "home"]);
+const notCV = (page: any) => notSlug(page, ["CV-Software", "CV-Gardening"]);
 
-const desktop = (c: any) => Component.DesktopOnly(c)
-const mobile = (c: any) => Component.MobileOnly(c)
+const desktop = (c: any) => Component.DesktopOnly(c);
+const mobile = (c: any) => Component.MobileOnly(c);
 const conditional = (component: any, condition: (p: any) => boolean) =>
-  Component.ConditionalRender({ component, condition })
+  Component.ConditionalRender({ component, condition });
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -31,7 +29,7 @@ export const sharedPageComponents: SharedLayout = {
       "Guest Book": "https://thegardner.atabook.org/",
     },
   }),
-}
+};
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -40,7 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
     conditional(Component.ContentMeta(), notHome),
   ],
   left: [
-    Component.PageTitle(),
     desktop(Component.CustomText({ text: "My personal site" })),
     mobile(Component.Spacer()),
     Component.Flex({
@@ -54,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        return node.data?.tags?.includes("exclude") !== true
+        return node.data?.tags?.includes("exclude") !== true;
       },
     }),
   ],
@@ -62,12 +59,11 @@ export const defaultContentPageLayout: PageLayout = {
     desktop(conditional(Component.TableOfContents(), notHome)),
     desktop(conditional(Component.Backlinks(), and(notHome, notCV))),
   ],
-}
+};
 
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle()],
   left: [
-    Component.PageTitle(),
     desktop(Component.CustomText({ text: "My personal site" })),
     mobile(Component.Spacer()),
     Component.Flex({
@@ -82,4 +78,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [desktop(Component.TableOfContents()), desktop(Component.Backlinks())],
-}
+};
