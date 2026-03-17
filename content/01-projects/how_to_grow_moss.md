@@ -6,6 +6,7 @@ aliases: how To Grow Moss
 tags:
   - green
   - research
+publish: true
 ---
 
 # how To Grow Moss

@@ -6,6 +6,7 @@ tags:
 created: 2026-03-12
 title: Creating Plant terrarium
 aliases: Creating Plant terrarium
+publish: true
 ---
 
 # Creating Plant terrarium

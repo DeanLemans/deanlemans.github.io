@@ -1,12 +1,12 @@
 ---
-title: now
+title: /now
 publish: true
 modified: 2026-03-17
-aliases: now
+aliases: /now
 created: 2026-03-17
 ---
 
-# now
+# /now
 
 [create_plant_terrarium](01-projects/create_plant_terrarium.md)
 [how_to_grow_moss](01-projects/how_to_grow_moss.md)
@@ -18,7 +18,7 @@ created: 2026-03-17
 ---
 
 <iframe
-	src="https://listenbrainz.org/user/beyond_selfhood/embed/pin"
+	src="https://listenbrainz.org/user/beyond_selfhood/embed"
 	frameborder="0"
 	width="650"
 	height="155"
