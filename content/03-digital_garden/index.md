@@ -1,8 +1,8 @@
 ---
 publish: true
-title: 03 Digital Garden
-modified: 2025-11-29
+title: index
+modified: 2026-03-17
+aliases: index
+created: 2026-03-17
 ---
-list of lists
-map of content
-garden?
+(this used to be something coherent, but im updating my site a lot)

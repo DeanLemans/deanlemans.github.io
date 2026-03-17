@@ -1,6 +1,6 @@
 ---
 publish: true
-aliases: Introduction
+aliases: on a better education
 modified: 2026-03-17
 tags:
   - research
@@ -8,9 +8,13 @@ title: better_education
 created: 2026-02-02
 ---
 
+# on a better education
+
+(according to me)
+
 # Introduction
 
-It has already been proven that the current school systems are dogshit [The toxic schooling system](<clippings/The toxic schooling system.md>)
+It has already been proven that the current school systems are dogshit [The toxic schooling system](<../00-raw/clippings/The toxic schooling system.md>)
 
 So i will try to seek/find/create what a better education system is
 

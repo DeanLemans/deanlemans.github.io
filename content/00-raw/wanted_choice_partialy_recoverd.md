@@ -1,16 +1,17 @@
 ---
 publish: true
-title: Dream
-description: a dream i had, i wrote it down half aspleep, it felt so important, like something i wanted to do and didt do, anthor place another time. an ideal to be reached
-aliases:
-  - dream
-modified: 2026-02-24
+title: wanted_choice_partialy_recoverd
+description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
+aliases: wanted_choice_partialy_recoverd
+modified: 2026-03-17
 tags:
   - dream
+created: 2026-03-17
 ---
 
-# 2025-10-end (written)
+# wanted_choice_partialy_recoverd
 
+(10/??/2025)
 Tech dev where we create pods to dive in dream/substance/dreams/subconsious/alieshive/dead god/dead primordial/comatose being.
 We wer the best/chosen/last, a growthsubstance discovered, beneficial is small dose/harm = harm. .
 Normally giant ship with large crew to travel(dream/stars/dead world/past that wasn't), solo tea, she/i went alone, discovered truth/cure/being/UNKNOWN, WANTES TO COME BACK, BUT WEAKENED SHIP HULL BEACH, airlock failing, went into pod to try to live/transfer/be, failure/partial/half/splintered/split/help/stuck, had to use the pink/mutation/gamma/atomic/, you were durable to it due to long exposure, only HOPE. Rescue yook to long(ALSO BECAME STUCK/SPLINT, BUT YOU HELP? YOUR FACE WAS/NODY MUTATED MERGE WITH POD?PARYIALLY , INSIDE/OUT/TRUTH BECAME REVEALED/NLDY/SIGNALESTABLISHED.
@@ -18,3 +19,64 @@ RESCUE, BEING..M..PLANNED, YOU HAD A TWIN/DEAD/HALF/FORHOT) BIOMETRICS/SOUL RESO
 
 you woke up? , damaged, but awake at entrance(no) , in bed(?) In multitude.
 Was i ever? Or was i just a dead dream? Was i her? Did she absorb me in birth? Am i a broken of piece of her?
+
+---
+
+# divided_asembled
+
+(02/02/2026)
+
+Grey the Paradox, prisoner of restraint, keen of mind and holder of pragmatism
+bound by Logic.
+
+Liberation the Anarchist, the undoubtable, the achiever of the impossible.
+Unsorry bringer of change.
+Champion of chaos and breaker of Destiny.
+
+Crawler the Mute, prisoner of silence, keen of ear and holder of secrets.
+Shrouded in overgrown moss and mystery.
+
+Lila the Dreamer, holder of wonder, keen of heart and keeper of imagination.
+Hope that burns itself.
+
+Kael the Apathy, prisoner of nihlism, keen of mind and holder of detachment
+The shell searching for Meaning.
+
+Aria the Fury, the hypocrite, passion and hysteria, wielder of chaos and unstable emotion
+A sea of conflicting desires.
+
+Elian the Desperation, seizer of greatness, grasper of Impossibles and burdened by others
+Climber of mountains endless.
+
+HYSTERIA, I AM AN MOMENT OF MOMENTS, I AM ECHO ABSOLUTE, I AM HATE, I AM JOY, I AM A SHARED AGAISNT MYSELF AGAIN AND AGAIN, I THE MASS INSITING THE MASS.
+
+---
+
+# an_artist_disgusting_want
+
+(23/02/2026)
+and so
+i dreamt
+daydreams
+i saw it
+in a huge space, whole dirty body of mine
+with grime and rist and ink and cables everywhere
+pierecing
+with a brush as tall as i am, as long as my body
+black ink on it it, engraved in ornate design, weathered, used good,
+i was laughing, grinning, i imagened myself happy , in that moment i was happpy,
+all alone in thhat great box, it was mine to taint, mine to take, mine to shape
+there waas also a pencil, about as long as the brush,
+names , no text m= drawn by pencil, and typed out floathed behind me, pieces of inspiration
+tit matters not how i paint theis world my colors , be it pencil , inkt, words, story, text, blood, intestines,
+i just need a medium
+
+in that place, with b=giant brush in y hand, painting,
+what did the box house domain look like?
+it was filled with hanging paper, noooses i ade for myself as reinders, itt was filled with rope, fro wall to wall, struing, strung tight, i together they made of a flower, bed where i sleep, ymy cocoon
+not quite, a place of rest,
+words scribled all over the wall, with blood and words and shit and piis and cu and inkts and grephite and wood, out of that what isn't there
+everytihing taken apart, not everything, everuthing i had taken an interest to, taken apartt, because i wanted tio know
+it was so beuatifull, i was at peace, BUT NO
+THEY PULLED ME OOUT, MAKE CONTACT TEHY SAY , BE SOCIAL THEY SAY, SO I WEAR MASK, TO HIND WHAT I TRYLY WASNT
+BUT WHAT DO I WANT

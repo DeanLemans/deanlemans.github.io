@@ -10,6 +10,6 @@ tags:
 
 # how\_to\_grow\_moss
 
-[Mossariums’ How To Guide](clippings/Mossariums’%20How%20To%20Guide.md)
+[Mossariums’ How To Guide](../00-raw/clippings/Mossariums’%20How%20To%20Guide.md)
 
 1. drainage l

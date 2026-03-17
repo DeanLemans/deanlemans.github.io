@@ -1,15 +1,15 @@
 ---
-modified: 2026-03-15
+modified: 2026-03-17
 tags:
   - green
   - research
 publish: true
-title: brainstorm_shed_greenhouse
-aliases: brainstorm_shed_greenhouse
+title: shed_greenhouse
+aliases: shed greenhouse project
 created: 2026-03-15
 ---
 
-# brainstorm\_shed\_greenhouse
+# shed greenhouse project
 
 [create_plant_terrarium](create_plant_terrarium.md)
 [[how_to_grow_moss]]

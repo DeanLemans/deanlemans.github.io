@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2026-02-23
+modified: 2026-03-17
 aliases:
   - /my-site
   - /my-site/
@@ -9,7 +9,8 @@ aliases:
   - my-site/
 ---
 
-# Dean Lemans – Gardener & open source solutions
+# Dean Lemans
+## Plant Lover & Open Source Enthusiast
 
 <div style="text-align:center;">
   <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
@@ -38,6 +39,9 @@ aliases:
 	- **Game Engine:** [Godot](https://godotengine.org/)
 	- **IDE:** [Zed](https://zed.dev/)
 	- **Misc:** Git, codeberg, github
+- Green stuff
+	- moss
+	- terariums
 
 ## Interests
 

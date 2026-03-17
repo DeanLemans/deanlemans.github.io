@@ -2,20 +2,17 @@
 publish: true
 tags:
   - exclude
-title: Site Rules
+title: Site Rules and Vault System
 description: vault rules, sorting system, naming rules, creating rules
-aliases:
-  - Site Rules
-  - site_rules
-  - Vault Rules
-  - vault_rules
-modified: 2026-02-17
+modified: 2026-03-17
+created: 2026-03-17
+aliases: Site Rules and Vault System
 ---
 
 # Site Rules and Vault System
 
 > [!note] note
-> this vault is written as a legacy of mine,
+> this vault is written as a legacy of mine(?),
 > therefore it should be future proof.
 
 ---

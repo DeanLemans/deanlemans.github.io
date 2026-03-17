@@ -1,7 +1,6 @@
 ---
 publish: false
 tags:
-  - current
 modified: 2026-03-12
 ---
 

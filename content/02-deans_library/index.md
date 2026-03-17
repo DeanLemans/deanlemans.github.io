@@ -2,12 +2,11 @@
 publish: true
 title: 02 Dean's library
 tags: []
-modified: 2026-02-16
+modified: 2026-03-17
+created: 2026-03-17
 ---
 
 # Dean's Book Library
-
----
 
 ### books I have read
 
@@ -16,7 +15,7 @@ you can find the books I have read:
 
 ---
 
-### Backlog
+## Backlog
 
 - Blake's prophetic books (divine rebellion)
 - Jung's _Red Book_ (integration of shadow self)

@@ -6,17 +6,21 @@ aliases: my_suplement_stack
 publish: true
 ---
 
-# my\_suplement\_stack
+# My Suplement Stack
 
+- [ ] need to add more research to build up my choises
+- [ ] need to do several tests(blood, sleep, etc) in order to add or remove suplements.
+- [ ] rework this so it includes normal meals(do i want/need this?)
+---
 
 order
-when i first eat:
-- ashwaganda (2 capsule)
+what i first eat:
+- ashwaganda (1 capsule)
 - lions mane (2 gummies)
 - multivatamin (1 pill)
 - creatine (5 gram)
-when going to sleep
-- sleep magnesium
+when going to sleep:
+- sleep magnesium (2 capsules)
 
 ---
 
@@ -64,8 +68,6 @@ multivitamin (1 pill)
 
 creatine
 - 5 gram
-
-
 
 ---
 

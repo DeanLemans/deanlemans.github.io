@@ -1,8 +1,9 @@
 ---
 draft: "true"
 title: rymes_and_poems
-tags: []
-modified: 2026-03-15
+tags:
+  - exclude
+modified: 2026-03-17
 aliases: rymes_and_poems
 created: 2026-02-02
 ---

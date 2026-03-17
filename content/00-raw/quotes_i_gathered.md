@@ -3,7 +3,8 @@ publish: false
 title: quotes_i_gathered
 aliases: quotes
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
-tags: []
+tags:
+  - exclude
 modified: 2026-03-17
 created: 2026-02-02
 ---

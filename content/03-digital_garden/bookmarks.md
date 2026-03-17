@@ -1,17 +1,16 @@
 ---
 publish: true
 created: 2025-10-10
-modified: 2026-02-11
+modified: 2026-03-17
 title: My Bookmarks
-aliases:
-  - bookmarks
+aliases: My Bookmarks
 ---
+
+# My Bookmarks
 
 for featured personal sites see: [external_sites](external_sites.md)
 
 ---
-
-# Bookmarks
 
   <li><a href="https://mark1626.github.io/knowledge/#astronomy">Mark1626 Knowledge - Astronomy</a></li>
 

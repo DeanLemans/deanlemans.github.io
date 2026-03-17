@@ -2,15 +2,20 @@
 publish: true
 title: Trajectory
 created: 2025-07-25
-modified: 2026-02-23
+modified: 2026-03-17
+aliases: Trajectory
 ---
 
+# Trajectory
+
 - [ ] implement the other plans i made in bali [Research-Bali](01-projects/Research-Bali.md)
+- [ ] need to rework ts bc i changed educations
 > [!NOTE]Alternative titles
 > - Future
 > - plans
 > - horizon
 > - path-ahead
+> - general frameworks?
 
 ### Preface
 
@@ -20,7 +25,7 @@ Reality's always shifting, so these are just 'frameworks' I can tear into and fu
 
 ---
 
-### Plan A: Freelance Gardener → 1-man Company → BV **(current plan)**
+### Plan A: Freelance Gardener → 1-man Company → BV
 
 - Get VCA certificaat, KVK uitrekstelsel, aansprakelijkheidsverzekering, modelovereenkomst, register at KVK, build experience, get tools
 - Freelancer means more pay but less job security; instead, more freedom and broader experience.
