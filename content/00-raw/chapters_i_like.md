@@ -1,7 +1,9 @@
 ---
-publish: false
-title: Cool chapters
-modified: 2025-11-11
+publish: true
+title: chapter_i_like
+modified: 2026-03-17
+aliases: Chapters
+created: 2026-02-02
 ---
 
 A list of chapters i like, i lost a lot of them on my old phone

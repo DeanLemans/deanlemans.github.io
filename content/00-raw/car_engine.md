@@ -1,7 +1,10 @@
 ---
 description: most relialbe engine type shi
-modified: 2025-11-11
+modified: 2026-03-17
 publish: true
+title: car_engine
+aliases: reliable/long term car engine
+created: 2026-02-02
 ---
 
 # reliable/long term car engine

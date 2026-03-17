@@ -1,12 +1,15 @@
 ---
 draft: "true"
-title: Rymes, Poems, and Rough pieces
-tags:
-  - permanent
-modified: 2025-11-11
+title: rymes_and_poems
+tags: []
+modified: 2026-03-15
+aliases: rymes_and_poems
+created: 2026-02-02
 ---
 
-# Complete
+# rymes\_and\_poems
+
+## Completed
 
 ```
 up is old
@@ -109,7 +112,7 @@ In the face of yourself…
 
 ---
 
-# Incomplete
+## Incomplete
 
 ```
 up is old

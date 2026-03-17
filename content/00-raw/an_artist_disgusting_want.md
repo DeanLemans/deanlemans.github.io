@@ -1,8 +1,14 @@
 ---
-modified: 2026-02-24
+modified: 2026-03-17
 tags:
   - dream
+publish: true
+title: an_artist_disgusting_want
+aliases: an_artist_disgusting_want
+created: 2026-02-23
 ---
+
+# an\_artist\_disgusting\_want
 
 and so
 i dreamt

@@ -1,12 +1,14 @@
 ---
-publish:
-title: Quotes
-aliases:
-  - Quotes
+publish: false
+title: quotes_i_gathered
+aliases: quotes
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 tags: []
-modified: 2026-03-11
+modified: 2026-03-17
+created: 2026-02-02
 ---
+
+# quotes
 
 alt title:
 stuff from books, lines is found interesting, snippets from something
@@ -59,7 +61,7 @@ Man locked out of his smart house"
 
 > We are treating the symptoms, not the cause. we need to find the origin of what went wrong/is going wrong and improve/cure/understand it. to be better
 
->grants skills related to alchemy, persuasion, manipulation, and religious practices. No matter the labels, no matter the definitions, you shall continue to further the goals of the Malefic Viper while grasping all the power you possibly can along the way.
+> grants skills related to alchemy, persuasion, manipulation, and religious practices. No matter the labels, no matter the definitions, you shall continue to further the goals of the Malefic Viper while grasping all the power you possibly can along the way.
 
 > Wherein Twilight learns, to her dismay,
 > the limits to which logic will carry unpopular arguments,

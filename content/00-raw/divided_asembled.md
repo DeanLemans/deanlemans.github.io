@@ -1,8 +1,14 @@
 ---
 description: something i based on something but i forgot what. there was something here once, something new perhaps?
-modified: 2025-11-11
+modified: 2026-03-17
+tags:
+  - dream
+title: divided_asembled
+aliases: divided_asembled
+created: 2026-02-02
 ---
 
+# divided\_asembled
 
 Grey the Paradox, prisoner of restraint, keen of mind and holder of pragmatism
 bound by Logic.
@@ -25,3 +31,5 @@ A sea of conflicting desires.
 
 Elian the Desperation, seizer of greatness, grasper of Impossibles and burdened by others
 Climber of mountains endless.
+
+HYSTERIA, I AM AN MOMENT OF MOMENTS, I AM ECHO ABSOLUTE, I AM HATE, I AM JOY, I AM A SHARED AGAISNT MYSELF AGAIN AND AGAIN, I THE MASS INSITING THE MASS.

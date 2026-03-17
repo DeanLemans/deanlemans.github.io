@@ -1,8 +1,11 @@
 ---
 publish: true
-aliases:
-  - education
-modified: 2025-11-11
+aliases: Introduction
+modified: 2026-03-17
+tags:
+  - research
+title: better_education
+created: 2026-02-02
 ---
 
 # Introduction
