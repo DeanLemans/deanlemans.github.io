@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-09-25
-modified: 2026-03-17
+modified: 2026-03-18
 aliases:
   - /my-site
   - /my-site/
@@ -18,9 +18,9 @@ aliases:
 
 ## About Me
 
-- **Gardener:** Focused on maintenance and practical landscaping.
+- **Gardener:** Focused on maintenance and greenhouses.
 - **Software Development:** using [Godot](https://godotengine.org/) and creating Static Sites.
-- Passionate about computers, gardening, and [open source](https://opensource.org/osd).
+- Passionate about computers, plants, and [open source](https://opensource.org/osd).
 
 ## Check Out My CVs
 
@@ -34,14 +34,17 @@ aliases:
 
 - [ ] need to completely rework my tools/skills stuff, mabaey split into separate page?, also the cv pages
 - [ ] remove the cv pages text and merge in 1 pdf? larger issue of portofolio
+
 - Software
 	- **Operating Systems:** [cachyOS](https://cachyos.org/), [GrapheneOS](https://grapheneos.org/)
 	- **Game Engine:** [Godot](https://godotengine.org/)
 	- **IDE:** [Zed](https://zed.dev/)
 	- **Misc:** Git, codeberg, github
 - Green stuff
-	- moss
-	- terariums
+	- Greenhouses
+	- Moss
+	- Terrariums
+	- Garden Maintence
 
 ## Interests
 
@@ -55,7 +58,7 @@ aliases:
 > [!info] Collections
 > - [Book Library](02-deans_library/index.md)
 > - [Game Library](<./03-digital_garden/game_list.md>)
-> - [Site Development](<./vault_rules.md>)
+> - [Vault Rules](<./vault_rules.md>)
 
 
 > [!info] Contact me

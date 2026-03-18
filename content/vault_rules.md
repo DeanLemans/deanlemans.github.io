@@ -3,7 +3,7 @@ publish: true
 tags: []
 title: Site Rules and Vault System
 description: vault rules, sorting system, naming rules, creating rules
-modified: 2026-03-17
+modified: 2026-03-18
 created: 2026-03-17
 aliases: Site Rules and Vault System
 ---
@@ -70,7 +70,7 @@ aliases: Site Rules and Vault System
 - `02-library`
 - `03-digital_garden`
 
-- Always use underscores `_` for spaces
+- Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
 
 ---
@@ -80,7 +80,7 @@ aliases: Site Rules and Vault System
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
 - Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](00-raw/clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md).
 - Store files in open and readable formats.
-- Use consistent naming and metadata for search-ability and discoverbility.
+- Use consistent naming and metadata for search-ability and discoverbility.(propper YAML data, good tags, etc)
 
 ---
 
@@ -92,9 +92,8 @@ aliases: Site Rules and Vault System
 - Reduce folder complexity to simplify navigation and maintainability
 - [ ] Migrate external content locally or at least link it
 - [ ] when linking an external thing, use an archived version
-- written in standard markdown and sometimes embedded html.
-- Always pluririze tags
-- Heavy use of internal links for interconnectivity
+- written in markdown and sometimes embedded html.(html mostly for foldable stuff)
+- Heavy use of internal links for interconnectivity (i dont really do this)
 
 ---
 
@@ -113,9 +112,8 @@ aliases: Site Rules and Vault System
 
 ### 7.3 Links and Metadata
 
-- Capture properties, ratings, and notes in reference files
 - Use [Web Clipper](https://stephango.com/obsidian-web-clipper) for external material
-- Include timestamps or revision history for all notes
+- Include date created, date modified, title for all notes
 - [ ] Maintain consistent frontmatter (tags and modified date)
 
 ---
@@ -125,14 +123,13 @@ aliases: Site Rules and Vault System
 - `modified: {{date}}` to track edits
 
 **Pruning**
-- Use Obsidian's *unique note* hotkey to log thoughts
-- monthly review, yearly meta-review
+- (bi?)monthly review, yearly meta-review
 - Preserves a fractal web of thought for analysis and historical reference
 
 **Random Note Exploration**
 - Graph view exploration to find related notes
 - Reconnect older ideas to current projects
-- Opportunity for maintenance: style, metadata, internal links
+- Opportunity for maintenance: style, metadata, internal links, and other shi
 
 - [ ] Include script to check for broken links and missing metadata
 
@@ -142,7 +139,7 @@ aliases: Site Rules and Vault System
 
 - Markdown content edited in Obsidian, site code in Zed
 - Quartz static site generator converts Markdown to HTML
-- Deployment via GitHub GUI + GitHub Actions
+- Deployment via GitHub Actions
 - Hosting: GitHub Pages, Neocities ([CI/CD available here](https://github.com/DeanLemans/deanlemans.github.io/tree/v4/.github/workflows))
 
 - [ ] archive site via something like waybackmachine
@@ -158,5 +155,5 @@ aliases: Site Rules and Vault System
 - [ ] Local USB backup via BORG BACKUP
 - [x] Sync across devices with Syncthing ✅ 2026-02-17
 - [x] Maintain rolling backups for at least 10 days ✅ 2026-02-17
-- [ ] validate backups for via hash
+- [ ] validate site via hash
 

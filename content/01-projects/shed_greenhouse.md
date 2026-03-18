@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-17
+modified: 2026-03-18
 tags:
   - green
   - research
@@ -26,8 +26,14 @@ currently have 2 rudimentary greenhouses
 i live in a zone 8A, netherlands
 
 ---
+## How shits going
 
-## priority 1
+
+---
+
+# cool research i did because im amazing
+
+### main stuff
 
 temperature, light, humidity, and airflow
 
@@ -58,7 +64,7 @@ problems:
 
 ---
 
-## priority 2
+### secondary stuff
 
 ---
 
