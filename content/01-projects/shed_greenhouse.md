@@ -31,12 +31,12 @@ i live in a zone 8A, netherlands
 
 ### day 1
 
-![](../static_files/IMG_20260315_235646_937.jpg | 300)
+<img src="../static_files/IMG_20260315_235646_937.jpg" width="500">
 
 ### day 2
 
-![](../static_files/IMG_20260317_232205_257.jpg | 300)
-![](../static_files/IMG_20260317_232154_349.jpg)
+<img src="../static_files/IMG_20260317_232205_257.jpg" width="300">
+<img src="../static_files/IMG_20260317_232154_349.jpg" width="500">
 
 ---
 
