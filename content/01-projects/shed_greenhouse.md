@@ -27,6 +27,11 @@ i live in a zone 8A, netherlands
 
 ---
 ## How shits going
+### day 1:
+![](../static_files/IMG_20260315_235646_937.jpg)
+### day 2:
+![](../static_files/IMG_20260317_232205_257.jpg)
+![](../static_files/IMG_20260317_232154_349.jpg)
 
 
 ---

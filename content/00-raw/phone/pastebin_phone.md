@@ -1,5 +1,6 @@
 ---
-modified: 2026-01-24
+modified: 2026-03-18
+created: 2026-01-24
 ---
 
 (To be digested)
@@ -304,3 +305,10 @@ She watches as the beast's head comes around the corner, and she looks into its 
 Little fingers cradle a frame, little eyes stare silently at the screen. Little knees pulled to her chest, little girl's tears flow no more, long dry. Her parents lie dead not far, father's hand dropped his ax, mother's hand dropped her knife. Five mangled bodies slashed and sliced lie there too, gruesome maws wide open, butcher's grimace. Her brother bleeds weakly, his pistol droops to the ground, his eyes unfocused, thoughts grow faint. The pictures on the screen move and tell a story, of many dead people and more dead creatures. She watches her sister fight and watches her die, impaled on spears of bone and claw. She watches as a switch falls from her sister's hands and fire swallows all.
 
 ---
+adventure/story:
+the vagabond
+the wanderer
+the homeless
+withouth the shell
+influence
+power
