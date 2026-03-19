@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-18
+modified: 2026-03-19
 tags:
   - green
   - research
@@ -25,18 +25,48 @@ currently have 2 rudimentary greenhouses
 
 i live in a zone 8A, netherlands
 
+
+---
+## current tasks
+
+- [x] buy hygrometer ✅ 2026-03-19
+- [ ] misting system
+	- [x] i placed a water bucket under it ✅ 2026-03-19
+- [x] termometer ✅ 2026-03-19
+- [ ] heating pad/heat pipes
+- [ ] grow lamps or led lamps
+	- [x] weak lamps(insuficient) ✅ 2026-03-19
+- [ ] timer for switiching off electricity
+
 ---
 
-## How shits going
+## Progress
 
-### day 1
+### 2026-03-15
+finally cleaned up the shed, i can now use it for projects, i have decided on building 2 climate-greenhouses(buying one is like 1000 euro, i aint got that money)
+i brainstormed a general plan.
+i need to buy some things
 
+
+### 2026-03-16
 <img src="../static_files/IMG_20260315_235646_937.jpg" width="500">
+tried to find the stuff i need to buy at boerenbond uden, they didnt have shit, exept a shitty ass hygrometer and basic thermometer
+bought 2 hygrometers and 2 thermometers 
+tomorrow im going to Intratuin
 
-### day 2
+### 2026-03-17
 
 <img src="../static_files/IMG_20260317_232205_257.jpg" width="300">
 <img src="../static_files/IMG_20260317_232154_349.jpg" width="500">
+went to intratuin veghel, they also didnt have jack shit 😭
+they didnt have lamps for plants, no grow lights, no heat lamps, no redlight, no LED lights
+then i wen to find any heating related stuff, which they didnt have jack shit off, how do you not have a basic heat pad to grow seedlings???
+also didnt have any cocos ground, even the expanding ones 😭
+only thing i bought there was some moss, which i put in my greenhouse to test.
+
+bro i went to the fucking action to buy the some lamps and some cocos ground, shits rediculous.
+
+
 
 ---
 
