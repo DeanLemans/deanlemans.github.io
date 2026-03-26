@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-17
+modified: 2026-03-26
 title: FUTURE
 description: things and stuff i still/want to do
 aliases: FUTURE
@@ -49,13 +49,15 @@ Topics
 - [ ] read <https://rosswintle.uk/2024/02/a-manifesto-for-small-static-web-apps/>
 - [ ] <https://jamesg.blog/>
 - [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023?mibextid=Zxz2cZ>
+- [ ] bee boxes
+- [ ] look into how to make a propper godot game with functions, classes, ETC
 - [ ] <https://journal.miso.town/>
 - [ ] connect with keyoxide or indieouth.(or not?)
 - [ ] web host? <https://ichi.city/>
 - [ ] self actualization?
 - [ ] build shi <https://32bit.cafe/cyowebsite/>
 - [ ] verifycation shi <https://starbreaker.org/verify/index.html>
-- [ ] restructure site🔺
+- [x] restructure site 🔺 ✅ 2026-03-26
 - [ ] link sharing <https://shareopenly.org/add/>
 - [ ] future reference for music page <https://ddbentl.com/tunes>
 - [ ] idk man <https://basementcommunity.com/> <https://tilde.club/>

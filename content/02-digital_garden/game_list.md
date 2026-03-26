@@ -1,15 +1,18 @@
 ---
 publish: true
-title: Game Collection!
+title: "Dean's Game Collection"
 description: collection of games
 created: 2024-10-08
 modified: 2026-03-26
-aliases: game_list
+aliases: "Dean's Game Collection"
 ---
 
-# game\_list
+# Dean's Game Collection
 
-- [ ] Add my old playstation, and wii games to this list
+- [ ] Add my PS3 games
+- [ ] and my WII games
+- [ ] add my PS5 games
+- [ ] add my DS games
 - [ ] write reviews, find platform for the reviews
 
 ## My Favorite Games
@@ -243,6 +246,7 @@ aliases: game_list
 - [Lily's Well](https://pureiceblue.itch.io/lilys-well)
 - [Lost Cartridge](https://pureiceblue.itch.io/lost-cartridge-cold-read)
 - [Who's Lila?](https://whoslila-press.carrd.co/)
+- [Echo Point Nova](https://store.steampowered.com/app/1836730/Echo_Point_Nova/)
 - [PRAGMATA](https://www.capcom-games.com/pragmata/)
 - [Without a Dawn](https://jessemakkonen.com/without_a_dawn.html)
 - [s.p.l.i.t](https://store.steampowered.com/app/3684610/split)

@@ -1,12 +1,15 @@
 ---
 publish: true
 title: Cool Personal sites
-aliases: Cool Personal sites
-modified: 2026-03-22
+aliases:
+  - Cool Personal sites
+  - Cool Personal sites!
+modified: 2026-03-26
 created: 2026-03-17
+alias_sugestion: Cool Personal sites
 ---
 
-# Cool Personal sites
+# Cool Personal sites!
 
 > [!NOTE]Alternative titles
 > - Influences
@@ -15,8 +18,6 @@ created: 2026-03-17
 > - [Blogroll](https://www.thoughtco.com/what-is-blogroll-3476580)
 
 ---
-
-# Links Collection
 
 - [Dig Deeper](digdeeper.neocities.org/)
 - [>>SLIME-NET](skumsoft.ltd/slimenet/indexx.html)

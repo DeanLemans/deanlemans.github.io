@@ -1,12 +1,16 @@
 ---
 publish: false
 created: 2025-10-10
-modified: 2026-03-22
-title: My Bookmarks
-aliases: My Bookmarks
+modified: 2026-03-26
+title: Nice Web Resources
+aliases:
+  - bookmarks
+  - Cool Web Resources
+  - My Bookmarks
+alias_sugestion: My Bookmarks
 ---
 
-# My Bookmarks
+# Nice Web Resources
 
 for featured personal sites see: [external_sites](external_sites.md)
 

@@ -57,7 +57,7 @@ aliases:
 
 > [!info] Collections
 > - [Book Library](02-deans_library/index.md)
-> - [Game Library](<./03-digital_garden/game_list.md>)
+> - [Game Library](<./02-digital_garden/game_list.md>)
 > - [Vault Rules](<./vault_rules.md>)
 
 

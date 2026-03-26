@@ -1,12 +1,16 @@
 ---
 publish: true
-title: 02 Dean's library
-tags: []
-modified: 2026-03-17
-created: 2026-03-17
+title: Dean's Book Library!
+description: Library of Dean
+created: 2024-10-08
+modified: 2026-03-26
+aliases:
+  - Dean's Book Library
+  - Book LIbrary!
+alias_sugestion: Dean's Book Library
 ---
 
-# 02 Dean's Book Library
+# Dean's Book Library
 
 ### books I have read
 
@@ -18,10 +22,11 @@ you can find the books I have read:
 ## Backlog
 
 - Blake's prophetic books (divine rebellion)
-- Jung's _Red Book_ (integration of shadow self)
+- Jung's _Red Book_
 - Gnostic apocrypha (defiance of demiurgic fate)
-- The golden rule / mean (ethical philosophy)
+- The golden rule / mean
 - Outlier (Malcolm Gladwell)
 - Money: Master the Game (Tony Robbins)
 - Summerhill: A Radical Approach to Child Rearing
 - A System for Writing
+- The Very Secret Society of Irregular Witches
