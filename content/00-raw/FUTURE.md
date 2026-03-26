@@ -18,11 +18,11 @@ something that confronts me, changlnese me
 
 Buy
 - American bully dog
-- Grip trainer
+- [x] Grip trainer ✅ 2026-03-26
 - Stress toy
 - Epson Ecotank (printer)
 - Airfilter
-- Barefoot shoes
+- [x] Barefoot shoes ✅ 2026-03-26
 - Neck training equipment
 - [offline music play, doest have to be this one](https://www.fiio.com/)
 

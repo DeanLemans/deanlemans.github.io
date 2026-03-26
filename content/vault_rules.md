@@ -60,7 +60,7 @@ aliases: Site Rules and Vault System
 ## 5. Structure and Publishing Rules
 
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault?
-- Public site contains polished work; [00-raw](00-raw/index.md) contains drafts and experimental notes
+- Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
 - Publishing rules:
   - `publish: true` → accessible in site
 
@@ -78,7 +78,7 @@ aliases: Site Rules and Vault System
 ## 6. Vault Philosophy
 
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
-- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](00-raw/clippings/This%20Page%20is%20Designed%20to%20Last%20A%20Manifesto%20for%20Preserving%20Content%20on%20the%20Web.md).
+- Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](<./00-raw/clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
 - Store files in open and readable formats.
 - Use consistent naming and metadata for search-ability and discoverbility.(propper YAML data, good tags, etc)
 

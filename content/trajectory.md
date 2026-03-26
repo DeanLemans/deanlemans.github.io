@@ -8,7 +8,7 @@ aliases: Trajectory
 
 # Trajectory
 
-- [ ] implement the other plans i made in bali [Research-Bali](01-projects/Research-Bali.md)
+- [ ] implement the other plans i made in bali [Research-Bali](<./01-projects/Research-Bali.md>)
 - [ ] need to rework ts bc i changed educations
 > [!NOTE]Alternative titles
 > - Future

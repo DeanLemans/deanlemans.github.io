@@ -16,7 +16,7 @@ Power was not loyalty. Magic was not worship. Faith could be wielded like any ot
 
 ---
 
-![](../../static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg)
+![](<../../static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg>)
 It would work, it would just make the water come out of your faucet a bit slower and wouldn't generate much power.
 
 Typical flow rate for a kitchen faucet is 2.2 gallons per minute say. That's 139 grams of water per second.

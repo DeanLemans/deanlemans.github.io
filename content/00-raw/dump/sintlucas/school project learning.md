@@ -6,7 +6,7 @@ modified: 2026-03-17
 created: 2026-03-17
 ---
 
-[[../../../static_files/software verdieping onderzoek.pdf]]
+[](<../../../static_files/software verdieping onderzoek.pdf>)
 
 # Reflection on Project
 
@@ -69,15 +69,15 @@ Progress per week:
 
 > [!Map]- Week 2:
 > - player follows mouse
-> ![](../../../static_files/mouse%20follow%20script.png)
+> ![](<../../../static_files/mouse follow script.png>)
 > - configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.
-> ![](../../../static_files/godot-git-plugin.png)
+> ![](<../../../static_files/godot-git-plugin.png>)
 
 > [!Map]- Week 3:
 > Sick:
 > Every time I commit and push github actions automatically builds and creates a release.
-> ![](../../../static_files/godot%20CI.png)
-> ![](../../../static_files/github%20release.png)
+> ![](<../../../static_files/godot CI.png>)
+> ![](<../../../static_files/github release.png>)
 
 > [!Map]- Week 4:
 > - sick: but I'm beginning to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
@@ -85,7 +85,7 @@ Progress per week:
 > [!Map]- Week 5:
 > - finished moving my site to new framework, and uploading this to my site.
 > - implemented basic bounce to game
-> ![](../../../static_files/bounce%20script.png)
+> ![](<../../../static_files/bounce script.png>)
 > - updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
 > - updated [Script-IDE to version 1.7.0](https://github.com/Maran23/script-ide/releases/tag/1.7.0)
 

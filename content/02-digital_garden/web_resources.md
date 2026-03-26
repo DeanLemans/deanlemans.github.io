@@ -12,7 +12,7 @@ alias_sugestion: My Bookmarks
 
 # Nice Web Resources
 
-for featured personal sites see: [external_sites](external_sites.md)
+for featured personal sites see: [external_sites](<./external_sites.md>)
 
 cool projects that aren't my own
 

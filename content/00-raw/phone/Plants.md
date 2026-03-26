@@ -2,7 +2,7 @@
 created: 2026-03-18
 modified: 2026-03-18
 ---
-[shed_greenhouse](../../01-projects/shed_greenhouse.md)
+[shed_greenhouse](<../../01-projects/shed_greenhouse.md>)
  lights
  heat mat
 humidifier

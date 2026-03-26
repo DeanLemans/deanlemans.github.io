@@ -13,8 +13,8 @@ created: 2026-03-15
 
 ## references
 
-- [create_plant_terrarium](create_plant_terrarium.md)
-- [[how_to_grow_moss]]
+- [create_plant_terrarium](<./create_plant_terrarium.md>)
+- [how_to_grow_moss](<./how_to_grow_moss.md>)
 
 ---
 

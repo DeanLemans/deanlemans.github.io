@@ -11,6 +11,6 @@ publish: true
 
 # how To Grow Moss
 
-[Mossariums’ How To Guide](../00-raw/clippings/Mossariums’%20How%20To%20Guide.md)
+[Mossariums’ How To Guide](<../00-raw/clippings/Mossariums’ How To Guide.md>)
 
 1. drainage l
