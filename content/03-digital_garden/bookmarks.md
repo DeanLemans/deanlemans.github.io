@@ -1,7 +1,7 @@
 ---
 publish: false
 created: 2025-10-10
-modified: 2026-03-17
+modified: 2026-03-22
 title: My Bookmarks
 aliases: My Bookmarks
 ---
@@ -100,3 +100,4 @@ cool projects that aren't my own
 * [Open source plants seeds](https://osseeds.org/)
 * [Open Home Foundation](https://www.openhomefoundation.org/)
 * [boot.dev](boot.dev)
+* <https://krita-artists.org/>

@@ -3,8 +3,11 @@ publish: true
 title: Game Collection!
 description: collection of games
 created: 2024-10-08
-modified: 2026-02-16
+modified: 2026-03-26
+aliases: game_list
 ---
+
+# game\_list
 
 - [ ] Add my old playstation, and wii games to this list
 - [ ] write reviews, find platform for the reviews
@@ -53,7 +56,7 @@ modified: 2026-02-16
 </details>
 
 - [VOIN](https://store.steampowered.com/app/2464530/VOIN)
-- Cogmind
+- [Cogmind](https://www.gridsagegames.com/cogmind/)
 - [Celeste](https://www.celestegame.com)
 - [Pseudoregalia](https://rittzler.itch.io/pseudoregalia)
 - [Cult of the Lamb](https://www.cultofthelamb.com)
@@ -73,6 +76,7 @@ modified: 2026-02-16
 
 - [psychopomp: GOLD](https://store.steampowered.com/app/3243190/Psychopomp_GOLD/) + [original](https://karbonic.itch.io/psychopomp)
 - [YUKI](https://visualmemoryunit.itch.io/yuki)
+- - [Super mario galaxy 1 + 2](https://www.mariowiki.com/Super_Mario_Galaxy) + [mods](https://aurumsmods.com/nmg) (still need to play the mods though)
 - [Milya(broken)](https://lol-rust.itch.io/milyabroken)
 - [neva](https://neva.game)
 - [Super Mario Bros. Wii](https://www.mariowiki.com/New_Super_Mario_Bros._Wii)
@@ -85,7 +89,7 @@ modified: 2026-02-16
 	</article>
 </details>
 
-Citizen Sleeper 1 + 2
+- [Citizen Sleeper 1](https://www.citizensleeper.com)
 
 ### Games I Really Enjoyed Playing
 
@@ -96,6 +100,8 @@ Citizen Sleeper 1 + 2
 - [WEBFISHING](https://webfishing.net)
 - [Swords & Souls](https://armorgames.com/play/17817/swords-and-souls) + [Neverseen](https://armorgamesstudios.com/games/swords-and-souls-neverseen)
 - [Backpack Hero](https://thejaspel.itch.io/backpack-hero)
+- Vampire survivors
+- [Citizen Sleeper 2](https://www.citizensleeper.com)
 - [NeverAwake](https://store.steampowered.com/app/1727180/NeverAwake/)
 - [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2)
 - [Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate)
@@ -103,7 +109,7 @@ Citizen Sleeper 1 + 2
 - [It Takes Two](https://www.ea.com/games/it-takes-two)
 - [DELTATRAVELER](https://deltatraveler.vyletbunni.com/)
 - [Epic Mickey 1 + 2 + rebrushed](https://store.steampowered.com/app/1522160/Disney_Epic_Mickey_Rebrushed)
-- Lunistice
+- [Lunistice](https://store.steampowered.com/app/1701800/Lunistice/)
 
 ### Interesting Games
 
@@ -125,6 +131,8 @@ Citizen Sleeper 1 + 2
 	</article>
 </details>
 
+[Haste](https://store.steampowered.com/app/1796470/Haste/)
+[Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
 
 ---
 
@@ -160,46 +168,45 @@ Citizen Sleeper 1 + 2
 - [The Thousand-Year Door](https://www.mariowiki.com/Paper_Mario:_The_Thousand-Year_Door)
 - [Stellar Blade](https://www.stellar-blade.com)
 - [Crow Country](https://crowcountrygame.com)
-- Rayman 4
-- Epic Mickey 3
+- [Rayman 4](https://raymanpc.com/wiki/en/Rayman_4)
+- [Epic Mickey 3](https://www.mariowiki.com/Epic_Mickey_3)
 - [Post Void](https://store.steampowered.com/app/1285670/Post_Void)
 - [CRYPT WORLDS](https://www.cicadamarionette.com/Games/CryptWorlds/Main.html)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian)
 - [PAPER ANGEL](https://slitherbop.itch.io/paper-angel)
 - [Nier: Replicant](https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139)
 - [Mad Father](https://store.steampowered.com/app/483980/Mad_Father)
-- 异化之恶〇Abnormal Treatment
+- [异化之恶〇Abnormal Treatment](https://store.steampowered.com/app/1122750/Abnormal_Treatment/)
 - [Misao](https://store.steampowered.com/app/691450/Misao__2024_HD_Remaster)
 - [Disillusion](https://store.steampowered.com/app/1490060/Disillusion) + [remaster](https://disillusionst.itch.io/disillusion-st)
 - [CAUTIOUS V](https://beefstrong.itch.io/cautious-v-)
 - [8:11](https://goth-6669.itch.io/811)
-- Nova Drift
-- mio momories in orbit
+- [Nova Drift](https://store.steampowered.com/app/858210/Nova_Drift/)
+- [mio momories in orbit](https://store.steampowered.com/app/1672810/Mio_Memories_in_Orbit/)
 - [CLOCKWORLD](https://store.steampowered.com/app/1767620/CLOCKWORLD__Arolls_Legacy/)
-- Elin (elona)
+- [Elin (elona)](https://store.steampowered.com/app/2135150/Elin/)
 - [ETCETERA](https://slitherbop.itch.io/etcetera)
 - [Crypt Underworld](https://lilithzone.itch.io/crypt-underworld)
-- EXAPUNKS
-- Your Turn To Die: Death Game By Majority
-- The Red Strings Club
-- Katawa Shoujo
-- katy rain 2: soothsayer
+- [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)
+- [Your Turn To Die: Death Game By Majority](https://vgperson.com/games/yourturntodie.htm)
+- [The Red Strings Club](https://store.steampowered.com/app/589780/The_Red_Strings_Club/)
+- [Katawa Shoujo](https://www.katawa-shoujo.com/)
+- [katy rain 2: soothsayer](https://store.steampowered.com/app/2027610/Kathy_Rain_2_Soothsayer/)
 - [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad)
-- White Knuckle
+- [White Knuckle](https://store.steampowered.com/app/2445120/White_Knuckle/)
 - [south scrimshaw](https://nomarsh.itch.io)
-- Town to City
-- Northern Journey
-- Split Fiction
+- [Town to City](https://store.steampowered.com/app/2319580/Town_to_City/)
+- [Northern Journey](https://store.steampowered.com/app/1639790/Northern_Journey/)
+- [Split Fiction](https://store.steampowered.com/app/2960240/Split_Fiction/)
 - [Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity)
 - [Manifold Garden](https://manifold.garden)
 - [Drawn to Life 1 + 2](https://wikiless.tiekoetter.com/wiki/Drawn_to_Life?lang=en)
-- OYASUMII
+- [OYASUMII](https://store.steampowered.com/app/3033520/OYASUMII/)
 - [Middle-earth: Shadow of War](https://www.shadowofwar.com)
-- [Haste](https://store.steampowered.com/app/1796470/Haste/)
-- Anodyne 2: Return to Dust
-- NaissanceE
-- Everhood
-- soma
+- [Anodyne 2: Return to Dust](https://store.steampowered.com/app/877810/Anodyne_2_Return_to_Dust/)
+- [NaissanceE](https://store.steampowered.com/app/265690/NaissanceE/)
+- [Everhood](https://store.steampowered.com/app/1229380/Everhood/)
+- [soma](https://store.steampowered.com/app/282140/SOMA/)
 - [The Midnight Walk](https://store.steampowered.com/app/2863640/The_Midnight_Walk)
 - [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGee's Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?)
 - [Tears of Metal](https://store.steampowered.com/app/1913120/Tears_of_Metal)
@@ -212,7 +219,7 @@ Citizen Sleeper 1 + 2
 - [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 - [Crowsworn](https://crowsworn.com)
 - [Clair Obscure: Expedition 33](https://www.expedition33.com)
-- KARLSON
+- [KARLSON](https://store.steampowered.com/app/1228610/KARLSON)
 - [Reanimal](https://reanimal.thqnordic.com)
 - [Tenjutsu](https://www.devolverdigital.com/games/tenjutsu)
 - [Morsels](https://furcula.ca)
@@ -239,13 +246,13 @@ Citizen Sleeper 1 + 2
 - [PRAGMATA](https://www.capcom-games.com/pragmata/)
 - [Without a Dawn](https://jessemakkonen.com/without_a_dawn.html)
 - [s.p.l.i.t](https://store.steampowered.com/app/3684610/split)
-- in Stars And Time
+- [in Stars And Time](https://store.steampowered.com/app/1671910/In_Stars_And_Time/)
 - [Road to Vostok](https://www.roadtovostok.com)
-- OCTOPATH TRAVELER (all games)
+- [OCTOPATH TRAVELER (all games)](https://store.steampowered.com/search/?term=Octopath+Traveler)
 - [PVKK](https://pvkk.game)
 - [Late Homework](https://sodaraptor.itch.io/late-homework)
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
-- hylics
+- [hylics]([https://store.steampowered.com/search/?term=Hylics](https://mason-lindroth.itch.io/hylics))
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
 <details>
@@ -272,20 +279,17 @@ Citizen Sleeper 1 + 2
 - [The Big Catch](https://thebigcatchgame.com)
 - [Slayers X: Terminal Aftermath](https://store.steampowered.com/app/1931020/Slayers_X_Terminal_Aftermath_Vengance_of_the_Slayer)
 - [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL)
-- [FAITH: The Unholy Trinity](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/?curator_clanid=6856383&curator_listid=32813)
+- [FAITH: The Unholy Trinity](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/)
 - [Evil Tonight](https://dyagames.itch.io/evil-tonight)
-- FogPiercer
 - [Gunmetal Gothic](https://ynoham.com/)
 - [The Forgotten City](https://forgottencitygame.com)
-- Deep Snow Delivery
+- [Deep Snow Delivery](https://store.steampowered.com/app/3281970/Deep_Snow_Delivery/)
 - [Ocarina of Time](https://archive.org/details/the-legend-of-zelda-ocarina-of-time-usa_202012) + [mods](https://hylianmodding.com/mods)
-- Super mario galaxy 1 + 2 + [mods](https://aurumsmods.com/nmg)
 - [fear and hunger 1 + 2](https://mirohaver.itch.io)
 - [Outrider Mako](https://store.steampowered.com/app/1072400/Outrider_Mako)
-- shapez 2
+- [shapez 2](https://store.steampowered.com/app/2162800/shapez_2/)
 - [Nitro Express](https://store.steampowered.com/app/3088250/Nitro_Express)
 - [Corn Kidz 64](https://store.steampowered.com/app/2575900/Corn_Kidz_64)
-- [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
 - [MINDWAVE](https://holohammer.com/mindwave)
 - [Silent hill](https://www.konami.com/games/silenthill/gate) all
 <details>
@@ -298,18 +302,37 @@ Citizen Sleeper 1 + 2
 </details>
 
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
-- Earthbound/mother 1 + 2 + 3 + original
+- [Earthbound/mother 1 + 2 + 3 + original](https://earthbound.fandom.com/wiki/Mother_series)
 - [Gris](https://nomada.studio)
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
-- MINDHACK
-- ROUTINE
-- Hauntii
-- VEIN
-- Rusted Moss
-- Project Malice
-- Refind Self: The Personality Test Game
-- Ratatan
-- Into The Grid
+- [MINDHACK](https://store.steampowered.com/app/1727210/MINDHACK/)
+- [ROUTINE](https://store.steampowered.com/app/606160/ROUTINE/)
+- [Hauntii](https://store.steampowered.com/app/1918160/Hauntii/)
+- [VEIN](https://vein.gg/)
+- [Rusted Moss](https://store.steampowered.com/app/1772830/Rusted_Moss/)
+- [Project Malice](https://aplovestudio.itch.io/malice)
+- [Refind Self: The Personality Test Game](https://store.steampowered.com/app/2334880/Refind_Self/)
+- [Ratatan](https://store.steampowered.com/app/2380840/Ratatan/)
+- [Into The Grid](https://store.steampowered.com/app/2576200/Into_The_Grid/)
+- [Arcadian Rift](https://store.steampowered.com/app/1702630/Arcadian_Rift/)
+- [VA-11 Hall-A: Cyberpunk Bartender Action](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/)
+- [Kitsune Tails](https://store.steampowered.com/app/1325260/Kitsune_Tails/)
+- [Year Unknown](https://store.steampowered.com/app/2565520/Year_Unknown/)
+- [Love Poison](https://ebihime.itch.io/love-poison)
+- [Tower Wizard](https://barribob.itch.io/tower-wizard)
+- [Deadeye Deepfake Simulacrum](https://store.steampowered.com/app/1545990/Deadeye_Deepfake_Simulacrum/)
+- [Resident Evil Requiem](https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/)
+- [The Long Dark](https://store.steampowered.com/app/305620/The_Long_Dark/)
+- [Lucid Blocks](https://store.steampowered.com/app/3495730/Lucid_Blocks/)
+- [Marvel’s Spider-Man 2](https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/)
+- [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
+- [Rabbit and Steel](https://store.steampowered.com/app/2132850/Rabbit_and_Steel/)
+- [Keylocker](https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/)
+- [Out of Action](https://store.steampowered.com/app/1670780/Out_of_Action/)
+- [Flotsam](https://store.steampowered.com/app/821250/Flotsam/)
+- [The Last Caretaker](https://store.steampowered.com/app/1783560/The_Last_Caretaker/)
+- [Easy Delivery Co.](https://store.steampowered.com/app/3293010/Easy_Delivery_Co/)
+- [Utopia Must Fall](https://store.steampowered.com/app/2849680/Utopia_Must_Fall/)
 
 > [!info]
 > also check out my [book_list](<./book_list.md>)
