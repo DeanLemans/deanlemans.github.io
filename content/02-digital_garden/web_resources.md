@@ -1,6 +1,6 @@
 ---
 title: Nice Web Resources
-publish: false
+publish: true
 modified: 2026-03-27
 created: 2025-10-10
 aliases:
