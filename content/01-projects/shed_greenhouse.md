@@ -1,12 +1,13 @@
 ---
-modified: 2026-03-19
+title: Shed Greenhouse Project
 tags:
   - green
   - research
 publish: true
-title: Shed Greenhouse Project
-aliases: Shed Greenhouse Project
+modified: 2026-03-27
 created: 2026-03-15
+aliases:
+  - Shed Greenhouse Project
 ---
 
 # Shed Greenhouse Project
@@ -30,7 +31,7 @@ what im going to be making/growing:
 
 currently have 2 rudimentary greenhouses
 
-i live in a zone 8A, netherlands
+i live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-hardiness-zone-map-celsius.php), netherlands
 
 ---
 

@@ -1,11 +1,12 @@
 ---
-publish: true
-aliases: On a better education
-modified: 2026-03-17
+title: On a better education
 tags:
   - research
-title: On a better education
+publish: true
+modified: 2026-03-27
 created: 2026-02-02
+aliases:
+  - On a better education
 ---
 
 # On a better education

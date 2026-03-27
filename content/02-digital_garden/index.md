@@ -1,8 +1,12 @@
 ---
-publish: true
 title: 02 Digital Garden
-modified: 2026-03-17
-aliases: index
+publish: true
+modified: 2026-03-27
 created: 2026-03-17
+aliases:
+  - index
 ---
-(this used to be something coherent, but im updating my site a lot)
+
+# 02 Digital Garden
+
+bunch of cool stuff
