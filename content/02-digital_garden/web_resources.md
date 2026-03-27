@@ -1,5 +1,5 @@
 ---
-title: Nice Web Resources
+title: Random (nice) Web Resources
 publish: true
 modified: 2026-03-27
 created: 2025-10-10
@@ -7,10 +7,11 @@ aliases:
   - bookmarks
   - Cool Web Resources
   - My Bookmarks
+  - nice web resources
 alias_sugestion: My Bookmarks
 ---
 
-# Nice Web Resources
+# Random (nice) Web Resources
 
 for featured personal sites see: [external_sites](<./external_sites.md>)
 
@@ -31,7 +32,7 @@ cool projects that aren't my own
 - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
 - [Document Liberation Project](https://www.documentliberation.org/)
-- https://www.getzola.org/
+- <https://www.getzola.org/>
 - [all things linux](https://atl.wiki/)
 - [Find KYC-free Services](https://kycnot.me/)
 - [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
@@ -60,7 +61,7 @@ cool projects that aren't my own
 - [F-Hub](https://f-hub.org/)
 - [XmrBazaar | Monero Marketplace](https://xmrbazaar.com/)
 - [Ubicloud - Open source alternative to AWS](https://www.ubicloud.com/)
-- [Looking for feedback on GitHub Actions runner alternatives ](https://www.reddit.com/r/devops/comments/1kjypf8/looking_for_feedback_on_github_actions_runner/)
+- [Looking for feedback on GitHub Actions runner alternatives](https://www.reddit.com/r/devops/comments/1kjypf8/looking_for_feedback_on_github_actions_runner/)
 - [Introduction to Strange New Worlds - Toolbox for Thought](https://tfthacker.com/SNW)
 - [Secluso](https://secluso.com/)
 - [Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.](https://github.com/linkwarden/linkwarden)
@@ -73,13 +74,14 @@ cool projects that aren't my own
 - [Purgatory Memories fear](https://memoriesoffear.jcink.net/index.php?showtopic=68)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Based Cooking](https://based.cooking/)
-- [GitAds Documentation ](https://docs.gitads.dev/)
+- [GitAds Documentation](https://docs.gitads.dev/)
 - [Development containers](https://containers.dev/)
 - [GNU Health](https://www.gnuhealth.org/)
 - [Server Part Deals](https://serverpartdeals.com/)
 - [Indie Open Source / Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 - [Garden of Learning : Juha-Matti Santala](https://notes.hamatti.org/)
 - [Digital Gardening with Quartz](https://be-far.com/Projects/Obsidian/digital-garden)
+- [superorganizers.substack.com](https://superorganizers.substack.com/p/how-to-build-a-learning-machine###)
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 - [Fabric of the Universe | clothes](https://www.fabricoftheuniverse.com/en-nl/collections/all)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
