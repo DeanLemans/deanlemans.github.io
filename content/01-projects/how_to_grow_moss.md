@@ -4,7 +4,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-03-27
+modified: 2026-03-28
 created: 2026-03-15
 aliases:
   - how To Grow Moss
@@ -26,3 +26,5 @@ then just spread it on good substrate
 	- separator(mesh)
 	- charcoal
 	- [main substrate layer](<../00-raw/general_substrate_mix.md>)
+	- hardscape
+	- softscape
