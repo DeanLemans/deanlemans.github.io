@@ -18,13 +18,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Fetch all history for git info
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version: 24
 
       - name: Set CACHE_CLEAR variable
         run: echo "CACHE_CLEAR=$(date +%s)" >> $GITHUB_ENV
@@ -52,7 +52,7 @@ jobs:
 
       # --- Upload site ---
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
@@ -65,7 +65,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
       # Give GitHub Pages a moment to accept the deployment and populate page_url
       - name: Wait a little for Pages to become reachable
@@ -77,7 +77,6 @@ jobs:
           done
 
       # Trigger a Pages rebuild (this requests GitHub Pages to rebuild the site and helps purge CDN)
-      # Poll for Pages published URL instead of calling Pages builds API (some repos return 403)
       - name: Poll for Pages published URL
         run: |
           echo "Polling for published URL from deploy step..."
