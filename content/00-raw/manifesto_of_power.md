@@ -1,18 +1,19 @@
 ---
-title: My philosophy?
-created: 2024-05-09
-modified: 2026-02-23
+title: manifesto for power?
 publish:
+modified: 2026-03-28
 draft: "true"
+description: No Gods, No Masters, No Idols
+created: 2024-05-09
 aliases:
   - my_philosphy
-description: No Gods, No Masters, No Idols
 ---
+
+# manifesto for power?
 
 > [!NOTE] A note to those that read this. (TLDR; FUCK OFF)
 > this page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this. this is the driving force behind my actions.
 > its too offensive to some so i will most likely never show this to people.
-
 
 > [!NOTE] to be integrated into document
 > that divine tyrant, that divine voyeur, i spit on you.

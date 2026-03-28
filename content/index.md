@@ -1,7 +1,9 @@
 ---
+title: Dean Lemans
 publish: true
+modified: 2026-03-28
+description: Dean's Personal Site
 created: 2025-09-25
-modified: 2026-03-18
 aliases:
   - /my-site
   - /my-site/
@@ -10,6 +12,7 @@ aliases:
 ---
 
 # Dean Lemans
+
 ## Plant Lover & Open Source Enthusiast
 
 <div style="text-align:center;">
@@ -59,7 +62,6 @@ aliases:
 > - [Book Library](02-deans_library/index.md)
 > - [Game Library](<./02-digital_garden/game_list.md>)
 > - [Vault Rules](<./vault_rules.md>)
-
 
 > [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**

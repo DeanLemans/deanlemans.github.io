@@ -1,11 +1,12 @@
 ---
-title: sleep_optimization
-aliases: sleep_optimization
+title: Sleep Optimization
+modified: 2026-03-28
 created: 2026-03-21
-modified: 2026-03-21
+aliases:
+  - sleep_optimization
 ---
 
-# sleep_optimization
+# Sleep Optimization
 
 ## priority 1
 

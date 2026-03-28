@@ -1,10 +1,10 @@
 ---
-title: general_substrate_mix
-modified: 2026-03-27
+title: General Substrate Mix
+modified: 2026-03-28
 created: 2026-03-27
 ---
 
-# general\_substrate\_mix
+# General Substrate Mix
 
 - 1 part, cocos fibre
 - 2 part, sphagnum/ground moss(dried)

@@ -1,14 +1,14 @@
 ---
-publish: true
-description: observations, notes, and research from my time in Bali
-created: 2025-08-25
-modified: 2025-11-11
+title: Research Bali
 tags:
   - finished
-title: Research Bali
+publish: true
+modified: 2026-03-28
+description: observations, notes, and research from my time in Bali
+created: 2025-08-25
 ---
 
-
+# Research Bali
 
 > [!NOTE]- A reply
 > hallo oom Ronnie
@@ -21,8 +21,5 @@ title: Research Bali
 >
 > Kind regards,
 > Dean
-
-
-
 
 [Bali Research link](https://dean.nekoweb.org/)

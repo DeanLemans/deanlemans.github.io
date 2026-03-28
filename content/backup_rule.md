@@ -1,8 +1,11 @@
 ---
-modified: 2026-03-15
-publish: true
 title: Backup Rule
+publish: true
+modified: 2026-03-28
+created: 2026-03-17
 ---
+
+# Backup Rule
 
 - **Maintain three copies of data**: This includes the original data plus at least two copies. This creates redundancy in case one or two copies are corrupted or compromised during an attack or hardware failure.
 - **two different types of media for storage**: Store data in two distinct forms of media, such as local storage, cloud, disk and tape. Diversity helps protect against failure of a single media type.

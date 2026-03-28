@@ -1,10 +1,13 @@
 ---
-publish: false
-created: 2025-09-25
-modified: 2026-03-17
 title: CV Gardening
+publish: false
+modified: 2026-03-28
+created: 2025-09-25
 ---
 
+# CV Gardening
+
+(or CV Green, CV garden, CV Plants)
 > [!danger] WIP
 > Currently reworking this
 

@@ -1,16 +1,16 @@
 ---
+title: "Dean's Book Library"
 publish: true
-title: Dean's Book Library!
+modified: 2026-03-28
 description: Library of Dean
 created: 2024-10-08
-modified: 2026-03-27
 aliases:
   - Book LIbrary!
   - Dean's Book Library
 alias_sugestion: Dean's Book Library
 ---
 
-# Dean's Book Library!
+# Dean's Book Library
 
 ### books I have read
 
@@ -33,4 +33,4 @@ you can find the books I have read:
 - A Magical Girl Retires
 - 31 idream(idol dream)
 - The Idler's Manifesto: And Other Egoist Writings
-- The Outsider by Colin Wilson](https://www.goodreads.com/en/book/show/67880)
+- The Outsider by Colin Wilson](<https://www.goodreads.com/en/book/show/67880>)

@@ -60,8 +60,8 @@ dakpan
 ## week 1
 
 Opbouw bodem
-![](<../static_files/IMG_20251114_143023_609.jpg>)
-![](<../static_files/IMG_20251114_142822_694.jpg>)
+![](<../../../static_files/IMG_20251114_143023_609.jpg>)
+![](<../../../static_files/IMG_20251114_142822_694.jpg>)
 
 Hoe Bodemverbetering:
 - Compost
@@ -90,12 +90,12 @@ Kringlopen
 - koolstof(fotosynthese) {co2 = koolstof + water + licht -> glucose + waterstof}
 - stikstof (bacterien)
 
-![](<../static_files/IMG_20251121_142806_592.jpg>)
+![](<../../../static_files/IMG_20251121_142806_592.jpg>)
 Iperen.com/kennis-nieuws
 
 Processen in de plant
 - fotosynthese
-- transport(houtvaten, ![](<../static_files/IMG_20251121_144226_134.jpg>)bostvaten)
+- transport(houtvaten, ![](<../../../static_files/IMG_20251121_144226_134.jpg>)bostvaten)
 
 Voedingstoffen in de bodem
 - bodemvocht

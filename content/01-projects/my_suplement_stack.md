@@ -1,9 +1,10 @@
 ---
-created: 2026-03-15
-modified: 2026-03-17
 title: My Suplement Stack
-aliases: My Suplement Stack
 publish: true
+modified: 2026-03-28
+created: 2026-03-15
+aliases:
+  - My Suplement Stack
 ---
 
 # My Suplement Stack

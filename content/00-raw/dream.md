@@ -1,12 +1,13 @@
 ---
-publish: true
 title: Dreams of Mine
-description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
-aliases: Dreams of Mine
-modified: 2026-03-17
 tags:
   - dreamy
+publish: true
+modified: 2026-03-28
+description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
 created: 2026-03-17
+aliases:
+  - Dreams of Mine
 ---
 
 # Dreams of Mine

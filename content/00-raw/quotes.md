@@ -1,15 +1,16 @@
 ---
-publish: false
-title: quotes
-aliases: quotes
-description: stuff from novels i read, quotes, i found them somewhere and i put them here
+title: Quotes
 tags:
   - exclude
-modified: 2026-03-17
+publish: false
+modified: 2026-03-28
+description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
+aliases:
+  - quotes
 ---
 
-# quotes
+# Quotes
 
 alt title:
 stuff from books, lines is found interesting, snippets from something

@@ -1,14 +1,15 @@
 ---
-modified: 2026-03-17
+title: price calculating garden maintence
 tags:
   - exclude
   - green
-title: price_calculating_garden_maintence
+modified: 2026-03-28
 created: 2026-03-04
-aliases: price_calculating_garden_maintence
+aliases:
+  - price_calculating_garden_maintence
 ---
 
-# price\_calculating\_garden\_maintence
+# price calculating garden maintence
 
 per area
 per person

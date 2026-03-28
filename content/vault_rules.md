@@ -1,16 +1,22 @@
 ---
-publish: true
+title: Site Rules
 tags: []
-title: Site Rules and Vault System
+publish: true
+modified: 2026-03-28
 description: vault rules, sorting system, naming rules, creating rules
-modified: 2026-03-18
 created: 2026-03-17
-aliases: Site Rules and Vault System
+aliases:
+  - Site Rules and Vault System
 ---
 
-# Site Rules and Vault System
+# Site Rules
 
-> [!note] note
+> [!NOTE]Alternative titles
+> - Vault System
+> - My general vault system
+> - Linting rules
+> - how to format
+
 > this vault is written as a legacy of mine(?),
 > therefore it should be future proof.
 
@@ -80,7 +86,7 @@ aliases: Site Rules and Vault System
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
 - Aligns with [file over app](https://stephango.com/file-over-app) and [A Manifesto for Preserving Content on the Web](<./00-raw/clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
 - Store files in open and readable formats.
-- Use consistent naming and metadata for search-ability and discoverbility.(propper YAML data, good tags, etc)
+- Use consistent naming and metadata for search-ability and discoverbility.(proper YAML data, good tags, etc)
 
 ---
 

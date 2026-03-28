@@ -1,10 +1,13 @@
 ---
-publish: false
-created: 2025-09-25
-modified: 2026-03-17
 title: CV Software
+publish: false
+modified: 2026-03-28
+created: 2025-09-25
 ---
 
+# CV Software
+
+(Internet CV, idk)
 > [!danger] WIP
 > Currently reworking this
 > I need to split my 2 CV, maby do something with automation for companies?

@@ -1,8 +1,9 @@
 ---
 title: best video editors for me
-aliases: best video editors for me
+modified: 2026-03-28
 created: 2026-03-24
-modified: 2026-03-24
+aliases:
+  - best video editors for me
 ---
 
 # best video editors for me

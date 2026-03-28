@@ -1,14 +1,15 @@
 ---
-draft: "true"
-title: rymes_and_poems
+title: Rymes and Poems
 tags:
   - exclude
-modified: 2026-03-17
-aliases: rymes_and_poems
+modified: 2026-03-28
+draft: "true"
 created: 2026-02-02
+aliases:
+  - rymes_and_poems
 ---
 
-# rymes\_and\_poems
+# Rymes and Poems
 
 ## Completed
 

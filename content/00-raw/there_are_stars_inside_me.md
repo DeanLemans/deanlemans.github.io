@@ -1,14 +1,15 @@
 ---
-title: there_are_stars_inside_me
-aliases: there_are_stars_inside_me
-created: 2026-03-17
-modified: 2026-03-17
-publish:
+title: There Are Stars Inside Me
 tags:
   - dreamy
+publish: true
+modified: 2026-03-28
+created: 2026-03-17
+aliases:
+  - there_are_stars_inside_me
 ---
 
-# there\_are\_stars\_inside\_me
+# There Are Stars Inside Me
 
 Ego Wilder
 sol walker

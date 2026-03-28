@@ -1,16 +1,16 @@
 ---
-publish:
-modified: 2026-03-17
+title: Subconsious
 tags:
-  - exclude
   - dreamy
-title: Subconscious
+  - exclude
+publish:
+modified: 2026-03-28
 enableToc: false
 description: this does not exist
 created: 2026-03-17
 ---
 
-# subconsious
+# Subconsious
 
 alt titles/possibilities:
 dream diary, behind the mask, a truer self, diary, me myself and I, unconscious, suppressed thoughts
@@ -19,11 +19,9 @@ dream diary, behind the mask, a truer self, diary, me myself and I, unconscious,
 > Reason: not professional, personal and controversial
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-
 traitor, traitor
 why
 sufferering, despair
-
 
 ---
 
@@ -32,6 +30,7 @@ howl in rage
 for the world did not listen
 
 ---
+
 I am, the seeker.
 Grasp it al
 Know it all
@@ -101,6 +100,7 @@ Until he asks for help or fucks up to bad, i aint helping his ass when most of h
 Thing to thing, not not head to knies.
 
 ---
+
 11-18-2025
 
 Be
@@ -129,7 +129,6 @@ Effortless power? Do i want that?
  WITNESS, WITNESS ME, IN ALL MY AM, MY SELF, SELF SELF SELF, IN ALL I AM NOW, LET ME BE
  I want to be worthy of myself, so that i can grow. Paradox.Feeling bad depressed down axious
 Trapped, limited in expression in this flesh. Trapped of mind and worthyness
-
 
 2025-11-16
 
@@ -454,8 +453,6 @@ We are standing on the shoulders of giants, why not take advantage of it?
 Overcoming thyself
 
 Are doing it deliberate? Or just for the pleasure. If your doing it just for the pleasure, stop doing it.
-
-
 
 Do not distract myself with music, or any other distraction for that matter.
 
