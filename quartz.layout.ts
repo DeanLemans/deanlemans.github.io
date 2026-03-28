@@ -23,10 +23,11 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.Graph()],
   footer: Component.Footer({
     links: {
-      "Site Content License": "https://creativecommons.org/licenses/by/4.0",
+      "Content License": "https://creativecommons.org/licenses/by/4.0",
       "Contact Links": "https://linksta.cc/@Dean",
       "Source Code": "https://github.com/DeanLemans/deanlemans.github.io",
       "Guest Book": "https://thegardner.atabook.org/",
+      "Analytics": "https://cloud.umami.is/share/cQibaMjOX3vvklQG",
     },
   }),
 };

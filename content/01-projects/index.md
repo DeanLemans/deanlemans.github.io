@@ -1,11 +1,13 @@
 ---
-publish: true
-title: index
+title: 01 Projects
 tags: []
-modified: 2026-03-17
+publish: true
+modified: 2026-03-28
 created: 2026-03-17
-aliases: index
+aliases:
+  - index
 ---
 
+# 01 Projects
 
 some cool projects of mine

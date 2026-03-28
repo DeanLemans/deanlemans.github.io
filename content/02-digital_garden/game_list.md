@@ -1,10 +1,10 @@
 ---
 publish: true
-title: "Dean's Game Collection"
-description: collection of games
+title: Dean's Game Collection
+description: my collection of games
 created: 2024-10-08
-modified: 2026-03-26
-aliases: "Dean's Game Collection"
+modified: 2026-03-27
+aliases: Dean's Game Collection
 ---
 
 # Dean's Game Collection

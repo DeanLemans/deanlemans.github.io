@@ -1,5 +1,5 @@
 ---
-title: Random (nice) Web Resources
+title: Random Web Resources
 publish: true
 modified: 2026-03-27
 created: 2025-10-10
@@ -11,7 +11,7 @@ aliases:
 alias_sugestion: My Bookmarks
 ---
 
-# Random (nice) Web Resources
+# Random Web Resources
 
 for featured personal sites see: [external_sites](<./external_sites.md>)
 
