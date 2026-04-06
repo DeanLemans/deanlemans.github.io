@@ -39,6 +39,8 @@ cool projects that aren't my own
 - [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
 - [create good images](https://www.imgflo.org/)
 - [Zotero](https://www.zotero.org/)
+- [brid.gy](https://brid.gy/about#bridgy-fed)
+- [fed.brid.gy](https://fed.brid.gy/)
 - [Are you sure you remember the way out?](https://vaje.neocities.org/)
 - [Open Syllabus: Galaxy](https://galaxy.opensyllabus.org/)
 - [Chattable](https://iframe.chat/)

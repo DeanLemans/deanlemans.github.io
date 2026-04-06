@@ -4,7 +4,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-03-27
+modified: 2026-04-05
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project
@@ -53,6 +53,13 @@ i live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-ha
 ---
 
 ## progress
+
+# 2026-04-06
+had a very nice talk with a coworker of mine that is and was(?) really into growing specific rare plants, and such he knows how to build a terrarium, i was apperently researching in the wrong way with the thing im building now, i was researching greenhouses and reverse engineering then when i should have looked at the paledarium side of thiings, knowing how to build and and knowing what techniques go in there
+
+# 2026-04-02
+finnaly bought timed switches that turn on at 08:00 and turn off at 20:00.
+the lamps are still to weak so i need to buy better ones
 
 ### 2026-03-15
 

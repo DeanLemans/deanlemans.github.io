@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-03-27
+modified: 2026-04-06
 created: 2026-03-17
 aliases:
   - Cool Personal sites
@@ -36,9 +36,10 @@ alias_sugestion: Cool Personal sites
 - [Bhupesh TIL](https://til.bhupesh.me/)
 - [Vale Rocks](https://vale.rocks/)
 - [Jethro braindump](https://braindump.jethro.dev/)
+- [Y/CJ/Y](https://www.whycjwhy.com/)
 - [Paul Copplestone Knowledge](https://paul.copplest.one/knowledge/)
 - [tommi.space](https://tommi.space/)
-- [This time it's personal](https://sadgrl.online/posts/its-personal/)
+- [sadgirl.online](https://sadgrl.online/)
 - [Swyx Ideas](https://www.swyx.io/)
 - <https://innei.in/en>
 - [Aleen42 Wiki](https://wiki.aleen42.com/)
@@ -53,8 +54,6 @@ alias_sugestion: Cool Personal sites
 - [Studio Idem](https://studio-idem.com/)
 - [Logan's Blog](https://lberrymage.dev/)
 - [Melanie Sumner](https://melsumner.github.io/)
-- [fed.brid.gy](https://fed.brid.gy/)
-- [brid.gy](https://brid.gy/about#bridgy-fed)
 - [mostr.pub](https://mostr.pub/)
 - [The Traveling Gardener](https://thetravelinggardener.com/)
 - [woof](https://cannibalcat.club/)
@@ -65,13 +64,12 @@ alias_sugestion: Cool Personal sites
 - [Jason Textfiles](https://textfiles.com/jason/)
 - [paveloom.dev](https://paveloom.dev/)
 - [Gavart](https://gavart.ist/)
-- [Mark1626 Knowledge](https://mark1626.github.io/)
-- [ritualdust.com](https://ritualdust.com/folklore/sigils/)
-- [Purarue](https://purarue.xyz/x/)
-- [Scott Spence Contact](https://scottspence.com/contact)
-- [NKintc Brainless](https://nkintc.gitbook.io/brainless)
+- [Mark1626](https://mark1626.github.io/)
+- [ritualdust.com](https://ritualdust.com/)
+- [Purarue](https://purarue.xyz/)
+- [NKintc Brainless](https://nkintc.gitbook.io/)
 - [Pawamoy](https://pawamoy.github.io/)
-- [100R](https://100r.co/site/home.html)
+- [100R](https://100r.co/)
 - [Simon Willison TIL](https://til.simonwillison.net/)
 - [Nikiv Dev](https://nikiv.dev/)
 - [Nikiv Wiki Old](https://wiki-old.nikiv.dev/)

@@ -26,7 +26,7 @@ export const sharedPageComponents: SharedLayout = {
       "Content License": "https://creativecommons.org/licenses/by/4.0",
       "Contact Links": "https://linksta.cc/@Dean",
       "Source Code": "https://github.com/DeanLemans/deanlemans.github.io",
-      "Guest Book": "https://thegardner.atabook.org/",
+      "Guest Book": "https://theseeker.atabook.org/",
       "Analytics": "https://cloud.umami.is/share/cQibaMjOX3vvklQG",
     },
   }),
