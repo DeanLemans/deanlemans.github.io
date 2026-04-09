@@ -15,19 +15,20 @@ alias_sugestion: My Bookmarks
 
 for featured personal sites see: [external_sites](<./external_sites.md>)
 
-cool projects that aren't my own
+cool projects or articles or services i like and sometimes use/make use of
 
 ---
 
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
-- [Act 1: OMORI BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
+- [OMORI BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
 - [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 - [freelancegamedevs.com](https://www.freelancegamedevs.com/)
 - [Hard Light Productions](https://www.hard-light.net/)
 - [COCA LEAF at DuckDuckGo](https://duckduckgo.com/?q=COCA+LEAF&ia=web)
+- https://yunohost.org/
 - [Thus Spoke Zarathustra - Wikiquote](https://en.wikiquote.org/wiki/Thus_Spoke_Zarathustra)
 - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)

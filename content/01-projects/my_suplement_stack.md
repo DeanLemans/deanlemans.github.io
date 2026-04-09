@@ -1,7 +1,7 @@
 ---
 title: My Suplement Stack
 publish: true
-modified: 2026-03-28
+modified: 2026-04-06
 created: 2026-03-15
 aliases:
   - My Suplement Stack
@@ -12,17 +12,21 @@ aliases:
 - [ ] need to add more research to build up my choices
 - [ ] need to do several tests(blood, sleep, etc) in order to add or remove suplements.
 - [ ] rework this so it includes normal meals(do i want/need this?)
+- [ ] balsem of peru?
+- [ ] beef tallow? (for hands? feet?)
+- [ ] NAC?
+- [ ] ivermectin?
 
 ---
 
-order
+order:
 what i first eat:
 - ashwaganda (1 capsule)
-- lions mane (2 gummies)
+- lions mane (1 gummies)
 - multivatamin (1 pill)
-- creatine (5 gram)
+- creatine (2 gram)
 when going to sleep:
-- sleep magnesium (2 capsules)
+- sleep magnesium (1 capsules)
 
 ---
 

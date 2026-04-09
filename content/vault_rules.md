@@ -2,7 +2,7 @@
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-03-28
+modified: 2026-04-06
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
 aliases:
@@ -10,6 +10,8 @@ aliases:
 ---
 
 # Site Rules
+
+- [ ] split projects blog updates into a blog(so every time i update it the original file stays the same? also if split i people think im active more because new file but its just the same activity but more standerd for visitor to consume) really need to work this shit out
 
 > [!NOTE]Alternative titles
 > - Vault System
