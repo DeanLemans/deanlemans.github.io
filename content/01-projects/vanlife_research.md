@@ -59,7 +59,7 @@ core issue could possibly be solved with how uber works, they can use personal v
 + Consult/ask for advice to experienced vanlifers, so i have to contact someone that does van-life, someone that can help with taxes, and someone for KvK.
 For help and double checking if my findings are correct.
 
-- van should be self sustaining? at least long term (water catcher, sun pannel, plans?, sun pannel)
++ van should be self sustaining? at least long term (water catcher, sun panel, plans?, sun panel)
 
 + Ensure the van is safe, so: ventilation, fire safety, electricity management, tool insurance.
 
