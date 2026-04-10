@@ -30,10 +30,6 @@ jobs:
           corepack prepare pnpm@latest --activate
           pnpm install --frozen-lockfile
 
-      # Only this one extra line (pnpm only) to fix yargs for npx
-      - name: Make yargs available for npx quartz
-        run: pnpm dlx --no-install yargs@latest --version || true
-
       - name: Build Quartz
         env:
           CACHE_CLEAR: ${{ env.CACHE_CLEAR }}
