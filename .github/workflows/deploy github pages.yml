@@ -26,6 +26,11 @@ jobs:
         with:
           node-version: 25
 
+      - name: Enable pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
@@ -34,11 +39,6 @@ jobs:
 
       - name: Install Dependencies
         run: pnpm install --frozen-lockfile
-
-      - name: Enable pnpm
-        run: |
-          corepack enable
-          corepack prepare pnpm@latest --activate
 
       - name: Build Quartz
         env:
