@@ -54,7 +54,7 @@ jobs:
 
       - name: Deploy to Nekoweb
         id: deployment
-        uses: indiefellas/deploy2nekoweb@v4
+        uses: indiefellas/deploy2nekoweb@main
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-folder: "/"
