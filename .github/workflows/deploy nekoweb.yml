@@ -1,7 +1,9 @@
 name: Deploy to Nekoweb
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - v4
 
 permissions:
   contents: read
@@ -25,7 +27,7 @@ jobs:
           node-version: 25
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Install Dependencies
         run: pnpm ci
