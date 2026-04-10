@@ -1,9 +1,7 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - v4
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -12,7 +10,7 @@ permissions:
 
 concurrency:
   group: "github-pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -24,7 +22,7 @@ jobs:
 
       - uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: 25
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -33,7 +31,7 @@ jobs:
         run: echo "CACHE_CLEAR=$(date +%s)" >> $GITHUB_ENV
 
       - name: Install Dependencies
-        run: npm ci
+        run: pnpm ci
 
       - name: Build Quartz
         env:

@@ -239,16 +239,6 @@ export async function handleBuild(argv) {
     argv.watch = true
   }
 
-  // Optimize emojimap before building
-  try {
-    const require = createRequire(import.meta.url)
-    const { optimizeEmojimap } = require(path.join(cwd, "optimize-emojimap.cjs"))
-    optimizeEmojimap({ quiet: true, projectRoot: cwd })
-  } catch (error) {
-    // If optimization fails, continue with build
-    console.log(styleText("yellow", "⚠️  Could not optimize emojimap, continuing with build..."))
-  }
-
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
   const ctx = await esbuild.context({
     entryPoints: [fp],
@@ -580,7 +570,7 @@ export async function handleUpdate(argv) {
     opts.shell = true
   }
 
-  const res = spawnSync("npm", ["i"], opts)
+  const res = spawnSync("pnpm", ["i"], opts)
   if (res.status === 0) {
     console.log(styleText("green", "Done!"))
   } else {
