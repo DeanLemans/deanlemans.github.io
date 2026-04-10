@@ -32,10 +32,8 @@ jobs:
       - name: Set CACHE_CLEAR variable
         run: echo "CACHE_CLEAR=$(date +%s)" >> $GITHUB_ENV
 
-      - name: Enable pnpm
-        run: |
-          corepack enable
-          corepack prepare pnpm@latest --activate
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Build Quartz
         env:
