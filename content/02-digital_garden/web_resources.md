@@ -22,13 +22,17 @@ cool projects or articles or services i like and sometimes use/make use of
 ### Developer tools
 
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
+- [Boot.dev](http://boot.dev)
+- [Accrescent Blog](https://blog.accrescent.app/)
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
 - [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
+- [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 ### Game dev
 
+- [Godot game engine](https://godotengine.org/)
 - [freelancegamedevs.com](https://www.freelancegamedevs.com/)
 - [Hard Light Productions](https://www.hard-light.net/)
 - [Game Development](https://develop.games/)
@@ -52,6 +56,10 @@ cool projects or articles or services i like and sometimes use/make use of
 - [superorganizers.substack.com](https://superorganizers.substack.com/p/how-to-build-a-learning-machine###)
 - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
 - [freedom of the press foundation](https://freedom.press/)
+- [Based Cooking](https://based.cooking/)
+- [Musopen](https://musopen.org/)
+- [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
+- [play these games](https://www.reddit.com/r/yumenikki/comments/1fttgsc/since_some_people_wanted_me_to_share_my_ynfg/)
 
 ### Indie web
 
@@ -90,6 +98,8 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Wiby](https://wiby.org/)
 - [Freenet](https://freenet.org/)
 - [Krita Artists](https://krita-artists.org/)
+- [.flow](http://lolrust.site/game/dotflow/)
+- [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 
 ### Utilities and infrastructure tools
 
@@ -98,6 +108,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [brid.gy](https://brid.gy/about#bridgy-fed)
 - [fed.brid.gy](https://fed.brid.gy/)
 - [Chattable](https://iframe.chat/)
+- [Server Part Deals](https://serverpartdeals.com/)
 
 ### Discovery, dev utilities
 
@@ -111,16 +122,10 @@ cool projects or articles or services i like and sometimes use/make use of
 
 - [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
 - [Accrescent Blog](https://blog.accrescent.app/)
-- [boot.dev](http://boot.dev)
-- [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
-- [play these games](https://www.reddit.com/r/yumenikki/comments/1fttgsc/since_some_people_wanted_me_to_share_my_ynfg/)
-- [Based Cooking](https://based.cooking/)
-- [royalty free music i think](https://musopen.org/)
 - [Server Part Deals](https://serverpartdeals.com/)
-- [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-- [Fabric of the Universe | clothes](https://www.fabricoftheuniverse.com/en-nl/collections/all)
 - [retro swap](https://retoswap.com/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 - [Purgatory Memories fear](https://memoriesoffear.jcink.net/index.php?showtopic=68)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [super cool pirate wiki](https://wiki.dbzer0.com/piracy/megathread/)
+- [Fabric of the Universe | clothes](https://www.fabricoftheuniverse.com/en-nl/collections/all)
