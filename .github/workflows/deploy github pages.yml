@@ -32,36 +32,26 @@ jobs:
       - name: Set CACHE_CLEAR variable
         run: echo "CACHE_CLEAR=$(date +%s)" >> $GITHUB_ENV
 
-      - name: Enable pnpm
+      - name: Setup pnpm and install dependencies
         run: |
           corepack enable
           corepack prepare pnpm@latest --activate
-
-      - name: Install Dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Install missing dependency
-        run: pnpm add yargs
+          pnpm install --frozen-lockfile
 
       - name: Build Quartz
         env:
           CACHE_CLEAR: ${{ env.CACHE_CLEAR }}
         run: npx quartz build
 
-      # --- Post-build: fingerprint assets and robust cache-busting ---
       - name: Make fingerprint script executable
         run: chmod +x ./scripts/fingerprint-assets.sh
 
       - name: Fingerprint CSS/JS assets (post-build)
-        run: |
-          # Fingerprint assets under the site output dir. The script will rename files
-          # like `main.css` -> `main.<hash>.css` and update references in HTML/CSS/JS.
-          ./scripts/fingerprint-assets.sh public
+        run: ./scripts/fingerprint-assets.sh public
 
       - name: Force cache bust by touching any remaining files
         run: find public -type f -exec touch {} +
 
-      # --- Upload site ---
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
@@ -78,41 +68,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
 
-      # Give GitHub Pages a moment to accept the deployment and populate page_url
-      - name: Wait a little for Pages to become reachable
-        run: |
-          echo "Waiting for Pages to finalize..."
-          for i in 1 2 3 4 5; do
-            sleep 5
-            echo "waited $((i * 5))s"
-          done
-
-      # Trigger a Pages rebuild (this requests GitHub Pages to rebuild the site and helps purge CDN)
-      - name: Poll for Pages published URL
-        run: |
-          echo "Polling for published URL from deploy step..."
-          # Try reading the deploy step's page_url output for up to ~60s
-          timeout=60
-          interval=5
-          elapsed=0
-          page_url=""
-          while [ $elapsed -lt $timeout ]; do
-            # GitHub Actions will expand the expression at runtime for this step.
-            page_url="${{ steps.deployment.outputs.page_url }}"
-            if [ -n "$page_url" ] && [ "$page_url" != "null" ]; then
-              echo "Pages published at: $page_url"
-              break
-            fi
-            echo "page_url not yet available; sleeping ${interval}s..."
-            sleep $interval
-            elapsed=$((elapsed + interval))
-          done
-          if [ -z "$page_url" ] || [ "$page_url" = "null" ]; then
-            echo "Timed out waiting for page_url. The site may still be published at: https://deanlemans.github.io/"
-            echo "If the repository uses the classic Pages site settings, check the repository Pages settings or the Pages publish branch."
-          fi
-
-      # Provide a final reminder/log with the published URL
       - name: Publish URL output
-        run: |
-          echo "Pages deployment finished. URL (may take a moment to propagate): ${{ steps.deployment.outputs.page_url }}"
+        run: "echo Pages deployment finished. URL: ${{ steps.deployment.outputs.page_url }}"
