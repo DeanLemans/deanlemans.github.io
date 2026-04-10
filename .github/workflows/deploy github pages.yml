@@ -35,6 +35,11 @@ jobs:
       - name: Install Dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Enable pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+
       - name: Build Quartz
         env:
           CACHE_CLEAR: ${{ env.CACHE_CLEAR }}
