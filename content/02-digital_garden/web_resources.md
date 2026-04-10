@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-06
+modified: 2026-04-10
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -22,13 +22,12 @@ cool projects or articles or services i like and sometimes use/make use of
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
-- [OMORI BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
 - [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 - [freelancegamedevs.com](https://www.freelancegamedevs.com/)
 - [Hard Light Productions](https://www.hard-light.net/)
 - [COCA LEAF at DuckDuckGo](https://duckduckgo.com/?q=COCA+LEAF&ia=web)
-- https://yunohost.org/
+- <https://yunohost.org/>
 - [Thus Spoke Zarathustra - Wikiquote](https://en.wikiquote.org/wiki/Thus_Spoke_Zarathustra)
 - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
@@ -53,7 +52,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [switching.software | easy-to-use and privacy-conscious alternatives to well-known software](https://switching.software/)
 - [Open Source Seed Initiative](https://osseeds.org/)
 - [Awesome Search](https://awesomelists.top/#/)
-- [THE DREAMER - OMORI mod](https://mods.one/mod/thedreamer)
 - [oxipng](https://github.com/shssoichiro/oxipng)
 - [OpenGameArt.org](https://opengameart.org/content/faq)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)

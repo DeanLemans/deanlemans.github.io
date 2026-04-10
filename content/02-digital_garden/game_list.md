@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-03-28
+modified: 2026-04-10
 description: my collection of games
 created: 2024-10-08
 aliases:
@@ -151,6 +151,8 @@ aliases:
 		<p><a href="https://mods.one/mod/ambien">Ambient</a></p>
 		<p><a href="https://mods.one/mod/reverie">reverie</a></p>
 		<p><a href="https://mods.one/mod/autumnbreak">Autumn break</a></p>
+		<p><a href="https://www.mods.one/mod/brokendreams">BROKEN DREAMS</a></p>
+		<p><a href="https://mods.one/mod/thedreamer">THE DREAMER</a></p>
 	</article>
 </details>
 <details>
