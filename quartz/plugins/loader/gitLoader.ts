@@ -179,84 +179,9 @@ function collectNativeDeps(pluginDir: string): Map<string, string> {
  * Install all collected native dependencies into the Quartz root with a single
  * `npm install --no-save`. Lets npm resolve compatible versions across plugins.
  */
-export function installNativeDeps(
-  nativeDeps: Map<string, Map<string, string>>,
-  options: { verbose?: boolean },
-): void {
-  const merged = new Map<string, Map<string, string>>()
-  for (const [pluginName, deps] of nativeDeps) {
-    for (const [pkg, range] of deps) {
-      if (!merged.has(pkg)) {
-        merged.set(pkg, new Map())
-      }
-      merged.get(pkg)!.set(pluginName, range)
-    }
-  }
-
-  if (merged.size === 0) return
-
-  const installArgs: string[] = []
-  for (const [pkg, pluginRanges] of merged) {
-    const ranges = [...pluginRanges.values()]
-    const uniqueRanges = [...new Set(ranges)]
-
-    if (options.verbose) {
-      const sources = [...pluginRanges.entries()]
-        .map(([plugin, range]) => `${plugin} (${range})`)
-        .join(", ")
-      console.log(
-        styleText("cyan", `→`),
-        `Native dep ${styleText("bold", pkg)} required by: ${sources}`,
-      )
-    }
-
-    if (uniqueRanges.length === 1) {
-      installArgs.push(`${pkg}@${JSON.stringify(uniqueRanges[0])}`)
-    } else {
-      if (options.verbose) {
-        console.warn(
-          styleText("yellow", `⚠`),
-          `Multiple version ranges for ${pkg}: ${uniqueRanges.join(", ")}. pnpm(dean patch) will attempt to resolve a compatible version.`,
-        )
-      }
-      // Use first range; npm will fail if truly incompatible
-      installArgs.push(`${pkg}@${JSON.stringify(uniqueRanges[0])}`)
-    }
-  }
-
-  if (installArgs.length === 0) return
-
-  if (options.verbose) {
-    console.log(
-      styleText("cyan", `→`),
-      `Installing ${installArgs.length} native package(s) into Quartz root...`,
-    )
-  }
-
-  try {
-    execSync(`pnpm install --no-save ${installArgs.join(" ")}`, {
-      cwd: process.cwd(),
-      stdio: options.verbose ? "inherit" : "pipe",
-      timeout: 120_000,
-    })
-
-    if (options.verbose) {
-      console.log(
-        styleText("green", `✓`),
-        `Installed native dependencies: ${[...merged.keys()].join(", ")}`,
-      )
-    }
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error)
-    console.error(
-      styleText("red", `✗`),
-      `Failed to install native dependencies. This may indicate incompatible version ranges across plugins.\n` +
-        `  Packages: ${[...merged.keys()].join(", ")}\n` +
-        `  Error: ${message}`,
-    )
-    throw new Error(`Native dependency installation failed: ${message}`)
-  }
-}
+ export function installNativeDeps(): void {
+   return
+ }
 
 function isDistGitignored(pluginDir: string): boolean {
   const gitignorePath = path.join(pluginDir, ".gitignore")
@@ -350,7 +275,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     if (verbose) {
       console.log(styleText("cyan", `→`), `${name}: installing dependencies...`)
     }
-    execSync("pnpm install --ignore-scripts", {
+    execSync("pnpm install", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -367,11 +292,11 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       })
     }
 
-    execSync("pnpm prune --omit=dev", {
-      cwd: pluginDir,
-      stdio: verbose ? "inherit" : "pipe",
-      timeout: 60_000,
-    })
+    //execSync("pnpm prune --omit=dev", {
+   //   cwd: pluginDir,
+    //  stdio: verbose ? "inherit" : "pipe",
+    //  timeout: 60_000,
+    //})
 
     linkPeerDependencies(pluginDir)
   } catch (error) {

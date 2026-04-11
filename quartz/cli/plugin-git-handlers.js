@@ -49,7 +49,7 @@ async function buildPluginAsync(pluginDir, name) {
   try {
     const skipBuild = !needsBuild(pluginDir)
     console.log(styleText("cyan", `  → ${name}: installing dependencies...`))
-    await execAsync("pnpm install --ignore-scripts", { cwd: pluginDir })
+    await execAsync("pnpm install", { cwd: pluginDir })
     if (!skipBuild) {
       console.log(styleText("cyan", `  → ${name}: building...`))
       await execAsync("pnpm run build", { cwd: pluginDir })
