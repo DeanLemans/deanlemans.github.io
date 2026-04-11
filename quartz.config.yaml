@@ -16,6 +16,7 @@ configuration:
     - .obsidian
     - .trash
     - static_files/templates
+    - 00-raw #temporary patch, waiting for author to create better fix
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -146,11 +147,38 @@ plugins:
     layout:
       position: left
       priority: 50
+
   - source: github:quartz-community/graph
     enabled: true
-    layout:
-      position: right
-      priority: 10
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: [exclude]
+        showTags: true
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: [exclude]
+        showTags: true
+        focusOnHover: true
+        enableRadial: true
+
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -241,11 +269,12 @@ plugins:
         - description
         - tags
         - created
-        - modefied
+        - modified
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
       language: yaml
+      quartz-properties-collapse: true
     order: 5
     layout:
       position: beforeBody
@@ -263,6 +292,10 @@ plugins:
     options:
       theme: tokyo-night
       mode: both
+  - source: github:quartz-community/unlisted-pages
+    enabled: true
+    options: {}
+    order: 45
 layout:
   groups:
     toolbar:
