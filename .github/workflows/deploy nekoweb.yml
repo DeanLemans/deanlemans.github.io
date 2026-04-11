@@ -1,0 +1,61 @@
+name: Deploy to Nekoweb
+
+on:
+  push:
+    branches:
+      - v4
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "nekoweb"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0 # Fetch all history for git info
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 25
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: Enable pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+      - name: Warm pnpm store for Quartz CLI
+        run: pnpm store path
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Build Quartz
+        run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: public
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: public
+
+      - name: Deploy to Nekoweb
+        id: deployment
+        uses: indiefellas/deploy2nekoweb@main
+        with:
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
+          nekoweb-folder: "/"
+          directory: "public"
