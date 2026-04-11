@@ -151,12 +151,6 @@
       "commit": "c89949090bdbd7dadb2310571270fff85b747579",
       "installedAt": "2026-04-10T18:29:10.723Z"
     },
-    "latex": {
-      "source": "github:quartz-community/latex",
-      "resolved": "https://github.com/quartz-community/latex.git",
-      "commit": "912a7ecc57583185fdca3ff6b7da62eeac3d1c2e",
-      "installedAt": "2026-04-10T18:29:12.033Z"
-    },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",
