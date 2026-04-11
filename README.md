@@ -1,17 +1,27 @@
-# Quartz v5
+![Deploy Status](https://github.com/DeanLemans/deanlemans.github.io/actions/workflows/deploy%20github%20pages.yml/badge.svg)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is the repo for my website that are officially.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+---
+deployed on the following hosting platforms:
+- [Github Pages](https://deanlemans.github.io/)
+- [Neocities](https://deann.neocities.org/)
+- [Wayback Machine](https://web.archive.org/web/https://deanlemans.github.io/)
+- ~~Nekoweb~~
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
+and this site repository is available on:
+- [Radicle](https://app.radicle.xyz/nodes/iris.radicle.xyz/rad:z2K9bJ1S1wZTkWE9FWq8uN8dDfTUw)
+- [Github](https://github.com/DeanLemans/deanlemans.github.iocod)
+- [Codeberg](https://codeberg.org/DeanLemans/deanlemans.github.io)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+--- 
+need to add it to the below forges:
+- ~~gitea~~
+- ~~gogs~~
+- ~~others~~
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Licensing Notice
+- **Content:** The text content in the `content/` folder is licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). 
+- **Everything else:** uses the MIT License for its components.
