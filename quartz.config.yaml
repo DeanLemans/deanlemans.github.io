@@ -147,7 +147,6 @@ plugins:
     layout:
       position: left
       priority: 50
-
   - source: github:quartz-community/graph
     enabled: true
     options:
@@ -178,7 +177,6 @@ plugins:
         showTags: true
         focusOnHover: true
         enableRadial: true
-
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -284,14 +282,6 @@ plugins:
     enabled: false
     options: {}
     order: 50
-  - source:
-      name: quartz-themes
-      repo: https://github.com/saberzero1/quartz-themes.git
-      subdir: plugin
-    enabled: false
-    options:
-      theme: tokyo-night
-      mode: both
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
