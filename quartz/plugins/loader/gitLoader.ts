@@ -216,7 +216,7 @@ export function installNativeDeps(
       if (options.verbose) {
         console.warn(
           styleText("yellow", `⚠`),
-          `Multiple version ranges for ${pkg}: ${uniqueRanges.join(", ")}. npm will attempt to resolve a compatible version.`,
+          `Multiple version ranges for ${pkg}: ${uniqueRanges.join(", ")}. pnpm(dean patch) will attempt to resolve a compatible version.`,
         )
       }
       // Use first range; npm will fail if truly incompatible
@@ -234,7 +234,7 @@ export function installNativeDeps(
   }
 
   try {
-    execSync(`npm install --no-save ${installArgs.join(" ")}`, {
+    execSync(`pnpm install --no-save ${installArgs.join(" ")}`, {
       cwd: process.cwd(),
       stdio: options.verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -350,7 +350,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     if (verbose) {
       console.log(styleText("cyan", `→`), `${name}: installing dependencies...`)
     }
-    execSync("npm install --ignore-scripts", {
+    execSync("pnpm install --ignore-scripts", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -360,14 +360,14 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       if (verbose) {
         console.log(styleText("cyan", `→`), `${name}: building...`)
       }
-      execSync("npm run build", {
+      execSync("pnpm run build", {
         cwd: pluginDir,
         stdio: verbose ? "inherit" : "pipe",
         timeout: 120_000,
       })
     }
 
-    execSync("npm prune --omit=dev", {
+    execSync("pnpm prune --omit=dev", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 60_000,
