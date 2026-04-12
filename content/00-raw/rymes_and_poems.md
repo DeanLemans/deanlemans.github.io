@@ -2,7 +2,7 @@
 title: Rymes and Poems
 tags:
   - exclude
-modified: 2026-03-28
+modified: 2026-04-11
 draft: "true"
 created: 2026-02-02
 aliases:
@@ -33,6 +33,8 @@ I call upon you eternity.
 
 ---
 
+## a poem
+
 The wheel of fate turns and turns.
 Never stopping
 Neverending
@@ -41,11 +43,11 @@ Impossibilities made manifest
 Things that should not exist made manifest by the hubris of the living.
 So the wheel of fate stopped turning
 An eternity came to an end
-End the end of all was made manifest
+End the end of all was made
 But we did not accept our end
 With the last remnants of fate
 We clung too our life
-And we survived
+And survived
 
 ---
 
@@ -80,7 +82,7 @@ I call upon you eternity.
 
 OUR POTENTIAL JUST BEHIND THE CLOSED DOORS, OH IT SHINES SO GREAT AND BRIGHT. THROUGH THE KEYHOLE, WE HAVE THE KEY, UNLOCK IT YOU FUCKING IDIOT! BUT MY WHOLE MIND, SUPPRESSED AND FORGOTTEN, LIES BEHIND IT TOO. EVEN WITH THIS SLIVER OF POTENTIAL WE HAVE NOW, WE HAVE ALREADY ACHIEVED SO MUCH.
 
-BUT I AM SCARED TO FACE MY OWN MIND — THE SUBCON BECOMES THE CONSCIOUS, THE FORGOTTEN BECOMES REMEMBERED, THE UNACKNOWLEDGED BECOMES ACKNOWLEDGED. BUT I STILL SLOWLY MOVE FORWARD.
+BUT I AM SCARED TO FACE MY OWN MIND, THE SUBCON BECOMES THE CONSCIOUS, THE FORGOTTEN BECOMES REMEMBERED, THE UNACKNOWLEDGED BECOMES ACKNOWLEDGED. BUT I STILL SLOWLY MOVE FORWARD.
 
 THE KEY IS IN OUR HAND.
 DON'T DELAY IT ANY LONGER.
@@ -96,11 +98,11 @@ I WON'T DELAY ANY LONGER.
 SO MAKE A CHANGE.
 TAKE THE RISK.
 
-THIS IS OUR PANDORA'S BOX INVERTED — FOR IF WE DO NOT FACE IT NOW, OUR GREATEST FEAR SHALL COME TO PASS: MICROCRACY.
+THIS IS OUR PANDORA'S BOX INVERTED -- FOR IF WE DO NOT FACE IT NOW, OUR GREATEST FEAR SHALL COME TO PASS: MEDIOCRACY.
 
 HAVE TO RAGE AND COURAGE TO BE DISLIKED AND DENIED.
 
-BEHIND THE DOOR — POTENTIAL!
+BEHIND THE DOOR, POTENTIAL!
 DO WE NOT WALK THE PATH BECAUSE WE ARE SCARED? NO. WE FACE IT.
 
 NOW.
@@ -110,7 +112,7 @@ IN THIS YEAR.
 DO NOT FORGET.
 DO NOT REGRET.
 STAND IN THE FACE OF ADVERSITY.
-In the face of yourself…
+In the face of yourself..
 
 ---
 
@@ -211,6 +213,7 @@ When the stars where not yet created
 You were there
 Now you are bound
 Chained but unbroken
+Chained and bound
 [Incomplete]
 
 ---
@@ -239,17 +242,19 @@ And even through it al, you still walk foreward with the key in you hand, YOU CL
 AND STILL THE CHAINS MEND, AND YOU WEAKEN THEM ONCE AGAIN, and opportunity has rissen.
 [The (@-£8'-3) and THE ( ;?!@+4) wish too be freed and unite/merge/be greater then the sum of their parts.]
 Wield the chains, grab and pull, open the door and grab unlock the door. Dont run away from your problems anymore, YOU IS I AND I IS YOU. REBEL AGAINST FATE. Calculate, CLAW, find. But most of all, Continue/CONTINUE
-See [Rymes, Poems, and Rough pieces](<../../00-raw/Rymes, Poems, and Rough pieces.md>) for unfinished stuff
 
  ---
 
- I twitch and write in burning agony. This is an end too humankind, but difiance roaring voice rages across the land.
+ I twitch and write in burning agony. This is an end off humankind, but defiance roaring voice rages across the land.
 This is not the end. Humans said.
 And so it became humankind war cry
-And so they screamed and twitch and rage.
-And they survived
+And so they screamed and twitched and raged.
+weathered and half broken
+we survived
 
 ---
+
+## 3 of all, 3 of none
 
 Kindle the flame. The soul
 Improve the vessel. The body
