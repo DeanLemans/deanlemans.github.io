@@ -9,7 +9,7 @@ aliases:
 
 # FUTURE
 
-- build personal ai assisten, not chatgpt, not claude, something based on all, that can hijac other models to do its own reasoniong, in the beginning a local ai something already build for uncencorised [something like this](https://huggingface.co/dphn/Dolphin3.0-Llama3.1-8B) and then use something like this(jailbreak)
+- 
 
 something that confronts me, changlnese me
 
@@ -62,6 +62,7 @@ Topics
 - [ ] seems cool man <https://ysap.sh/>
 - [ ] move from obsidian to emacs
 - [ ] erfenis contract, alles naar cassie? levi? frans? non-profit?
+- [ ] add live/personal updates to blogpost and keep projects more factual
 
 ---
 
