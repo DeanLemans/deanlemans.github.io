@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-18
+modified: 2026-04-13
 created: 2026-01-24
 ---
 
@@ -312,3 +312,20 @@ the homeless
 withouth the shell
 influence
 power
+
+---
+Beside her, Yin lit up like the morning sun as he too shook with the sweet, duplicitous song of the Green Wilds. It was violence sheathed in transcendent calm. A vestige of the Grim Nightshade, and evidence of their Bargain.
+
+---
+a certain kind of madness balancing fortitude and near maniacal drive
+
+---
+A lot like Stormild, her elemental nature shone through, making her innately more childish and flighty than a normal beast. This isn’t to say she wasn’t as smart as other monsters; it just meant that becoming more “mature” wasn’t a prioritized development goal.
+
+---
+They create a bogus study which they publish in a serious-sounding science magazine owned by a for-profit university with a grand name like Anthropological University of Pennsylvania or the like. Website A publishes an outrageous article citing this study, then website B picks up the story, quoting website A. Website C does the same quoting website B… and then website A quotes website C as source. Now, all the clickbait articles dangled under the nose of viewers come with a list of apparently reliable sources. Of course, they control every organism involved from the start. It’s just a ploy…”
+
+---
+Aim to be someome childeren look up to.
+?
+That seems boring

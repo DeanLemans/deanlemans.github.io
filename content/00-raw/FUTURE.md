@@ -1,6 +1,6 @@
 ---
 title: FUTURE
-modified: 2026-03-30
+modified: 2026-04-15
 description: things and stuff i still/want to do
 created: 2026-02-02
 aliases:
@@ -60,6 +60,7 @@ Topics
 - [ ] future reference for music page <https://ddbentl.com/tunes>
 - [ ] idk man <https://basementcommunity.com/> <https://tilde.club/>
 - [ ] seems cool man <https://ysap.sh/>
+- [ ] move from obsidian to emacs
 - [ ] erfenis contract, alles naar cassie? levi? frans? non-profit?
 
 ---

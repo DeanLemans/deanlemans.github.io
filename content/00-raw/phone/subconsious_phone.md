@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-30
+modified: 2026-04-11
 created: 2026-01-24
 ---
 
@@ -19,3 +19,11 @@ see it
 dream it want it
 that flane, that burned so bright
 im scared, so i musf
+
+---
+I must connect
+I must seek
+Recorded
+Must be more
+MULTIPLY OUTREACH
+Sloth holds back
