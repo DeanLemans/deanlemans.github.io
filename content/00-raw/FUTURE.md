@@ -35,6 +35,7 @@ Topics
 - [ ] Catch-22 (Joseph Heller)
 - [ ] Solitary confinement
 - [ ] Drunken fist
+- [ ] alternative wifi networks
 - [ ] prebiotics
 - [ ] Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
 - [ ] [Dual Licensing](https://duallicensing.com/)
@@ -61,6 +62,7 @@ Topics
 - [ ] move from obsidian to emacs
 - [ ] erfenis contract, alles naar cassie? levi? frans? non-profit?
 - [ ] add live/personal updates to blogpost and keep projects more factual
+- [ ] how to create manpages for this site
 
 ### inbox from phone/ todolist form phone/ planning from phone
 
@@ -104,3 +106,10 @@ not done
 - [x] restructure site 🔺 ✅ 2026-03-26
 - [x] rethink the references folder ✅ 2026-03-30
 - [x] Grip trainer ✅ 2026-03-26
+- [x] archive site via something like waybackmachine ✅ 2026-04-19
+- [x] Sync across devices with Syncthing ✅ 2026-02-17
+- [x] Maintain rolling backups for at least 10 days ✅ 2026-02-17
+- [x] Mirror site on Neocities ✅ 2026-04-19
+- [x] Mirror site on Nekoweb ✅ 2026-02-17
+- [x] Repository mirrored on Codeberg ✅ 2026-02-17
+- [x] Maintain consistent frontmatter (tags and modified date) ✅ 2026-04-19

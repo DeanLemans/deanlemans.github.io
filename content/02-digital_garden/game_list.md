@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-04-10
+modified: 2026-04-18
 description: my collection of games
 created: 2024-10-08
 aliases:
@@ -14,7 +14,8 @@ aliases:
 - [ ] and my WII games
 - [ ] add my PS5 games
 - [ ] add my DS games
-- [ ] write reviews, find platform for the reviews
+- [ ] write reviews,
+	- [ ] find platform for those reviews
 
 ## My Favorite Games
 

@@ -2,7 +2,7 @@
 publish: false
 title: Trajectory
 created: 2025-07-25
-modified: 2026-03-28
+modified: 2026-04-18
 aliases: Trajectory
 ---
 
@@ -99,7 +99,7 @@ Reality's always shifting, so these are just 'frameworks' I can tear into and fu
 	- Use 30/30/30 rule (savings/wants/essentials).
 	- Always switch from 1-man company to BV to limit personal liability.
 - If it happens (depends on severity):
-	- Seek alternative work (employment, freelancing, gigwork—even if reputation is ruined, can go anonymous).
+	- Seek alternative work (employment, freelancing, gigwork, even if reputation is ruined, can go anonymous).
 	- If reputation is trashed, reach out to connections (former clients, colleagues, friends in industry) to help rebuild.
 
 ### Fallback: Legacy/death

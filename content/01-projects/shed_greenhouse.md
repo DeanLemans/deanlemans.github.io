@@ -4,7 +4,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-04-15
+modified: 2026-04-18
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project
@@ -89,7 +89,7 @@ tomorrow im going to Intratuin.
 
 went to Intratuin Veghel, they also didn't have jack shit.
 they didn't have lamps for plants, no grow lights, no heat lamps, no redlight, no LED lights.
-then i went to find any heating-related stuff, which they didn't have jack shit off — how do you not have a basic heat pad to grow seedlings???
+then i went to find any heating-related stuff, which they didn't have jack shit off, how do you not have a basic heat pad to grow seedlings???
 also didn't have any cocos ground, even the expanding ones.
 only thing i bought there was some moss, which i put in my greenhouse to test.
 
