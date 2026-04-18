@@ -1,7 +1,9 @@
 ---
 unlisted: true
+publish: true
 title: 00 Raw
-tags: []
+tags: 
+  - exclude
 publish: true
 modified: 2026-04-18
 created: 2026-04-11
@@ -21,4 +23,3 @@ Truth
 Behind the scenes
 
 content: work folder
-
