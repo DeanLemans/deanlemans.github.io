@@ -1,10 +1,13 @@
 ---
-publish: true
+unlisted: true
 title: 00 Raw
-tags:
-  - exclude
-modified: 2026-02-05
+tags: []
+publish: true
+modified: 2026-04-18
+created: 2026-04-11
 ---
+
+# 00 Raw
 
 Also know as the true part of my site, I don't want to maintain 2 site (normal and professional 'image'), so i just decided to create a excluded folder in my site that is for normal use.
 
@@ -17,9 +20,5 @@ Casual
 Truth
 Behind the scenes
 
-
 content: work folder
 
-```tasks
-not done
-```

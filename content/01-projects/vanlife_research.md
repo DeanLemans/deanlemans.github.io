@@ -10,7 +10,7 @@ created: 2026-03-17
 aliases:
   - "Dean's Vanlife Research"
 ---
-
+d
 # Dean's Vanlife Research
 
 + [ ] Look into nederlands vanlife communities

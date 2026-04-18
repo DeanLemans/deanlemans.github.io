@@ -1,6 +1,6 @@
 ---
 title: FUTURE
-modified: 2026-03-30
+modified: 2026-04-18
 description: things and stuff i still/want to do
 created: 2026-02-02
 aliases:
@@ -9,22 +9,20 @@ aliases:
 
 # FUTURE
 
-- build personal ai assisten, not chatgpt, not claude, something based on all, that can hijac other models to do its own reasoniong, in the beginning a local ai something already build for uncencorised [something like this](https://huggingface.co/dphn/Dolphin3.0-Llama3.1-8B) and then use something like this(jailbreak)
-
 something that confronts me, changlnese me
 
 Buy
-- American bully dog
+- [ ] American bully dog
 
-- Stress toy
-- Epson Ecotank (printer)
-- Airfilter
+- [ ] Stress toy
+- [ ] Epson Ecotank (printer)
+- [ ] Airfilter
 
-- Neck training equipment
-- [offline music play, doest have to be this one](https://www.fiio.com/)
+- [ ] Neck training equipment
+- [ ] [offline music play, doest have to be this one](https://www.fiio.com/)
 
 Watch
-- American Psycho (Watch)
+- [ ] American Psycho (Watch)
 
 Topics
 - [ ] Microbiome / Humanbiome / Mystery
@@ -37,6 +35,7 @@ Topics
 - [ ] Catch-22 (Joseph Heller)
 - [ ] Solitary confinement
 - [ ] Drunken fist
+- [ ] alternative wifi networks
 - [ ] prebiotics
 - [ ] Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)
 - [ ] [Dual Licensing](https://duallicensing.com/)
@@ -60,7 +59,39 @@ Topics
 - [ ] future reference for music page <https://ddbentl.com/tunes>
 - [ ] idk man <https://basementcommunity.com/> <https://tilde.club/>
 - [ ] seems cool man <https://ysap.sh/>
+- [ ] move from obsidian to emacs
 - [ ] erfenis contract, alles naar cassie? levi? frans? non-profit?
+- [ ] add live/personal updates to blogpost and keep projects more factual
+- [ ] how to create manpages for this site
+
+### inbox from phone/ todolist form phone/ planning from phone
+
+- [ ] the ego must overcome its own
+- [ ] make tea
+- [ ] take suplements
+- [ ] truspilot site maken
+- [ ] research terrarium
+- [ ] facebook pagina tuin
+- [ ] how to end a conversation
+- [ ] filmpje pc + mama moet help facebook pagina maken
+- [ ] work on IT/tech business thing
+- [ ] invest in crypto via haveno
+- [ ] invest via etorro
+- [ ] terrarium onderzoek
+- [ ] add site to webtiles
+- [ ] make separate blog page for live updates instead of in project
+- [ ] filter open tabs (done with 100, 250 to go)
+- [ ] leerbedrijf
+- [ ] sort out all IT/tech and plant business
+- [ ] schoenen invetten
+- [ ] filter subscriptions from different accounts into grayjay
+- [ ] add all games from all consonsoles into my gamelist
+
+### list with all todo things autograbbed from all my notes
+
+```tasks
+not done
+```
 
 ---
 
@@ -75,3 +106,10 @@ Topics
 - [x] restructure site 🔺 ✅ 2026-03-26
 - [x] rethink the references folder ✅ 2026-03-30
 - [x] Grip trainer ✅ 2026-03-26
+- [x] archive site via something like waybackmachine ✅ 2026-04-19
+- [x] Sync across devices with Syncthing ✅ 2026-02-17
+- [x] Maintain rolling backups for at least 10 days ✅ 2026-02-17
+- [x] Mirror site on Neocities ✅ 2026-04-19
+- [x] Mirror site on Nekoweb ✅ 2026-02-17
+- [x] Repository mirrored on Codeberg ✅ 2026-02-17
+- [x] Maintain consistent frontmatter (tags and modified date) ✅ 2026-04-19

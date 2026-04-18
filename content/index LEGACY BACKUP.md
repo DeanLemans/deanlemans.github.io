@@ -1,6 +1,6 @@
 ---
 title: Dean Lemans
-publish: true
+publish: false
 modified: 2026-04-18
 description: Dean's Personal Site
 created: 2025-09-25
@@ -25,6 +25,13 @@ aliases:
 - **Software Development:** using [Godot](https://godotengine.org/) and creating Static Sites.
 - Passionate about computers, plants, and [open source](https://opensource.org/osd).
 
+## Check Out My CVs
+
+> [!info] [Software CV](<./00-raw/cv_software.md>)
+> development experience.
+
+> [!info] [Gardening CV](<./00-raw/cv_gardening.md>)
+> gardening experience.
 ## Tools & Technologies
 
 - [ ] need to completely rework my tools/skills stuff, mabaey split into separate page?, also the cv pages

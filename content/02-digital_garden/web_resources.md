@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-10
+modified: 2026-04-18
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -47,7 +47,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [eigenwallet | Monero wallet](https://eigenwallet.org/)
 - [Secluso](https://secluso.com/)
 
-### Writing and knowledge
+### Writing, knowledge
 
 - [Thus Spoke Zarathustra - Wikiquote](https://en.wikiquote.org/wiki/Thus_Spoke_Zarathustra)
 - [_A Pattern Language_](https://patternlanguage.cc/README)
@@ -66,8 +66,9 @@ cool projects or articles or services i like and sometimes use/make use of
 - [web0 manifesto](https://web0.small-web.org/)
 - [IndieWeb](https://indieweb.org/)
 - [Open Home Foundation](https://www.openhomefoundation.org/)
+- <https://marginalia-search.com/>
 
-### Linux and infrastructure
+### Linux, infrastructure
 
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
 - [all things linux](https://atl.wiki/)
@@ -90,7 +91,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Can I license my project with an open-source license but disallow commercial use?](<https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but> disallow commercial use)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 
-### Experimental and artistic web
+### Experimental, artistic web
 
 - [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
 - [Are you sure you remember the way out?](https://vaje.neocities.org/)
@@ -101,7 +102,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 
-### Utilities and infrastructure tools
+### Utilities, infrastructure tools
 
 - [create good images](https://www.imgflo.org/)
 - [Zotero](https://www.zotero.org/)
@@ -129,3 +130,5 @@ cool projects or articles or services i like and sometimes use/make use of
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [super cool pirate wiki](https://wiki.dbzer0.com/piracy/megathread/)
 - [Fabric of the Universe | clothes](https://www.fabricoftheuniverse.com/en-nl/collections/all)
+- <https://amsterdam.craigslist.org/>
+- [uxn](https://100r.co/site/uxn.html)

@@ -1,16 +1,18 @@
 ---
-title:
-source: "https://cjthex.com/what-is-to-be-done/"
+title: A Manifesto To Return To Web 1.5
+source: https://cjthex.com/what-is-to-be-done/
 author:
 created: 2025-10-26
 description:
+publish: true
+modified: 2026-04-18
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-A Manifesto To Return To Web 1.5
+# A Manifesto To Return To Web 1.5
 
 CJ THE X
 
