@@ -56,35 +56,39 @@
             }
           },
           {
-            "id": "2636beb8c3919c57",
+            "id": "6ecae3629fe5093f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-projects/general_substrate_mix.md",
+                "file": "02-digital_garden/external_sites.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "general_substrate_mix"
+              "title": "external_sites"
             }
           },
           {
-            "id": "fb256c23b4036974",
+            "id": "c1468b68b3a27723",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-digital_garden/index.md",
+                "file": "02-digital_garden/web_resources.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "index"
+              "title": "web_resources"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,10 +120,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "—",
+                "query": "antifragile",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -147,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-raw/FUTURE.md",
+                "file": "02-digital_garden/external_sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FUTURE"
+              "title": "Backlinks for external_sites"
             }
           },
           {
@@ -210,35 +214,35 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "04a9b6bc5cdda7b9",
+  "active": "6ecae3629fe5093f",
   "lastOpenFiles": [
     "00-raw/quotes.md",
+    "02-digital_garden/external_sites.md",
+    "02-digital_garden/web_resources.md",
+    "00-raw/clippings/John Carmack on Idea Generation.md",
+    "01-projects/general_substrate_mix.md",
+    "vault_rules.md",
+    "00-raw/backup_rule.md",
+    "index LEGACY BACKUP.md",
+    "now.md",
+    "prompt.md",
+    "index.md",
+    "03-blog/index.md.md",
+    "00-raw/clippings/Alternative Shells.md",
+    "00-raw/clippings/What Is To Be Done  CJ The X.md",
+    "00-raw/clippings/This time it's personal.md",
+    "00-raw/clippings/zine - personal websites and the law.md",
+    "00-raw/clippings/The Universal Genre Savvy Guide.md",
+    "00-raw/clippings/The toxic schooling system.md",
+    "00-raw/clippings/This is an Actual Website.md",
+    "00-raw/clippings/This is Not My Side Hustle ⁂ starbreaker.org.md",
+    "00-raw/clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md",
+    "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+    "00-raw/FUTURE.md",
+    "02-digital_garden/game_list.md",
     "02-digital_garden/index.md",
     "02-digital_garden/manga_list.md",
-    "02-digital_garden/game_list.md",
-    "02-digital_garden/external_sites.md",
-    "02-digital_garden/book_list.md",
-    "02-digital_garden/web_resources.md",
-    "01-projects/shed_greenhouse.md",
-    "01-projects/vanlife_research.md",
-    "01-projects/my_suplement_stack.md",
-    "01-projects/general_substrate_mix.md",
-    "00-raw/FUTURE.md",
-    "00-raw/mail opstellen leerbedrijf.md",
-    "00-raw/rymes_and_poems.md",
-    "00-raw/self host stuff.md",
-    "00-raw/sleep_optimization.md",
-    "00-raw/subconscious.md",
-    "00-raw/there_are_stars_inside_me.md",
-    "00-raw/phone/leerbedrijf_glastuinbouw.md",
-    "00-raw/index.md",
-    "03-blog/index.md.md",
     "03-blog",
-    "00-raw/car_engine.md",
-    "00-raw/dream.md",
-    "00-raw/cv_software.md",
-    "00-raw/cv_gardening.md",
-    "00-raw/best_vid_edit_for_me.md",
     "static_files/IMG_20260317_232154_349.jpg",
     "static_files/IMG_20260317_232205_257.jpg",
     "static_files/IMG_20260315_235646_937.jpg",
