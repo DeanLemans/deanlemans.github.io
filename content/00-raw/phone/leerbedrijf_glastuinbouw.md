@@ -1,6 +1,6 @@
 ---
 title: leerbedrijf glastuinbouw
-modified: 2026-04-13
+modified: 2026-04-18
 created: 2026-04-11
 ---
 
@@ -20,7 +20,6 @@ proefcentrums
 2. https://www.glastuinbouwnederland.nl/arbeid/leren-ontwikkelen
 3. [interplant roses](https://interplant.com/)
 4. [agroeproeftuin](https://www.de-agroproeftuin.nl/)(akkerbouw, niet echt wat nodig heb) (farm of the future)
-4.
 5. [venhorstplant.nl](https://www.venhorstplant.nl/)
 6. Solynta
 7. Pippel braamen

@@ -1,6 +1,8 @@
 ---
 title: General Substrate Mix
-modified: 2026-03-28
+tags:
+  - exclude
+modified: 2026-04-18
 created: 2026-03-27
 ---
 

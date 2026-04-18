@@ -25,6 +25,6 @@ then just spread it on good substrate
 	- drainage layer
 	- separator(mesh)
 	- charcoal
-	- [main substrate layer](<../00-raw/general_substrate_mix.md>)
+	- [main substrate layer](<./general_substrate_mix.md>)
 	- hardscape
 	- softscape
