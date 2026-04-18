@@ -1,11 +1,10 @@
 ---
-title: 00 Raw
-tags:
-  - 
-publish: true
-modified: 2026-04-11
-created: 2026-04-11
 unlisted: true
+title: 00 Raw
+tags: []
+publish: true
+modified: 2026-04-18
+created: 2026-04-11
 ---
 
 # 00 Raw
@@ -23,6 +22,3 @@ Behind the scenes
 
 content: work folder
 
-```tasks
-not done
-```

@@ -17,6 +17,8 @@ alias_sugestion: Dean's Book Library
 you can find the books I have read:
 [here on librarything](https://www.librarything.com/catalog/Th3Seeker)
 
+[web books](https://www.royalroad.com/profile/245805)
+
 ---
 
 ## Backlog

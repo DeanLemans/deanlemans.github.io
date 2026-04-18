@@ -1,6 +1,6 @@
 ---
 title: FUTURE
-modified: 2026-04-15
+modified: 2026-04-18
 description: things and stuff i still/want to do
 created: 2026-02-02
 aliases:
@@ -9,22 +9,20 @@ aliases:
 
 # FUTURE
 
-- 
-
 something that confronts me, changlnese me
 
 Buy
-- American bully dog
+- [ ] American bully dog
 
-- Stress toy
-- Epson Ecotank (printer)
-- Airfilter
+- [ ] Stress toy
+- [ ] Epson Ecotank (printer)
+- [ ] Airfilter
 
-- Neck training equipment
-- [offline music play, doest have to be this one](https://www.fiio.com/)
+- [ ] Neck training equipment
+- [ ] [offline music play, doest have to be this one](https://www.fiio.com/)
 
 Watch
-- American Psycho (Watch)
+- [ ] American Psycho (Watch)
 
 Topics
 - [ ] Microbiome / Humanbiome / Mystery
@@ -63,6 +61,35 @@ Topics
 - [ ] move from obsidian to emacs
 - [ ] erfenis contract, alles naar cassie? levi? frans? non-profit?
 - [ ] add live/personal updates to blogpost and keep projects more factual
+
+### inbox from phone/ todolist form phone/ planning from phone
+
+- [ ] the ego must overcome its own
+- [ ] make tea
+- [ ] take suplements
+- [ ] truspilot site maken
+- [ ] research terrarium
+- [ ] facebook pagina tuin
+- [ ] how to end a conversation
+- [ ] filmpje pc + mama moet help facebook pagina maken
+- [ ] work on IT/tech business thing
+- [ ] invest in crypto via haveno
+- [ ] invest via etorro
+- [ ] terrarium onderzoek
+- [ ] add site to webtiles
+- [ ] make separate blog page for live updates instead of in project
+- [ ] filter open tabs (done with 100, 250 to go)
+- [ ] leerbedrijf
+- [ ] sort out all IT/tech and plant business
+- [ ] schoenen invetten
+- [ ] filter subscriptions from different accounts into grayjay
+- [ ] add all games from all consonsoles into my gamelist
+
+### list with all todo things autograbbed from all my notes
+
+```tasks
+not done
+```
 
 ---
 
