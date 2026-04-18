@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "9cd1f77770ac4733",
+    "type": "split",
+    "children": [
+      {
+        "id": "07410a52a3ab7c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfbf01b9b07fa259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/phone/school_notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "school_notes"
+            }
+          },
+          {
+            "id": "03499b747388264e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/my_philosophy.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "my_philosophy"
+            }
+          },
+          {
+            "id": "efcb06d51ce54c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/stage school problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stage school problem"
+            }
+          },
+          {
+            "id": "8847c081b31d5a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/school/career stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "career stuff"
+            }
+          },
+          {
+            "id": "64a1e67987c639ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/phone/pastebin_phone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pastebin_phone"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "282750d8645597ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75ff8db156aad600",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6116b60d5e43045b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "95be3679e70f1cf6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1fb9d2eefaba9ac8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5be970811bbdc235",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00-raw/phone/pastebin_phone.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a3b74b1333a327c8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00-raw/subconscious.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d1d57b3c96781c09",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "planner-timeline"
+        }
+      },
+      {
+        "id": "0dbce786441e1873",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "random-note:Open random note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false
+    }
+  },
+  "active": "64a1e67987c639ce",
+  "lastOpenFiles": [
+    "00-raw/phone/leerbedrijf_glastuinbouw.md",
+    "00-raw/phone/New school notes.md",
+    "00-raw/phone/subconsious_phone.md",
+    "02-digital_garden/external_sites.md",
+    "00-raw/phone/pastebin_phone.md",
+    "00-raw/phone/Think about my future education.md",
+    "00-raw/phone/Ego.md",
+    "00-raw/phone/Flickering flame.md",
+    "00-raw/phone/Untitled.md",
+    "02-digital_garden/manga_list.md",
+    "00-raw/phone/Plants.md",
+    "Plant_greenhouse.md",
+    "00-raw/school/career stuff.md",
+    "00-raw/opleidingen.md",
+    "00-raw/autotheorie leer.md",
+    "00-raw/clippings/hack your brain with powerlifting.md",
+    "Thing mom.md",
+    "00-raw/stage school problem.md",
+    "00-raw/Drawing 2025-12-02 13.30.17.excalidraw.md",
+    "00-raw/phone/think.md",
+    "00-raw/phone/Vragen facebook it focus.md",
+    "00-raw/quotes.md",
+    "00-raw/phone/What.md",
+    "00-raw/phone/work_time.md",
+    "00-raw/phone/school_notes.md",
+    "00-raw/my_philosophy.md",
+    "static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg",
+    "static_files/IMG_20251121_144226_134.jpg",
+    "static_files/IMG_20251121_142806_592.jpg",
+    "static_files/IMG_20251121_142428_940.jpg",
+    "IMG_20251114_142822_694.jpg",
+    "IMG_20251114_143023_609.jpg",
+    "00-raw/Phone",
+    "Clippings"
+  ]
+}

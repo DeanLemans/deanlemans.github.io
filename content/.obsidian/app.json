@@ -1,0 +1,23 @@
+{
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "trashOption": "local",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "command-palette:open",
+    "editor:toggle-highlight",
+    "editor:insert-horizontal-rule",
+    "editor:toggle-bullet-list"
+  ],
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "static_files"
+}
