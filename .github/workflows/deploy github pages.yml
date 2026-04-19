@@ -41,7 +41,7 @@ jobs:
       - name: Force cache bust by touching any remaining files
         run: find public -type f -exec touch {} +
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
   deploy:
