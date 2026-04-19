@@ -1,16 +1,22 @@
 ---
-title:
-source: "https://actualwebsite.org/"
+title: This is an Actual Website
+source: https://actualwebsite.org/
 author:
   - "[[Matthew Graybosch]]"
 created: 2025-10-26
-description: "A less profane and non-Oedipal manifesto for a better World Wide Web"
+description: A less profane and non-Oedipal manifesto for a better World Wide Web
+tags:
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# This is an Actual Website
 
 ## Everything You Need
 

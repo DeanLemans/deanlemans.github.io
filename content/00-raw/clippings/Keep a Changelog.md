@@ -5,9 +5,18 @@ author:
 created: 2025-09-29
 description: Don’t let your friends dump git logs into changelogs.
 publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Keep a Changelog
+
+
 ### What is a Changelog?
 
 A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.

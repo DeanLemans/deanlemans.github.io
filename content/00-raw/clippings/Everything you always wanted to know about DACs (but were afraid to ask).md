@@ -7,9 +7,16 @@ author:
 created: 2025-09-29
 description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
 publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Everything you always wanted to know about DACs (but were afraid to ask)
 
 ![PL Diamond DAC from the front on hi-fi rack](https://cdn.mos.cms.futurecdn.net/EiqcGqpHPfALGsvAsrBDFf-1920-80.jpg.webp)
 

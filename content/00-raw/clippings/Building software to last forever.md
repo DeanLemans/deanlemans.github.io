@@ -1,15 +1,21 @@
 ---
-title:
-source: "https://herman.bearblog.dev/building-software-to-last-forever/"
+title: Building software to last forever
+source: https://herman.bearblog.dev/building-software-to-last-forever/
 author:
   - "[[Herman's blog]]"
 created: 2025-10-31
-description: "How Bear is going to live a long and healthy life"
+description: How Bear is going to live a long and healthy life
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# Building software to last forever
 
 I recently received the following email regarding [Bear](https://bearblog.dev/):
 

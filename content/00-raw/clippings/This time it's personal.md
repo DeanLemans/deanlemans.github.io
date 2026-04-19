@@ -1,15 +1,22 @@
 ---
-title: "This time it's personal"
-source: "https://sadgrl.online/posts/its-personal/"
+title: This time it's personal
+source: https://sadgrl.online/posts/its-personal/
 author:
 published:
 created: 2026-04-06
 description:
 tags:
-  - "clippings"
-publish: "true"
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
-This time it's personal
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# This time it's personal
+
 When I first created sadgrl.online, I focused on creating tutorials, templates, and essays about the internet. These things were useful, concrete, and not especially personal. I’ve always been more comfortable pointing the spotlight away from myself and towards anything else.
 
 I have people-pleasing tendencies - a habit of prioritizing others’ needs and expectations, often at the expense of my own wellbeing, authenticity, and boundaries. People pleasers tend to be extremely kind and compassionate people, but they also tend to be avoidant of conflict, are reluctant to say “no”, and make a habit of overextending themselves again and again.

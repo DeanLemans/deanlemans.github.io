@@ -6,10 +6,17 @@ author:
 created: 2025-09-29
 description:
 publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Developer Certificate of Origin
 
 The **Developer Certificate of Origin** (DCO) is a statement that a software developer agrees to, saying that "the contributor is allowed to make the contribution and that the project has the right to distribute it under its license." [^1] It was introduced in 2004 [^1] by the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation "Linux Foundation"), to enhance the submission process for software used in the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel"), shortly after the [SCO–Linux disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes "SCO–Linux disputes").[^2] [^3]
 

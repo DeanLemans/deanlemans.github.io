@@ -1,15 +1,22 @@
 ---
-title:
-source: "https://jsrn.net/make-your-own-website"
+title: Make your own website
+source: https://jsrn.net/make-your-own-website
 author:
   - "[[jsrn]]"
 created: 2025-10-26
-description: "I’ve been maintaining websites in some form for a long time now, and here’s why maybe you should at least think about it."
+description: I’ve been maintaining websites in some form for a long time now, and here’s why maybe you should at least think about it.
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# Make your own website
+
 
 I’ve been maintaining websites in some form for a long time now, and here’s why maybe you should at least think about it.
 

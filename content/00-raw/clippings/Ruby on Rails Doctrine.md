@@ -1,16 +1,20 @@
 ---
-title:
-source: "https://web.archive.org/web/20160325124504if_/http://rubyonrails.org/doctrine/"
+title: The Rails Doctrine
+source: https://web.archive.org/web/20160325124504if_/http://rubyonrails.org/doctrine/
 author:
 created: 2025-11-15
 description:
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-## The Rails Doctrine
+# The Rails Doctrine
 
 By David Heinemeier Hansson in January, 2016
 

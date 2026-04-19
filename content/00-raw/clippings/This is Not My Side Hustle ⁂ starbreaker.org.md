@@ -1,19 +1,21 @@
 ---
-title:
-source: "https://starbreaker.org/grimoire/entries/not-my-side-hustle/"
+title: This is Not My Side Hustle ⁂ starbreaker.org
+source: https://starbreaker.org/grimoire/entries/not-my-side-hustle/
 author:
   - "[[Matthew Cambion]]"
 created: 2025-10-26
-description: "I got an email from a guy who doesn’t understand why I’d run a website without trying to monetize it. My response became a manifesto. Oops."
+description: I got an email from a guy who doesn’t understand why I’d run a website without trying to monetize it. My response became a manifesto. Oops.
+tags:
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
----
-
----
+# This is Not My Side Hustle ⁂ starbreaker.org
 
 I didn’t intend for this to become a manifesto, but here you go.
 

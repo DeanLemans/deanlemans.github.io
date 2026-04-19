@@ -1,15 +1,18 @@
 ---
-title:
+title: zine - personal websites and the law
 source: https://avas.bearblog.dev/zine-law/
 author:
   - "[[ava's blog]]"
 created: 2025-10-31
 description: turned a submission into a zine.
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# zine - personal websites and the law
 
 In July, I wrote an article to submit to a project, but didn't hear back. So I decided to publish it as a zine.
 

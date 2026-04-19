@@ -1,15 +1,21 @@
 ---
-title:
-source: "https://www.eff.org/cyberspace-independence"
+title: A Declaration of the Independence of Cyberspace
+source: https://www.eff.org/cyberspace-independence
 author:
   - "[[Electronic Frontier Foundation]]"
 created: 2025-10-29
-description: "by John Perry Barlow Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.We have no elected..."
+description: by John Perry Barlow Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.We have no elected...
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# A Declaration of the Independence of Cyberspace
 
 ![John Perry Barlow portrait with Declaration text](https://www.eff.org/files/banner_library/barlow-og-cyberspace_0.jpg)
 

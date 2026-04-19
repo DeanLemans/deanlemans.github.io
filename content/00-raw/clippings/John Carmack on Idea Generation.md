@@ -1,14 +1,15 @@
 ---
-title: "John Carmack on Idea Generation"
-source: "https://amasad.me/carmack"
+title: John Carmack on Idea Generation
+source: https://amasad.me/carmack
 author:
-  - "amasad.me"
+  - amasad.me
 published:
 created: 2026-04-19
-description: "Last year at an internal talk at Facebook I was fortunate to see [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) speak about his idea generation system. At first I was disappointed because..."
+description: Last year at an internal talk at Facebook I was fortunate to see [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) speak about his idea generation system. At first I was disappointed because...
 tags:
-  - "clippings"
-publish: "true"
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

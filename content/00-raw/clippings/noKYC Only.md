@@ -1,18 +1,21 @@
 ---
-title:
-source: "https://bitcoiner.guide/nokyconly/"
+title: noKYC Only
+source: https://bitcoiner.guide/nokyconly/
 author:
   - "[[QnA]]"
 created: 2025-10-31
-description: "Avoid the creep"
+description: Avoid the creep
+modified: 2026-04-19
+publish: true
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-[Deutsch](https://bitcoiner.guide/nokyconly/de) | [Español](https://bitcoiner.guide/nokyconly/es) | [Français](https://bitcoiner.guide/nokyconly/fr) | [Italiano](https://bitcoiner.guide/nokyconly/it)  
-  
+# noKYC Only  
 
 KYC or ‘Know your customer’ is a regulation that any businesses with a banking relationship has to abide by. Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has ‘suitable’ information on every customer they serve.
 
