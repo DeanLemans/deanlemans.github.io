@@ -13,7 +13,7 @@ replit.nix
 quartz/cli/tui/dist/
 .quartz-cache
 #my mods
-docs
+docs/
 .stversions
 .stfolder
 .trash
