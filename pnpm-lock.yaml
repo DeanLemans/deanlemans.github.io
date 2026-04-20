@@ -22,7 +22,7 @@ importers:
         version: 0.1.22
       '@quartz-community/explorer':
         specifier: github:quartz-community/explorer
-        version: https://codeload.github.com/quartz-community/explorer/tar.gz/097066d3d37baac4d36b35dffbfc46fda6b2d16b(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+        version: https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       ansi-truncate:
         specifier: ^1.4.0
         version: 1.4.0
@@ -99,8 +99,8 @@ importers:
         specifier: ^6.0.3
         version: 6.0.3
       workerpool:
-        specifier: ^10.0.1
-        version: 10.0.1
+        specifier: ^10.0.2
+        version: 10.0.2
       ws:
         specifier: ^8.20.0
         version: 8.20.0
@@ -116,7 +116,7 @@ importers:
         version: https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
       '@quartz-community/utils':
         specifier: github:quartz-community/utils
-        version: https://codeload.github.com/quartz-community/utils/tar.gz/e17fc8d5f027eed1dfba1848ef1dd41633521558(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+        version: https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       '@types/hast':
         specifier: ^3.0.4
         version: 3.0.4
@@ -139,8 +139,8 @@ importers:
         specifier: ^0.27.7
         version: 0.27.7
       prettier:
-        specifier: ^3.8.2
-        version: 3.8.2
+        specifier: ^3.8.3
+        version: 3.8.3
       tsx:
         specifier: ^4.21.0
         version: 4.21.0
@@ -159,8 +159,8 @@ packages:
   '@clack/prompts@0.11.0':
     resolution: {integrity: sha512-pMN5FcrEw9hUkZA4f+zLlzivQSeQf5dRGJjSUbvVYDLvpKCdQx5OaknvKzgbtXOizhP+SJJJjqEbOe55uKKfAw==}
 
-  '@emnapi/runtime@1.9.2':
-    resolution: {integrity: sha512-3U4+MIWHImeyu1wnmVygh5WlgfYDtyf0k8AbLhMFxOipihf6nrWC4syIm/SwEeec0mNSafiiNnMJwbza/Is6Lw==}
+  '@emnapi/runtime@1.10.0':
+    resolution: {integrity: sha512-ewvYlk86xUoGI0zQRNq/mC+16R1QeDlKQy21Ki3oSYXNgLb45GV1P6A0M+/s6nyCuNDqe5VpaY84BzXGwVbwFA==}
 
   '@esbuild/aix-ppc64@0.27.7':
     resolution: {integrity: sha512-EKX3Qwmhz1eMdEJokhALr0YiD0lhQNwDqkPYyPhiSwKrh7/4KRjQc04sZ8db+5DVVnZ1LmbNDI1uAMPEUBnQPg==}
@@ -757,8 +757,8 @@ packages:
     resolution: {integrity: sha512-tmmZ3lQxAe/k/+rNnXQRawJ4NjxO2hqiOLTHvWchtGZULp4RyFeh6aU4XdOYBFe2KE1oShQTv4AblOs2iOrNnQ==}
     engines: {node: '>= 10.0.0'}
 
-  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/097066d3d37baac4d36b35dffbfc46fda6b2d16b':
-    resolution: {tarball: https://codeload.github.com/quartz-community/explorer/tar.gz/097066d3d37baac4d36b35dffbfc46fda6b2d16b}
+  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd':
+    resolution: {tarball: https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd}
     version: 0.1.0
     engines: {node: '>=22', npm: '>=10.9.2'}
     peerDependencies:
@@ -781,8 +781,8 @@ packages:
       vfile:
         optional: true
 
-  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/e17fc8d5f027eed1dfba1848ef1dd41633521558':
-    resolution: {tarball: https://codeload.github.com/quartz-community/utils/tar.gz/e17fc8d5f027eed1dfba1848ef1dd41633521558}
+  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c':
+    resolution: {tarball: https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c}
     version: 0.1.0
     engines: {node: '>=22', npm: '>=10.9.2'}
     peerDependencies:
@@ -1098,8 +1098,8 @@ packages:
     resolution: {integrity: sha512-sTSfBjoXBp89JvIKIefqw7U2CCebsc74kiY6awiGogKtoSGbgjYE/G/+l9sF3MWFPNc9IcoOC4ODfKHfxFmp0g==}
     engines: {node: '>= 0.4'}
 
-  get-tsconfig@4.13.7:
-    resolution: {integrity: sha512-7tN6rFgBlMgpBML5j8typ92BKFi2sFQvIdpAqLA2beia5avZDrMs0FLZiM5etShWq5irVyGcGMEA1jcDaK7A/Q==}
+  get-tsconfig@4.14.0:
+    resolution: {integrity: sha512-yTb+8DXzDREzgvYmh6s9vHsSVCHeC0G3PI5bEXNBHtmshPnO+S5O7qgLEOn0I5QvMy6kpZN8K1NKGyilLb93wA==}
 
   github-slugger@2.0.0:
     resolution: {integrity: sha512-IaOQ9puYtjrkq7Y0Ygl9KDZnrf/aiUJYUpVf89y8kyaxbRG7Y1SrX/jaumrv81vc61+kiMempujsM3Yw7w5qcw==}
@@ -1131,8 +1131,8 @@ packages:
     resolution: {integrity: sha512-NqADB8VjPFLM2V0VvHUewwwsw0ZWBaIdgo+ieHtK3hasLz4qeCRjYcqfB6AQrBggRKppKF8L52/VqdVsO47Dlw==}
     engines: {node: '>= 0.4'}
 
-  hasown@2.0.2:
-    resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
+  hasown@2.0.3:
+    resolution: {integrity: sha512-ej4AhfhfL2Q2zpMmLo7U1Uv9+PyhIZpgQLGT1F9miIGmiCJIoCgSmczFdrc97mWT4kVY72KA+WnnhJ5pghSvSg==}
     engines: {node: '>= 0.4'}
 
   hast-util-from-dom@5.0.1:
@@ -1499,8 +1499,8 @@ packages:
   preact@10.29.1:
     resolution: {integrity: sha512-gQCLc/vWroE8lIpleXtdJhTFDogTdZG9AjMUpVkDf2iTCNwYNWA+u16dL41TqUDJO4gm2IgrcMv3uTpjd4Pwmg==}
 
-  prettier@3.8.2:
-    resolution: {integrity: sha512-8c3mgTe0ASwWAJK+78dpviD+A8EqhndQPUBpNUIPt6+xWlIigCwfN01lWr9MAede4uqXGTEKeQWTvzb3vjia0Q==}
+  prettier@3.8.3:
+    resolution: {integrity: sha512-7igPTM53cGHMW8xWuVTydi2KO233VFiTNyF5hLJqpilHfmn8C8gPf+PS7dUT64YcXFbiMGZxS9pCSxL/Dxm/Jw==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1547,8 +1547,8 @@ packages:
   resolve-pkg-maps@1.0.0:
     resolution: {integrity: sha512-seS2Tj26TBVOC2NIc2rOe2y2ZO7efxITtLZcGSOnHHNOQ7CkiUBfw0Iw2ck6xkIhPwLhKNLS8BO+hEpngQlqzw==}
 
-  resolve@1.22.11:
-    resolution: {integrity: sha512-RfqAvLnMl313r7c9oclB1HhUEAezcpLjz95wFH4LVuhk9JF/r22qmVP9AMmOU4vMX7Q8pN8jwNg/CSpdFnMjTQ==}
+  resolve@1.22.12:
+    resolution: {integrity: sha512-TyeJ1zif53BPfHootBGwPRYT1RUt6oGWsaQr8UyZW/eAm9bKoijtvruSDEmZHm92CwS9nj7/fWttqPCgzep8CA==}
     engines: {node: '>= 0.4'}
     hasBin: true
 
@@ -1858,8 +1858,8 @@ packages:
     resolution: {integrity: sha512-LYfpUkmqwl0h9A2HL09Mms427Q1RZWuOHsukfVcKRq9q95iQxdw0ix1JQrqbcDR9PH1QDwf5Qo8OZb5lksZ8Xg==}
     engines: {node: '>= 0.4'}
 
-  workerpool@10.0.1:
-    resolution: {integrity: sha512-NAnKwZJxWlj/U1cp6ZkEtPE+GQY1S6KtOS3AlCiPfPFLxV3m64giSp7g2LsNJxzYCocDT7TSl+7T0sgrDp3KoQ==}
+  workerpool@10.0.2:
+    resolution: {integrity: sha512-8PCeZlCwu0+8hXruze1ahYNsY+M0LOCmbmySZ9BWWqWIXP9TAXa6FZCxACTDL/0j47pFcC4xW98Gr8nAC5oymg==}
 
   wrap-ansi@9.0.2:
     resolution: {integrity: sha512-42AtmgqjV+X1VpdOfyTGOYRi0/zsoLqtXQckTmqTeybT+BDIbM/Guxo7x3pE2vtpr1ok6xRqM9OpBe+Jyoqyww==}
@@ -1915,7 +1915,7 @@ snapshots:
       picocolors: 1.1.1
       sisteransi: 1.0.5
 
-  '@emnapi/runtime@1.9.2':
+  '@emnapi/runtime@1.10.0':
     dependencies:
       tslib: 2.8.1
     optional: true
@@ -2093,7 +2093,7 @@ snapshots:
 
   '@img/sharp-wasm32@0.34.5':
     dependencies:
-      '@emnapi/runtime': 1.9.2
+      '@emnapi/runtime': 1.10.0
     optional: true
 
   '@img/sharp-win32-arm64@0.34.5':
@@ -2301,10 +2301,10 @@ snapshots:
       '@parcel/watcher-win32-x64': 2.5.6
     optional: true
 
-  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/097066d3d37baac4d36b35dffbfc46fda6b2d16b(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
+  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
     dependencies:
       '@quartz-community/types': https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
-      '@quartz-community/utils': https://codeload.github.com/quartz-community/utils/tar.gz/e17fc8d5f027eed1dfba1848ef1dd41633521558(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+      '@quartz-community/utils': https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       preact: 10.29.1
     transitivePeerDependencies:
       - github-slugger
@@ -2317,7 +2317,7 @@ snapshots:
       unified: 11.0.5
       vfile: 6.0.3
 
-  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/e17fc8d5f027eed1dfba1848ef1dd41633521558(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
+  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
     dependencies:
       '@quartz-community/types': https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
       preact: 10.29.1
@@ -2534,7 +2534,7 @@ snapshots:
   esbuild-sass-plugin@3.7.0(esbuild@0.27.7)(sass-embedded@1.99.0):
     dependencies:
       esbuild: 0.27.7
-      resolve: 1.22.11
+      resolve: 1.22.12
       sass: 1.99.0
       sass-embedded: 1.99.0
 
@@ -2618,7 +2618,7 @@ snapshots:
       get-proto: 1.0.1
       gopd: 1.2.0
       has-symbols: 1.1.0
-      hasown: 2.0.2
+      hasown: 2.0.3
       math-intrinsics: 1.1.0
 
   get-proto@1.0.1:
@@ -2626,7 +2626,7 @@ snapshots:
       dunder-proto: 1.0.1
       es-object-atoms: 1.1.1
 
-  get-tsconfig@4.13.7:
+  get-tsconfig@4.14.0:
     dependencies:
       resolve-pkg-maps: 1.0.0
 
@@ -2659,7 +2659,7 @@ snapshots:
     dependencies:
       has-symbols: 1.1.0
 
-  hasown@2.0.2:
+  hasown@2.0.3:
     dependencies:
       function-bind: 1.1.2
 
@@ -2773,7 +2773,7 @@ snapshots:
 
   is-core-module@2.16.1:
     dependencies:
-      hasown: 2.0.2
+      hasown: 2.0.3
 
   is-decimal@2.0.1: {}
 
@@ -3165,7 +3165,7 @@ snapshots:
 
   preact@10.29.1: {}
 
-  prettier@3.8.2: {}
+  prettier@3.8.3: {}
 
   pretty-bytes@7.1.0: {}
 
@@ -3210,8 +3210,9 @@ snapshots:
 
   resolve-pkg-maps@1.0.0: {}
 
-  resolve@1.22.11:
+  resolve@1.22.12:
     dependencies:
+      es-errors: 1.3.0
       is-core-module: 2.16.1
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
@@ -3468,7 +3469,7 @@ snapshots:
   tsx@4.21.0:
     dependencies:
       esbuild: 0.27.7
-      get-tsconfig: 4.13.7
+      get-tsconfig: 4.14.0
     optionalDependencies:
       fsevents: 2.3.3
 
@@ -3556,7 +3557,7 @@ snapshots:
       gopd: 1.2.0
       has-tostringtag: 1.0.2
 
-  workerpool@10.0.1: {}
+  workerpool@10.0.2: {}
 
   wrap-ansi@9.0.2:
     dependencies:
