@@ -16,7 +16,7 @@ configuration:
     - .obsidian
     - .trash
     - static_files/templates
-    - 00-raw #temporary patch, waiting for author to create better fix
+    - 00-raw
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -68,7 +68,7 @@ plugins:
     options:
       comments: true
       highlight: true
-      wikilinks: true
+      wikilinks: false
       callouts: true
       mermaid: true
       parseTags: true
@@ -135,7 +135,7 @@ plugins:
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
@@ -160,7 +160,8 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [exclude]
+        removeTags:
+          - exclude
         showTags: true
         enableRadial: false
       globalGraph:
@@ -173,10 +174,14 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [exclude]
+        removeTags:
+          - exclude
         showTags: true
         focusOnHover: true
         enableRadial: true
+      layout:
+      position: afterBody
+      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -188,7 +193,7 @@ plugins:
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 30
   - source: github:quartz-community/article-title
     enabled: true
