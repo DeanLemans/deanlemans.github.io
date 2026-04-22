@@ -2,13 +2,13 @@
 title: Alternative Shells
 tags:
   - clippings
-source: "https://purarue.xyz/x/notes/programming/languages/shell/alternative_shells/"
+source: https://purarue.xyz/x/notes/programming/languages/shell/alternative_shells/
 published:
-publish: "true"
-modified: 2026-04-18
-description: "Alternative Shells"
+modified: 2026-04-19
+description: Alternative Shells
 created: 2026-04-19
 author:
+publish: true
 ---
 
 > [!danger] NOT MINE

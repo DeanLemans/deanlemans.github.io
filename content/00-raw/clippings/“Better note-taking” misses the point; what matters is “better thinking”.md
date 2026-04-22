@@ -1,15 +1,21 @@
 ---
-title:
-source: "https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb"
+title: “Better note-taking” misses the point; what matters is “better thinking”
+source: https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb
 author:
   - "[[Andyʼs working notes]]"
 created: 2025-10-24
 description:
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# “Better note-taking” misses the point; what matters is “better thinking”
 
 Lots of people write about solutions to the problem that [Note-writing practices are generally ineffective](https://notes.andymatuschak.org/zDfV5GX8kKScLkE8Dq1rFUk). The vast majority of that writing fixates on a myopic, “lifehacking”-type frame, focused on answering questions like: “how should I organize my notes?”, “what kind of journal should I use?”, “how can I make it easy to capture snippets of things I read?”, etc.
 

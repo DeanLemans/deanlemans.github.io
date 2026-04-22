@@ -4,6 +4,10 @@ source: https://jeffhuang.com/designed_to_last/
 author:
 created: 2025-10-31
 description:
+tags:
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

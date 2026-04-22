@@ -1,14 +1,14 @@
 ---
-title: "Dean's Vanlife Research"
+title: Dean's Vanlife Research
 tags:
   - research
   - vanlilfe
-publish: true
-modified: 2026-04-10
+publish: false
+modified: 2026-04-22
 draft: "true"
 created: 2026-03-17
 aliases:
-  - "Dean's Vanlife Research"
+  - Dean's Vanlife Research
 ---
 d
 # Dean's Vanlife Research

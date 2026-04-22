@@ -1,14 +1,20 @@
 ---
-title:
-source: "https://unixdigest.com/articles/the-proper-design-process-in-web-development.html"
+title: The proper design process in web development
+source: https://unixdigest.com/articles/the-proper-design-process-in-web-development.html
 author:
 created: 2025-11-04
 description:
+tags:
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# The proper design process in web development
 
 Published on . Modified on 2023-11-09.
 

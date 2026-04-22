@@ -1,16 +1,22 @@
 ---
-title: "Sigils and occult symbols"
-source: "https://ritualdust.com/folklore/sigils/"
+title: Sigils and occult symbols
+source: https://ritualdust.com/folklore/sigils/
 author:
-  - "Ritual dust"
+  - Ritual dust
 published:
 created: 2026-04-06
-description: "My ongoing research and work with sigils"
+description: My ongoing research and work with sigils
 tags:
-  - "clippings"
-publish: "true"
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
-Sigils and occult symbols
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Sigils and occult symbols
 ## What are sigils
 
 A sigil, in it’s simplest form is a type of symbol used in a magical or ritual practice. The term sigil derives from the Latin *sigillum*, meaning “seal” which becomes clear when looking at the seals in the Key of Solomon for example. They are used in a wide array of occult traditions from ceremonial magic, chaos magic, witchcraft, Thelema and Golden Dawn amongst others. I’m even inclined to see runes and [Icelandic staves](http://www.galdrastafir.com/) as some kinds of sigils in the way they were drawn and used. Runes are more than letters and refer to larger ideas and were used as magical signs and to write spells <sup><a href="https://ritualdust.com/folklore/sigils/#links-and-references" aria-label="1">1</a> </sup> .

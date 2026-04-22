@@ -1,15 +1,24 @@
 ---
-title: "Mossariums’ How To Guide"
-source: "https://www.reddit.com/r/Mossariums/comments/s0yjcu/mossariums_how_to_guide/"
+title: Mossariums’ How To Guide
+source: https://www.reddit.com/r/Mossariums/comments/s0yjcu/mossariums_how_to_guide/
 author:
-  - "xhysics"
+  - xhysics
 published: 2022-01-11
 created: 2026-03-15
 description:
 tags:
-  - "clippings"
-publish: "true"
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
+> [!danger] NOT MINE  
+> This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Mossariums’ How To Guide
+
+
 The [r/Mossariums](https://www.reddit.com/r/Mossariums/) guide covers these topics:
 
 I. How To Build Mossariums

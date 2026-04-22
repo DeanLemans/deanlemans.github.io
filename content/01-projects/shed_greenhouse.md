@@ -4,7 +4,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-04-18
+modified: 2026-04-22
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project
@@ -23,7 +23,7 @@ aliases:
 
 currently have a shed, where im going to be growing plants.
 
-what im going to be making/growing:
+what i'm going to be making/growing:
 - terrariums(priority1)
 - moss(priority1)
 - succulents(priority2)
@@ -31,36 +31,55 @@ what im going to be making/growing:
 
 currently have 2 rudimentary greenhouses
 
-i live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-hardiness-zone-map-celsius.php), netherlands
+I live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-hardiness-zone-map-celsius.php), Netherlands
 
 ---
 
 ## current tasks
 
-- [x] buy hygrometer ✅ 2026-03-19
-- [x] thermometer ✅ 2026-03-19
-
-- [ ] misting system
-  - [x] i placed a water bucket under it ✅ 2026-03-19
-
 - [ ] heating pad/heat pipes
 
-- [ ] grow lamps or LED lamps
+- [ ] misting system
+  - [x] placed a water bucket under it ✅ 2026-03-19
+
+- [ ] fan
+	- [ ] buy
+	- [ ] install
+
+- [ ] control system for automatic adjustment
+	- [ ] research
+
+- [ ] hygrometer
+	- [x] rudimentary hygrometer ✅ 2026-03-19
+		- [x] buy ✅ 2026-03-19
+		- [x] install ✅ 2026-03-19
+	- [ ] electric hygrometer
+
+- [ ] thermometer
+	- [ ] electric thermometer
+	- [x] rudimentary thermometer ✅ 2026-03-19
+		- [x] buy ✅ 2026-03-17
+		- [x] install ✅ 2026-03-19
+
+- [x] grow lamps or LED lamps ✅ 2026-04-22 [i bought these](https://www.123led.nl/Sylvania-LED-Batten-60-cm-incl-lamp-4000K-920-lumen-8W-i18838.html)
   - [x] weak lamps(insufficient) ✅ 2026-03-19
 
-- [ ] timer for switching off electricity
+- [x] timer for switching off electricity ✅ 2026-04-10
 
 ---
 
 ## progress
 
 # 2026-04-15
+
 finnaly got the led lights i wanted, (need to paste link here)
 
 # 2026-04-06
-had a very nice talk with a coworker of mine that is and was(?) really into growing specific rare plants, and such he knows how to build a terrarium, i was apperently researching in the wrong way with the thing im building now, i was researching greenhouses and reverse engineering then when i should have looked at the paledarium side of thiings, knowing how to build and and knowing what techniques go in there
+
+had a very nice talk with a coworker of mine that is and was(?) really into growing specific rare plants, and such he knows how to build a terrarium, i was apparently researching in the wrong way with the thing im building now, i was researching greenhouses and reverse engineering then when i should have looked at the paledarium side of thiings, knowing how to build and and knowing what techniques go in there
 
 # 2026-04-02
+
 finnaly bought timed switches that turn on at 08:00 and turn off at 20:00.
 the lamps are still to weak so i need to buy better ones
 

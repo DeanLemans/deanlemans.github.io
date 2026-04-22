@@ -1,17 +1,22 @@
 ---
-title:
-source: "https://starbreaker.org/testament/index.html"
+title: testament ⁂ starbreaker.org
+source: https://starbreaker.org/testament/index.html
 author:
   - "[[Matthew Cambion]]"
 created: 2025-10-26
-description: "it might not be legally binding, but this is what I want done with my website after I die"
+description: it might not be legally binding, but this is what I want done with my website after I die
+modified: 2026-04-19
+publish: true
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
----
 
 ---
+
+# testament ⁂ starbreaker.org
 
 I might be dead when you read this, whether tomorrow, in a decade, or perhaps even a century. I have no intention of going until I’m [killed by death](https://www.youtube.com/watch?v=LZ5fIKmn1ok "Motörhead – Killed By Death (Official Video)"), and if the corporate-owned media reports my demise as a suicide, they’re lying. But if [Neil Gaiman](https://starbreaker.org/grimoire/entries/neil-gaiman/index.html "an alleged rapist") is right, Death is a lady, and the lady will do as she pleases and come for me in her own sweet time.
 

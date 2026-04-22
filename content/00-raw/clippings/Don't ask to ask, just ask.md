@@ -1,14 +1,20 @@
 ---
-title:
-source: "https://dontasktoask.com/"
+title: Don't ask to ask, just ask
+source: https://dontasktoask.com/
 author:
 created: 2025-11-15
 description:
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# Don't ask to ask, just ask
 
 Every now and then, in online chat rooms I hang around in, someone pops in and says something in the lines of,
 

@@ -1,15 +1,21 @@
 ---
-title:
-source: "https://herman.bearblog.dev/manifesto/"
+title: The Bear Manifesto
+source: https://herman.bearblog.dev/manifesto/
 author:
   - "[[Herman's blog]]"
 created: 2025-10-31
-description: "An outline of my philosophy and direction for the platform"
+description: An outline of my philosophy and direction for the platform
+tags:
+  - clippings
+modified: 2026-04-19
+publish: true
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# The Bear Manifesto
 
 Given recent events in the blogging space (hello to all Cohost and Wordpress refugees), I wanted to take a moment to share my vision and commitments for Bear.
 

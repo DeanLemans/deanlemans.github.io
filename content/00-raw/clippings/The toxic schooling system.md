@@ -1,15 +1,20 @@
 ---
-title: "The Schooling system is shit"
-source: "https://digdeeper.club/articles/school.xhtml"
+title: The Schooling system is shit
+source: https://digdeeper.club/articles/school.xhtml
 author:
 created: 2025-10-24
 description:
+tags:
+  - clippings
+modified: 2026-04-19
 ---
 
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
+# The Schooling system is shit
 
 ## Introduction
 

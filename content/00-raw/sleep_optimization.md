@@ -1,9 +1,10 @@
 ---
 title: Sleep Optimization
-modified: 2026-03-28
+modified: 2026-04-22
 created: 2026-03-21
 aliases:
   - sleep_optimization
+publish: true
 ---
 
 # Sleep Optimization

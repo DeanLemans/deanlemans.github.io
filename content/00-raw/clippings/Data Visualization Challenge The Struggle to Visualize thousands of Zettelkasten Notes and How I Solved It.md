@@ -1,17 +1,21 @@
 ---
-title:
-source: "https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/"
+title: Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It
+source: https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/
 author:
   - "[[Wasi's Log]]"
 created: 2025-11-16
-description: "My Obsidian vault had grown beyond 6,000 notes, and opening the graph view became a frustrating chore. I wanted to explore the connections without waiting for it to catch up. By converting all my notes to JSON, generating metadata and link CSVs, and loading them into Cosmograph, I could finally pan, zoom, and explore my…"
+description: My Obsidian vault had grown beyond 6,000 notes, and opening the graph view became a frustrating chore. I wanted to explore the connections without waiting for it to catch up. By converting all my notes to JSON, generating metadata and link CSVs, and loading them into Cosmograph, I could finally pan, zoom, and explore my…
+publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-Written in
+# Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It
 
 When I started taking [Zettelkasten](https://zettelkasten.de/) notes in Obsidian, I never thought about scale. I just kept writing, linking, and letting the ideas grow. I initially kept all my work and personal notes together. All the notes on parenting, hobbies, personal projects, study, client projects, document on small nuances, design decisions, fragments of architectural studies, and reflections on engineering problems in one place. The notes helps me a lot, it makes me productive.
 

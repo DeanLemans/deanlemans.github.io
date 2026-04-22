@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-18
+modified: 2026-04-20
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -13,7 +13,7 @@ alias_sugestion: My Bookmarks
 
 # Random Web Resources
 
-for featured personal sites see: [external_sites](<./external_sites.md>)
+for featured personal sites [click here: Blogroll](<./external_sites.md>)
 
 cool projects or articles or services i like and sometimes use/make use of
 
@@ -26,7 +26,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Accrescent Blog](https://blog.accrescent.app/)
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
-- [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
@@ -49,7 +48,6 @@ cool projects or articles or services i like and sometimes use/make use of
 
 ### Writing, knowledge
 
-- [Thus Spoke Zarathustra - Wikiquote](https://en.wikiquote.org/wiki/Thus_Spoke_Zarathustra)
 - [_A Pattern Language_](https://patternlanguage.cc/README)
 - [Garden of Learning : Juha-Matti Santala](https://notes.hamatti.org/)
 - [Digital Gardening with Quartz](https://be-far.com/Projects/Obsidian/digital-garden)
@@ -59,7 +57,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Based Cooking](https://based.cooking/)
 - [Musopen](https://musopen.org/)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
-- [play these games](https://www.reddit.com/r/yumenikki/comments/1fttgsc/since_some_people_wanted_me_to_share_my_ynfg/)
 
 ### Indie web
 
@@ -99,8 +96,12 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Wiby](https://wiby.org/)
 - [Freenet](https://freenet.org/)
 - [Krita Artists](https://krita-artists.org/)
-- [.flow](http://lolrust.site/game/dotflow/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
+
+### Games
+
+> [!info]
+> for games see my [Game List](<./game_list.md>)
 
 ### Utilities, infrastructure tools
 
@@ -110,6 +111,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [fed.brid.gy](https://fed.brid.gy/)
 - [Chattable](https://iframe.chat/)
 - [Server Part Deals](https://serverpartdeals.com/)
+- [mostr.pub](https://mostr.pub/)
 
 ### Discovery, dev utilities
 
@@ -126,9 +128,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Server Part Deals](https://serverpartdeals.com/)
 - [retro swap](https://retoswap.com/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
-- [Purgatory Memories fear](https://memoriesoffear.jcink.net/index.php?showtopic=68)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
-- [super cool pirate wiki](https://wiki.dbzer0.com/piracy/megathread/)
-- [Fabric of the Universe | clothes](https://www.fabricoftheuniverse.com/en-nl/collections/all)
+- [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
 - <https://amsterdam.craigslist.org/>
 - [uxn](https://100r.co/site/uxn.html)

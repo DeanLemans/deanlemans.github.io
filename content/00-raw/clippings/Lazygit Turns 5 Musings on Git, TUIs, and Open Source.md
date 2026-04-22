@@ -6,9 +6,18 @@ author:
 created: 2025-09-29
 description:
 publish: true
+modified: 2026-04-19
+tags:
+  - clippings
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
+
+---
+
+# Lazygit Turns 5 Musings on Git, TUIs, and Open Source
+
+
 
 ![](https://jesseduffield.com/images/posts/lazygit-5/basic-gif.gif)
 

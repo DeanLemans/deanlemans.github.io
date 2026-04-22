@@ -1,14 +1,15 @@
 ---
-title: "The Universal Genre Savvy Guide"
-source: "https://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TheUniversalGenreSavvyGuide"
+title: The Universal Genre Savvy Guide
+source: https://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TheUniversalGenreSavvyGuide
 author:
-  - "Contributors to TV Tropes (aka Tropers)"
+  - Contributors to TV Tropes (aka Tropers)
 published: 2012-04-18
 created: 2026-04-19
 description: "A page for describing JustForFun: Universal Genre Savvy Guide. Why should the Evil Overlord have all the Genre Savvy knowledge? Anyone can figure out what to …"
 tags:
-  - "clippings"
-publish: "true"
+  - clippings
+publish: true
+modified: 2026-04-19
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
@@ -16,6 +17,7 @@ publish: "true"
 ---
 
 # The Universal Genre Savvy Guide
+
 *"Isaac Clarke is basically the character who does everything we keep yelling at people in horror films to do. He has a suit of armor that he never takes off, he uses convenient high-powered cutting tools to carve his initials into slime monsters, and he never speaks, because he knows his dialogue would have to come from the same God-awful script that all the other sods are using."*
 
 Why should the [Evil Overlord](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord "/pmwiki/pmwiki.php/Main/EvilOverlord") have all the [Genre Savvy](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy "/pmwiki/pmwiki.php/Main/GenreSavvy") [knowledge](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList "/pmwiki/pmwiki.php/Main/EvilOverlordList")? Anyone can figure out what to do, depending on what kind of fiction they are in, and what kind of character they are.
