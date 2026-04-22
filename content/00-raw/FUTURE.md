@@ -1,7 +1,7 @@
 ---
 title: FUTURE
-modified: 2026-04-20
-description: things and stuff i still/want to do
+modified: 2026-04-22
+description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:
   - FUTURE
@@ -29,7 +29,7 @@ something that confronts me, changlnese me
 - [ ] Research: Solitary confinement⏬
 - [ ] Research: Drunken fist⏬
 - [ ] Research: alternative wifi networks⏬
-- [ ] Research: prebiotics 🔽 
+- [ ] Research: prebiotics 🔽
 - [ ] Research: Herbal smoking [How To Craft Your Own Herbal Smoking Blends](https://theherbalacademy.com/blog/herbal-smoking-blends/)⏬
 - [ ] Research: [Dual Licensing](https://duallicensing.com/)⏬
 - [ ] i need to search through to my notes and add more internal links.⏬
