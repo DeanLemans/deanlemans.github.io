@@ -22,7 +22,7 @@ importers:
         version: 0.1.22
       '@quartz-community/explorer':
         specifier: github:quartz-community/explorer
-        version: https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+        version: https://codeload.github.com/quartz-community/explorer/tar.gz/039576f5b2353f34c771a658d76500970a4ec10f(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       ansi-truncate:
         specifier: ^1.4.0
         version: 1.4.0
@@ -116,7 +116,7 @@ importers:
         version: https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
       '@quartz-community/utils':
         specifier: github:quartz-community/utils
-        version: https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+        version: https://codeload.github.com/quartz-community/utils/tar.gz/7a43501ac1c728e8a7bfa75db35e8791bfa1f41c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       '@types/hast':
         specifier: ^3.0.4
         version: 3.0.4
@@ -757,8 +757,8 @@ packages:
     resolution: {integrity: sha512-tmmZ3lQxAe/k/+rNnXQRawJ4NjxO2hqiOLTHvWchtGZULp4RyFeh6aU4XdOYBFe2KE1oShQTv4AblOs2iOrNnQ==}
     engines: {node: '>= 10.0.0'}
 
-  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd':
-    resolution: {tarball: https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd}
+  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/039576f5b2353f34c771a658d76500970a4ec10f':
+    resolution: {tarball: https://codeload.github.com/quartz-community/explorer/tar.gz/039576f5b2353f34c771a658d76500970a4ec10f}
     version: 0.1.0
     engines: {node: '>=22', npm: '>=10.9.2'}
     peerDependencies:
@@ -781,8 +781,8 @@ packages:
       vfile:
         optional: true
 
-  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c':
-    resolution: {tarball: https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c}
+  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/7a43501ac1c728e8a7bfa75db35e8791bfa1f41c':
+    resolution: {tarball: https://codeload.github.com/quartz-community/utils/tar.gz/7a43501ac1c728e8a7bfa75db35e8791bfa1f41c}
     version: 0.1.0
     engines: {node: '>=22', npm: '>=10.9.2'}
     peerDependencies:
@@ -2301,10 +2301,10 @@ snapshots:
       '@parcel/watcher-win32-x64': 2.5.6
     optional: true
 
-  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/377297006e725a2f3f173cf5822b61424a6fefdd(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
+  '@quartz-community/explorer@https://codeload.github.com/quartz-community/explorer/tar.gz/039576f5b2353f34c771a658d76500970a4ec10f(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
     dependencies:
       '@quartz-community/types': https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
-      '@quartz-community/utils': https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
+      '@quartz-community/utils': https://codeload.github.com/quartz-community/utils/tar.gz/7a43501ac1c728e8a7bfa75db35e8791bfa1f41c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)
       preact: 10.29.1
     transitivePeerDependencies:
       - github-slugger
@@ -2317,7 +2317,7 @@ snapshots:
       unified: 11.0.5
       vfile: 6.0.3
 
-  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/83f824b0ad495ae24b7f3524dd2049da76d24c2c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
+  '@quartz-community/utils@https://codeload.github.com/quartz-community/utils/tar.gz/7a43501ac1c728e8a7bfa75db35e8791bfa1f41c(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6)(preact@10.29.1)(unified@11.0.5)(vfile@6.0.3)':
     dependencies:
       '@quartz-community/types': https://codeload.github.com/quartz-community/types/tar.gz/d342893db8240099cfd9d4499996333f1ca636b4(unified@11.0.5)(vfile@6.0.3)
       preact: 10.29.1
