@@ -8,101 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6812479da66f7144",
+            "id": "b142cfe991076c05",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/mail opstellen leerbedrijf.md",
+                "file": "leerbedrijf mail.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "mail opstellen leerbedrijf"
+              "title": "leerbedrijf mail"
             }
           },
           {
-            "id": "04a9b6bc5cdda7b9",
+            "id": "c5dec9f41613a9a4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/FUTURE.md",
+                "file": "00-raw/phone/leerbedrijf_glastuinbouw.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "FUTURE"
+              "title": "leerbedrijf_glastuinbouw"
             }
           },
           {
-            "id": "14a21ef1aadfdc8c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-raw/quotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "quotes"
-            }
-          },
-          {
-            "id": "6ecae3629fe5093f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-digital_garden/external_sites.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "external_sites"
-            }
-          },
-          {
-            "id": "c1468b68b3a27723",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-digital_garden/web_resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "web_resources"
-            }
-          },
-          {
-            "id": "f526baf9dd1697df",
+            "id": "3477ec88036e51c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+                "file": "01-projects/shed_greenhouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "“Better note-taking” misses the point; what matters is “better thinking”"
+              "title": "shed_greenhouse"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antifragile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+                "file": "01-projects/shed_greenhouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for “Better note-taking” misses the point; what matters is “better thinking”"
+              "title": "Backlinks for shed_greenhouse"
             }
           },
           {
@@ -228,34 +180,34 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f526baf9dd1697df",
+  "active": "3477ec88036e51c3",
   "lastOpenFiles": [
-    "00-raw/clippings/8 Things to know about vanlife in the Netherlands.md",
-    "00-raw/clippings/A Declaration of the Independence of Cyberspace.md",
-    "00-raw/clippings/A system to organise your life.md",
-    "00-raw/clippings/about nownownow.com.md",
-    "00-raw/clippings/Alternative Shells.md",
-    "00-raw/clippings/Building software to last forever.md",
-    "00-raw/clippings/Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It.md",
-    "00-raw/clippings/delightful off-grid open tech.md",
-    "00-raw/clippings/Developer Certificate of Origin - Wikipedia.md",
-    "00-raw/clippings/Don't ask to ask, just ask.md",
-    "00-raw/clippings/Evergreen notes.md",
-    "00-raw/clippings/Everything you always wanted to know about DACs (but were afraid to ask).md",
-    "00-raw/clippings/Evil Overlord List.md",
-    "00-raw/clippings/Git Subtree Alternative to Git Submodule  Atlassian Git Tutorial.md",
-    "00-raw/clippings/index.md",
-    "00-raw/clippings/John Carmack on Idea Generation.md",
-    "00-raw/clippings/Keep a Changelog.md",
-    "00-raw/clippings/Lazygit Turns 5 Musings on Git, TUIs, and Open Source.md",
-    "00-raw/clippings/Make your own website.md",
-    "00-raw/clippings/Mossariums’ How To Guide.md",
-    "00-raw/clippings/noKYC Only.md",
-    "00-raw/clippings/OAuth for the Open Web.md",
-    "00-raw/clippings/On the Capacity, Performance, and Reliability of microSD Cards.md",
-    "00-raw/clippings/Ruby on Rails Doctrine.md",
-    "00-raw/clippings/Sigils and occult symbols.md",
-    "00-raw/clippings/sketch your mind conference.md",
+    "00-raw/phone/leerbedrijf_glastuinbouw.md",
+    "00-raw/FUTURE.md",
+    "leerbedrijf mail.md",
+    "01-projects/create_plant_terrarium.md",
+    "01-projects/shed_greenhouse.md",
+    "01-projects/vanlife_research.md",
+    "01-projects/Research-Bali.md",
+    "01-projects/my_suplement_stack.md",
+    "00-raw/quotes.md",
+    "00-raw/price_calculating_garden_maintence.md",
+    "00-raw/IT plan van aanpak.md",
+    "00-raw/subconscious.md",
+    "00-raw/rymes_and_poems.md",
+    "00-raw/self host stuff.md",
+    "00-raw/prompt.md",
+    "00-raw/sleep_optimization.md",
+    "00-raw/there_are_stars_inside_me.md",
+    "00-raw/backup_rule.md",
+    "00-raw/best_vid_edit_for_me.md",
+    "00-raw/car_engine.md",
+    "00-raw/chapters_i_like.md",
+    "00-raw/cv_gardening.md",
+    "00-raw/cv_software.md",
+    "00-raw/index.md",
+    "00-raw/manifesto_of_power.md",
+    "02-digital_garden/external_sites.md",
     "03-blog",
     "static_files/IMG_20260317_232154_349.jpg",
     "static_files/IMG_20260317_232205_257.jpg",
