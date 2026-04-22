@@ -1,12 +1,12 @@
 ---
 title: Rymes and Poems
 tags:
-  - exclude
-modified: 2026-04-11
+modified: 2026-04-22
 draft: "true"
 created: 2026-02-02
 aliases:
   - rymes_and_poems
+publish: true
 ---
 
 # Rymes and Poems

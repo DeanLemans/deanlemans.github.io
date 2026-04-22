@@ -1,9 +1,8 @@
 ---
 title: price calculating garden maintence
 tags:
-  - exclude
   - green
-modified: 2026-03-30
+modified: 2026-04-22
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence

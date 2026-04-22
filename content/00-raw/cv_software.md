@@ -1,7 +1,7 @@
 ---
 title: CV Software
-publish: false
-modified: 2026-03-28
+publish: true
+modified: 2026-04-22
 created: 2025-09-25
 ---
 

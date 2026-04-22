@@ -2,8 +2,8 @@
 title: Quotes
 tags:
   - exclude
-publish: false
-modified: 2026-03-28
+publish: true
+modified: 2026-04-22
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
 aliases:

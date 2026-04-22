@@ -1,11 +1,10 @@
 ---
 unlisted: true
-publish: true
 title: 00 Raw
-tags: 
+tags:
   - exclude
 publish: true
-modified: 2026-04-18
+modified: 2026-04-22
 created: 2026-04-11
 ---
 
