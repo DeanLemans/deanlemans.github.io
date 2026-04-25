@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-20
+modified: 2026-04-23
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -54,6 +54,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [superorganizers.substack.com](https://superorganizers.substack.com/p/how-to-build-a-learning-machine###)
 - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
 - [freedom of the press foundation](https://freedom.press/)
+- [nasa-jpl-memex.github.io](https://nasa-jpl-memex.github.io/)
 - [Based Cooking](https://based.cooking/)
 - [Musopen](https://musopen.org/)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
@@ -112,14 +113,19 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Chattable](https://iframe.chat/)
 - [Server Part Deals](https://serverpartdeals.com/)
 - [mostr.pub](https://mostr.pub/)
+- <https://ingredientmd.com/>
 
 ### Discovery, dev utilities
 
 - [Virgil Game Search](https://virgil.samidy.com/Game-search/)
 - [F-Hub](https://f-hub.org/)
+- [quittified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
 - [Radicle](https://radicle.xyz/)
+- [blogroll.org](https://blogroll.org/)
+- [The Wayward Webring](https://waywardweb.org/)
 - [oxipng](https://github.com/shssoichiro/oxipng)
 - [GitAds Documentation](https://docs.gitads.dev/)
+- [learn-anything.xyz](https://learn-anything.xyz/agile-development)
 
 ### misc
 
