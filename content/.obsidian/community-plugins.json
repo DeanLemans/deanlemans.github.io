@@ -13,5 +13,7 @@
   "backlink-cache",
   "external-rename-handler",
   "better-markdown-links",
-  "smart-rename"
+  "smart-rename",
+  "nldates-obsidian",
+  "obsidian-auto-link-title"
 ]
