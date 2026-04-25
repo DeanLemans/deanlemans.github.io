@@ -1,6 +1,6 @@
 ---
 title: leerbedrijf mail
-modified: 2026-04-22
+modified: 2026-04-23
 created: 2026-04-22
 ---
 
@@ -22,7 +22,7 @@ ik heb besloten om niet verder te gaan met de hovenier opleiding omdat ik niet w
 ik ben zelf bezig met een kas te maken, ik hou het project bij op mijn site:
 <https://deanlemans.github.io/01-projects/shed_greenhouse>
 
-aan jullie zou ik graag vragen of ik een keer op sollicitatie mag of mag meelopen voor 1 dag, om te kijken of jullie bij mij passen (en ik bij jullie tuurlijk)
+aan jullie zou ik graag vragen of ik een keer op sollicitatie mag of mag meelopen voor 1 dag, om te kijken of jullie bij mij passen (en ik bij jullie)
 
 vriendelijke groet,
 
