@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-04-23
+modified: 2026-04-27
 created: 2026-03-17
 aliases:
   - blogroll
@@ -26,6 +26,7 @@ alias_sugestion: Cool Personal sites
 - [Kiri Artemis](https://expiredpopsicle.com/)
 - [THE CALLOUS ETERNAL](https://gnawdraw.neocities.org/)
 - [Dave Rupert](https://daverupert.com/)
+- [Xe Iaso](https://xeiaso.net/signalboost/)
 - [ang's corner!](https://angs-corner.nekoweb.org/)
 - [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site/)
 - [World Wide Website](https://oyaswmi.net/)

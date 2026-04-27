@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-23
+modified: 2026-04-27
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -80,11 +80,10 @@ cool projects or articles or services i like and sometimes use/make use of
 ### Open source, licensing, and standards
 
 - [Document Liberation Project](https://www.documentliberation.org/)
-- [Open Source Seed Initiative](https://osseeds.org/)
 - [Open source plants seeds](https://osseeds.org/)
-- [switching.software](https://switching.software/)
+- [microformats](https://microformats.org/)
 - [switching software](https://switching.software/replace/)
-- [Awesome Search](https://awesomelists.top/#/)
+- [Awesome Search](https://awesomelists.top/)
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Can I license my project with an open-source license but disallow commercial use?](<https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but> disallow commercial use)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
