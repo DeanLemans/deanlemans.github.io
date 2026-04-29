@@ -19,5 +19,6 @@
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "static_files"
+  "attachmentFolderPath": "static_files",
+  "readableLineLength": false
 }
