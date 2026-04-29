@@ -5,7 +5,7 @@
     "shortDelaySeconds": 5,
     "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": null,
+    "defaultStartupType": "instant",
     "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
@@ -73,6 +73,12 @@
         "startupType": "instant"
       },
       "smart-rename": {
+        "startupType": "instant"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "instant"
+      },
+      "nldates-obsidian": {
         "startupType": "instant"
       }
     }

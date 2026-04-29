@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/phone/pastebin_phone.md",
+                "file": "00-raw/phone/Godot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pastebin_phone"
+              "title": "Godot"
             }
           }
         ],
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-raw/phone/pastebin_phone.md",
+            "file": "00-raw/phone/Godot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,15 +216,17 @@
   },
   "active": "64a1e67987c639ce",
   "lastOpenFiles": [
+    "00-raw/phone/Godot.md",
+    "00-raw/chapters_i_like.md",
+    "00-raw/phone/Paste-web.md",
+    "00-raw/phone/pastebin_phone.md",
     "00-raw/phone/leerbedrijf_glastuinbouw.md",
+    "02-digital_garden/external_sites.md",
     "00-raw/phone/New school notes.md",
     "00-raw/phone/subconsious_phone.md",
-    "02-digital_garden/external_sites.md",
-    "00-raw/phone/pastebin_phone.md",
     "00-raw/phone/Think about my future education.md",
     "00-raw/phone/Ego.md",
     "00-raw/phone/Flickering flame.md",
-    "00-raw/phone/Untitled.md",
     "02-digital_garden/manga_list.md",
     "00-raw/phone/Plants.md",
     "Plant_greenhouse.md",
@@ -240,8 +242,6 @@
     "00-raw/quotes.md",
     "00-raw/phone/What.md",
     "00-raw/phone/work_time.md",
-    "00-raw/phone/school_notes.md",
-    "00-raw/my_philosophy.md",
     "static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg",
     "static_files/IMG_20251121_144226_134.jpg",
     "static_files/IMG_20251121_142806_592.jpg",

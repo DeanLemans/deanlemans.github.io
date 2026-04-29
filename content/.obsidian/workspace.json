@@ -10,17 +10,15 @@
           {
             "id": "b142cfe991076c05",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leerbedrijf mail.md",
+                "file": "00-raw/clippings/testament ⁂ starbreaker.org.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "leerbedrijf mail"
+              "title": "testament ⁂ starbreaker.org"
             }
           },
           {
@@ -45,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-digital_garden/external_sites.md",
+                "file": "00-raw/phone/leerbedrijf_glastuinbouw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "external_sites"
+              "title": "leerbedrijf_glastuinbouw"
             }
           },
           {
@@ -59,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-digital_garden/web_resources.md",
+                "file": "02-digital_garden/book_list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web_resources"
+              "title": "book_list"
             }
           }
         ]
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leerbedrijf mail.md",
+                "file": "00-raw/clippings/testament ⁂ starbreaker.org.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for leerbedrijf mail"
+              "title": "Backlinks for testament ⁂ starbreaker.org"
             }
           },
           {
@@ -171,6 +169,16 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "7702b92665e3810b",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
           }
         ],
         "currentTab": 2
@@ -195,34 +203,35 @@
   },
   "active": "b142cfe991076c05",
   "lastOpenFiles": [
-    "00-raw/phone/leerbedrijf_glastuinbouw.md",
+    "00-raw/clippings/testament ⁂ starbreaker.org.md",
+    "00-raw/clippings/testament ⁂ starbreaker.org.md",
+    "00-raw/clippings/when i die.md",
     "02-digital_garden/external_sites.md",
-    "02-digital_garden/web_resources.md",
-    "02-digital_garden/game_list.md",
-    "02-digital_garden/book_list.md",
-    "00-raw/FUTURE.md",
-    "01-projects/shed_greenhouse.md",
     "leerbedrijf mail.md",
+    "00-raw/phone/leerbedrijf_glastuinbouw.md",
+    "00-raw/dump/self host stuff.md",
+    "00-raw/dump/power.md",
+    "00-raw/sleep_optimization.md",
+    "00-raw/subconscious.md",
+    "00-raw/there_are_stars_inside_me.md",
+    "00-raw/dump/old.md",
+    "00-raw/dump/godot-platformer.md",
+    "00-raw/dump/web_PointNClick.md",
+    "00-raw/dump/trajectory.md",
+    "00-raw/dump/streisand_effect.md",
+    "00-raw/dump/work_time.md",
+    "00-raw/dump/Destiny.md",
+    "00-raw/dump/career stuff.md",
+    "00-raw/dump/blueprint.md",
+    "00-raw/dump/Discipline.md",
+    "00-raw/dump/picture_walk.md",
+    "00-raw/dump/index.md",
+    "00-raw/dump/greenhouse_reddit.md",
+    "00-raw/dump/fleeting.md",
+    "index.md",
+    "02-deans_library",
     "static_files/CV-DeanLemans.sdr/metadata.pdf.lua",
     "static_files/CV-DeanLemans.sdr",
-    "01-projects/create_plant_terrarium.md",
-    "01-projects/vanlife_research.md",
-    "01-projects/Research-Bali.md",
-    "01-projects/my_suplement_stack.md",
-    "00-raw/quotes.md",
-    "00-raw/price_calculating_garden_maintence.md",
-    "00-raw/IT plan van aanpak.md",
-    "00-raw/subconscious.md",
-    "00-raw/rymes_and_poems.md",
-    "00-raw/self host stuff.md",
-    "00-raw/prompt.md",
-    "00-raw/sleep_optimization.md",
-    "00-raw/there_are_stars_inside_me.md",
-    "00-raw/backup_rule.md",
-    "00-raw/best_vid_edit_for_me.md",
-    "00-raw/car_engine.md",
-    "00-raw/chapters_i_like.md",
-    "00-raw/cv_gardening.md",
     "03-blog",
     "static_files/IMG_20260317_232154_349.jpg",
     "static_files/IMG_20260317_232205_257.jpg",
@@ -233,7 +242,6 @@
     "skumsoft.ltd/slimenet",
     "skumsoft.ltd",
     "00-raw/dump",
-    "00-raw/unfinished",
     "static_files/208660042.jpg",
     "static_files/62875923.jpg",
     "static_files/40121378.jpg",
