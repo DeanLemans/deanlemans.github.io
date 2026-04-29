@@ -1,18 +1,17 @@
 ---
-title: testament ⁂ starbreaker.org
-source: https://starbreaker.org/testament/index.html
+title: "testament ⁂ starbreaker.org"
+source: "https://starbreaker.org/testament/index.html"
 author:
-  - "[[Matthew Cambion]]"
-created: 2025-10-26
-description: it might not be legally binding, but this is what I want done with my website after I die
-modified: 2026-04-19
-publish: true
+  - "Matthew Cambion"
+published: 2020-05-29
+created: 2026-04-29
+description: "it might not be legally binding, but this is what I want done with my website after I die"
 tags:
-  - clippings
+  - "clippings"
+publish: "true"
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!
-
 
 ---
 
@@ -26,7 +25,7 @@ Death in Neil Gaiman’s The Sandman, art by Mike Dringenberg
 
 Seriously, though: since I don’t know when I’ll be obliged to make my exit, there are a few things I’d like known.
 
-- [**starbreaker.org**](https://starbreaker.org/index.html) is currently hosted on [Nearly Free Speech](https://nearlyfreespeech.net/).
+- is currently hosted on [Nearly Free Speech](https://nearlyfreespeech.net/).
 - If practical, I will attempt to set up a trust that will keep the site online after my death.
 - My wife [**Catherine Gatt**](https://catherinegatt.com/) will get access to all of my online accounts when my time comes. I hope she’ll still care enough about me to find some way to preserve and disseminate my work.
 - I mean to write my own farewell post as a “draft” and create a target in my website’s makefile that will copy my swan song into the appropriate directory, build the website, and upload it. Then again, this "testament" page might suffice for the purpose.
@@ -42,11 +41,3 @@ If you must acknowledge my departure, here’s how I want you to do it: Don’t 
 Do everything I’m no longer around to do. Do everything I didn’t have the balls or the chance to do. Don’t just live large, live *loud*. Maybe I’ll even hear you in the depths of Tartarus.
 
 Then again, I might be busy getting to know some of the most interesting people in history. I could give Socrates shit for drinking that hemlock, for starters, and see if Nefertiti and Cleopatra really were all that. Maybe I’ll see what Tallulah Bankhead thinks of writers who *do* know how to spell ‘fuck’. Maybe talk math with Hypatia and Pythagoras, or pass some time kicking the likes of Hitler, Mussolini, Stalin, Mao, and Kissinger in the nuts — assuming the millions they’d murdered had already had their turn; if not, I can wait because for me it would be principle, but for them it’s *personal*. Hell, I could ask Marcus Aurelius what thinks of all the techbros masturbating to his Meditations, though I suspect he’d take that in stride. And I know just what to ask Fred Phelps: [Where is your God *now*, asshole?](https://knowyourmeme.com/memes/where-is-your-god-now)
-
-## Credit
-
-This page was inspired by a post on [Ava’s Blog](https://avas.bearblog.dev/) called [plans for your blog after you die](https://avas.bearblog.dev/blog-after-death/).
-
----
-
----
