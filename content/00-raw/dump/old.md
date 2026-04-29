@@ -1,11 +1,15 @@
 ---
-publish: 
+title: Old
+publish: true
+modified: 2026-04-29
 created: 2023-06-21
-modified: 2026-02-10
+aliases:
+  - old
 ---
 
-> [!NOTE] my first ever note
+# Old
 
+> [!NOTE] my first ever note
 
 the beginning of cohesiveness
 the beginning of structure
@@ -16,9 +20,8 @@ to forge myself
 
 ---
 
-
 ---
-[knowledge_vs_intelligence](<./knowledge_vs_intelligence.md>)
+
 Knowledge is a form of awareness or familiarity. It is often understood as awareness of facts or as practical skills, and may also mean familiarity with objects or situations.
 
 Intelligence is the knowing of things
@@ -36,6 +39,7 @@ related: book smart note taking/idea for thinking/second brain
 Simply said, its a system for thinkeing
 
 ---
+
 Need to make a comparison between extensialism, nihlism, absurdirsm
 
 (absurdism
@@ -65,5 +69,3 @@ what is a atomic note?
 (Concept oriented notes?)
 
 ---
-
-

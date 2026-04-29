@@ -1,12 +1,13 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-04-27
+modified: 2026-04-29
 created: 2026-03-17
 aliases:
   - blogroll
   - Cool Personal sites
   - Cool Personal sites!
+  - external_sites
 alias_sugestion: Cool Personal sites
 ---
 
@@ -57,11 +58,13 @@ alias_sugestion: Cool Personal sites
 - [Ignited In Dark – Against The Dominant Idea](https://ignitedindark.wordpress.com/)
 - [Melanie Sumner](https://melsumner.github.io/)
 - [The Traveling Gardener](https://thetravelinggardener.com/)
+- [ava's blog](https://avas.bearblog.dev/)
 - [Welcome to the party!](https://insidetheflesh.nekoweb.org)
 - [woof](https://cannibalcat.club/)
 - [Welcome to my blog ^_^](https://blog.zoy.sh/)
 - [VoracityVoracity](https://voracity.nexus/)
 - [Death Grips](https://thirdworlds.net/)
+- [Are you sure you remember the way out?](https://vaje.neocities.org)
 - [Aaron Parecki](https://aaronparecki.com/)
 - [Jason Textfiles](https://textfiles.com/jason/)
 - [paveloom.dev](https://paveloom.dev/)

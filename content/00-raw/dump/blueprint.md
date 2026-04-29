@@ -1,9 +1,16 @@
 ---
-publish: false
-title: Blueprint
-modified: 2026-03-17
+title: Blueprint - Bryan Johnson
+publish: true
+modified: 2026-04-29
 created: 2026-03-17
+aliases:
+  - blueprint
+  - Blueprint
+tags:
+  - health
 ---
+
+# Blueprint - Bryan Johnson
 
 [Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol)
 Bryan Johnson's Blueprint Protocol is a data‑driven anti‑aging routine.

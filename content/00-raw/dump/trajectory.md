@@ -1,8 +1,8 @@
 ---
-publish: false
+publish: true
 title: Trajectory
 created: 2025-07-25
-modified: 2026-04-18
+modified: 2026-04-29
 aliases: Trajectory
 ---
 

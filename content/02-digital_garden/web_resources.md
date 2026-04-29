@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-27
+modified: 2026-04-29
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -13,7 +13,7 @@ alias_sugestion: My Bookmarks
 
 # Random Web Resources
 
-for featured personal sites [click here: Blogroll](<./external_sites.md>)
+for featured personal sites [click here: Blogroll](<./personal_sites.md>)
 
 cool projects or articles or services i like and sometimes use/make use of
 
@@ -26,7 +26,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Accrescent Blog](https://blog.accrescent.app/)
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
-- [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 ### Game dev
@@ -38,13 +37,16 @@ cool projects or articles or services i like and sometimes use/make use of
 - [FreeGameDev.net Forums](https://freegamedev.net/)
 - [OpenGameArt.org](https://opengameart.org/content/faq)
 - [Libregamewiki](https://libregamewiki.org/)
+- [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 
 ### Privacy
 
 - [Find KYC-free Services](https://kycnot.me/)
+- [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [Monero Marketplace](https://xmrbazaar.com/)
 - [eigenwallet | Monero wallet](https://eigenwallet.org/)
 - [Secluso](https://secluso.com/)
+- [reto swap](https://retoswap.com/)
 
 ### Writing, knowledge
 
@@ -58,13 +60,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Based Cooking](https://based.cooking/)
 - [Musopen](https://musopen.org/)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
-
-### Indie web
-
-- [web0 manifesto](https://web0.small-web.org/)
-- [IndieWeb](https://indieweb.org/)
-- [Open Home Foundation](https://www.openhomefoundation.org/)
-- <https://marginalia-search.com/>
 
 ### Linux, infrastructure
 
@@ -85,18 +80,19 @@ cool projects or articles or services i like and sometimes use/make use of
 - [switching software](https://switching.software/replace/)
 - [Awesome Search](https://awesomelists.top/)
 - [Conventional Commits](https://www.conventionalcommits.org/)
-- [Can I license my project with an open-source license but disallow commercial use?](<https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but> disallow commercial use)
+- [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 
 ### Experimental, artistic web
 
 - [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
-- [Are you sure you remember the way out?](https://vaje.neocities.org/)
+- [Are you sure you remember the way out?](/)
 - [MelonLand Project](https://melonland.net/)
 - [Wiby](https://wiby.org/)
+- [Internet Sacred Text Archive](https://sacred-texts.com/)
 - [Freenet](https://freenet.org/)
 - [Krita Artists](https://krita-artists.org/)
-- [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
+- [Libris Adepti](https://librisadepti.com/)
 
 ### Games
 
@@ -118,7 +114,8 @@ cool projects or articles or services i like and sometimes use/make use of
 
 - [Virgil Game Search](https://virgil.samidy.com/Game-search/)
 - [F-Hub](https://f-hub.org/)
-- [quittified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
+- [quantified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
+- [Marginalia Search](https://marginalia-search.com/)
 - [Radicle](https://radicle.xyz/)
 - [blogroll.org](https://blogroll.org/)
 - [The Wayward Webring](https://waywardweb.org/)
@@ -129,11 +126,10 @@ cool projects or articles or services i like and sometimes use/make use of
 ### misc
 
 - [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
-- [Accrescent Blog](https://blog.accrescent.app/)
-- [Server Part Deals](https://serverpartdeals.com/)
-- [retro swap](https://retoswap.com/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
-- [FitGirl Repacks](https://fitgirl-repacks.site/)
-- [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
-- <https://amsterdam.craigslist.org/>
+- [craigslist: Amsterdam](https://amsterdam.craigslist.org)
 - [uxn](https://100r.co/site/uxn.html)
+- [web0 manifesto](https://web0.small-web.org/)
+- [IndieWeb](https://indieweb.org/)
+- [Open Home Foundation](https://www.openhomefoundation.org/)
+- [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
