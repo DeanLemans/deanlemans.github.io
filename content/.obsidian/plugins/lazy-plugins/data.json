@@ -80,6 +80,9 @@
       },
       "nldates-obsidian": {
         "startupType": "instant"
+      },
+      "obsidian42-strange-new-worlds": {
+        "startupType": "instant"
       }
     }
   }
