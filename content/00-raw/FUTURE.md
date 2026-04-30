@@ -1,6 +1,6 @@
 ---
 title: FUTURE
-modified: 2026-04-22
+modified: 2026-04-23
 description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:
@@ -12,6 +12,7 @@ aliases:
 something that confronts me, changlnese me
 
 - [ ] Buy: American bully dog⏬
+- [ ] Buy: [warlike-howling-pure](https://contagionpress.com/books/warlike-howling-pure/
 - [ ] Buy: high quality Stress toyf⏬
 - [ ] Buy: Epson Ecotank (printer)⏬
 - [ ] Buy: Airfilter⏬

@@ -1,7 +1,7 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-04-18
+modified: 2026-04-29
 description: Dean's Personal Site
 created: 2025-09-25
 aliases:
@@ -13,7 +13,7 @@ aliases:
 
 # Dean Lemans
 
-## Plant Lover & Open Source Enthusiast
+## Green and Tech
 
 <div style="text-align:center;">
   <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
@@ -21,25 +21,20 @@ aliases:
 
 ## About Me
 
-- **Gardener:** Focused on maintenance and greenhouses.
-- **Software Development:** using [Godot](https://godotengine.org/) and creating Static Sites.
+- **Green:** Garden maintence, and trying to get into plant growing.
+- **Tech:** using [Godot](https://godotengine.org/), creating Static Sites, fixing computers and phones.
 - Passionate about computers, plants, and [open source](https://opensource.org/osd).
 
 ## Tools & Technologies
 
-- [ ] need to completely rework my tools/skills stuff, mabaey split into separate page?, also the cv pages
-- [ ] remove the cv pages text and merge in 1 pdf? larger issue of portofolio
-
-- Software
+- Tech
 	- **Operating Systems:** [cachyOS](https://cachyos.org/), [GrapheneOS](https://grapheneos.org/)
-	- **Game Engine:** [Godot](https://godotengine.org/)
 	- **IDE:** [Zed](https://zed.dev/)
-	- **Misc:** Git, codeberg, github
-- Green stuff
+	- **Misc:** Git, codeberg, GitHub
+- Green
 	- Greenhouses
-	- Moss
 	- Terrariums
-	- Garden Maintence
+	- Garden Maintenance
 
 ## Interests
 
@@ -50,10 +45,14 @@ aliases:
 - Open Source
 - Indie Web
 
+> [!info] Current main Project
+> - [Greenhouse Project](<./01-projects/shed_greenhouse.md>)
+
 > [!info] Collections
-> - [Book Library](02-deans_library/index.md)
+> - [Book Library](<./02-digital_garden/book_list.md>)
 > - [Game Library](<./02-digital_garden/game_list.md>)
 > - [Vault Rules](<./vault_rules.md>)
+> - [Manga List](<./02-digital_garden/manga_list.md>)
 
 > [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**

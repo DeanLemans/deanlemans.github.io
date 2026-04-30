@@ -5,6 +5,7 @@ tags:
 publish: true
 modified: 2026-03-27
 created: 2026-02-02
+description: education problem research
 aliases:
   - On a better education
 ---

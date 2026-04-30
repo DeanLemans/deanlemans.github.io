@@ -1,18 +1,21 @@
 ---
-publish: false
-title: Godot Platformer
-description: first game made in godot
-created: 2025-09-25
-modified: 2026-03-17
+title: My First Godot Game
 tags:
   - finished
   - gamedev
+publish: false
+modified: 2026-04-29
+description: first game made in godot
+created: 2025-09-25
+aliases:
+  - godot platformer
+  - godot-platformer
 ---
+
+# My First Godot Game
 
 > [!info]- Made with:
 > [Godot 4.3](https://godotengine.org/download/archive/4.3-stable/)
-
-## My First Godot Game
 
 ```
 > This is my very first godot game so I'm quite proud of what I accomplished
@@ -25,4 +28,4 @@ tags:
 
 > [!info]
 > - [Download](https://github.com/DeanLemans/2d-platformer-godot/releases) the game.
-> - [Source Code](https://github.com/DeanLemans/2d-platformer-godot)
+> - [Source Code](https://github.com/DeanLemans/sintlucas-school-projects/tree/2D-platformer)

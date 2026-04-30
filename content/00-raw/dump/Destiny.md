@@ -1,15 +1,16 @@
 ---
-publish: false
 title: Destiny
-modified: 2026-03-17
+publish: true
+modified: 2026-04-29
 created: 2026-03-17
 ---
+
+# Destiny
 
 the path is not yet walked upon
 that which was meant to happen
 Things were always meant too happen.
 The path not walked upon
-[My 1](<./rough/My 1.md>)
 Destiny the the endgoal of fat, fate is the road we walk.
 
 # Fatalism

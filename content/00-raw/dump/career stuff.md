@@ -1,5 +1,8 @@
 ---
-modified: 2026-02-05
+title: career stuff
+modified: 2026-04-29
+created: 2026-04-22
+publish: true
 ---
 
 # career stuff
@@ -8,7 +11,6 @@ modified: 2026-02-05
 2. bos en natuur beheer: BBL/BOL, velp en roermond
 3. eco en wildlife: BOL geldermalsen en velp
 4. Toegepaste biologie: BOL, aalsmeer, tilburg, heerlen, velp
-
 
 [now](<../../now.md>)
 [trajectory](<./trajectory.md>)

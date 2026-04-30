@@ -1,13 +1,14 @@
 ---
-title: fleeting
-description: i need to integrate this into my vault. sum random shit in here
-modified: 2026-03-17
+title: Fleeting
 publish: false
+modified: 2026-04-29
+description: i need to integrate this into my vault. sum random shit in here
 created: 2026-03-17
-aliases: fleeting
+aliases:
+  - fleeting
 ---
 
-# fleeting
+# Fleeting
 
 ---
 
