@@ -1,9 +1,9 @@
 ---
 title: Death of Me
-modified: 2026-04-29
-draft: "true"
+modified: 2026-04-30
 description: what will happen to this site when I die?
 created: 2026-04-29
+publish:
 ---
 
 # Death of Me
@@ -21,10 +21,10 @@ i was/am 18 as of writhing this, i wrote the fist draft of this on 29 April 2026
 
 ## what will happen to this site and its contents when i die?
 
-idfk man, almost no one in my family is that tech savvy to know this/know what specific tools i use, the *[usage](<../vault_rules.md>)* of this vault/site of mine is documented, but what will happen to it? idk, i want to maybe turn this into a PKM for future, but there are a lot of personal thought stored in here, so i can perhaps separate/silo them off? try to make people also use this site? further contribute to it? that seems cool, but i dont want this to become a goddamn wikipedia type site, if people take inspiration; sure!, great even. but please dont turn it into some damn community project, except if that community is the family, if that concept(family) even survives in the future. if it doesnt: then the thing closest to that i guess.(family is not always blood)
+idfk man, almost no one in my family is that tech savvy to know this/know what specific tools i use, the *[usage](<../vault_rules.md>)* of this vault/site of mine is documented, but what will happen to it? idk, i want to maybe turn this into a PKM for future, but there are a lot of personal thought stored in here, so i can perhaps separate/silo them off? try to make people also use this site? further contribute to it? that seems cool, but i don't want this to become a goddamn Wikipedia type site, if people take inspiration; sure!, great even. but dont turn it into some damn community project, except if that community is the family, if that concept(family) even survives in the future. if it doesn't: then the thing closest to that i guess.(family is not always blood)
 
- i do have this site backuped to multiple sources ( [github](https://github.com/DeanLemans/deanlemans.github.io/), [codeberg](https://codeberg.org/DeanLemans/deanlemans.github.io), [neocities](https://deann.neocities.org/), [radicle](https://radicle.network/nodes/iris.radicle.xyz/rad%3Az2K9bJ1S1wZTkWE9FWq8uN8dDfTUw), [internet archive](https://web.archive.org/web/https://deanlemans.github.io/) ), bc im not some fucking idiot that doesnt know about DMCA, being canceled, or other stupid shit like that, also no servives are guaranteet to survive forever, so i saved mine in multiple open source/decentralized/archive locations. im not my dad that relies on godamn google to managa that for him.
-(hopefully obsidian will open source itself, or im switching to emacs or smth similair)
+ i do have this site backup-ed to multiple sources ( [github](https://github.com/DeanLemans/deanlemans.github.io/), [codeberg](https://codeberg.org/DeanLemans/deanlemans.github.io), [neocities](https://deann.neocities.org/), [radicle](https://radicle.network/nodes/iris.radicle.xyz/rad%3Az2K9bJ1S1wZTkWE9FWq8uN8dDfTUw), [internet archive](https://web.archive.org/web/https://deanlemans.github.io/) ), bc im not some fucking idiot that doesn't know about DMCA, being cancelled, or other stupid shit like that, also no servives are guarantee to survive forever, so i saved mine in multiple open source/decentralised/archive locations. I'm not my dad that relies on godamn google to managa that for him.
+(hopefully obsidian will open source itself, or I'm switching to Emacs or smth similar)
 
 ## on death
 
@@ -35,17 +35,17 @@ if i die before any of the cool shit, then just fucking freeze me i guess? seems
 
 ## so what if it happens?
 
-well then im death, seems kinda shitty though. but you cant code events, you can plat for them however, so:
-- someone must inherit my master password for my crypto and passwordmanager, i haven't done this yet, because im lazy.
+well then I'm death, seems kinda shitty though. but you cant code events, you can plat for them however, so:
+- someone must inherit my master password for my crypto and password-manager, i haven't done this yet, because I'm lazy.
 - if i die before i can sort this site out for inheritance/reading then hopefully someone will do that?(pretty peace, wouldn't want to trample on the wish of on death man would you?)
-	- if this is sorted out, then; have fun! hopefully you get something out of this, some divine or abyssal inspiration to change yourself or/and the world, and to contribute something to here for future generation(i hope at least, i plan to not make this just a 'the great Dean' generation thing) but dont be burdend if you wont/cant, after all; i'm death!, (srs, dont stress about it)
+	- if this is sorted out, then; have fun! hopefully you get something out of this, some divine or abyssal inspiration to change yourself or/and the world, and to contribute something to here for future generation(i hope at least, i plan to not make this just a 'the great Dean' generation thing) but don't be burdend if you wont/cant, after all; i'm death!, (srs, dont stress about it)
 - i think there was a site where you set your state to alive or death(or have a loved one change that), it was its only task of that site. need to find it though and register on it
 - find the instructions on how to write and structure on this site(if i ever get around to writhing that)
 
 ## any advise?
 
 on what? the site? see above.
-for life?, hmmm, be hater, be hated, love somone, experience things, be the most egotistical shitbag that ever existed, be the spit in gods eye, be the balm of healing for the weak and broken, be the savior of the fucking world if you want to become that(seems like to much effort for me though)
+for life?, hmmm, be a hater, be hated, love someone, experience things, be the most egotistical shitbag that ever existed, be the spit in gods eye, be the healing balm for the weak and broken, be the savior of the fucking world if you want to become that(seems like to much effort for me though)
 idk how its going in that hopefully future where i still exist, but listen to people, be open to listen at least, even if you hate them, dietest them, or love them. listen to peoples words and meaning behind those words, break them apart and use them for yourself. for me its been 'NO god, NO masters, NO idols' and maybe you dont want to believe in that, i would think of you as stupid, but i would also acknowledge that not all people think/believe/are the same(or just not as amazing as me).
 bit of a ramble but that's my advise for those who came by this piece (hopefully never death) of mine.
 
