@@ -1,10 +1,12 @@
 ---
 title: IT ondernemings plan
 publish: false
-modified: 2026-03-28
+modified: 2026-04-30
 created: 2026-03-17
 aliases:
   - IT ondernemings plan
+tags:
+  - research
 ---
 
 # IT ondernemings plan

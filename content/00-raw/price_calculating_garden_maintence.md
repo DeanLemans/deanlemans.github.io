@@ -2,7 +2,8 @@
 title: price calculating garden maintence
 tags:
   - green
-modified: 2026-04-22
+  - research
+modified: 2026-04-30
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence
