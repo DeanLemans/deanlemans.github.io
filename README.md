@@ -28,5 +28,5 @@ need to add it to the below forges:
 
 ---
 ## Licensing Notice
-- **Content:** The text content in the `content/` folder is licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-- **Everything else:** MIT License
+- **Content:** Everything in the `content/` folder is licensed under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), except where otherwise noted.
+- **The Code:** MIT License
