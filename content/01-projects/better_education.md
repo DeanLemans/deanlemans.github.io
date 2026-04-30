@@ -3,7 +3,7 @@ title: On a better education
 tags:
   - research
 publish: true
-modified: 2026-03-27
+modified: 2026-04-30
 created: 2026-02-02
 description: education problem research
 aliases:
@@ -28,8 +28,8 @@ Teach
 	Learning how to learn
 	The love/want to learn
 	Practical feedback
-	 practical knowledge (how the real world functions)
-	Teachers as mentors, not just repeaters of information
+	 practical knowledge (how things function in the real world functions)
+	Teachers as mentors, not just empty of repeaters
 	Multi disciplinary teaching
 
 Inspiration/sources

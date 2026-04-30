@@ -1,15 +1,14 @@
 ---
 title: /now
-publish: true
-modified: 2026-03-28
+publish: false
+modified: 2026-04-30
 created: 2026-03-17
 aliases:
-  - 
+  -
 ---
 
 # /now
-placeholder
-f
+
 [create_plant_terrarium](<./01-projects/create_plant_terrarium.md>)
 [how_to_grow_moss](<./01-projects/how_to_grow_moss.md>)
 [shed_greenhouse](<./01-projects/shed_greenhouse.md>)

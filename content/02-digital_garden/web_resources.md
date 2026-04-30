@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-29
+modified: 2026-04-30
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -19,7 +19,7 @@ cool projects or articles or services i like and sometimes use/make use of
 
 ---
 
-### Developer tools
+## Developer tools
 
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
 - [Boot.dev](http://boot.dev)
@@ -28,7 +28,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
-### Game dev
+## Game dev
 
 - [Godot game engine](https://godotengine.org/)
 - [freelancegamedevs.com](https://www.freelancegamedevs.com/)
@@ -39,7 +39,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Libregamewiki](https://libregamewiki.org/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 
-### Privacy
+## Privacy
 
 - [Find KYC-free Services](https://kycnot.me/)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
@@ -48,7 +48,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Secluso](https://secluso.com/)
 - [reto swap](https://retoswap.com/)
 
-### Writing, knowledge
+## Writing, knowledge
 
 - [_A Pattern Language_](https://patternlanguage.cc/README)
 - [Garden of Learning : Juha-Matti Santala](https://notes.hamatti.org/)
@@ -61,7 +61,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Musopen](https://musopen.org/)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
 
-### Linux, infrastructure
+## Linux, infrastructure
 
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
 - [all things linux](https://atl.wiki/)
@@ -72,7 +72,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Zola](https://www.getzola.org/)
 - [11ty](https://www.11ty.dev/)
 
-### Open source, licensing, and standards
+## Open source, licensing, and standards
 
 - [Document Liberation Project](https://www.documentliberation.org/)
 - [Open source plants seeds](https://osseeds.org/)
@@ -83,7 +83,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 
-### Experimental, artistic web
+## Experimental, artistic web
 
 - [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
 - [Are you sure you remember the way out?](/)
@@ -94,12 +94,12 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Krita Artists](https://krita-artists.org/)
 - [Libris Adepti](https://librisadepti.com/)
 
-### Games
+## Games
 
 > [!info]
 > for games see my [Game List](<./game_list.md>)
 
-### Utilities, infrastructure tools
+## Utilities, infrastructure tools
 
 - [create good images](https://www.imgflo.org/)
 - [Zotero](https://www.zotero.org/)
@@ -110,7 +110,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [mostr.pub](https://mostr.pub/)
 - <https://ingredientmd.com/>
 
-### Discovery, dev utilities
+## Discovery, dev utilities
 
 - [Virgil Game Search](https://virgil.samidy.com/Game-search/)
 - [F-Hub](https://f-hub.org/)
@@ -123,7 +123,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [GitAds Documentation](https://docs.gitads.dev/)
 - [learn-anything.xyz](https://learn-anything.xyz/agile-development)
 
-### misc
+## misc
 
 - [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
@@ -133,3 +133,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [IndieWeb](https://indieweb.org/)
 - [Open Home Foundation](https://www.openhomefoundation.org/)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
+
+### references/inspiration
+
+[freemediaheckyeah](https://fmhy.net/)

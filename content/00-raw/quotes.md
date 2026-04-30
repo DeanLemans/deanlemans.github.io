@@ -3,7 +3,7 @@ title: Quotes
 tags:
   - exclude
 publish: true
-modified: 2026-04-22
+modified: 2026-04-30
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
 aliases:
@@ -22,6 +22,8 @@ i dont agree wholy with everything in here, still need to prune a bit
 
 ---
 
+> You great star, what would your happiness be had you not those for whom you shine?
+
 > - Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
 > - Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.
 > Old Corollary always was a presumptuous kid.
@@ -30,7 +32,6 @@ i dont agree wholy with everything in here, still need to prune a bit
 > - Footnote, The Rescuer: Being a philosopher, I can't afford to resolve everything in a couple of paragraphs, so I resort to hierachial reductionism...or some such anachronism (notice my fondness for words I can't pronounce). At a fundamental level, everything can be explained in principle by physical laws, notwithstanding the Uncertainty Principle. Still, one can try to explain stuff at higher hierachial levels. For instance, I can try to explain human behaviour on the basis of behavioural patterns, analogies and edifying assumptions, rather than interactions between neurons in the brain. Phew! For a moment there, I thought I was out of a pastime.
 
 > "Volwasenen willen liever done alsof wij het niet snappen waarover zij het hebben."
-Man locked out of his smart house"
 
 > "We (can) only trust in our own causes"
 
@@ -58,6 +59,8 @@ Man locked out of his smart house"
 > Anarchism, which is the natural liberty of the individual freed from the odious yoke of spiritual and material rulers, is not the construction of a new and suffocating society.' It is a decisive fight against all societies-christian, democratic, socialist, communist, etc., etc.
 
 > Anarchism is the eternal struggle of a small minority of aristocratic outsiders against all societies which follow one another on the stage of history."
+
+> The fall of our footsteps ringeth too hollow through their streets. And just as at night, when they are in bed and hear a man abroad long before sunrise, so they ask themselves concerning us: Where goeth the thief? Go not to men, but stay in the forest! Go rather to the animals! Why not be like mea bear amongst bears, a bird amongst birds?" "And what doeth the saint in the forest?" asked Zarathustra. The saint answered: "I make hymns and sing them; and in making hymns I laugh and weep and mumble: thus do I praise God. With singing, weeping, laughing, and mumbling do I praise the God who is my God."
 
 > 'If a behavior is insufficient in any of the four stages, it will not become a habit, Eliminate the cue and your habit will never start.
 > Reduce the craving and you won't experience enough motivation to act.
@@ -103,7 +106,7 @@ Man locked out of his smart house"
 > "Keep your inner child alive."
 
 > "Listen to the child inside of you, but don't always follow it"
->
+
 > "Absorb what is useful. Discard what is not. Add what is uniquely your own."
 
 > "Life isn't about finding yourself. Life is about creating yourself."
@@ -119,10 +122,9 @@ Man locked out of his smart house"
 
 > Who I once was Is not who I am now, do not hold on to things you are not anymore for it is in my nature to always change, this does not always happen on the same scale but however you change it is still important.
 
-masquerade protocol
-Contingency Bleak
+> masquerade protocol; Contingency Bleak INITIATED
 
-> I called it an 'impotent mustache,'" Cranston told GQ. "And I know how to shape an impotent mustache, if anyone's interested. If a mustache drops below the creases of the lips, no, that gets bada**. That gets nasty. So you have to make sure it's always above the crease of the lips. And you thin it out, so you can see skin underneath it. And it doesn't look as masculine. It just seems, 'What's the point?
+> I called it an 'impotent mustache,' Cranston told GQ. "And I know how to shape an impotent mustache, if anyone's interested. If a mustache drops below the creases of the lips, no, that gets bada**. That gets nasty. So you have to make sure it's always above the crease of the lips. And you thin it out, so you can see skin underneath it. And it doesn't look as masculine. It just seems, 'What's the point?
 
 > "The pursuit of happiness does not always equate the pursuit of freedom. the pursuit of hapiness is not always the same as hedonism"
 
@@ -137,6 +139,8 @@ Contingency Bleak
 > "Ask a question. Do research. Form a hypothesis. Test that hypothesis. Analyze the data. Draw a conclusion. Repeat."
 
 > "Once you give governments power, They don't give it back."
+
+> I teach you the Superman, Man is something that is to be surpassed. What have ye done to surpass man?
 
 > "Nothing is to be taken seriously on the internet"
 
