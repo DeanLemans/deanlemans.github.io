@@ -1,17 +1,19 @@
 ---
-title: Dean's Vanlife Research
+title: "Dean's Vanlife Research"
 tags:
   - research
   - vanlilfe
 publish: false
-modified: 2026-04-22
+modified: 2026-05-03
+id: 01KQQV6TR1CV98PYDWNJD6RJPQ
 draft: "true"
 created: 2026-03-17
 aliases:
   - Dean's Vanlife Research
-id: 01KQQV6TR1CV98PYDWNJD6RJPQ
 ---
+
 d
+
 # Dean's Vanlife Research
 
 + [ ] Look into nederlands vanlife communities

@@ -1,14 +1,14 @@
 ---
 title: Sleep Optimization
+tags:
+  - exclude
+  - research
+publish: true
 modified: 2026-05-03
+id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 created: 2026-03-21
 aliases:
   - sleep_optimization
-publish: true
-tags:
-  - research
-  - exclude
-id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 ---
 
 # Sleep Optimization
@@ -16,8 +16,6 @@ id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 now below here, i made some very nifty priorities, but im probb not going to follow them, they serve more as guidelines.
 
 so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that house, my parrents are divorced.
-
-
 
 ---
 

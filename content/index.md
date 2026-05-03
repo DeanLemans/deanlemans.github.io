@@ -1,7 +1,8 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-04-29
+modified: 2026-05-03
+id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
 description: Dean's Personal Site
 created: 2025-09-25
 aliases:
@@ -9,7 +10,6 @@ aliases:
   - /my-site/
   - my-site
   - my-site/
-id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
 ---
 
 # Dean Lemans

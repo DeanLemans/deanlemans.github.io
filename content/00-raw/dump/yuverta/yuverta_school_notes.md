@@ -1,9 +1,10 @@
 ---
-modified: 2026-03-17
 title: yuverta school notes
-aliases: yuverta school notes
-created: 2026-03-17
+modified: 2026-05-03
 id: 01KQQV6TS7AGYT12Y1NR5G7NHA
+created: 2026-03-17
+aliases:
+  - yuverta school notes
 ---
 
 # yuverta school notes

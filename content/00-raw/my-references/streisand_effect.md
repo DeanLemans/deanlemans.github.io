@@ -1,13 +1,13 @@
 ---
 title: Streisand effect
 publish: true
-modified: 2026-04-29
+modified: 2026-05-03
+id: 01KQQV6TRWTSVKA0JA0PHV5MJ5
 created: 2026-03-17
 aliases:
   - Streisand effect
   - Streisand Effect
   - streisand_effect
-id: 01KQQV6TRWTSVKA0JA0PHV5MJ5
 ---
 
 # Streisand effect

@@ -1,13 +1,14 @@
 ---
-modified: 2026-03-27
+title: Creating Plant terrarium
 tags:
   - green
   - research
-created: 2026-03-12
-title: Creating Plant terrarium
-aliases: Creating Plant terrarium
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TR8FWNVR2CWDNEDF5MG
+created: 2026-03-12
+aliases:
+  - Creating Plant terrarium
 ---
 
 # Creating Plant terrarium

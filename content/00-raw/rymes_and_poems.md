@@ -4,11 +4,11 @@ tags:
   - exclude
 publish: true
 modified: 2026-05-03
+id: 01KQQV6TRG2JCRYD00FNE4MJ79
 draft: "true"
 created: 2026-02-02
 aliases:
   - rymes_and_poems
-id: 01KQQV6TRG2JCRYD00FNE4MJ79
 ---
 
 # Rymes and Poems

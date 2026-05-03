@@ -1,10 +1,11 @@
 ---
-publish: false
+title: Reflection on Project
 tags:
   - finished
-modified: 2026-03-17
-created: 2026-03-17
+publish: false
+modified: 2026-05-03
 id: 01KQQV6TSQJQYM6M1AMH3XPY0T
+created: 2026-03-17
 ---
 
 [](<../../../static_files/software verdieping onderzoek.pdf>)

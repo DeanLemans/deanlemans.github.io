@@ -4,12 +4,12 @@ tags:
   - dreamy
   - exclude
 publish: true
-modified: 2026-05-02
+modified: 2026-05-03
+id: 01KQQV6TSZ2VQXZAWTBZR28V5M
 description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
 created: 2026-03-17
 aliases:
   - Dreams of Mine
-id: 01KQQV6TSZ2VQXZAWTBZR28V5M
 ---
 
 # Dreams of Mine

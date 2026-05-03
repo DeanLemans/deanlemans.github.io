@@ -1,9 +1,10 @@
 ---
-modified: 2026-03-17
 title: leerbedrijf dingen
-aliases: leerbedrijf dingen
-created: 2026-03-17
+modified: 2026-05-03
 id: 01KQQV6TSMJ17BPY8AJ7QQFHCK
+created: 2026-03-17
+aliases:
+  - leerbedrijf dingen
 ---
 
 # leerbedrijf dingen

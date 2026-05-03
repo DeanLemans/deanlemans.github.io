@@ -1,8 +1,8 @@
 ---
 title: it type shi bru
-modified: 2026-04-29
-created: 2026-04-22
+modified: 2026-05-03
 id: 01KQQV6TSHM11N7NR9Z6MRPDVG
+created: 2026-04-22
 ---
 
 > {DD-MM-YYYY} {weekday} {hour} {minutes} {(break time)}

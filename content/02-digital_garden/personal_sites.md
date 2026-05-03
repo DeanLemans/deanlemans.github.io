@@ -1,7 +1,8 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-04-29
+modified: 2026-05-03
+id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
   - blogroll
@@ -9,7 +10,6 @@ aliases:
   - Cool Personal sites!
   - external_sites
 alias_sugestion: Cool Personal sites
-id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 ---
 
 # Cool Personal sites

@@ -1,14 +1,14 @@
 ---
 title: Blueprint - Bryan Johnson
+tags:
+  - health
 publish: true
-modified: 2026-04-29
+modified: 2026-05-03
+id: 01KQQV6TRZ5WKQQG4HTWAH18Z5
 created: 2026-03-17
 aliases:
   - blueprint
   - Blueprint
-tags:
-  - health
-id: 01KQQV6TRZ5WKQQG4HTWAH18Z5
 ---
 
 # Blueprint - Bryan Johnson

@@ -1,17 +1,17 @@
 ---
-publish: true
-title: chapter_i_like
-modified: 2026-05-02
-aliases: Chapters
-created: 2026-02-02
+title: Chapters I Like
 tags:
   - exclude
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TWMJKN6RZC5A6YHWPN2
+created: 2026-02-02
+aliases:
+  - Chapters
 ---
 
-
-
 # Chapters I Like
+
 A list of chapters i like, i lost a lot of them on my old phone
 - [ ] need a way to track all of this and consolidate such as my (formal) books in [book_list](<../02-digital_garden/book_list.md>)
 

@@ -1,21 +1,23 @@
 ---
-title: atom and rss on how to get news
-modified: 2026-05-03
-created: 2026-05-02
+title: atom, rss, and news, on how to get news in the current bullshit meta
 tags:
   - exclude
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TS5VQ207RN163TMDH2B
+created: 2026-05-02
 ---
 
 # atom, rss, and news, on how to get news in the current bullshit meta
 
 ## RSS
+
 rss/atom readers are cool
 powerrss
-rss agregator
+rss aggregator
 
 ## news site
+
 grouded
 
 ##

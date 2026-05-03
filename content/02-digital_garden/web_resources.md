@@ -1,7 +1,8 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-04-30
+modified: 2026-05-03
+id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
   - bookmarks
@@ -9,7 +10,6 @@ aliases:
   - My Bookmarks
   - nice web resources
 alias_sugestion: My Bookmarks
-id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 ---
 
 # Random Web Resources

@@ -1,14 +1,14 @@
 ---
 title: FUTURE
-modified: 2026-05-02
+tags:
+  - exclude
+publish: true
+modified: 2026-05-03
+id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:
   - FUTURE
-publish: true
-tags:
-  - exclude
-id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 ---
 
 # FUTURE
@@ -16,7 +16,7 @@ id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 something that confronts me, changlnese me
 
 - [ ] Buy: American bully dog⏬
-- [ ] Buy: [warlike-howling-pure](https://contagionpress.com/books/warlike-howling-pure/
+- [ ] Buy: [warlike-howling-pure](<https://contagionpress.com/books/warlike-howling-pure/>
 - [ ] Buy: high quality Stress toyf⏬
 - [ ] Buy: Epson Ecotank (printer)⏬
 - [ ] Buy: Airfilter⏬

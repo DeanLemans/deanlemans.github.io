@@ -1,12 +1,12 @@
 ---
 title: Death of Me
-modified: 2026-05-02
-description: what will happen to this site when I die?
-created: 2026-04-29
-publish: true
 tags:
   - exclude
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TT017S85V89JPEQQNWX
+description: what will happen to this site when I die?
+created: 2026-04-29
 ---
 
 # Death of Me

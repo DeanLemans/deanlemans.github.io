@@ -3,12 +3,12 @@ title: Quotes
 tags:
   - exclude
 publish: true
-modified: 2026-04-30
+modified: 2026-05-03
+id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
 aliases:
   - quotes
-id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 ---
 
 # Quotes

@@ -1,7 +1,11 @@
 ---
-modified: 2025-11-11
+title: sintlucas stage
+modified: 2026-05-03
 id: 01KQQV6TSPY3TS62KW9HS38V6D
+created: 2026-05-03
 ---
+
+# sintlucas stage
 
 Week: 6 en 7
 
@@ -9,11 +13,7 @@ Ik heb vorige week en de week daarvoor aan me site gewerkt, ik had al een hele l
 
 Dus ik heb heel mijn site opnieuw gemaakt(naar nieuw framework gezet) en mijn CV heb ik ook helemaal opnieuw gemaakt.
 
-
-
 Week 8: ik heb mijn site gefixed en een paar mails gestuurd
-
-
 
 Ik heb gemailed naar [https://starbrewgames.com](https://starbrewgames.com/) [Week 8]
 **momenteel nog geen reactie**
@@ -37,8 +37,6 @@ Dean Lemans
 
 +31 6 45477170
 
-
-
 Ik heb gemailed naar [https://abstraction.games](https://abstraction.games/) [Week 8]
 
 **momenteel nog geen reactie**
@@ -61,10 +59,6 @@ Groeten,
 Dean Lemans
 
 +31 6 45477170
-
-
-
-
 
 Ik heb gemailed naar [https://ragesquid.com/](https://ragesquid.com/) [Week 8]
 
@@ -90,17 +84,9 @@ Dean Lemans
 
 +31 6 45477170
 
-
-
-
-
 Week 10
 
-
-
 [https://starbrewgames.com](https://starbrewgames.com/) heeft gereageert en hebben **geen** plek
-
-
 
 Ik heb een nieuwe mail gestuurd en ik ben bezig met Project Play op mijn github te zetten(ik heb hulp van jorrit of jan nodig)
 [https://www.yellowriders.com/](https://www.yellowriders.com/)
@@ -124,16 +110,6 @@ Dean Lemans
 
 +31 6 45477170
 
-
-
-
-
-
-
-
-
-
-
 Hallo meneer/mevrouw van Veelpoot,
 
 My name is Dean Lemans, I'm 17 years old and I live in Uden, The Netherlands. By the time I'd start an internship, I'll be 18.
@@ -154,10 +130,6 @@ Dean Lemans
 
 +31 6 45477170
 
-
-
-
-
 My name is Dean Lemans, I am 17 years old and I live in Uden, The Netherlands. Once by the time I'd begin an internship, I will be 18.
 
 I would like to do my internship with you guys from 25 August 2025 to the beginning of February 2026. I am currently studying software development at SintLucas in Eindhoven and specializing in Game Development, focusing on the game engine Godot.
@@ -166,21 +138,9 @@ I got interested when I found your company while surfing the game showcase in th
 
 I would get a chance to enhance my technical skills and get exposed to new tools during an internship at Chasing Carrots. I am quite enthusiastic and believe that interning with you guys would be a great chance for me to further hone my skills, as well as learn more about the gaming industry. And I've used Godot at least a little bit, so I'm thinking I'd be a pretty good fit. 
 
-
-
-
-
-
-
-
-
 2 mails gestuurd, site update en heb naagevraagt over buitenlandse stage
 
-
-
 Ik heb alle game bedrijven dat minimaal 4 uur reizen is een mail gestuurd, ik ga nu mails sturen naar de bedrijven die ik niet wil(mobile en XR). Also dat niet lukt ga ik naar ict zoeken(ik ga geen web done)
-
-
 
 [laatste personality les]:
 ik heb een paar bedrijven gevonden:
@@ -190,8 +150,6 @@ ik heb een paar bedrijven gevonden:
 [https://www.blewscreen.com/](https://www.blewscreen.com/)
 
 [https://www.roaringluck.games/](https://www.roaringluck.games/)
-
-
 
 en ik heb een mail gestuurd naar Veelpoot:
 
@@ -217,10 +175,6 @@ Dean Lemans
 
 P.S:
 ik hoef niet betaald te worden.
-
-
-
-
 
 [https://null.com/](https://null.com/)
 

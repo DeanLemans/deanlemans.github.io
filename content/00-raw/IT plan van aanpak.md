@@ -3,11 +3,11 @@ title: IT ondernemings plan
 tags:
   - research
 publish: false
-modified: 2026-05-02
+modified: 2026-05-03
+id: 01KQQV6TWR33FATQZE504ND60T
 created: 2026-03-17
 aliases:
   - IT ondernemings plan
-id: 01KQQV6TWR33FATQZE504ND60T
 ---
 
 # IT ondernemings plan

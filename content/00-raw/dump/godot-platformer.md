@@ -4,13 +4,13 @@ tags:
   - finished
   - gamedev
 publish: false
-modified: 2026-04-29
+modified: 2026-05-03
+id: 01KQQV6TSV7CA97NVMGRMST1XA
 description: first game made in godot
 created: 2025-09-25
 aliases:
   - godot platformer
   - godot-platformer
-id: 01KQQV6TSV7CA97NVMGRMST1XA
 ---
 
 # My First Godot Game

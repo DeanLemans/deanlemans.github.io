@@ -1,10 +1,11 @@
 ---
-publish: true
 title: Trajectory
-created: 2025-07-25
-modified: 2026-04-29
-aliases: Trajectory
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TSJHA419K75PVNHXRDV
+created: 2025-07-25
+aliases:
+  - Trajectory
 ---
 
 # Trajectory

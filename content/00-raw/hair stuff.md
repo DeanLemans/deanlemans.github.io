@@ -1,12 +1,12 @@
 ---
 title: hair stuff
 tags:
-  - research
   - exclude
-modified: 2026-05-02
-created: 2026-04-30
+  - research
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TS6969VS9ER7EFR3JV6
+created: 2026-04-30
 ---
 
 # hair stuff

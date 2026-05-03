@@ -3,12 +3,12 @@ title: price calculating garden maintence
 tags:
   - green
   - research
+publish: true
 modified: 2026-05-03
+id: 01KQQV6TRKM0ZKTFQRZBN191NR
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence
-publish: true
-id: 01KQQV6TRKM0ZKTFQRZBN191NR
 ---
 
 # price calculating garden maintence

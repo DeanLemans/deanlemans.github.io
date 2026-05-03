@@ -2,9 +2,9 @@
 title: music stuff player and file stuff
 tags:
   - research
-modified: 2026-05-02
-created: 2026-05-02
+modified: 2026-05-03
 id: 01KQQV6TS1YVD5N77K526MDTJG
+created: 2026-05-02
 ---
 
 # music stuff player and file stuff

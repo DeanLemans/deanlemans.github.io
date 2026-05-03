@@ -1,14 +1,14 @@
 ---
-title: Dean's Book Library
+title: "Dean's Book Library"
 publish: true
-modified: 2026-04-18
+modified: 2026-05-03
+id: 01KQQV6TR0MPTXVCZSS8CR3YSY
 description: Library of Dean
 created: 2024-10-08
 aliases:
   - Book LIbrary!
   - Dean's Book Library
 alias_sugestion: Dean's Book Library
-id: 01KQQV6TR0MPTXVCZSS8CR3YSY
 ---
 
 # Dean's Book Library

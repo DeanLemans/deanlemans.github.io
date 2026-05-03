@@ -1,14 +1,14 @@
 ---
 title: My Prompts
+tags:
+  - exclude
+publish: true
 modified: 2026-05-03
+id: 01KQQV6TRJPTZ4FEDBPKQW9D1G
 description: some promps i use for LLM
 created: 2026-03-17
 aliases:
   - My Prompt
-publish: true
-tags:
-  - exclude
-id: 01KQQV6TRJPTZ4FEDBPKQW9D1G
 ---
 
 # My Prompts

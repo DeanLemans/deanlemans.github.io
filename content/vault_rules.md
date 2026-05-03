@@ -2,12 +2,12 @@
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-04-18
+modified: 2026-05-03
+id: 01KQQV6TPBSF4Y4E9A2TMC94XT
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
 aliases:
   - Site Rules and Vault System
-id: 01KQQV6TPBSF4Y4E9A2TMC94XT
 ---
 
 # Site Rules

@@ -3,12 +3,12 @@ title: On a better education
 tags:
   - research
 publish: true
-modified: 2026-04-30
-created: 2026-02-02
+modified: 2026-05-03
+id: 01KQQV6TR9FM796RXXR04P5NGJ
 description: education problem research
+created: 2026-02-02
 aliases:
   - On a better education
-id: 01KQQV6TR9FM796RXXR04P5NGJ
 ---
 
 # On a better education

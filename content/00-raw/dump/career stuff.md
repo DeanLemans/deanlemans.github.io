@@ -1,9 +1,9 @@
 ---
 title: career stuff
-modified: 2026-04-29
-created: 2026-04-22
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TSYE984HZH92APSWBC3
+created: 2026-04-22
 ---
 
 # career stuff
