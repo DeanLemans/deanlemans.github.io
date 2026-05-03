@@ -1,8 +1,10 @@
 ---
 title: Backup Rule
 publish: true
-modified: 2026-03-28
+modified: 2026-05-02
 created: 2026-03-17
+tags:
+  - exclude
 ---
 
 # Backup Rule

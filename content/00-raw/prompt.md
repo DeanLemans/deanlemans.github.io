@@ -1,11 +1,13 @@
 ---
 title: My Prompts
-modified: 2026-04-22
+modified: 2026-05-03
 description: some promps i use for LLM
 created: 2026-03-17
 aliases:
   - My Prompt
 publish: true
+tags:
+  - exclude
 ---
 
 # My Prompts

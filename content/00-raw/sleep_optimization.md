@@ -1,23 +1,32 @@
 ---
 title: Sleep Optimization
-modified: 2026-04-30
+modified: 2026-05-03
 created: 2026-03-21
 aliases:
   - sleep_optimization
 publish: true
 tags:
   - research
+  - exclude
 ---
 
 # Sleep Optimization
 
-## priority 1
+now below here, i made some very nifty priorities, but im probb not going to follow them, they serve more as guidelines.
+
+so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that house, my parrents are divorced.
+
+
+
+---
+
+### priority 1
 
 - light
 - temperature
 - timing/consistent sleep schedule
 
-## priority 2
+### priority 2
 
 - screen usage
 - sound (noise control, white noise)
@@ -26,7 +35,7 @@ tags:
 - quality of mattress
 - ergonomics
 
-## priority 3
+### priority 3
 
 - quality of cushion
 - quality of blanket

@@ -1,12 +1,19 @@
 ---
 title: best video editors for me
-modified: 2026-03-28
+modified: 2026-05-02
 created: 2026-03-24
 aliases:
   - best video editors for me
+publish: true
+tags:
+  - exclude
 ---
 
 # best video editors for me
+
+criteria:
+preferably open source
+MUST be native linux
 
 ## longform
 

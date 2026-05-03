@@ -2,8 +2,9 @@
 title: There Are Stars Inside Me
 tags:
   - dreamy
+  - exclude
 publish: true
-modified: 2026-03-28
+modified: 2026-05-03
 created: 2026-03-17
 aliases:
   - there_are_stars_inside_me

@@ -1,12 +1,12 @@
 ---
 title: IT ondernemings plan
+tags:
+  - research
 publish: false
-modified: 2026-04-30
+modified: 2026-05-02
 created: 2026-03-17
 aliases:
   - IT ondernemings plan
-tags:
-  - research
 ---
 
 # IT ondernemings plan
@@ -103,7 +103,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 - PC en laptop klaarmaken/instellen
 - Software installeren en instellen
 - Computer opschonen en sneller maken
-- Hardware installeren (SSD, RAM, printer, etc.)
+- Hardware installeren (SSD, RAM, printer)
 - Linux installeren
 - Windows installeren
 
@@ -116,7 +116,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 
 ---
 
-## Groei / scale
+## scale
 
 - Maak een website
 - Vraag tevreden klanten om je aan te raden

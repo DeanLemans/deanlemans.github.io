@@ -1,9 +1,11 @@
 ---
 publish: true
 title: chapter_i_like
-modified: 2026-03-28
+modified: 2026-05-02
 aliases: Chapters
 created: 2026-02-02
+tags:
+  - exclude
 ---
 
 

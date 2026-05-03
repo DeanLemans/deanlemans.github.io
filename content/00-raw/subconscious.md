@@ -3,8 +3,8 @@ title: Subconsious
 tags:
   - dreamy
   - exclude
-publish:
-modified: 2026-04-18
+publish: false
+modified: 2026-05-03
 enableToc: false
 description: this does not exist
 created: 2024-07-17

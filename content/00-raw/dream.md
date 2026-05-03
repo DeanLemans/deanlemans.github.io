@@ -2,8 +2,9 @@
 title: Dreams of Mine
 tags:
   - dreamy
+  - exclude
 publish: true
-modified: 2026-03-28
+modified: 2026-05-02
 description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
 created: 2026-03-17
 aliases:

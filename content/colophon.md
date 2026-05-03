@@ -1,6 +1,8 @@
 ---
-title: MOC or site layout
-modified: 2026-04-30
+title: Colophon
+tags:
+  - exclude
+modified: 2026-05-03
 created: 2026-04-30
 ---
 

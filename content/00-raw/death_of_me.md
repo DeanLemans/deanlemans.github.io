@@ -1,9 +1,11 @@
 ---
 title: Death of Me
-modified: 2026-04-30
+modified: 2026-05-02
 description: what will happen to this site when I die?
 created: 2026-04-29
-publish:
+publish: true
+tags:
+  - exclude
 ---
 
 # Death of Me

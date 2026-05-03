@@ -1,10 +1,13 @@
 ---
 title: FUTURE
-modified: 2026-04-23
+modified: 2026-05-02
 description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:
   - FUTURE
+publish: true
+tags:
+  - exclude
 ---
 
 # FUTURE
