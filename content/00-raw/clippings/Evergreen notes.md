@@ -1,25 +1,26 @@
 ---
 title: Evergreen notes
-source: https://notes.andymatuschak.org/Evergreen_notes
-author:
-  - "[[Andyʼs working notes]]"
-created: 2025-10-24
-description:
-modified: 2026-04-19
 tags:
   - clippings
+source: https://notes.andymatuschak.org/Evergreen_notes
+modified: 2026-05-03
 id: 01KQQV6TVPZ2Z4DB8SAPP80P0F
+description:
+created: 2025-10-24
+author:
+  - "[[Andyʼs working notes]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
 # Evergreen notes
 
-*Evergreen notes* are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes: [Most people take only transient notes](https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw). That’s because these practices aren’t about writing notes; they’re about effectively developing insight: [“Better note-taking” misses the point; what matters is “better thinking”](https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb). When done well, these notes can be quite valuable: [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB).
+*Evergreen notes* are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes: [Most people take only transient notes](https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw). That's because these practices aren't about writing notes; they're about effectively developing insight: [“Better note-taking” misses the point; what matters is “better thinking”](https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb). When done well, these notes can be quite valuable: [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB).
 
-It’s hard to write notes that are worth developing over time. These principles help:
+It's hard to write notes that are worth developing over time. These principles help:
 
 - [Evergreen notes should be atomic](https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU)
 - [Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx)

@@ -1,18 +1,18 @@
 ---
 title: "The Second Brain Delusion: Why PKM Systems Don't Work"
-source: https://turbulencegains.com/second-brain/
-author:
-  - "[[Jay]]"
-created: 2025-10-05
-description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
 tags:
   - clippings
+source: https://turbulencegains.com/second-brain/
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TTXZPMP27B9JW89S2WJ
+description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
+created: 2025-10-05
+author:
+  - "[[Jay]]"
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -121,7 +121,7 @@ My system is no longer a second brain. It's a thought logbook the flight recorde
 
 That is, and must always be, mine.
 
-> P.S. This entire essay was written in Obsidian, the same tool discussed here. That's the irony, and also the point. Obsidian is an excellent platform for writing, thinking, and organizing ideas. I have never said anywhere that it is a bad tool. What I've learned is that no app, no matter how powerful, can replace the slow and deeply human process of thinking.  
+> P.S. This entire essay was written in Obsidian, the same tool discussed here. That's the irony, and also the point. Obsidian is an excellent platform for writing, thinking, and organizing ideas. I have never said anywhere that it is a bad tool. What I've learned is that no app, no matter how powerful, can replace the slow and deeply human process of thinking.
 
 A "second brain" is a personal knowledge management (PKM) system where you use digital tools like Obsidian, Notion, or Roam Research to capture, organize, and connect information externally. The concept, popularized by Tiago Forte's book *Building a Second Brain*, promises to augment your thinking by offloading memory to a trusted digital system.
 

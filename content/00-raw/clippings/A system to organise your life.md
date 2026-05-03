@@ -1,17 +1,17 @@
 ---
 title: A system to organise your life
-source: https://johnnydecimal.com/
-author:
-created: 2025-10-05
-description: Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://johnnydecimal.com/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TWGWXG9PZZJ477RXDZZ
+description: Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
+created: 2025-10-05
+author:
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

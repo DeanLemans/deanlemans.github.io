@@ -1,18 +1,19 @@
 ---
 title: John Carmack on Idea Generation
-source: https://amasad.me/carmack
-author:
-  - amasad.me
-published:
-created: 2026-04-19
-description: Last year at an internal talk at Facebook I was fortunate to see [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) speak about his idea generation system. At first I was disappointed because...
 tags:
   - clippings
+source: https://amasad.me/carmack
+published:
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TVCVJ3MGK1S2EW63BBZ
+description: Last year at an internal talk at Facebook I was fortunate to see [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) speak about his idea generation system. At first I was disappointed because...
+created: 2026-04-19
+author:
+  - amasad.me
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -31,7 +32,7 @@ To me, this was one of those questions that you realize is simple but you're sur
 
 Here is the description from the [Antifragile book](https://www.amazon.com/gp/product/B0083DJWGO/ref=dp-kindle-redirect?ie=UTF8&btkr=1):
 
-> Just as human bones get stronger when subjected to stress and tension, and rumors or riots intensify when someone tries to repress them, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls “antifragile” is that category of things that not only gain from chaos but need it in order to survive and flourish.
+> Just as human bones get stronger when subjected to stress and tension, and rumors or riots intensify when someone tries to repress them, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls "antifragile" is that category of things that not only gain from chaos but need it in order to survive and flourish.
 
 After picking up this book and reading it, I was not only able to relate this back to Carmack's idea system (more on this later) but saw the world in a slightly different way. To give only one example, I see large open source software as antifragile. The more stress people put the software under the better it becomes. The more people use it in unanticipated ways and the more code path combinations are exercised then the more bugs are found and fixed. In contrast, proprietary software is usually used in controlled environments all the while building up fragility for a major catastrophic event waiting to happen (see [Black Swan Theory](https://en.wikipedia.org/wiki/Black_swan_theory)).
 

@@ -1,17 +1,18 @@
 ---
 title: The Bear Manifesto
-source: https://herman.bearblog.dev/manifesto/
-author:
-  - "[[Herman's blog]]"
-created: 2025-10-31
-description: An outline of my philosophy and direction for the platform
 tags:
   - clippings
-modified: 2026-04-19
+source: https://herman.bearblog.dev/manifesto/
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TTYE8AECYEE7T4WYZ5Q
+description: An outline of my philosophy and direction for the platform
+created: 2025-10-31
+author:
+  - "[[Herman's blog]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -68,5 +69,5 @@ If you're tired of platforms that treat you like a product, welcome home. Bear i
 
 Keep blogging,
 
-Herman Martinus  
+Herman Martinus
 Creator of Bear

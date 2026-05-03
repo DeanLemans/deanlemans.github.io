@@ -1,18 +1,19 @@
 ---
-title: Everything you always wanted to know about DACs* (*but were afraid to ask)
-source: https://www.whathifi.com/advice/dacs-what-is-a-dac-and-do-you-need-one
-author:
-  - "[[Verity Burns]]"
-  - "[[Becky Roberts]]"
-created: 2025-09-29
-description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
-publish: true
-modified: 2026-04-19
+title: Everything you always wanted to know about DACs (but were afraid to ask)
 tags:
   - clippings
+source: https://www.whathifi.com/advice/dacs-what-is-a-dac-and-do-you-need-one
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TVKVNR5FNB8NN4ERW1H
+description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
+created: 2025-09-29
+author:
+  - "[[Becky Roberts]]"
+  - "[[Verity Burns]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

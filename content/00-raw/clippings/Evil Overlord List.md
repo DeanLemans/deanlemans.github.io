@@ -1,17 +1,18 @@
 ---
 title: Evil Overlord List
-source: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList
-author:
-  - "[[Contributors to TV Tropes (aka Tropers)]]"
-created: 2025-11-11
-description: "A page for describing Main: Evil Overlord List. The infamous lists of \"Things I'll do if I ever become an Evil Overlord\". Read them, and you'll be Genre …"
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TVEYHMQZDB65VH1X8RA
+description: "A page for describing Main: Evil Overlord List. The infamous lists of \"Things I'll do if I ever become an Evil Overlord\". Read them, and you'll be Genre …"
+created: 2025-11-11
+author:
+  - "[[Contributors to TV Tropes (aka Tropers)]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -19,7 +20,6 @@ id: 01KQQV6TVEYHMQZDB65VH1X8RA
 # Evil Overlord List
 
 [![](https://tvtropes.org/images/logo-white-big.png)](https://tvtropes.org/)
-
 
 The infamous lists of "Things I'll do if I ever become an [Evil Overlord](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord "/pmwiki/pmwiki.php/Main/EvilOverlord") ".
 

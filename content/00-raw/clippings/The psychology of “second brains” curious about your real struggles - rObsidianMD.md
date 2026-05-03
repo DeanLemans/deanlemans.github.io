@@ -1,23 +1,23 @@
 ---
-title: The psychology of “second brains” curious about your real struggles
-source: https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/
-author:
-  - "[[u/jerr9185]]"
-created: 2025-09-29
-description: View on Redlib, an alternative private front-end to Reddit.
-publish: true
-modified: 2026-04-19
+title: 'The psychology of "second brains" curious about your real struggles'
 tags:
   - clippings
+source: https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TTRCVRHHVA6CJNRE48J
+description: View on Redlib, an alternative private front-end to Reddit.
+created: 2025-09-29
+author:
+  - "[[u/jerr9185]]"
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-# The psychology of “second brains” curious about your real struggles
+# The psychology of "second brains" curious about your real struggles
 
 Hey everyone,
 
@@ -96,32 +96,32 @@ Is it overhyped? Sure, if it isn't working for you. I'd make the argument that f
 About advertising. The goal is not to help you, but to sell a course or a book. What do you need for this? First of all, make the simple complicated, then convince that only the author knows how to do it right.
 
 > •
-> 
+>
 > [u/concreteutopian](https://reddit.nerdvpn.de/user/concreteutopian) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/nct89cc/?context=3#nct89cc "Sep 06 2025, 22:53:21 UTC")
-> 
+>
 > > 1. The problem is that you put the wagons before the locomotive. You don't connect notes as a result of working with information, but artificially indicate connections that mean nothing to you personally.
 > > 2. Using AI to create connections is like copying Wikipedia and calling it a personal knowledge base.
-> 
+>
 > This.
-> 
+>
 > I think Forte's PARA system is useful for some, but I'm more interested in the Zettelkasten method as a ***thinking*** aid. Having a background in libraries, I have to fight the urge to start organizing and cataloging information in some "completist" way - but that's essentially Wikipedia, and I already have access to Wikipedia. Instead, I make notes leaning into the subjective - what I found interesting or meaningful in this source, not worrying so much about "what the source says" on its own terms. The connections between sources and connections with my own thoughts is most interesting to me *because I use the tool to foster thinking*, as a conversation partner of my own thoughts. Adding AI to this completely misses the point of a Zettelkasten as something else is making links rather than your thinking itself..
-> 
+>
 > > •
-> > 
+> >
 > > [u/AlexanderP79](https://reddit.nerdvpn.de/user/AlexanderP79) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncv0tmw/?context=3#ncv0tmw "Sep 07 2025, 06:10:28 UTC")
-> > 
+> >
 > > If you are interested in the relationship between ZK and PARA (if you discard the add-ons for complexity).
-> > 
+> >
 > > - Resources are cards in ZK.
 > > - Areas are the initial cards of chains.
 > > - Projects are the result of thinking.
-> > - Archives are legacy data and bequeathed projects.  
+> > - Archives are legacy data and bequeathed projects.
 > > These may not be folders, but tags.
-> 
+>
 > •
-> 
+>
 > [u/Redman181613](https://reddit.nerdvpn.de/user/Redman181613) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncprxaq/?context=3#ncprxaq "Sep 06 2025, 11:25:04 UTC")
-> 
+>
 > This ☝️
 
 [u/floodlight-](https://reddit.nerdvpn.de/user/floodlight-) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq6fim/?context=3#ncq6fim "Sep 06 2025, 13:09:41 UTC")
@@ -133,9 +133,9 @@ The EMT never made any arguments about the possibility of making a second brain 
 Thus someone must have played a game of Chinese telephone because by the time the concept made it to the PKM sphere, it had become reduced to "Second Brain".
 
 > •
-> 
+>
 > [u/geGamedev](https://reddit.nerdvpn.de/user/geGamedev) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncv0u9f/?context=3#ncv0u9f "Sep 07 2025, 06:10:37 UTC")
-> 
+>
 > To expand on this, a second brain implies a first brain, that hopefully is fully functional as well. I don't see any reason to think having two brains means the first one simply stops thinking. The point is to use them together - the second brain helps the first. There is no reason to expect, let alone want, the second brain to think for you.
 
 [u/intellidepth](https://reddit.nerdvpn.de/user/intellidepth) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq8vjl/?context=3#ncq8vjl "Sep 06 2025, 13:25:11 UTC")
@@ -171,13 +171,13 @@ The issue lies within the method. Obsidian is a fine tool.
 No, this is not how it works, and it is not the original intention. The original intention is to provide you with a framework for the work that you have to do anyway. I also incorporate aspects of critical thinking and systems thinking as guidelines for the advanced.
 
 > •
-> 
+>
 > [u/readwithai](https://reddit.nerdvpn.de/user/readwithai) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncvipq9/?context=3#ncvipq9 "Sep 07 2025, 08:53:25 UTC")
-> 
+>
 > Yeah… I quite like the ZKesque framing of "ongoing conversation with all your past selves" and specifically your past self when thinking about a thing. I also like the idea that "it's kinda like a brain / process but Im the one doing the thinking"
-> 
+>
 > > New insights are not the result of linking.
-> 
+>
 > Hmm. I find that they can be… or thinkinh about your linking. But Im doing a particular kind of linking which is giving each note a number of parents and then forming the backlinks into a paragraph (when I am looking at the note - I have dataview dump a list of unlinked backlinks which I turn into paragraohs when I want to think or take stock). I wrote a blog post on the scripts I use: [https://readwithai.substack.com/p/slowly-turning-your-automated-maps](https://readwithai.substack.com/p/slowly-turning-your-automated-maps)
 
 [u/itsnotblueorange](https://reddit.nerdvpn.de/user/itsnotblueorange) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncqjoo4/?context=3#ncqjoo4 "Sep 06 2025, 14:28:34 UTC")
@@ -212,23 +212,23 @@ I think people chuck the 'second brain' expression around with wild abandon and 
 I absolutely feel the "second brain" concept is overmarketed. Most of the people advertising this use the word without much understanding of how our brains actually work. They are not neurologists. They simply refer to how *they* think most people behave. To be honest I believe this whole concept is overhyped as a result of content creators trying to sensationalze content with buzzwords and clickbait.
 
 > •
-> 
+>
 > [u/floodlight-](https://reddit.nerdvpn.de/user/floodlight-) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq6zro/?context=3#ncq6zro "Sep 06 2025, 13:13:17 UTC")
-> 
+>
 > You're right! It is an over-marketed, boiled-down and misguided interpretation of various older ideas in the philosophical space - such as the Extended Mind Thesis, or various other ideas mentioned elsewhere in this thread.
-> 
+>
 > •
-> 
+>
 > [u/dopaminedune](https://reddit.nerdvpn.de/user/dopaminedune) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncra99t/?context=3#ncra99t "Sep 06 2025, 16:49:03 UTC")
-> 
+>
 > > They are not neurologists.
-> 
+>
 > Nobody is stopping those neuroscientists to build a second brain for you. if they can't build something, they should keep their mouth shut.
-> 
+>
 > > •
-> > 
+> >
 > > [u/--Arete](https://reddit.nerdvpn.de/user/--Arete) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncrmhb7/?context=3#ncrmhb7 "Sep 06 2025, 17:49:27 UTC")
-> > 
+> >
 > > I am not sure I follow you here..
 
 [u/francscoleon](https://reddit.nerdvpn.de/user/francscoleon) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncr9fmi/?context=3#ncr9fmi "Sep 06 2025, 16:44:53 UTC")
@@ -242,21 +242,21 @@ In my opinion, it's better for me to waste time linking and organizing my notes 
 The brain is not only for thinking but for storage as well. Therefore the "second brain" is the extra storage only, for instance an SSD of 4TB to store all of your music, and leave your computer's drive fresh and empty ready for extra work.
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpetud/?context=3#ncpetud "Sep 06 2025, 09:20:12 UTC")
-> 
+>
 > But memory for the brain is not a static repository more like a dynamic and reconstructive process.
-> 
+>
 > > •
-> > 
+> >
 > > [u/ventureinoz](https://reddit.nerdvpn.de/user/ventureinoz) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq4orf/?context=3#ncq4orf "Sep 06 2025, 12:58:20 UTC")
-> > 
+> >
 > > Who said what you store in Obsidian or any other second brain has to be static? Mine certainly isn't but perhaps I use it differently
-> > 
+> >
 > > > •
-> > > 
+> > >
 > > > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq54jr/?context=3#ncq54jr "Sep 06 2025, 13:01:11 UTC")
-> > > 
+> > >
 > > > The nature of information is static.
 
 [u/JorgeGodoy](https://reddit.nerdvpn.de/user/JorgeGodoy) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpz759/?context=3#ncpz759 "Sep 06 2025, 12:20:42 UTC")
@@ -306,9 +306,9 @@ People are very successful without taking notes. With commonplace books. With bu
 Honestly I just take notes for the sake of taking them. Philosophies and methods are all bullshit. Shit like Johnny Decimal is a fucking scam. Just take notes on what you'd like to recall later. Doesn't really matter what you call it or how you perceive it.
 
 > •
-> 
+>
 > [u/Red\_Ketchup\_007](https://reddit.nerdvpn.de/user/Red_Ketchup_007) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncqofem/?context=3#ncqofem "Sep 06 2025, 14:54:45 UTC")
-> 
+>
 > Absolutely…take my upvote bro
 
 [u/faris\_Playz](https://reddit.nerdvpn.de/user/faris_Playz) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpoc2h/?context=3#ncpoc2h "Sep 06 2025, 10:53:35 UTC")
@@ -330,13 +330,13 @@ The key feature of obsidian, for me, is links and back links, which lets the org
 Which is to say, obsidian is the note keeper I've used with the *least* overhead compared to other tools I've tried.
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncs9gd3/?context=3#ncs9gd3 "Sep 06 2025, 19:45:08 UTC")
-> 
+>
 > It was never an outcome. Just a premise I'd like to discover more.
-> 
+>
 > 'Second brain' is misleading.
-> 
+>
 > The tools aren't.
 
 [u/MrSomethingred](https://reddit.nerdvpn.de/user/MrSomethingred) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpr61m/?context=3#ncpr61m "Sep 06 2025, 11:18:43 UTC")
@@ -418,33 +418,33 @@ My biggest concern with Obsidian: I'm too lazy to take everyday notes about my d
 I use obsidian to keep some information and use mixed methods: PARA for long-term info (articles, Linux cheats, movie, book and game tracker, etc) and this plugin ([https://github.com/mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage)) for short notes (really it is one note to fast paste links or tasks) and delete them when it's done.
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpf6ym/?context=3#ncpf6ym "Sep 06 2025, 09:24:03 UTC")
-> 
+>
 > I haven't personally tried it but a local LLM could be a great addition to the idea of a second Brain. Feeding your thoughts and ideas and letting it make the connections. Taking it from a passive library to an active collaborator.
-> 
+>
 > It can also make inter-connection and semantic relationships which can be overlooked by a human.
-> 
+>
 > > •
-> > 
+> >
 > > [u/Vallomoon](https://reddit.nerdvpn.de/user/Vallomoon) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpvdn9/?context=3#ncpvdn9 "Sep 06 2025, 11:52:40 UTC")
-> > 
+> >
 > > Why would you externalise the process of discovering new connections and relations? You're throwing away the serendipity moments. By doing this everything becomes information and not knowledge.
-> > 
+> >
 > > > •
-> > > 
+> > >
 > > > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncsagfu/?context=3#ncsagfu "Sep 06 2025, 19:50:19 UTC")
-> > > 
+> > >
 > > > I never threw out the process of discovering. A local LLM was meant as an idea to see some points i missed out.
-> > > 
+> > >
 > > > What obsidian or any other tool or plugin does is a word based subjective linking. Without understanding or taking into consideration the nuance or the context of the topic.
-> > > 
+> > >
 > > > A local LLM is much more sophisticated and can understand the contextual elements and build a network of link more semantically.
-> > 
+> >
 > > •
-> > 
+> >
 > > [u/Responsible-Sir-5994](https://reddit.nerdvpn.de/user/Responsible-Sir-5994) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpnwpa/?context=3#ncpnwpa "Sep 06 2025, 10:49:42 UTC")
-> > 
+> >
 > > I not accept neuroslop to summarize or rewrite content. If it makes articles instead of me, I not remember that.
 
 [u/eetiahc](https://reddit.nerdvpn.de/user/eetiahc) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncqkttd/?context=3#ncqkttd "Sep 06 2025, 14:34:59 UTC")
@@ -480,15 +480,15 @@ Your analysis of this as intellectual insecurity is great. In rapidly evolving t
 The real discipline isn't perfect capture and organization. It's **curation and deletion**. What gets deleted matters as much as what gets kept.
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncse318/?context=3#ncse318 "Sep 06 2025, 20:09:16 UTC")
-> 
+>
 > Finally someone understood what I was trying to imply and resonated with collectors fallacy and effort justification bias (ikea effect).
-> 
+>
 > > •
-> > 
+> >
 > > [u/jimbrig2011](https://reddit.nerdvpn.de/user/jimbrig2011) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncsf4xd/?context=3#ncsf4xd "Sep 06 2025, 20:14:45 UTC")
-> > 
+> >
 > > Yeah I think that you have to approach this in a mindset fully aware of the collectors fallacy (and this is probably why this is introduced at the beginning of the zettelkasten site, etc). My issue now is that I've gone a while without any formal "second brain" and due to this I don't really have a "source of truth" location where I know to put things I come across throughout the day. So there's two sides to the coin. Also, my initial vault(s) were all public and gained traction and people consistently want more lol
 
 [u/Parang97](https://reddit.nerdvpn.de/user/Parang97) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/nctw8zo/?context=3#nctw8zo "Sep 07 2025, 01:17:05 UTC") edited 22d ago
@@ -496,7 +496,7 @@ The real discipline isn't perfect capture and organization. It's **curation and 
 So I use Obsidian to put researched knowledge into my own words. I guess my main hobby is I love researching things, learning everything. And never retained much of that knowledge until Obsidian. I come up with a topic im interested in, study it, then bring it into Obsidian with references so i can find it easy when my brain loops back around to it.
 
 1. I'd say my biggest challenge with my second brain is structure. I have a ton of hobbies (thanks ADD), and many of them are similar to each other. Like fly tying for fishing. 2 different hobbies that accomplish the same thing. Being able to find the information i need from my Obsidian vault can be tricky. Lots of folders.
-2. (So imma split this into Obdisian and Second Brain, use whichever one you need) I don't think obsidian is overmarketed, maybe overhyped. So many people start obsidian by adding a ton of plugins to the point it's unusable. When I got into it, i watched almost every youtube video on the topic, and everyone had their own way to do it with their own flavor of plugins. It can be overwhelming. So, I just started typing and modified the file structure to fit my goals as I inserted information. So maybe not obsidian itself is overmarketed, but the community plugins are? I'm not sure if that answered it or not, the ADD train hasn't stopped at the psychology station yet.  
+2. (So imma split this into Obdisian and Second Brain, use whichever one you need) I don't think obsidian is overmarketed, maybe overhyped. So many people start obsidian by adding a ton of plugins to the point it's unusable. When I got into it, i watched almost every youtube video on the topic, and everyone had their own way to do it with their own flavor of plugins. It can be overwhelming. So, I just started typing and modified the file structure to fit my goals as I inserted information. So maybe not obsidian itself is overmarketed, but the community plugins are? I'm not sure if that answered it or not, the ADD train hasn't stopped at the psychology station yet.
 	The second brain part? Ohhhh yeah. I would love to go the rest of my life without having to hear that term ever again. I wouldn't call it a second brain, more like my own wikipedia. A second brain would be something that can take my information and expand on it, find connections, etc. Which yeah, there are programs that can do it, and id consider them a little closer to the truth, but its still just a way to access info. We don't call google a second brain
 
 [u/geGamedev](https://reddit.nerdvpn.de/user/geGamedev) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncuzci4/?context=3#ncuzci4 "Sep 07 2025, 05:57:14 UTC") edited 22d ago
@@ -546,15 +546,15 @@ I think this experiment has already run its course, since relying on something t
 Instead of having AI think for us, we can externalize our agenda as code just like we can our memory as markdown. AI I can fill the gaps, like providing transcription, but I think reliability is key and default to code for reliability over AI.
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpj0u2/?context=3#ncpj0u2 "Sep 06 2025, 10:03:22 UTC")
-> 
+>
 > when I introduced ai it meant a local LLM which is fed your data and notes with the sole purpose of seeing and making connection which were overlooked by a human synthesis and semantic relationships
 
 [u/Andy76b](https://reddit.nerdvpn.de/user/Andy76b) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncpniqv/?context=3#ncpniqv "Sep 06 2025, 10:46:08 UTC") edited 23d ago
 
-Second Brain is only a claim, in my opinion and I also think that it is misleading.  
-What you build with Obsidian, no matter how sophisticated it is, it remains only a support that produces something if it interacts with your single brain. It does nothing as a brain on its own.  
+Second Brain is only a claim, in my opinion and I also think that it is misleading.
+What you build with Obsidian, no matter how sophisticated it is, it remains only a support that produces something if it interacts with your single brain. It does nothing as a brain on its own.
 The couple author-obsidian based "thinks" only as much as its author thinks. Obsidian doesn't think, what you build using Obsidian (for example, a Zettelkasten) can help you think.
 
 [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq1zu1/?context=3#ncq1zu1 "Sep 06 2025, 12:40:16 UTC")
@@ -574,9 +574,9 @@ Instead, many people fall into the collector fallacy: they save and hoard everyt
 In other words, the system becomes less about learning and thinking, and more about performing knowledge accumulation.
 
 > •
-> 
+>
 > [u/floodlight-](https://reddit.nerdvpn.de/user/floodlight-) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncq6lv8/?context=3#ncq6lv8 "Sep 06 2025, 13:10:50 UTC")
-> 
+>
 > Hello, I sent a detailed comment right now. You may want to look on the term's roots in the Extended Mind Thesis, and how it may have been a misinterpretation of this original idea.
 
 [u/peyajir\_dam](https://reddit.nerdvpn.de/user/peyajir_dam) [23d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncph68j/?context=3#ncph68j "Sep 06 2025, 09:44:21 UTC")
@@ -626,107 +626,107 @@ In other words, you have absolutely no idea how to use a second brain. Your misf
 My comment will sound very arrogant to you. But that's how I deal with passive aggressive dumb "articles".
 
 > •
-> 
+>
 > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncrjqmr/?context=3#ncrjqmr "Sep 06 2025, 17:36:29 UTC")
-> 
+>
 > You might have missed the very first line, I said I'm putting together an 'article'.
-> 
+>
 > > It is not misleading to me, probably it is misleading to you. But are you sure it is the only thing that has mislead you in life or you get misled by everything that exists?
-> 
+>
 > It might not feel misleading to you, but that doesn't erase the fact that the term 'second Brain' is framing. The label itself primes people to expect cognition, not just storage.
-> 
+>
 > > This is because you are linking the notes for the sake of linking. You have absolutely no idea why to make those links.
-> 
+>
 > Exactly, that's effort justification AKA IKEA EFFECT in its glory. People confuse hours of tinkering with progress even when no genuine insight comes out of it. That's not stupidity, it's a very common bias.
-> 
+>
 > > Notebook LLM is not your second brain. It is the brain of the AI. it is not even your property, it is the property of the AI, you are only allowed to have access to it.
-> 
+>
 > Sure technically, but the interesting bit is perception. Often people treat external tools as a part of their own thinking ( extended mind hypothesis). Whether or not AI ' belongs' to the user isn't the point.
-> 
+>
 > > What is overmarketing? Is apple over marketing? Is Louis Vuitton over marketing? Is Tesla over marketing?
-> 
+>
 > That's just a weak analogy. Luxury brands sell status, the 'Second Brain' system sells productive outcomes. If the outcome don't appear, it's fair to say it's over marketed
-> 
+>
 > > If you don't know how to drive a car, it is your problem, not the problem of the car manufacturer. Or the dealership that sold you the car.
-> 
+>
 > That oversimplifies things. If someone buys a car because the dealer says it'll fly and then it doesn't, it's not the just ' the driver fault '. My point isn't that obsidian is useless, it just that the second brain movement oversold it as something it isn't.
-> 
+>
 > So my premise isn't "Obsidian bad, second brain dumb." It's that the idea of a second brain gets oversold, which interacts with human biases (effort justification, collector fallacy, illusions of insight) and leaves many people stuck in systems that feel productive but don't actually help them think.
-> 
+>
 > You'll probably read this and think I'm implying you're a moron who can't grasp nuance. You're not but the way you argue makes you sound like one.
-> 
+>
 > That's the tricky thing about the Dunning Kruger effect: it doesn't announce itself, it just leaks out through overconfident analogies that collapse under scrutiny.
-> 
+>
 > > •
-> > 
+> >
 > > [u/dopaminedune](https://reddit.nerdvpn.de/user/dopaminedune) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncs4vxs/?context=3#ncs4vxs "Sep 06 2025, 19:21:23 UTC")
-> > 
+> >
 > > > the term 'second Brain' is framing. The label itself primes people to expect cognition, not just storage.
-> > 
+> >
 > > The iphone manufacturing company name is Apple. Can you explain to me when people hear the name Apple, Why do they now try to eat the phone? Shouldn't this be the default behaviour of all humans according to your logic? Does it not primes people to expect edible fruit.
-> > 
+> >
 > > > People confuse hours of tinkering with progress even when no genuine insight comes out of it.
-> > 
+> >
 > > Speak for yourself, you don't represent all the 8 billion people on the planet.
-> > 
+> >
 > > > *Often people treat external tools as a part of their own thinking ( extended mind hypothesis)*. Whether or not AI ' belongs' to the user isn't the point.
-> > 
+> >
 > > So, your own **extended mind hypothesis** is an evidence that the term **second brain** is absolutely legitimate and not misleading marketing. Thanks for doing the work for me. Your silly game is over.
-> > 
+> >
 > > > the 'Second Brain' system sells productive outcomes.
-> > 
+> >
 > > No, it doesn't sell an outcome. and it definitely does not guarantee any outcome. This is where you started imagining things.
-> > 
+> >
 > > > You'll probably read this and think I'm implying you're a moron….That's the tricky thing about the Dunning Kruger effect: it doesn't announce itself, it just leaks out
-> > 
+> >
 > > You're a classic example of someone who **sold his common sense for psychological jargons**. And someone who **sold his first brain for his second brain**.
-> > 
+> >
 > > > •
-> > > 
+> > >
 > > > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncs8r8x/?context=3#ncs8r8x "Sep 06 2025, 19:41:33 UTC") edited 22d ago
-> > > 
+> > >
 > > > You're mixing apples and iPhones in more ways than one.
-> > > 
+> > >
 > > > > The iphone manufacturing company name is Apple. Can you explain to me when people hear the name Apple, Why do they now try to eat the phone? Shouldn't this be the default behaviour of all humans according to your logic? Does it not primes people to expect edible fruit.
-> > > 
+> > >
 > > > False equivalence. Product names don't work the same as conceptual metaphors. Nobody expects to eat an iPhone because the category is obvious (phones not fruit). But when you call a productivity tool a "brain" it does set up cognitive expectations thinking, creativity, memory. That's not me imagining things that's framing theory 101 in psychology.
-> > > 
+> > >
 > > > > Speak for yourself, you don't represent all the 8 billion people on the planet.
-> > > 
+> > >
 > > > I never claimed to. I'm describing common patterns of bias (effort justification, collector fallacy, apophenia). These are well documented, not personal anecdotes. If you don't experience them, great. That doesn't erase the psychology for everyone else.
-> > > 
+> > >
 > > > > So, your own **extended mind hypothesis** is an evidence that the term **second brain** is absolutely legitimate and not misleading marketing. Thanks for doing the work for me. Your silly game is over.
-> > > 
+> > >
 > > > No. Extended mind explains why people experience tools as cognitive extensions it doesn't prove the metaphor is accurate. A prosthetic leg extends mobility, but it's not the same as a biological leg. Likewise, Obsidian can feel brain like, but it doesn't literally "think." That's the nuance.
-> > > 
+> > >
 > > > Btw it's 'is evidence' not 'is an evidence'
-> > > 
+> > >
 > > > > No, it doesn't sell an outcome. and it definitely does not guarantee any outcome. This is where you started imagining things.
-> > > 
+> > >
 > > > Then why do all the courses, books, and YouTube gurus market it as "unlocking your creativity, connecting your thoughts, surfacing insights"? That's exactly the promise being sold. It's marketed like a personal AI long before AI was mainstream. Pretending otherwise is selective blindness.
-> > > 
+> > >
 > > > Finally, calling psychological concepts "jargon" doesn't make them go away. Biases don't stop existing just because you don't like the vocabulary. If anything, dismissing them outright is a textbook case of the Dunning Kruger effect in action: overconfidence in common sense, underestimation of actual research.
-> > > 
+> > >
 > > > So no, I haven't sold my brain. But I'll admit after reading your analogies, I did consider leasing out a few neurons just for you.
-> > > 
+> > >
 > > > > •
-> > > > 
+> > > >
 > > > > [u/dopaminedune](https://reddit.nerdvpn.de/user/dopaminedune) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncs9aen/?context=3#ncs9aen "Sep 06 2025, 19:44:17 UTC")
-> > > > 
+> > > >
 > > > > Stop overcompensating. You lost the case. It was not your day. Try your fraudulent manipulation again some other day.
-> > > > 
+> > > >
 > > > > By the way, thanks to ChatGPT for writing your post and comments. You are the kind that will go extinct because of AI.
-> > > > 
+> > > >
 > > > > > •
-> > > > > 
+> > > > >
 > > > > > [u/jerr9185](https://reddit.nerdvpn.de/user/jerr9185) [22d ago](https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/ncscnbp/?context=3#ncscnbp "Sep 06 2025, 20:01:48 UTC")
-> > > > > 
+> > > > >
 > > > > > Translation: 'I ran out of arguments so I'll just declare victory'
-> > > > > 
+> > > > >
 > > > > > Classic argument by assertion. Screaming ' you lost ' enough times till it sticks. Might work in a playground.
-> > > > > 
+> > > > >
 > > > > > And just for you ad hominem fallacy. When you can't dismantle the points you attack the person.
-> > > > > 
+> > > > >
 > > > > > > You are the kind that will go extinct because of AI.
-> > > > > 
+> > > > >
 > > > > > Bold prediction if it wipes me out it'll surely take your ' Apple = iPhone = edible fruit ' logic

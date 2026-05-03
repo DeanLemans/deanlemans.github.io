@@ -1,16 +1,16 @@
 ---
 title: The Schooling system is shit
-source: https://digdeeper.club/articles/school.xhtml
-author:
-created: 2025-10-24
-description:
 tags:
   - clippings
-modified: 2026-04-19
+source: https://digdeeper.club/articles/school.xhtml
+modified: 2026-05-03
 id: 01KQQV6TTNT4XNRT5GABBSWNED
+description:
+created: 2025-10-24
+author:
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -232,12 +232,12 @@ Don't forget that - in school - the student is forced to meet up with his bullie
 
 [And another](https://heyugly.org/where-bullying-happens-most/) [(archive)](https://web.archive.org/web/20241115004833/https://heyugly.org/where-bullying-happens-most/) [(MozArchive)](https://digdeeper.club/MozArchives/school/48.maff):
 
-> According to the students, the top five ranking areas where bullying happens the most are:  
-> 
-> 1\. School Playground,  
-> 2\. School Bus,  
-> 3\. School Hallway,  
-> 4\. Self-Bullying, and  
+> According to the students, the top five ranking areas where bullying happens the most are:
+>
+> 1\. School Playground,
+> 2\. School Bus,
+> 3\. School Hallway,
+> 4\. Self-Bullying, and
 > 5\. School Bathroom.
 
 In fact, even when I explicitly search for bullying outside of schools I am getting school-related results [like this](https://www.secureteen.com/bullying-prevention/fight-the-menace-of-bullying-outside-schools/) [(archive)](https://web.archive.org/web/20250807163415/https://www.secureteen.com/bullying-prevention/fight-the-menace-of-bullying-outside-schools/) [(MozArchive)](https://digdeeper.club/MozArchives/school/49.maff):
@@ -392,7 +392,7 @@ And that is why the sick are trashed (or at least ignored) by even [the progress
 	> - Preparing food that is food-allergy safe
 	> - Teaching staff members and students about bullying and inclusion
 	> - Educating staff members to be sensitive to chronic illnesses
-	> - Having a school nurse on campus throughout the day  
+	> - Having a school nurse on campus throughout the day
 	Sounds costly in terms of time, effort, money, required expertise, organization…and almost certainly won't be done adequately in most schools. Besides, how could you possibly prevent all the hundreds of kids there from [bullying](https://digdeeper.club/articles/#bullying) the sick? But even if you did manage to bring about the entirety of this list, what would it accomplish? Because none of it removes the burden of the sick kids having to enter school, sit there for seven days a week, five hours per day, writing down stuff they don't care about. They still cannot focus on their disease, they cannot rest at home. Which is the real problem.
 
 - [How robots could help chronically ill kids attend school](https://theconversation.com/how-robots-could-help-chronically-ill-kids-attend-school-69197) [(archive)](https://web.archive.org/web/20240414035115/https://theconversation.com/how-robots-could-help-chronically-ill-kids-attend-school-69197) [(MozArchive)](https://digdeeper.club/MozArchives/school/22.maff)
@@ -555,7 +555,7 @@ You won't understand how happy I got when I saw this post. Finally, someone in t
 
 And 10 minutes would somehow make it acceptable? The kid already spent 7 hours in a torture chamber. Why burden it more? Currently, this response has 5165 upvotes, yet I have no idea what's so good about it. Let's tackle a few [more responses](https://old.reddit.com/r/antiwork/comments/166jqr7/i_feel_like_im_abusinggrooming_my_son/jyl26pz/) [(MozArchive)](https://digdeeper.club/MozArchives/school/24.maff), to show this mindset is not just a one off thing:
 
-> Yes, this, yes!  
+> Yes, this, yes!
 > I am a school counselor and I will 100% tell my own kids to walk away from a homework assignment that stresses them out. The academic support is at their school and will resume when they return in the morning, they get to be a kid at night.
 
 Amazing. You're such a great parent, freeing your kids from homework. Yet you keep sending them to the torture chamber. They are slaves during the day, yet should be grateful they get to be a kid at night. Hooray! [Moving on](https://old.reddit.com/r/antiwork/comments/166jqr7/i_feel_like_im_abusinggrooming_my_son/jyl7zsn/) [(MozArchive)](https://digdeeper.club/MozArchives/school/25.maff)…
@@ -574,10 +574,10 @@ Well, good for him that he doesn't feel the need to complete useless assignments
 
 Don't get me wrong, not everyone in that thread was so disgusting. Many people questioned parts of the schooling system, but **no one agreed the entire thing is a torture center** - though [some went dangerously close](https://old.reddit.com/r/antiwork/comments/166jqr7/i_feel_like_im_abusinggrooming_my_son/jyk960e/) [(MozArchive)](https://digdeeper.club/MozArchives/school/28.maff):
 
-> This is absolutely vomit inducing.  
-> Let me be clear, I am in no way calling out OP. I am calling out the bullshit system that we are all a slave to. Look at how young they are breaking down the spirit these days in an effort to train humans to be slaves of the corporate overlords.  
-> 
-> Makes me sick.  
+> This is absolutely vomit inducing.
+> Let me be clear, I am in no way calling out OP. I am calling out the bullshit system that we are all a slave to. Look at how young they are breaking down the spirit these days in an effort to train humans to be slaves of the corporate overlords.
+>
+> Makes me sick.
 > OP I feel for you, and I am sorry for your situation.
 
 The left still believes in simple solutions for the problems of schooling - such as meeting teachers, forging signatures, moving countries (because they consider it an exclusively American problem, which it obviously isn't) etc. Even the person above, I really doubt wants to get rid of schooling entirely. And remember, **this thread is the only one I've seen to criticize school fundamentally** in my years on antiwork and LateStageCapitalism, among others (the OP also got deleted for being off-topic - meaning only the abuse of adults matters, children need to shut up and suffer). The rest - as I've said - just [shill the essentiality of the schooling system](https://www.wsws.org/en/articles/2025/05/19/vign-m19.html) [(archive)](https://web.archive.org/web/20250519052612/https://www.wsws.org/en/articles/2025/05/19/vign-m19.html) [(MozArchive)](https://digdeeper.club/MozArchives/school/42.maff) (The financial elite, she concluded, "are focused on cheap labor. They think 'we don't need them to be educated. If they're educated, they're going to be more resistant.' ), but complain about funding (California Governor Gavin Newsom, a Democrat, is aiming to slash at least $129 million from the University of California system, another $144 million from the California State University system and cuts in K-12, and over $70 million in foster youth education and support programs). I think it's because they (consciously or not) consider kids as below adults, or not even really people. Yet they will move mountains for any supposed injustice a woman or transgender has to deal with, while ignoring (or more like supporting) the hundreds of millions of kids being tortured 7 hours per day, 5 days per week, 9.5 months per year, for 9 years at least - without the tiniest possibility of escape. Absolutely insane.
@@ -598,9 +598,9 @@ Why do you think there won't be any new scientists? Why do you think kids don't 
 
 Does it matter that they are able to explain what makes a dog a dog? How does it help them do well in life? As for critical thinking, school never taught that and in fact inhibits it.
 
-> Without critical thinking  
-> 1\. People become more selfish and only care about what's best for them  
-> 2\. People easily fall for conspiracies and propaganda  
+> Without critical thinking
+> 1\. People become more selfish and only care about what's best for them
+> 2\. People easily fall for conspiracies and propaganda
 
 I don't even think critical thinking helps with the first point. If anything, someone using pure reasoning will realize that being completely selfish and manipulative will bring the most "success" these days. It's the profit dragon reaching the peak of its rampage that [shoves people down that path](https://digdeeper.club/articles/capitalismcancer.xhtml#video). People will go wherever incentives lead them, unless they have some internal morality or identity that are strong enough to stand up to them. As for point two, critical thinking [creates conspiracy theorists](https://digdeeper.club/articles/tricks.xhtml#why).
 
@@ -608,7 +608,7 @@ I don't even think critical thinking helps with the first point. If anything, so
 
 Has it really? Or are the kids simply using AI to solve tasks they really don't care about? What would happen if they were allowed to research topics they are actually interested in?
 
-> The more i learn about the situation now, the more horrified I get.  
+> The more i learn about the situation now, the more horrified I get.
 > I was in elementary school in the 90s, and I know literature was already on the way out because I've never read any of the books people say were "required reading" and I can't even remember any of the legendary authors whose works I've never read. *\[…\]*
 
 I never liked literature. Because the stories in those several hundred page books just didn't interest me at all, weren't useful, and added to an already [giant burden](https://digdeeper.club/articles/#time) of the curriculum. Why is it absolutely necessary for children to read them? Leave them alone, they'll find their own things to read.
@@ -634,19 +634,19 @@ What is high quality education according to this person? Again, none of the stuf
 Not this shit again. When did it ever teach critical thinking skills?
 
 > I just found out today, my nephew, age 8, can't read or write.
-> 
+>
 > He speaks very well, and articulate his thoughts well.
-> 
+>
 > When I found out today, I was trying to help him read.
-> 
+>
 > He had trouble pronouncing words that we've covered.
-> 
+>
 > *\[…\]*
-> 
+>
 > At his age, I was reading 1-2 grade levels ahead. Our education system is rock bottom at best
-> 
+>
 > Although, he is doing amazing in math.
-> 
+>
 > We will keep at it. I am already planning reading drills and lessons.
 
 How does this person know it's because of the education system? Maybe her son is just not good at reading. Not everyone is the same, yet school treats everyone as the same. But, good for this person that she took the problem into her own hands. See? School isn't necessary after all if parents actually start caring about their kids.

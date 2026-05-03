@@ -4,12 +4,12 @@ tags:
   - clippings
 source: https://purarue.xyz/x/notes/programming/languages/shell/alternative_shells/
 published:
-modified: 2026-04-19
+publish: true
+modified: 2026-05-03
+id: 01KQQV6TWFPNPRRFGKPFGQVG06
 description: Alternative Shells
 created: 2026-04-19
 author:
-publish: true
-id: 01KQQV6TWFPNPRRFGKPFGQVG06
 ---
 
 > [!danger] NOT MINE

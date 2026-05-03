@@ -1,26 +1,27 @@
 ---
-title: noKYC Only
-source: https://bitcoiner.guide/nokyconly/
-author:
-  - "[[QnA]]"
-created: 2025-10-31
-description: Avoid the creep
-modified: 2026-04-19
-publish: true
+title: "noKYC Only  "
 tags:
   - clippings
+source: https://bitcoiner.guide/nokyconly/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TT8YFYMAVXTPHS5S0MW
+description: Avoid the creep
+created: 2025-10-31
+author:
+  - "[[QnA]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
-# noKYC Only  
+# noKYC Only
 
-KYC or ‘Know your customer’ is a regulation that any businesses with a banking relationship has to abide by. Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has ‘suitable’ information on every customer they serve.
+KYC or 'Know your customer' is a regulation that any businesses with a banking relationship has to abide by. Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
 
-Within the Bitcoin space, ‘creeping KYC’ is a disease that is slowly spreading. If you purchase through one of these regulated entities, you essentially tag your bitcoin addresses to your personal identity. This makes it trivial for chain surveillance firms, the companies they work with, or worse, governments, to potentially…
+Within the Bitcoin space, 'creeping KYC' is a disease that is slowly spreading. If you purchase through one of these regulated entities, you essentially tag your bitcoin addresses to your personal identity. This makes it trivial for chain surveillance firms, the companies they work with, or worse, governments, to potentially…
 
 - Track your spending habits
 - Prevent you from using other regulated services
@@ -28,7 +29,7 @@ Within the Bitcoin space, ‘creeping KYC’ is a disease that is slowly spreadi
 - Come after you for tax liabilities
 - Generally know more about you than they should
 
-We get it, auto DCA from a Bitcoin only company makes ‘stacking sats’ super simple and easy. We aren’t saying these companies are bad actors, far from it. We merely want you to think about what you have to give up or risk for this simplicity. Read on and come to your own conclusion…
+We get it, auto DCA from a Bitcoin only company makes 'stacking sats' super simple and easy. We aren't saying these companies are bad actors, far from it. We merely want you to think about what you have to give up or risk for this simplicity. Read on and come to your own conclusion…
 
 ---
 
@@ -57,7 +58,7 @@ KYC information ties your personal identity to any bitcoin you purchase. The exc
 - Your banking information
 - Where you withdraw to
 
-A central party holding millions of people’s sensitive and personal information creates a huge honey pot at risk of being stolen due to incompetent security practices at some of these companies. How would you feel if your name, address, photo and exactly how much Bitcoin you own was stolen from an exchange and being sold to the highest bidder on a darknet market? This sounds like scaremongering but data leaks happen all too [often](https://twitter.com/search?q=reminder%20from%3A%40bitcoinq_a&src=typed_query&f=live)!
+A central party holding millions of people's sensitive and personal information creates a huge honey pot at risk of being stolen due to incompetent security practices at some of these companies. How would you feel if your name, address, photo and exactly how much Bitcoin you own was stolen from an exchange and being sold to the highest bidder on a darknet market? This sounds like scaremongering but data leaks happen all too [often](https://twitter.com/search?q=reminder%20from%3A%40bitcoinq_a&src=typed_query&f=live)!
 
 ### Censorship
 
@@ -65,11 +66,11 @@ Most of these exchanges work, in some shape or form, directly with chain surveil
 
 ### 6102 type order
 
-[Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102) is an executive order signed on April 5, 1933, by US President Franklin D. Roosevelt “forbidding the hoarding of gold coin, gold bullion, and gold certificates within the continental United States.”
+[Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102) is an executive order signed on April 5, 1933, by US President Franklin D. Roosevelt "forbidding the hoarding of gold coin, gold bullion, and gold certificates within the continental United States."
 
-If the government in your country were to exercise a similar order against Bitcoin, anyone who bought bitcoin via a KYC source would be an easy target for confiscation. The excuse that you ‘lost it in a boating accident’ isn’t going to get you far when under duress from a three letter agency. Tax agencies worldwide put the onus on the individual to prove innocence, it isn’t for them to prove that you haven’t paid tax.
+If the government in your country were to exercise a similar order against Bitcoin, anyone who bought bitcoin via a KYC source would be an easy target for confiscation. The excuse that you 'lost it in a boating accident' isn't going to get you far when under duress from a three letter agency. Tax agencies worldwide put the onus on the individual to prove innocence, it isn't for them to prove that you haven't paid tax.
 
-Not to mention the fact that they will know the addresses you withdrew to and could watch those for any movements (The blockchain is completely transparent don’t forget).
+Not to mention the fact that they will know the addresses you withdrew to and could watch those for any movements (The blockchain is completely transparent don't forget).
 
 Coinjoin can obfuscate the final address of your coins if you practice good postmix spending habits, but this does not change the fact that they know exactly how much you bought and when you bought it.
 
@@ -90,23 +91,23 @@ You can find more at [KYC, not me!](http://kycnot.me/) and [here](https://github
 
 ### Bitcoin ATMs
 
-ATM’s are another great option, but use with caution as some still require varying levels of identification depending on the amount being purchased. A lot will just require a phone number so ensure you use one that is not tagged to your personal identity. Check out [Coin ATM Radar](https://coinatmradar.com/) for a great overview of what is available in your local area.
+ATM's are another great option, but use with caution as some still require varying levels of identification depending on the amount being purchased. A lot will just require a phone number so ensure you use one that is not tagged to your personal identity. Check out [Coin ATM Radar](https://coinatmradar.com/) for a great overview of what is available in your local area.
 
 ---
 
-## Doesn’t buying no-KYC bitcoin come with a hefty premium?
+## Doesn't buying no-KYC bitcoin come with a hefty premium?
 
-It is absolutelty true that you will see some offers to purchase bitcoin on P2P exchanges for some **very** high premiums over the spot price. However if you are patient enough you can pick some up at spot or just marginally (1-4%) above. Both Bisq and Hodl Hodl allow you to create a ‘Buy offer’ which is essentially, you telling the market that you want to buy ‘X’ amount of bitcoin at ‘X%’ relative to the spot price. All you need to do then is wait for a seller to accept your offer and complete the trade.
+It is absolutelty true that you will see some offers to purchase bitcoin on P2P exchanges for some **very** high premiums over the spot price. However if you are patient enough you can pick some up at spot or just marginally (1-4%) above. Both Bisq and Hodl Hodl allow you to create a 'Buy offer' which is essentially, you telling the market that you want to buy 'X' amount of bitcoin at 'X%' relative to the spot price. All you need to do then is wait for a seller to accept your offer and complete the trade.
 
 We personally take this approach and have never waited for more than a day for someone to accept the offer of around 2-4% premium, which we are all too happy to pay for the vast increase in privacy gained.
 
 ---
 
-## A thought experiment regarding the no-KYC ‘premium’
+## A thought experiment regarding the no-KYC 'premium'
 
 If you ever sell KYC bitcoin, depending on your jurisdiction, you will likely pay around 20% of your gain in Capital Gains Tax (or equivalent VAT/GST obligations). If you buy a 1 BTC at $10,000 and sell at $20,000, you are liable to pay around $2000 in taxes.
 
-If you bought that same 1 BTC with a 4% premium over the $10,000 spot price you would have paid $10,400 for the same amount of sats and the only person who knows you own them is your trade counterparty. You are still required to pay Capital Gains Tax (or equivalent), but it’s highly unlikely that your trade counterparty is subject to KYC information obligations.
+If you bought that same 1 BTC with a 4% premium over the $10,000 spot price you would have paid $10,400 for the same amount of sats and the only person who knows you own them is your trade counterparty. You are still required to pay Capital Gains Tax (or equivalent), but it's highly unlikely that your trade counterparty is subject to KYC information obligations.
 
 ---
 
@@ -123,7 +124,7 @@ There are a number of ways, each with varying levels of difficulty and complexit
 
 ---
 
-## What is ‘shotgun’ KYC?
+## What is 'shotgun' KYC?
 
 This is where an exchange offers account signup without KYC and subsequently requests it from users when they try to withdraw funds. You can avoid this by steering clear of centralised exchanges with a single point of failure and sticking with P2P options listed above.
 
@@ -135,7 +136,7 @@ Once you have purchased Bitcoin from a KYC source you can **never** undo that. N
 
 ### Go back out the way you came and start fresh
 
-Sell your KYC bought coins back at the exchange you bought them from. Depending on your jurisdiction, this will likely create a taxable event that you will need to contend with but you will then have a paper trail to prove you no longer own those coins. This process provides you with a ‘clean start’ from which you can begin obtaining bitcoin via a non-KYC source, safe in the knowledge that you are no longer at vulnerable to the risks outlined above (apart from the data leaks as the regulated entities are required by law to hold these records for a while).
+Sell your KYC bought coins back at the exchange you bought them from. Depending on your jurisdiction, this will likely create a taxable event that you will need to contend with but you will then have a paper trail to prove you no longer own those coins. This process provides you with a 'clean start' from which you can begin obtaining bitcoin via a non-KYC source, safe in the knowledge that you are no longer at vulnerable to the risks outlined above (apart from the data leaks as the regulated entities are required by law to hold these records for a while).
 
 ### Keep two stacks
 
@@ -149,11 +150,11 @@ This is more on the extreme end of the spectrum, but moving jurisdictions could 
 
 ---
 
-## KYC is dangerous, ineffective and puts people at risk.
+## KYC is dangerous, ineffective and puts people at risk
 
-### Avoid the creep.
+### Avoid the creep
 
-### no-KYC only.
+### no-KYC only
 
 ![](https://bitcoiner.guide/assets/img/logo%20dark.png)
 

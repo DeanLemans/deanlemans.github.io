@@ -1,17 +1,18 @@
 ---
 title: A Declaration of the Independence of Cyberspace
-source: https://www.eff.org/cyberspace-independence
-author:
-  - "[[Electronic Frontier Foundation]]"
-created: 2025-10-29
-description: by John Perry Barlow Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.We have no elected...
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://www.eff.org/cyberspace-independence
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TWHFJM05JTKK3XZFWDM
+description: by John Perry Barlow Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.We have no elected...
+created: 2025-10-29
+author:
+  - "[[Electronic Frontier Foundation]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -52,7 +53,7 @@ These increasingly hostile and colonial measures place us in the same position a
 
 We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.
 
-Davos, Switzerland  
+Davos, Switzerland
 February 8, 1996
 
 ![](https://anon-stats.eff.org/js/?idsite=1&rec=1&url=https%3A//www.eff.org/cyberspace-independence&action_name=A%20Declaration%20of%20the%20Independence%20of%20Cyberspace%20%7C%20Electronic%20Frontier%20Foundation&urlref=https%3A%2F%2Fstarbreaker.org%2F&dimension2=page&dimension3=90139)

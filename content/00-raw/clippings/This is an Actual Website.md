@@ -1,18 +1,18 @@
 ---
 title: This is an Actual Website
-source: https://actualwebsite.org/
-author:
-  - "[[Matthew Graybosch]]"
-created: 2025-10-26
-description: A less profane and non-Oedipal manifesto for a better World Wide Web
 tags:
   - clippings
+source: https://actualwebsite.org/
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TTHH4QKV5BHB0NM6H7R
+description: A less profane and non-Oedipal manifesto for a better World Wide Web
+created: 2025-10-26
+author:
+  - "[[Matthew Graybosch]]"
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -79,11 +79,11 @@ This is a real, sensibly dressed website. Look at it. If a college dropout like 
 
 I won't claim that this is 100% objective fact. It is my opinion alone, but free to a good home. While this had originally been a parody and response to more profane and oedipal sites, it's become more than that to me. I wouldn't have spent the weekend after my wife and I had been sick with influenza writing all of this text otherwise.
 
-> The World Wide Web:  
-> a communications medium barely alive.  
-> We can fix it.  
-> We have the technology.  
-> We can make it better than it was.  
+> The World Wide Web:
+> a communications medium barely alive.
+> We can fix it.
+> We have the technology.
+> We can make it better than it was.
 > Better, stronger, faster…
 
 a parody of The Six Million Dollar Man 's opening monologue

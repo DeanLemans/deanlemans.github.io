@@ -1,22 +1,22 @@
 ---
 title: Keep a Changelog
-source: https://keepachangelog.com/en/1.1.0/
-author:
-created: 2025-09-29
-description: Don’t let your friends dump git logs into changelogs.
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://keepachangelog.com/en/1.1.0/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TVB3NPADVZP26JQJJVG
+description: Don’t let your friends dump git logs into changelogs.
+created: 2025-09-29
+author:
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
 # Keep a Changelog
-
 
 ### What is a Changelog?
 

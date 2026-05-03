@@ -1,16 +1,17 @@
 ---
 title: The proper design process in web development
-source: https://unixdigest.com/articles/the-proper-design-process-in-web-development.html
-author:
-created: 2025-11-04
-description:
 tags:
   - clippings
+source: https://unixdigest.com/articles/the-proper-design-process-in-web-development.html
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TTT4T9WA45NXECEF7W9
+description:
+created: 2025-11-04
+author:
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -76,7 +77,7 @@ I also know of other people around the world, in the US, Belgium, Scotland, Engl
 In the US people typically pay twice as much as Europe for high speed Internet, when they can even get it. Across the country, internet service providers are simulating that there is a major competition and are keeping high bandwidth Internet back. It's a nationwide problem, even in Silicon Valley where you'd think Internet might be great.
 
 > I pay $100 a month for Internet. My husband, a video producer, can't upload his videos to the company's servers and there's no point in the kids even trying to stream games to YouTube or Twitch.
-> 
+>
 > ― Internet user from the US
 
 It's a humbling experience when you are used to fast Internet to browse the Internet on an old computer or just slow Internet connection. You can try it out yourself, just use the throttling feature in the developer tools for [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/) or [Chrome/chromium](https://developer.chrome.com/docs/devtools/overview/). Now, browse the Internet like that for a couple of hours, try to do the stuff you regularly do. It will really make you appreciate so-called modern web development (sarcasm, just in case you didn't get that).
@@ -91,12 +92,12 @@ Take a look at this blog post (contains a relevant YouTube video) by Andy Bell w
 
 Ingenious software is simple and simplicity is the heart of the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_Philosophy). The more code lines you have removed, the more progress you have made. As the number of lines of code in your software shrinks, the more skilled you have become and the less your software sucks. So you need to ask yourself: **Do I really need that?**
 
-> We used to sit around in the UNIX Room saying, "What can we throw out? Why is there this option?" It's often because there is some deficiency in the basic design — you didn't really hit the right design point. Instead of adding an option, think about what was forcing you to add that option.  
->   
+> We used to sit around in the UNIX Room saying, "What can we throw out? Why is there this option?" It's often because there is some deficiency in the basic design — you didn't really hit the right design point. Instead of adding an option, think about what was forcing you to add that option.
+>
 > ― Doug McIlroy.
 
 > Modern programming scares me in many respects, where they will just build layer after layer after layer that does nothing except translate.
-> 
+>
 > ― Ken Thompson
 
 A website is basically a document. Documents published on the Internet are in HTML, which is a standard [markup language](https://en.wikipedia.org/wiki/Markup_language) for documents designed to be displayed in a web browser. HTML has structure, e.g. "this is a title", "this is a link", and "this is a paragraph". HTML is responsive by default and it is very fast. Take a look at [this basic HTML page](https://unixdigest.com/basic-html-example.html) and try to change the size of the view screen. It works everywhere on any size of screen.
@@ -203,11 +204,11 @@ Good software development, which involves web development, is a [decision making
 
 Let's consider the bare minimum in the process.
 
-1. **Determine the requirements**  
+1. **Determine the requirements**
 	First we need to determine clearly what kind of problem we're trying to solve. Are we building a webshop or the next iteration of Google Maps?
-2. **Analyze the problem**  
+2. **Analyze the problem**
 	So we're building a webshop. What features does this webshop require and what challenges does it provide? Users potential geographical location is relevant. The importance of performance, security, and convenience must be determined in relation to all these issues.
-3. **Plan or design the software-based solution**  
+3. **Plan or design the software-based solution**
 	Determine what solution best solves the problem in optimal balance between performance, security, and convenience.
 4. **Develop the software**
 5. **Test the software**
@@ -224,11 +225,11 @@ Since a lot of design principles only concern theoretical problems we need to ge
 
 Two things help greatly in discarding useless principles:
 
-1. **Pragmatic experience**  
-	If we have no experience, we need to [stand on the shoulders of others](https://idioms.thefreedictionary.com/stand+on+someone%27s+shoulders). " *I am building X and I am trying to achieve Y, will principle Z benefit me in relation to that? Why? How? What are the pros and cons?*"  
+1. **Pragmatic experience**
+	If we have no experience, we need to [stand on the shoulders of others](https://idioms.thefreedictionary.com/stand+on+someone%27s+shoulders). " *I am building X and I am trying to achieve Y, will principle Z benefit me in relation to that? Why? How? What are the pros and cons?*"
 	We need to search for people with real life experience and avoid code methodology cult members.
-2. **Investigation**  
-	Investigation includes both study and a [trial and error](https://en.wikipedia.org/wiki/Trial_and_error) approach during testing, which eventually will lead to experience.  
+2. **Investigation**
+	Investigation includes both study and a [trial and error](https://en.wikipedia.org/wiki/Trial_and_error) approach during testing, which eventually will lead to experience.
 	If you have a small application that only does a simple set of tasks, do you really need to consider e.g. the principle of separation of concern (SoC)? Does it make the maintainability of the software more convenient? Six months from now, will it help you understand your code better? Does it make the software run less efficient? Try it out and compare the results.
 
 ## Final comments
@@ -236,7 +237,7 @@ Two things help greatly in discarding useless principles:
 As software developers we need to be able to take at least a tiny amount of pride in the work we do and we need to try our best to make good solutions. Why should always strive to [keep our dignity and not sell our souls](https://unixdigest.com/articles/this-is-how-you-keep-your-dignity-and-not-sell-your-soul.html).
 
 > I am just doing the job I am paid to do. If I don't do it, someone else will anyway.
-> 
+>
 > ― Typical excuse stated by people who compromise their integrity
 
 We also need to have an engineering attitude towards technology. We need to be curious about HOW the technology works and WHY. It is important in order to use the right tools and use them correctly, we cannot do that if we don't understand the tech.

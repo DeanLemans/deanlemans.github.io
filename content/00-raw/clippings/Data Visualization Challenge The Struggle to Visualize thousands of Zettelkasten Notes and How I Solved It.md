@@ -1,17 +1,18 @@
 ---
 title: Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It
-source: https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/
-author:
-  - "[[Wasi's Log]]"
-created: 2025-11-16
-description: My Obsidian vault had grown beyond 6,000 notes, and opening the graph view became a frustrating chore. I wanted to explore the connections without waiting for it to catch up. By converting all my notes to JSON, generating metadata and link CSVs, and loading them into Cosmograph, I could finally pan, zoom, and explore my…
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TW9HRSRGJMK5NZJAAA6
+description: My Obsidian vault had grown beyond 6,000 notes, and opening the graph view became a frustrating chore. I wanted to explore the connections without waiting for it to catch up. By converting all my notes to JSON, generating metadata and link CSVs, and loading them into Cosmograph, I could finally pan, zoom, and explore my…
+created: 2025-11-16
+author:
+  - "[[Wasi's Log]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -26,9 +27,9 @@ I crossed thousands of notes quickly, most of them grew out of my daily life, wo
 
 ## The obsidian Graphview experience
 
-At that point, my primary zettelkasten vault had become more than a collection of text; it was a dense web of knowledge that I wanted to see as a whole. That’s when I ran into a problem.
+At that point, my primary zettelkasten vault had become more than a collection of text; it was a dense web of knowledge that I wanted to see as a whole. That's when I ran into a problem.
 
-It seemed to me that Obsidian’s graph view is built for exploration, not for heavy-duty visualization. At a small scale it shines. You can see connections between notes instantly, zoom into clusters, and follow links that you might have forgotten. It works well when you have a few hundred or even a thousand notes.
+It seemed to me that Obsidian's graph view is built for exploration, not for heavy-duty visualization. At a small scale it shines. You can see connections between notes instantly, zoom into clusters, and follow links that you might have forgotten. It works well when you have a few hundred or even a thousand notes.
 
 The problem starts when the network grows too large. Rendering thousands of nodes and edges at once pushes the limits of how Obsidian handles the graph. The layout becomes sluggish even in a [Mac mini M4](https://amzn.to/4ml5Dpy), every movement lags, and eventually the app freezes.
 
@@ -38,27 +39,27 @@ Even when it loads, the graph is often too dense to be meaningful. You get a glo
 
 The image of the obsidian vault becoming a giant glowing ball of connections
 
-The Obsidian’s graph view, which I had once admired for showing connections at a glance, could no longer keep up. Opening the graph felt like asking too much of the app. The layout lagged with every zoom or pan, and eventually the entire view became almost unusable.
+The Obsidian's graph view, which I had once admired for showing connections at a glance, could no longer keep up. Opening the graph felt like asking too much of the app. The layout lagged with every zoom or pan, and eventually the entire view became almost unusable.
 
-Splitting the notes into separate vaults gave me temporary relief, but as the collection kept expanding the problem returned. For example, I had to create separate vaults for notes related to Islamic studies alone, the following image is for the “smallest vault” containing notes on a single book named “Al Quran”. The core religious text book of Islam. There are currently 6236 notes in this vault in total.
+Splitting the notes into separate vaults gave me temporary relief, but as the collection kept expanding the problem returned. For example, I had to create separate vaults for notes related to Islamic studies alone, the following image is for the "smallest vault" containing notes on a single book named "Al Quran". The core religious text book of Islam. There are currently 6236 notes in this vault in total.
 
 ![The obsidian graph view of the vault Quran](https://wasi0013.com/wp-content/uploads/2025/09/image-10.png?w=1024)
 
 The obsidian graph view of the vault Quran
 
-The graph view was important to me, it was a way to spot hidden clusters and relationships that text search alone couldn’t reveal. For example, these are the relevant notes for the keyword charity from this vault.
+The graph view was important to me, it was a way to spot hidden clusters and relationships that text search alone couldn't reveal. For example, these are the relevant notes for the keyword charity from this vault.
 
 ![](https://wasi0013.com/wp-content/uploads/2025/09/image-13.png?w=1024)
 
 Zooming further to reveal the actual subtle clusters formed here freezes the vault.
 
-So I started looking for tools that could handle the weight of thousands of interconnected notes without grinding my machine to a halt. I tried most of the tricks found on reddit threads but no luck. Seemed like Obsidian’s graph engine isn’t designed for tens of thousands of relationships. For serious large-scale visualization, it quickly hits a ceiling.
+So I started looking for tools that could handle the weight of thousands of interconnected notes without grinding my machine to a halt. I tried most of the tricks found on reddit threads but no luck. Seemed like Obsidian's graph engine isn't designed for tens of thousands of relationships. For serious large-scale visualization, it quickly hits a ceiling.
 
 ## Searching for alternatives
 
 [**Gephi**](https://gephi.org/) could technically handle big networks, but importing notes and keeping the connections updated became tedious. **[Neo4j Bloom](https://neo4j.com/product/bloom/)** looked promising, but it required setting up a database and learning a new workflow that felt overkill for my use case. I also tested web-based tools like **GraphXR** and **Kumu**, but they either struggled with my dataset size, limited interactivity, or required sign up.
 
-If I turn off the Graph view, rest of the useful Obsidian feature works without the lag. So, I only needed to replace the GraphView feature of obsidian. I needed a simple tool that could handle the scaling issue without freezing. I also tried **[Cosmograph](https://cosmograph.app/)**. It wasn’t perfect, but it handled the data without freezing, let me pan and zoom easily, and gave a clearer sense of the network structure than anything I had tried so far.
+If I turn off the Graph view, rest of the useful Obsidian feature works without the lag. So, I only needed to replace the GraphView feature of obsidian. I needed a simple tool that could handle the scaling issue without freezing. I also tried **[Cosmograph](https://cosmograph.app/)**. It wasn't perfect, but it handled the data without freezing, let me pan and zoom easily, and gave a clearer sense of the network structure than anything I had tried so far.
 
 ## Exporting my permanent notes in Markdown to CSVs for Cosmograph visualization
 
@@ -165,7 +166,7 @@ This pair of CSV files is enough to feed into Cosmograph, which renders the enti
 
 ## Visualization of the same vault in Cosmograph
 
-I decided to start small, at least by my standards. Instead of loading my entire Zettelkasten, I picked my smallest vault the one that holds my permanent notes for a long-term project on the book *Al Quran*. Even this “small” vault had grown large enough to overwhelm Obsidian’s graph view (see the screenshots of the earlier section) with `6236` notes that contains more than 27k links.
+I decided to start small, at least by my standards. Instead of loading my entire Zettelkasten, I picked my smallest vault the one that holds my permanent notes for a long-term project on the book *Al Quran*. Even this "small" vault had grown large enough to overwhelm Obsidian's graph view (see the screenshots of the earlier section) with `6236` notes that contains more than 27k links.
 
 For the first time, I could zoom into my Zettelkasten graph without performance issues getting in the way.
 
@@ -183,7 +184,7 @@ With a public data URL, Cosmograph makes it possible to share the visualization 
 
 ## Closing thoughts
 
-This whole exercise started with frustration. I wanted to see the bigger picture of my notes, but Obsidian’s graph view simply could not handle the scale. Cosmograph turned that around. By converting my notes into CSVs and loading them there, I finally had a smooth way to explore even thousands of interconnected entries.
+This whole exercise started with frustration. I wanted to see the bigger picture of my notes, but Obsidian's graph view simply could not handle the scale. Cosmograph turned that around. By converting my notes into CSVs and loading them there, I finally had a smooth way to explore even thousands of interconnected entries.
 
 What stood out to me is that the value of the graph view is not in the aesthetics, but in the utility. It helps me find hidden clusters, trace relationships, and connect ideas that would otherwise remain buried in text search. When the tool works, it gives me back the perspective I had been missing.
 
@@ -191,9 +192,9 @@ For now, I am keeping this workflow for large vaults, while still using Obsidian
 
 ## Wow! You survived the scroll, the lag, and the clusters. What now?
 
-- Try running a similar experiment with your own notes or, data  
+- Try running a similar experiment with your own notes or, data
 	and [share your findings](http://hellowasi.com/contact) with me.
-- Share this idea with a fellow note-taker who’s wrestling with a similar problem.
+- Share this idea with a fellow note-taker who's wrestling with a similar problem.
 - Back up your notes now! Future you will thank you.
 - Stand up, stretch, get hydrated, and take a walk. Go find beautiful patterns in the sky;)
 

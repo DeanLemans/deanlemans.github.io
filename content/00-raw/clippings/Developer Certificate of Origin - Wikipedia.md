@@ -1,18 +1,18 @@
 ---
 title: Developer Certificate of Origin
-source: https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin
-author:
-  - "[[Contributors to Wikimedia projects]]"
-created: 2025-09-29
-description:
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TVZH679984D3JZ9TTX5
+description:
+created: 2025-09-29
+author:
+  - "[[Contributors to Wikimedia projects]]"
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

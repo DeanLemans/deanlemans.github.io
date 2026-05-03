@@ -1,14 +1,15 @@
 ---
 title: zine - personal websites and the law
 source: https://avas.bearblog.dev/zine-law/
+modified: 2026-05-03
+id: 01KQQV6TT2M1TGTRQFTC61BFXF
+description: turned a submission into a zine.
+created: 2025-10-31
 author:
   - "[[ava's blog]]"
-created: 2025-10-31
-description: turned a submission into a zine.
-modified: 2026-04-19
-id: 01KQQV6TT2M1TGTRQFTC61BFXF
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -49,5 +50,5 @@ For ease of access, I've attached the full zine to this post and a text-version 
 
 ![page13](https://bear-images.sfo2.cdn.digitaloceanspaces.com/avas/page13.webp)
 
-> [Reply via email](https://avas.bearblog.dev/zine-law/)  
+> [Reply via email](https://avas.bearblog.dev/zine-law/)
 > Published 26 Aug, 2025

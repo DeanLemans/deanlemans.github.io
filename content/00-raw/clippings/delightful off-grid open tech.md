@@ -1,17 +1,18 @@
 ---
 title: delightful off-grid open tech
-source: https://delightful.coding.social/delightful-off-grid-open-tech/
-author:
-published:
-created: 2026-04-19
-description: Delightful curated lists of free software, open science and information sources.
 tags:
   - clippings
+source: https://delightful.coding.social/delightful-off-grid-open-tech/
+published:
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TTA1TNA12R5EHAZ158T
+description: Delightful curated lists of free software, open science and information sources.
+created: 2026-04-19
+author:
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

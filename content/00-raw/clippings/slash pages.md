@@ -1,16 +1,17 @@
 ---
 title: Slash Pages
-source: https://slashpages.net/
-author:
-created: 2025-10-26
-description: A guide to common pages you can add to your website
 tags:
   - clippings
-modified: 2026-04-19
+source: https://slashpages.net/
 publish: true
+modified: 2026-05-03
 id: 01KQQV6TT68C4RAZKD3ADP5HH0
+description: A guide to common pages you can add to your website
+created: 2025-10-26
+author:
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -171,7 +172,7 @@ May also be covered with [/uses](https://slashpages.net/#uses)
 
 ## /guy or /girl or /bloke or /gal or /your-pronoun-here
 
-> “I’m an insert interest here guy!”
+> "I'm an insert interest here guy!"
 
 - Creator: [Andrew Canion](https://canion.blog/guy)
 
@@ -216,7 +217,7 @@ Similar to [/contact](https://slashpages.net/#contact)
 
 ## /interests
 
-> a place for website authors to list out things they’re passionate about and expound on what it is about those things that excites them
+> a place for website authors to list out things they're passionate about and expound on what it is about those things that excites them
 
 - Creator: [Chris Burnell](https://chrisburnell.com/note/slash-interests/)
 - Directory: [chrisburnell.github.io](https://chrisburnell.github.io/interests-directory/)
@@ -432,7 +433,7 @@ Similar to [/now](https://slashpages.net/#now)
 
 ## /why
 
-> an opportunity to say what you care about, what direction you’re heading, and how you hope to exist in the world. A minifesto on the purpose of your site, or your work
+> an opportunity to say what you care about, what direction you're heading, and how you hope to exist in the world. A minifesto on the purpose of your site, or your work
 
 - Creator: [Mia](https://www.miriamsuzanne.com/2024/07/02/slash-why/)
 

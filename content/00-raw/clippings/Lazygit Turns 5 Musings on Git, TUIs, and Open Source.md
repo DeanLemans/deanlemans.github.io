@@ -1,24 +1,23 @@
 ---
-title: "Lazygit Turns 5: Musings on Git, TUIs, and Open Source"
-source: https://jesseduffield.com/Lazygit-5-Years-On/
-author:
-  - "[[Pursuit Of Laziness]]"
-created: 2025-09-29
-description:
-publish: true
-modified: 2026-04-19
+title: Lazygit Turns 5 Musings on Git, TUIs, and Open Source
 tags:
   - clippings
+source: https://jesseduffield.com/Lazygit-5-Years-On/
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TVAG4BVNYTT1P9GT3M0
+description:
+created: 2025-09-29
+author:
+  - "[[Pursuit Of Laziness]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
 # Lazygit Turns 5 Musings on Git, TUIs, and Open Source
-
-
 
 ![](https://jesseduffield.com/images/posts/lazygit-5/basic-gif.gif)
 

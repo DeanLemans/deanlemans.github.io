@@ -1,22 +1,23 @@
 ---
 title: 8 Things to know about vanlife in the Netherlands
+tags:
+  - clippings
+  - vanlilfe
 source: https://neldatraveldiaries.com/8-things-to-know-about-vanlife-in-the-netherlands/
+publish: true
+modified: 2026-05-03
+id: 01KQQV6TWKVP0EEWD5YPWX7EW2
+description: 8 Things to know about vanlife in the Netherlands. A blog about travel and life on the road. Nelda Travel Diaries
+created: 2025-10-03
 author:
   - "[[rainelda17herta]]"
-created: 2025-10-03
-description: 8 Things to know about vanlife in the Netherlands. A blog about travel and life on the road. Nelda Travel Diaries
-tags:
-  - vanlilfe
-  - clippings
-publish: true
-modified: 2026-04-19
-id: 01KQQV6TWKVP0EEWD5YPWX7EW2
 ---
 
-> [!danger] NOT MINE  
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
+
 # 8 Things to know about vanlife in the Netherlands
 
 We have lived in a motorhome (actually, two motorhomes) for over two years but at the time of visiting the Netherlands in autumn 2023, we marked a little over a year. But still, we had some experience and knew of the difficulties that living in a vehicle brings, that planning our trip to the Netherlands seemed a bit tricky. You see, the stereotypes about narrow roads, little space, and everything being expensive are actually kind of true. But it's also possible to travel there with a tighter budget and that's what we did.

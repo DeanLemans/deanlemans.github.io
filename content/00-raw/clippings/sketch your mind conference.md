@@ -1,17 +1,19 @@
 ---
 title: sketch your mind conference
-source: https://app.events.ringcentral.com/events/sketch-your-mind-conference/reception
-author:
-created: 2025-10-13
-description:
-publish: true
-modified: 2026-04-19
 tags:
   - clippings
+source: https://app.events.ringcentral.com/events/sketch-your-mind-conference/reception
+publish: true
+modified: 2026-05-03
 id: 01KQQV6TT7NT1A8E1FQSP1MZ3N
+description:
+created: 2025-10-13
+author:
 ---
 
-> [!danger] NOT MINE  
+# sketch your mind conference
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

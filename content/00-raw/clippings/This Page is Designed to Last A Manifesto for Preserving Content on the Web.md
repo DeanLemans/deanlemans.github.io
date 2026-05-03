@@ -1,16 +1,19 @@
 ---
-title:
-source: https://jeffhuang.com/designed_to_last/
-author:
-created: 2025-10-31
-description:
+title: This Page is Designed to Last A Manifesto for Preserving Content on the Web
 tags:
   - clippings
+source: https://jeffhuang.com/designed_to_last/
 publish: true
-modified: 2026-04-19
+modified: 2026-05-03
 id: 01KQQV6TTMEEVPZ0Z6B66XQ3RQ
+description:
+created: 2025-10-31
+author:
 ---
-> [!danger] NOT MINE  
+
+# This Page is Designed to Last A Manifesto for Preserving Content on the Web
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---

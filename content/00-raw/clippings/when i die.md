@@ -1,18 +1,19 @@
 ---
 title: when i die
-source: https://avas.bearblog.dev/when-i-die/
-author:
-  - "[[ava's blog]]"
-published: 2024-12-09
-created: 2026-04-29
-description: contingency plan and clarifications for when i die.
 tags:
   - clippings
+source: https://avas.bearblog.dev/when-i-die/
+published: 2024-12-09
 publish: "true"
-modified: 2026-04-29
+modified: 2026-05-03
 id: 01KQQV6TT3JZJ6WXC82NPADMXP
+description: contingency plan and clarifications for when i die.
+created: 2026-04-29
+author:
+  - "[[ava's blog]]"
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
