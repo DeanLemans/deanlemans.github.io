@@ -11,6 +11,7 @@ aliases:
   - My First Javascript Game
   - web Point and Click
   - web_PointNClick
+id: 01KQQV6TSH0GZEGV8NQJVRSF7J
 ---
 
 # My First Javascript Game

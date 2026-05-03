@@ -6,6 +6,7 @@ tags:
 modified: 2026-05-02
 created: 2026-04-30
 publish: true
+id: 01KQQV6TS6969VS9ER7EFR3JV6
 ---
 
 # hair stuff

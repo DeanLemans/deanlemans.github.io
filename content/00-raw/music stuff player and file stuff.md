@@ -4,6 +4,7 @@ tags:
   - research
 modified: 2026-05-02
 created: 2026-05-02
+id: 01KQQV6TS1YVD5N77K526MDTJG
 ---
 
 # music stuff player and file stuff

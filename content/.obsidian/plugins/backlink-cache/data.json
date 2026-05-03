@@ -1,4 +1,4 @@
 {
   "shouldAutomaticallyRefreshBacklinkPanels": true,
-  "shouldShowProgressBarOnLoad": true
+  "shouldShowProgressBarOnLoad": false
 }

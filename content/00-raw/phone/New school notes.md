@@ -2,6 +2,7 @@
 title: New school notes
 modified: 2026-04-11
 created: 2026-03-18
+id: 01KQQV6TRTYCSS44Q8HCPKT1CN
 ---
 
 # New school notes

@@ -7,6 +7,7 @@ aliases:
   - Streisand effect
   - Streisand Effect
   - streisand_effect
+id: 01KQQV6TRWTSVKA0JA0PHV5MJ5
 ---
 
 # Streisand effect

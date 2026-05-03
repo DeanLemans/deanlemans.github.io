@@ -5,6 +5,7 @@ created: 2026-05-02
 tags:
   - exclude
 publish: true
+id: 01KQQV6TS5VQ207RN163TMDH2B
 ---
 
 # atom, rss, and news, on how to get news in the current bullshit meta

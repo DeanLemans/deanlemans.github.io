@@ -7,6 +7,7 @@ created: 2026-03-12
 title: Creating Plant terrarium
 aliases: Creating Plant terrarium
 publish: true
+id: 01KQQV6TR8FWNVR2CWDNEDF5MG
 ---
 
 # Creating Plant terrarium

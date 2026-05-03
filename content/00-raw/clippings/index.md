@@ -5,6 +5,7 @@ tags:
 publish: true
 modified: 2026-04-19
 created: 2026-04-19
+id: 01KQQV6TT915DHCW7HG6VQ2GF3
 ---
 
 # 00.01 Clippings

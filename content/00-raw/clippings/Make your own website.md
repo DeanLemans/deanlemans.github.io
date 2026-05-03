@@ -9,6 +9,7 @@ publish: true
 modified: 2026-04-19
 tags:
   - clippings
+id: 01KQQV6TV9H92WPM11ZEM964EB
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

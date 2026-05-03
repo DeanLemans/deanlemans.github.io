@@ -9,6 +9,7 @@ aliases:
   - My Bookmarks
   - nice web resources
 alias_sugestion: My Bookmarks
+id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 ---
 
 # Random Web Resources

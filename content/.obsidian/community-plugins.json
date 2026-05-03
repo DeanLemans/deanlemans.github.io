@@ -5,8 +5,6 @@
   "lazy-plugins",
   "obsidian-tasks-plugin",
   "obsidian-linter",
-  "pdf-plus",
-  "settings-search",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "consistent-attachments-and-links",
@@ -16,5 +14,6 @@
   "smart-rename",
   "obsidian-auto-link-title",
   "nldates-obsidian",
-  "obsidian42-strange-new-worlds"
+  "obsidian42-strange-new-worlds",
+  "guid-front-matter"
 ]

@@ -8,6 +8,7 @@ publish: true
 modified: 2026-04-19
 tags:
   - clippings
+id: 01KQQV6TT7NT1A8E1FQSP1MZ3N
 ---
 
 > [!danger] NOT MINE  

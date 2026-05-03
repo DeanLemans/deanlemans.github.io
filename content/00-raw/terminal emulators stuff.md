@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-05-03
 created: 2026-05-02
+id: 01KQQV6TRCB7ZE6HPXHBNYKZ5X
 ---
 
 # terminal emulators stuff

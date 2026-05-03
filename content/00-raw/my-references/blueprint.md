@@ -8,6 +8,7 @@ aliases:
   - Blueprint
 tags:
   - health
+id: 01KQQV6TRZ5WKQQG4HTWAH18Z5
 ---
 
 # Blueprint - Bryan Johnson

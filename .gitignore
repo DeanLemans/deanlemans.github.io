@@ -6,6 +6,10 @@ prof
 tsconfig.tsbuildinfo
 #.obsidian (for my boy sander)
 content/.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/updates.json
+
 private/
 .replit
 replit.nix

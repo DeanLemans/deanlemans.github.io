@@ -9,6 +9,7 @@ draft: "true"
 created: 2026-03-17
 aliases:
   - Dean's Vanlife Research
+id: 01KQQV6TR1CV98PYDWNJD6RJPQ
 ---
 d
 # Dean's Vanlife Research

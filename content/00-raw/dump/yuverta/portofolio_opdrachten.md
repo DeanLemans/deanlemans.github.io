@@ -2,6 +2,7 @@
 title: "Portfolio-opdrachten: toont ondernemend gedrag"
 modified: 2026-03-17
 created: 2025-11-14
+id: 01KQQV6TS9M8B0A0DZ59AT8PAD
 ---
 
 > [!NOTE] Verwerk alle antwoorden in je profiel.

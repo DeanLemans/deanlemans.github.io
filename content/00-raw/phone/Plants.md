@@ -1,6 +1,7 @@
 ---
 created: 2026-03-18
 modified: 2026-03-18
+id: 01KQQV6TRSS6CVQ3YDVNSJV5P2
 ---
 [shed_greenhouse](<../../01-projects/shed_greenhouse.md>)
  lights

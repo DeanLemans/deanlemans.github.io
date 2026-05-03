@@ -83,6 +83,9 @@
       },
       "obsidian42-strange-new-worlds": {
         "startupType": "instant"
+      },
+      "guid-front-matter": {
+        "startupType": "instant"
       }
     }
   }

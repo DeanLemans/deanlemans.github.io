@@ -6,6 +6,7 @@ draft: "true"
 description: No Gods, No Masters, No Idols
 created: 2024-05-09
 aliases:
+id: 01KQQV6TS2HH55JZ8WY8KD9JWE
 ---
 
 # manifesto for power?

@@ -8,6 +8,7 @@ description: stuff from novels i read, quotes, i found them somewhere and i put 
 created: 2026-02-02
 aliases:
   - quotes
+id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 ---
 
 # Quotes

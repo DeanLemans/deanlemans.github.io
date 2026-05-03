@@ -8,6 +8,7 @@ created: 2026-02-02
 description: education problem research
 aliases:
   - On a better education
+id: 01KQQV6TR9FM796RXXR04P5NGJ
 ---
 
 # On a better education

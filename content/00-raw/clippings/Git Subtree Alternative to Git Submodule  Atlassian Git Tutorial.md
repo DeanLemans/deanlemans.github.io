@@ -9,6 +9,7 @@ publish: true
 modified: 2026-04-19
 tags:
   - clippings
+id: 01KQQV6TVD4G4DS01SXN67YNQM
 ---
 
 > [!danger] NOT MINE  

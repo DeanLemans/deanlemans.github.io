@@ -10,6 +10,7 @@ created: 2025-09-25
 aliases:
   - godot platformer
   - godot-platformer
+id: 01KQQV6TSV7CA97NVMGRMST1XA
 ---
 
 # My First Godot Game

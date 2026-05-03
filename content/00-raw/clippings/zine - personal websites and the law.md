@@ -6,6 +6,7 @@ author:
 created: 2025-10-31
 description: turned a submission into a zine.
 modified: 2026-04-19
+id: 01KQQV6TT2M1TGTRQFTC61BFXF
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

@@ -8,6 +8,7 @@ aliases:
 publish: true
 tags:
   - exclude
+id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 ---
 
 # FUTURE

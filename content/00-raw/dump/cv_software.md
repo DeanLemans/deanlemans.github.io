@@ -3,6 +3,7 @@ title: CV Software
 publish: true
 modified: 2026-04-22
 created: 2025-09-25
+id: 01KQQV6TSWH8HTEEJDJE9ZC3K0
 ---
 
 # CV Software

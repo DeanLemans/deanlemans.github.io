@@ -8,6 +8,7 @@ aliases:
 publish: true
 tags:
   - exclude
+id: 01KQQV6TRJPTZ4FEDBPKQW9D1G
 ---
 
 # My Prompts

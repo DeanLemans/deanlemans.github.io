@@ -7,6 +7,7 @@ aliases:
 publish: true
 tags:
   - exclude
+id: 01KQQV6TWP6RPP1SKCQSJ9K8TJ
 ---
 
 # best video editors for me

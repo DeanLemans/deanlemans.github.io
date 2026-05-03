@@ -1,14 +1,15 @@
 ---
-title: "testament ⁂ starbreaker.org"
-source: "https://starbreaker.org/testament/index.html"
+title: testament ⁂ starbreaker.org
+source: https://starbreaker.org/testament/index.html
 author:
-  - "Matthew Cambion"
+  - Matthew Cambion
 published: 2020-05-29
 created: 2026-04-29
-description: "it might not be legally binding, but this is what I want done with my website after I die"
+description: it might not be legally binding, but this is what I want done with my website after I die
 tags:
-  - "clippings"
+  - clippings
 publish: "true"
+id: 01KQQV6TT5RX47Q69KE2MFTFJ0
 ---
 > [!danger] NOT MINE  
 > This is just a reference/bookmarked article from the internet i found interesting!

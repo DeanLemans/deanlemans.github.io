@@ -7,6 +7,7 @@ description:
 tags:
   - clippings
 modified: 2026-04-19
+id: 01KQQV6TTNT4XNRT5GABBSWNED
 ---
 
 > [!danger] NOT MINE  

@@ -9,6 +9,7 @@ description: a dream i had, i wrote it down half aspleep, daydreaming, halucinat
 created: 2026-03-17
 aliases:
   - Dreams of Mine
+id: 01KQQV6TSZ2VQXZAWTBZR28V5M
 ---
 
 # Dreams of Mine

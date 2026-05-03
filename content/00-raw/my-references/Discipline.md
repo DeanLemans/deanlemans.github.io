@@ -3,6 +3,7 @@ title: Discipline
 publish: false
 modified: 2026-04-29
 created: 2026-03-17
+id: 01KQQV6TRZDCMHQJT980V84CMF
 ---
 
 # Discipline

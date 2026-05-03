@@ -5,6 +5,7 @@ modified: 2026-04-18
 created: 2026-03-17
 aliases:
   - index
+id: 01KQQV6TQX37Y8XNF68E6BSR7D
 ---
 
 # 02 Digital Garden
