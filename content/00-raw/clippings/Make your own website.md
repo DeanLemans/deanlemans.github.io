@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: Make your own website
 tags:
   - clippings
 source: https://jsrn.net/make-your-own-website
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TV9H92WPM11ZEM964EB
 description: I’ve been maintaining websites in some form for a long time now, and here’s why maybe you should at least think about it.
 created: 2025-10-26

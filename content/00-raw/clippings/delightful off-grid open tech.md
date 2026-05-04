@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: delightful off-grid open tech
 tags:
   - clippings
 source: https://delightful.coding.social/delightful-off-grid-open-tech/
 published:
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TTA1TNA12R5EHAZ158T
 description: Delightful curated lists of free software, open science and information sources.
 created: 2026-04-19

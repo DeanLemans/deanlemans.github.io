@@ -1,10 +1,10 @@
 ---
+unlisted: true
 title: Subconsious
 tags:
   - dreamy
-  - exclude
 publish: false
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TRD03S3M5TXVZVK7Z9M
 enableToc: false
 description: this does not exist

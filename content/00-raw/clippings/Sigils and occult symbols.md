@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: Sigils and occult symbols
 tags:
   - clippings
 source: https://ritualdust.com/folklore/sigils/
 published:
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TV14X4QXKB8A5WPWMHJ
 description: My ongoing research and work with sigils
 created: 2026-04-06

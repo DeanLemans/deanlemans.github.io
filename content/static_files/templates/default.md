@@ -1,6 +1,11 @@
 ---
-created: "{{date}}"
-tags:
+title: default
+tags: []
 publish: false
-id: 01KQQVEJCE9CE7C5GY26EC8KQK
+unlisted: true
+modified:
+id: 01KQTBHVCA25STT5GWEJDWFTY6
+created:
 ---
+
+# default

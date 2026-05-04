@@ -1,7 +1,8 @@
 ---
 title: Dean Lemans
 publish: false
-modified: 2026-04-18
+modified: 2026-05-03
+id: 01KQQV6TQH2XMTJWEJTZ699ZR7
 description: Dean's Personal Site
 created: 2025-09-25
 aliases:
@@ -9,7 +10,6 @@ aliases:
   - /my-site/
   - my-site
   - my-site/
-id: 01KQQV6TQH2XMTJWEJTZ699ZR7
 ---
 
 # Dean Lemans
@@ -33,6 +33,7 @@ id: 01KQQV6TQH2XMTJWEJTZ699ZR7
 
 > [!info] [Gardening CV](<./00-raw/dump/cv_gardening.md>)
 > gardening experience.
+
 ## Tools & Technologies
 
 - [ ] need to completely rework my tools/skills stuff, mabaey split into separate page?, also the cv pages

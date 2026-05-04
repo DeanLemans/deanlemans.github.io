@@ -2,7 +2,6 @@
 unlisted: true
 title: 00 Raw
 tags:
-  - exclude
 publish: true
 modified: 2026-05-03
 id: 01KQQV6TS3NP9DSXB4FYR5WGME
@@ -26,4 +25,3 @@ this folder is to be treated as a WIP notestaking/refinement folder
 this is the true site/side of my site, the normal portion is filtered for normal, and is to be treated as a public folder
 
 - [ ] add bumch of indie/small web badges here bc its cool
-

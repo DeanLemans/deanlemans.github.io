@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: "The Second Brain Delusion: Why PKM Systems Don't Work"
 tags:
   - clippings
 source: https://turbulencegains.com/second-brain/
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TTXZPMP27B9JW89S2WJ
 description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
 created: 2025-10-05

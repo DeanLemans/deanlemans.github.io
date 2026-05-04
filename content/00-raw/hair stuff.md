@@ -1,10 +1,10 @@
 ---
+unlisted: true
 title: hair stuff
 tags:
-  - exclude
   - research
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TS6969VS9ER7EFR3JV6
 created: 2026-04-30
 ---
@@ -26,4 +26,3 @@ most shapoo are way to harsh
 [Reddit - Please wait for verification](https://www.reddit.com/r/NoPoo/)
 [Reddit - Please wait for verification](https://www.reddit.com/r/NoPoo/wiki/index/#wiki_welcome_to_the_no-poo.2Fnatural_haircare_wiki.21)
 [Reddit - Please wait for verification](https://www.reddit.com/r/NoPoo/wiki/index/quickstart/)
-

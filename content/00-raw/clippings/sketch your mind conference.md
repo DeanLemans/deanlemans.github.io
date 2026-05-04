@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: sketch your mind conference
 tags:
   - clippings
 source: https://app.events.ringcentral.com/events/sketch-your-mind-conference/reception
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TT7NT1A8E1FQSP1MZ3N
 description:
 created: 2025-10-13

@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: CV Software
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TSWH8HTEEJDJE9ZC3K0
 created: 2025-09-25
 ---

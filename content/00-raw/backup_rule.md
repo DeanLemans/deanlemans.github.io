@@ -1,11 +1,11 @@
 ---
 title: Backup Rule
 tags:
-  - exclude
 publish: true
 modified: 2026-05-03
 id: 01KQQV6TWPAXWM09F54Z1QQWJS
 created: 2026-03-17
+unlisted: true
 ---
 
 # Backup Rule

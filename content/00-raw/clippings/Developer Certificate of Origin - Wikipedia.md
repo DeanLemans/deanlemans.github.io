@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: Developer Certificate of Origin
 tags:
   - clippings
 source: https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TVZH679984D3JZ9TTX5
 description:
 created: 2025-09-29

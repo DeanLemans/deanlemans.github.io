@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: John Carmack on Idea Generation
 tags:
   - clippings
 source: https://amasad.me/carmack
 published:
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TVCVJ3MGK1S2EW63BBZ
 description: Last year at an internal talk at Facebook I was fortunate to see [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) speak about his idea generation system. At first I was disappointed because...
 created: 2026-04-19

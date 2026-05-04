@@ -1,10 +1,10 @@
 ---
+unlisted: true
 title: Sleep Optimization
 tags:
-  - exclude
   - research
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 created: 2026-03-21
 aliases:

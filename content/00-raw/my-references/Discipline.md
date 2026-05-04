@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: Discipline
-publish: false
-modified: 2026-05-03
+publish: true
+modified: 2026-05-04
 id: 01KQQV6TRZDCMHQJT980V84CMF
 created: 2026-03-17
 ---
@@ -14,4 +15,4 @@ Discipline is the long term version of motivation
 # Motivation
 
 A reason for doing or acting a certain way.
-Motivation is the starting point (short-term) for doing something, and if you want to do something long term you need
+Motivation is the starting point (shortterm) for doing something, and if you want to do something long term you need

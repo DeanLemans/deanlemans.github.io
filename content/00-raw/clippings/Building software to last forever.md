@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: Building software to last forever
 tags:
   - clippings
 source: https://herman.bearblog.dev/building-software-to-last-forever/
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TWEDRF3RTJRYK6PJA97
 description: How Bear is going to live a long and healthy life
 created: 2025-10-31

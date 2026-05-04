@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: My First Javascript Game
 tags:
   - finished
   - gamedev
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TSH0GZEGV8NQJVRSF7J
 description: first game made in JavaScript
 created: 2025-09-25

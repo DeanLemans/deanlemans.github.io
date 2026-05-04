@@ -4,18 +4,21 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+
 #.obsidian (for my boy sander)
 content/.obsidian/workspace.json
 .obsidian/cache/
-.obsidian/workspace*
+.obsidian/workspace.json
 .obsidian/updates.json
 
+#quartz specific stuff
 private/
 .replit
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .quartz-cache
+
 #my mods
 docs/
 .stversions

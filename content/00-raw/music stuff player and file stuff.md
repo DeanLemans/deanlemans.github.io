@@ -1,8 +1,10 @@
 ---
+unlisted: true
 title: music stuff player and file stuff
 tags:
   - research
-modified: 2026-05-03
+publish: true
+modified: 2026-05-04
 id: 01KQQV6TS1YVD5N77K526MDTJG
 created: 2026-05-02
 ---

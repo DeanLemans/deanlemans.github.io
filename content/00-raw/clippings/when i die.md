@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: when i die
 tags:
   - clippings
 source: https://avas.bearblog.dev/when-i-die/
 published: 2024-12-09
 publish: "true"
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TT3JZJ6WXC82NPADMXP
 description: contingency plan and clarifications for when i die.
 created: 2026-04-29

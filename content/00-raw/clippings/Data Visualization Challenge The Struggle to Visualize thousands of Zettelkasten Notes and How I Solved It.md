@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It
 tags:
   - clippings
 source: https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TW9HRSRGJMK5NZJAAA6
 description: My Obsidian vault had grown beyond 6,000 notes, and opening the graph view became a frustrating chore. I wanted to explore the connections without waiting for it to catch up. By converting all my notes to JSON, generating metadata and link CSVs, and loading them into Cosmograph, I could finally pan, zoom, and explore my…
 created: 2025-11-16

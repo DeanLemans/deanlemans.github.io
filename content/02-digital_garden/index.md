@@ -1,11 +1,10 @@
 ---
 title: 02 Digital Garden
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TQX37Y8XNF68E6BSR7D
 created: 2026-03-17
-aliases:
-  - index
+aliases: []
 ---
 
 # 02 Digital Garden

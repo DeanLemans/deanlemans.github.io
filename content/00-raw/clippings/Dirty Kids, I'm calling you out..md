@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: "Dirty Kids, I'm calling you out"
 tags:
   - clippings
 source: https://www.reddit.com/r/vagabond/comments/au6tu2/dirty_kids_im_calling_you_out/
 published: 2019-02-24
 publish: "true"
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TVTDX6F5B1KWB960K2Z
 description: I'm tired of my friends dying. In dreams, my companions move easily in bodies that have been cared for. They're covered in scrapes and bruis
 created: 2026-05-01

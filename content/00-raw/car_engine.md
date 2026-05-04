@@ -1,7 +1,6 @@
 ---
 title: reliable/long term car engine
 tags:
-  - exclude
 publish: true
 modified: 2026-05-03
 id: 01KQQV6TWN7CT9MP6EN6ZX6XPT
@@ -9,6 +8,7 @@ description: most relialbe engine type shi
 created: 2026-02-02
 aliases:
   - reliable/long term car engine
+unlisted: true
 ---
 
 # reliable/long term car engine

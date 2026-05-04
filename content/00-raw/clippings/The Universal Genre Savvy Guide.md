@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: The Universal Genre Savvy Guide
 tags:
   - clippings
 source: https://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TheUniversalGenreSavvyGuide
 published: 2012-04-18
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TTVEV948HZXKA3Z3CYR
 description: "A page for describing JustForFun: Universal Genre Savvy Guide. Why should the Evil Overlord have all the Genre Savvy knowledge? Anyone can figure out what to …"
 created: 2026-04-19

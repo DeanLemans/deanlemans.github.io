@@ -1,8 +1,12 @@
 ---
-created: 2026-03-18
-modified: 2026-03-18
+title: Think about my future education
+modified: 2026-05-04
 id: 01KQQV6TRRVW3D5YCPZ2KZ6A3Z
+created: 2026-03-18
 ---
+
+# Think about my future education
+
 Geen beroepsopleiding:
 Medewerker afvalbeheer
 Medewerker visvangst | (Garnalen)visser
@@ -25,11 +29,9 @@ Dierenarts
 Milieukundige
 Wil je per opleidingsniveau 20 bij jou passende beroepen zien (100 beroepen in totaal)? Bestel dan een uitgebreid persoonlijk rapport onderaan deze bladzijde.
 
-
 Je bent een Onderzoekend persoonstype
 
 Je voorkeur voor arbeidssectoren zit onder andere in de sector Landbouw, natuur en visserij
-
 
 Jij bent REALISTISCH en INTELLECTUEEL
 Beroepen waarbij je realistisch en intellectueel dient te zijn, passen het beste bij je persoonlijkheid. Met realistisch wordt bedoeld dat je graag fysiek en actief bezig wilt zijn. Dus je werkt graag met je handen, apparatuur en maar dit betekent niet dat je niet goed kan stilzitten. Met intellectueel wordt bedoeld dat je onderzoekend bent en graag dingen analyseert.

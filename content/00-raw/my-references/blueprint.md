@@ -1,9 +1,10 @@
 ---
+unlisted: true
 title: Blueprint - Bryan Johnson
 tags:
   - health
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TRZ5WKQQG4HTWAH18Z5
 created: 2026-03-17
 aliases:

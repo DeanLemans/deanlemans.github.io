@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: Streisand effect
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TRWTSVKA0JA0PHV5MJ5
 created: 2026-03-17
 aliases:

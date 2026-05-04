@@ -1,10 +1,11 @@
 ---
+unlisted: true
 title: A Manifesto To Return To Web 1.5
 tags:
   - clippings
 source: https://cjthex.com/what-is-to-be-done/
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TTDBTSZWP5J9XBH6EGT
 description:
 created: 2025-10-26

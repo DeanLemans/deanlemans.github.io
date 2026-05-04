@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: pomodoro_technique
-publish: false
-modified: 2026-05-03
+publish: true
+modified: 2026-05-04
 id: 01KQQV6TRX2NAZYCZPTPGQH34N
 created: 2026-03-17
 ---

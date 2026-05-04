@@ -1,11 +1,12 @@
 ---
+unlisted: true
 title: OAuth for the Open Web
 tags:
   - clippings
 source: https://aaronparecki.com/2018/07/07/7/oauth-for-the-open-web
 published: 2018-07-07
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TV6SJY46MHTSEEDYJNP
 description:
 created: 2025-11-02

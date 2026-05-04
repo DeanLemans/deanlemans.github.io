@@ -1,11 +1,11 @@
 ---
 title: atom, rss, and news, on how to get news in the current bullshit meta
 tags:
-  - exclude
 publish: true
 modified: 2026-05-03
 id: 01KQQV6TS5VQ207RN163TMDH2B
 created: 2026-05-02
+unlisted: true
 ---
 
 # atom, rss, and news, on how to get news in the current bullshit meta
