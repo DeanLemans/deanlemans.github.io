@@ -665,7 +665,7 @@ export async function handleUpgrade(argv) {
     opts.shell = true
   }
 
-  const res = spawnSync("pnpm", ["i"], opts)
+  const res = spawnSync("npm", ["i"], opts)
   if (res.status === 0) {
     console.log(styleText("green", "Dependencies updated!"))
   } else {

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Dean's Site
-  pageTitleSuffix: Dean's amazing site
+  pageTitleSuffix: "Dean's amazing site"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,7 +16,7 @@ configuration:
     - .obsidian
     - .trash
     - static_files/templates
-    - 00-raw
+    #- 00-raw
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -110,10 +110,17 @@ plugins:
     enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: true
-  - source: github:quartz-community/encrypted-pages
+  - source: github:quartz-community/unlisted-pages
     enabled: true
+    options: {}
+    order: 45
+  - source: github:quartz-community/encrypted-pages
+    enabled: false
     options:
-      visibility: hidden
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -155,31 +162,25 @@ plugins:
         zoom: true
         depth: 1
         scale: 1.1
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
         removeTags:
-          - exclude
-        showTags: true
+          - exclude-explorer
+        showTags: false
         enableRadial: false
       globalGraph:
         drag: true
         zoom: true
         depth: -1
         scale: 0.9
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
         removeTags:
-          - exclude
-        showTags: true
+          - exclude-explorer
+        showTags: false
         focusOnHover: true
         enableRadial: true
-      layout:
+    layout:
       position: afterBody
       priority: 10
   - source: github:quartz-community/search
@@ -196,7 +197,7 @@ plugins:
       position: afterBody
       priority: 30
   - source: github:quartz-community/article-title
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 1
@@ -222,7 +223,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 35
@@ -283,14 +284,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/tui
-    enabled: false
-    options: {}
-    order: 50
-  - source: github:quartz-community/unlisted-pages
-    enabled: true
-    options: {}
-    order: 45
 layout:
   groups:
     toolbar:
@@ -305,13 +298,11 @@ layout:
         right: []
     content: {}
     folder:
-      exclude:
-        - reader-mode
+      exclude: []
       positions:
         right: []
     tag:
-      exclude:
-        - reader-mode
+      exclude: []
       positions:
         right: []
     canvas: {}

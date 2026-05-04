@@ -161,9 +161,9 @@ function collectNativeDeps(pluginDir: string): Map<string, string> {
     if (!manifest.requiresInstall) return result
 
     const peerDeps: Record<string, string> = pkg.peerDependencies ?? {}
+    const sharedExternals = getSharedExternals()
     for (const [name, range] of Object.entries(peerDeps)) {
-      // Skip shared externals that Quartz already provides
-      if (SHARED_EXTERNALS.some((prefix) => name.startsWith(prefix)) || name === "vfile") {
+      if (sharedExternals.some((prefix) => name.startsWith(prefix))) {
         continue
       }
       result.set(name, range)
@@ -179,9 +179,84 @@ function collectNativeDeps(pluginDir: string): Map<string, string> {
  * Install all collected native dependencies into the Quartz root with a single
  * `npm install --no-save`. Lets npm resolve compatible versions across plugins.
  */
- export function installNativeDeps(): void {
-   return
- }
+export function installNativeDeps(
+  nativeDeps: Map<string, Map<string, string>>,
+  options: { verbose?: boolean },
+): void {
+  const merged = new Map<string, Map<string, string>>()
+  for (const [pluginName, deps] of nativeDeps) {
+    for (const [pkg, range] of deps) {
+      if (!merged.has(pkg)) {
+        merged.set(pkg, new Map())
+      }
+      merged.get(pkg)!.set(pluginName, range)
+    }
+  }
+
+  if (merged.size === 0) return
+
+  const installArgs: string[] = []
+  for (const [pkg, pluginRanges] of merged) {
+    const ranges = [...pluginRanges.values()]
+    const uniqueRanges = [...new Set(ranges)]
+
+    if (options.verbose) {
+      const sources = [...pluginRanges.entries()]
+        .map(([plugin, range]) => `${plugin} (${range})`)
+        .join(", ")
+      console.log(
+        styleText("cyan", `→`),
+        `Native dep ${styleText("bold", pkg)} required by: ${sources}`,
+      )
+    }
+
+    if (uniqueRanges.length === 1) {
+      installArgs.push(`${pkg}@${JSON.stringify(uniqueRanges[0])}`)
+    } else {
+      if (options.verbose) {
+        console.warn(
+          styleText("yellow", `⚠`),
+          `Multiple version ranges for ${pkg}: ${uniqueRanges.join(", ")}. npm will attempt to resolve a compatible version.`,
+        )
+      }
+      // Use first range; npm will fail if truly incompatible
+      installArgs.push(`${pkg}@${JSON.stringify(uniqueRanges[0])}`)
+    }
+  }
+
+  if (installArgs.length === 0) return
+
+  if (options.verbose) {
+    console.log(
+      styleText("cyan", `→`),
+      `Installing ${installArgs.length} native package(s) into Quartz root...`,
+    )
+  }
+
+  try {
+    execSync(`npm install --no-save ${installArgs.join(" ")}`, {
+      cwd: process.cwd(),
+      stdio: options.verbose ? "inherit" : "pipe",
+      timeout: 120_000,
+    })
+
+    if (options.verbose) {
+      console.log(
+        styleText("green", `✓`),
+        `Installed native dependencies: ${[...merged.keys()].join(", ")}`,
+      )
+    }
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error)
+    console.error(
+      styleText("red", `✗`),
+      `Failed to install native dependencies. This may indicate incompatible version ranges across plugins.\n` +
+        `  Packages: ${[...merged.keys()].join(", ")}\n` +
+        `  Error: ${message}`,
+    )
+    throw new Error(`Native dependency installation failed: ${message}`)
+  }
+}
 
 function isDistGitignored(pluginDir: string): boolean {
   const gitignorePath = path.join(pluginDir, ".gitignore")
@@ -192,6 +267,11 @@ function isDistGitignored(pluginDir: string): boolean {
     const trimmed = line.trim()
     return trimmed === "dist" || trimmed === "dist/" || trimmed === "/dist" || trimmed === "/dist/"
   })
+}
+
+function hasPrebuiltDist(pluginDir: string): boolean {
+  const distDir = path.join(pluginDir, "dist")
+  return fs.existsSync(distDir) && !isDistGitignored(pluginDir)
 }
 
 function needsBuild(pluginDir: string): boolean {
@@ -226,6 +306,15 @@ function findPluginByPackageName(packageName: string): string | null {
  * share a single copy of packages like unified, vfile, preact, etc.
  * @quartz-community/* peers resolve to co-installed sibling plugins instead.
  */
+function trySymlink(target: string, linkPath: string): void {
+  try {
+    fs.symlinkSync(target, linkPath, "dir")
+  } catch (err: unknown) {
+    if ((err as NodeJS.ErrnoException).code === "EEXIST") return
+    throw err
+  }
+}
+
 function linkPeerDependencies(pluginDir: string): void {
   const pkgPath = path.join(pluginDir, "package.json")
   if (!fs.existsSync(pkgPath)) return
@@ -248,7 +337,7 @@ function linkPeerDependencies(pluginDir: string): void {
       fs.mkdirSync(scopeDir, { recursive: true })
 
       const target = path.relative(scopeDir, siblingPlugin)
-      fs.symlinkSync(target, peerNodeModulesPath, "dir")
+      trySymlink(target, peerNodeModulesPath)
       continue
     }
 
@@ -264,18 +353,26 @@ function linkPeerDependencies(pluginDir: string): void {
     }
 
     const target = path.relative(path.dirname(peerNodeModulesPath), hostPeerPath)
-    fs.symlinkSync(target, peerNodeModulesPath, "dir")
+    trySymlink(target, peerNodeModulesPath)
   }
 }
 
 function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean): void {
+  if (hasPrebuiltDist(pluginDir)) {
+    if (verbose) {
+      console.log(styleText("green", `✓`), `${name}: using pre-built dist/`)
+    }
+    linkPeerDependencies(pluginDir)
+    return
+  }
+
   try {
     const shouldBuild = needsBuild(pluginDir)
 
     if (verbose) {
       console.log(styleText("cyan", `→`), `${name}: installing dependencies...`)
     }
-    execSync("pnpm install", {
+    execSync("npm install --ignore-scripts", {
       cwd: pluginDir,
       stdio: verbose ? "inherit" : "pipe",
       timeout: 120_000,
@@ -285,18 +382,18 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       if (verbose) {
         console.log(styleText("cyan", `→`), `${name}: building...`)
       }
-      execSync("pnpm run build", {
+      execSync("npm run build", {
         cwd: pluginDir,
         stdio: verbose ? "inherit" : "pipe",
         timeout: 120_000,
       })
     }
 
-    //execSync("pnpm prune --omit=dev", {
-   //   cwd: pluginDir,
-    //  stdio: verbose ? "inherit" : "pipe",
-    //  timeout: 60_000,
-    //})
+    execSync("npm prune --omit=dev", {
+      cwd: pluginDir,
+      stdio: verbose ? "inherit" : "pipe",
+      timeout: 60_000,
+    })
 
     linkPeerDependencies(pluginDir)
   } catch (error) {
@@ -684,15 +781,71 @@ const NODE_BUILTINS = new Set([
   "zlib",
 ])
 
-const SHARED_EXTERNALS = ["@quartz-community/", "preact", "@jackyzha0/quartz", "vfile"]
+/**
+ * Packages that must be the same JavaScript module instance at runtime across
+ * all plugins and the host. These are true singletons — duplicating them causes
+ * broken identity checks (e.g. `instanceof`, shared registries).
+ *
+ * This list should be kept small and explicit. Only add packages here when
+ * multiple copies at runtime would cause correctness issues.
+ */
+const SINGLETON_EXTERNALS = ["preact", "@jackyzha0/quartz", "vfile", "unified"]
 
+/**
+ * Scope prefixes whose packages are always treated as shared externals.
+ * Plugins under these scopes are co-installed siblings, not bundled deps.
+ */
+const SHARED_SCOPES = ["@quartz-community/"]
+
+/**
+ * Build the full shared externals list by combining:
+ *  1. Explicit singleton packages (must be same instance at runtime)
+ *  2. Shared scope prefixes (@quartz-community/*)
+ *  3. Auto-detected dependencies from Quartz's own package.json
+ *
+ * The auto-detection ensures that when Quartz adds a new dependency,
+ * plugins that import it won't get false "unbundled external" warnings.
+ */
+let _sharedExternalsCache: string[] | null = null
+
+export function getSharedExternals(): string[] {
+  if (_sharedExternalsCache) return _sharedExternalsCache
+
+  const externals = [...SINGLETON_EXTERNALS, ...SHARED_SCOPES]
+
+  // Auto-detect from Quartz's package.json
+  const quartzPkgPath = path.join(process.cwd(), "package.json")
+  if (fs.existsSync(quartzPkgPath)) {
+    try {
+      const pkg = JSON.parse(fs.readFileSync(quartzPkgPath, "utf-8"))
+      const deps = Object.keys(pkg.dependencies ?? {})
+      for (const dep of deps) {
+        if (!externals.includes(dep)) {
+          externals.push(dep)
+        }
+      }
+    } catch {
+      // Fall back to explicit list only
+    }
+  }
+
+  _sharedExternalsCache = externals
+  return externals
+}
+
+/**
+ * Check whether an import specifier is an allowed external for a plugin.
+ * Allowed externals are: Node builtins, shared externals (singletons +
+ * Quartz deps + shared scopes), and the plugin's own declared peerDependencies.
+ */
 function isAllowedExternal(specifier: string, pluginPeerDeps: string[]): boolean {
   if (specifier.startsWith("node:")) return true
 
   const bare = specifier.split("/")[0]
   if (NODE_BUILTINS.has(bare)) return true
 
-  if (SHARED_EXTERNALS.some((prefix) => specifier.startsWith(prefix))) return true
+  const sharedExternals = getSharedExternals()
+  if (sharedExternals.some((prefix) => specifier.startsWith(prefix))) return true
 
   if (pluginPeerDeps.some((dep) => specifier === dep || specifier.startsWith(dep + "/"))) {
     return true
@@ -704,7 +857,7 @@ function isAllowedExternal(specifier: string, pluginPeerDeps: string[]): boolean
 export function validatePluginExternals(
   pluginName: string,
   entryPoint: string,
-  options?: { verbose?: boolean },
+  _options?: { verbose?: boolean },
 ): string[] {
   try {
     const content = fs.readFileSync(entryPoint, "utf-8")
@@ -734,12 +887,13 @@ export function validatePluginExternals(
 
     const unique = [...new Set(unexpected)]
 
-    if (unique.length > 0 && options?.verbose) {
-      console.warn(
-        styleText("yellow", `⚠`) +
-          ` Plugin ${styleText("cyan", pluginName)} has unbundled external imports that may fail at runtime:\n` +
+    if (unique.length > 0) {
+      console.error(
+        styleText("red", `✗`) +
+          ` Plugin ${styleText("cyan", pluginName)} has unbundled external imports that will fail at runtime:\n` +
           unique.map((s) => `  - ${s}`).join("\n") +
-          `\n  These packages are not provided by Quartz. The plugin should bundle them into dist/.`,
+          `\n  These packages are not provided by Quartz. The plugin must bundle them into dist/.` +
+          `\n  In the plugin's tsup.config.ts, add these to noExternal or remove the imports.`,
       )
     }
 
@@ -754,14 +908,16 @@ export async function regeneratePluginIndex(options: { verbose?: boolean } = {})
     return
   }
 
-  const plugins = fs.readdirSync(PLUGINS_CACHE_DIR).filter((name) => {
+  const pluginDirs = fs.readdirSync(PLUGINS_CACHE_DIR).filter((name) => {
     const pluginPath = path.join(PLUGINS_CACHE_DIR, name)
     return fs.statSync(pluginPath).isDirectory()
   })
 
-  const exports: string[] = []
+  // Phase 1: Collect all exports per plugin, detect conflicts
+  const pluginExports = new Map<string, { named: string[]; types: string[] }>()
+  const nameCount = new Map<string, number>()
 
-  for (const pluginName of plugins) {
+  for (const pluginName of pluginDirs) {
     const pluginDir = path.join(PLUGINS_CACHE_DIR, pluginName)
     const distIndex = path.join(pluginDir, "dist", "index.d.ts")
 
@@ -774,27 +930,85 @@ export async function regeneratePluginIndex(options: { verbose?: boolean } = {})
 
     const dtsContent = fs.readFileSync(distIndex, "utf-8")
     const exportedNames = parseExportsFromDts(dtsContent)
+    const named = exportedNames.filter((e) => !e.startsWith("type "))
+    const types = exportedNames.filter((e) => e.startsWith("type ")).map((e) => e.slice(5))
 
-    if (exportedNames.length > 0) {
-      const namedExports = exportedNames.filter((e) => !e.startsWith("type "))
-      const typeExports = exportedNames.filter((e) => e.startsWith("type ")).map((e) => e.slice(5))
-
-      if (namedExports.length > 0) {
-        exports.push(`export { ${namedExports.join(", ")} } from "./${pluginName}"`)
-      }
-      if (typeExports.length > 0) {
-        exports.push(`export type { ${typeExports.join(", ")} } from "./${pluginName}"`)
+    if (named.length > 0 || types.length > 0) {
+      pluginExports.set(pluginName, { named, types })
+      for (const n of named) {
+        nameCount.set(n, (nameCount.get(n) ?? 0) + 1)
       }
     }
   }
 
-  const indexContent = exports.join("\n") + "\n"
+  // Phase 2: Generate index with registry import, plugin map, and conditional top-level exports
+  const lines: string[] = []
+
+  lines.push(`import { componentRegistry } from "../../quartz/components/registry"`)
+  lines.push("")
+
+  // Type re-exports
+  for (const [pluginName, { types }] of pluginExports) {
+    if (types.length > 0) {
+      lines.push(`export type { ${types.join(", ")} } from "./${pluginName}"`)
+    }
+  }
+  lines.push("")
+
+  // Generate the plugins map with override wrappers
+  lines.push(
+    `export const plugins: Record<string, Record<string, (...args: unknown[]) => void>> = {`,
+  )
+  for (const [pluginName, { named }] of pluginExports) {
+    if (named.length === 0) continue
+    const escapedName = pluginName.replace(/"/g, '\\"')
+    lines.push(`  "${escapedName}": {`)
+    for (const n of named) {
+      lines.push(
+        `    ${n}: (...args: unknown[]) => { componentRegistry.setOptionOverrides("${escapedName}", args[0] as Record<string, unknown>); },`,
+      )
+    }
+    lines.push(`  },`)
+  }
+  lines.push(`}`)
+  lines.push("")
+
+  // Top-level exports: only for non-conflicting names
+  for (const [pluginName, { named }] of pluginExports) {
+    if (named.length === 0) continue
+
+    const unique = named.filter((n) => (nameCount.get(n) ?? 0) === 1)
+    const conflicting = named.filter((n) => (nameCount.get(n) ?? 0) > 1)
+
+    if (unique.length > 0) {
+      const escapedName = pluginName.replace(/"/g, '\\"')
+      for (const n of unique) {
+        lines.push(`export const ${n} = plugins["${escapedName}"].${n}`)
+      }
+    }
+
+    if (conflicting.length > 0 && options.verbose) {
+      for (const n of conflicting) {
+        console.warn(
+          styleText("yellow", `⚠`),
+          `Export "${n}" conflicts across plugins — use plugins["${pluginName}"].${n} in quartz.ts`,
+        )
+      }
+    }
+  }
+
+  lines.push("")
+
+  const indexContent = lines.join("\n")
   const indexPath = path.join(PLUGINS_CACHE_DIR, "index.ts")
 
   fs.writeFileSync(indexPath, indexContent)
 
   if (options.verbose) {
-    console.log(styleText("green", `✓`), `Regenerated plugin index with ${plugins.length} plugins`)
+    console.log(
+      styleText("green", `✓`),
+      `Regenerated plugin index with ${pluginDirs.length} plugins`,
+    )
   }
 }
 
