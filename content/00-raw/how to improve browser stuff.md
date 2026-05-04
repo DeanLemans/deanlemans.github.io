@@ -39,3 +39,13 @@ dearrow
 indiewikibuddy
 libredirect
 Modern for Hacker News
+obsidian web clipper
+promnesia
+reddit enhancement suite
+return youtube dislike
+sideberry
+sponsorblock
+ublock origin
+unhook
+violent monkey
+webscrobbler
