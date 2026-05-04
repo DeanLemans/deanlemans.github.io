@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -126,6 +126,7 @@ cool projects or articles or services i like and sometimes use/make use of
 
 ## misc
 
+(need to sort this)
 - [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 - [craigslist: Amsterdam](https://amsterdam.craigslist.org)
@@ -134,6 +135,11 @@ cool projects or articles or services i like and sometimes use/make use of
 - [IndieWeb](https://indieweb.org/)
 - [Open Home Foundation](https://www.openhomefoundation.org/)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
+- [Gource - a software version control visualization tool](https://gource.io/)
+- [Fasting Center](https://fasting.center/)
+- [sr.ht](https://sr.ht/~mlb/linkhut/)
+- [Webring](https://webring.xxiivv.com/#random)
+- [Blood and Dust](https://blood-and-dust.com/)
 
 ### references/inspiration
 
