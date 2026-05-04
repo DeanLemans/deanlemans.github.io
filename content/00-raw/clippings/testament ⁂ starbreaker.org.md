@@ -12,6 +12,8 @@ description: it might not be legally binding, but this is what I want done with 
 created: 2026-04-29
 author:
   - Matthew Cambion
+aliases:
+  - 01KQQV6TT5RX47Q69KE2MFTFJ0
 ---
 
 > [!danger] NOT MINE

@@ -10,6 +10,8 @@ id: 01KQQV6TTMEEVPZ0Z6B66XQ3RQ
 description:
 created: 2025-10-31
 author:
+aliases:
+  - 01KQQV6TTMEEVPZ0Z6B66XQ3RQ
 ---
 
 # This Page is Designed to Last A Manifesto for Preserving Content on the Web

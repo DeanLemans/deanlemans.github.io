@@ -11,6 +11,8 @@ description: Avoid the creep
 created: 2025-10-31
 author:
   - "[[QnA]]"
+aliases:
+  - 01KQQV6TT8YFYMAVXTPHS5S0MW
 ---
 
 > [!danger] NOT MINE

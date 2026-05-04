@@ -11,6 +11,8 @@ description: How Bear is going to live a long and healthy life
 created: 2025-10-31
 author:
   - "[[Herman's blog]]"
+aliases:
+  - 01KQQV6TWEDRF3RTJRYK6PJA97
 ---
 
 > [!danger] NOT MINE

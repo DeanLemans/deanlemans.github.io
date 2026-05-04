@@ -11,6 +11,8 @@ description: An outline of my philosophy and direction for the platform
 created: 2025-10-31
 author:
   - "[[Herman's blog]]"
+aliases:
+  - 01KQQV6TT5RX47Q69KE2MFTFJ0
 ---
 
 > [!danger] NOT MINE

@@ -12,6 +12,8 @@ description: My ongoing research and work with sigils
 created: 2026-04-06
 author:
   - Ritual dust
+aliases:
+  - 01KQQV6TV14X4QXKB8A5WPWMHJ
 ---
 
 > [!danger] NOT MINE

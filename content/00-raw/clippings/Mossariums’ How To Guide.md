@@ -1,6 +1,6 @@
 ---
 unlisted: true
-title: "Mossariums' How To Guide"
+title: Mossariums' How To Guide
 tags:
   - clippings
 source: https://www.reddit.com/r/Mossariums/comments/s0yjcu/mossariums_how_to_guide/
@@ -12,6 +12,8 @@ description:
 created: 2026-03-15
 author:
   - xhysics
+aliases:
+  - 01KQQV6TV70160WSPK63T3SF0W
 ---
 
 > [!danger] NOT MINE

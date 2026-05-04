@@ -11,6 +11,8 @@ description: "The acclaimed new book from the author of The Shallows, Superbloom
 created: 2025-10-26
 author:
   - "[[Nicholas Carr]]"
+aliases:
+  - 01KQQV6TV07HGRKNEM8T5Y1BCB
 ---
 
 > [!danger] NOT MINE

@@ -11,6 +11,8 @@ description: My Obsidian vault had grown beyond 6,000 notes, and opening the gra
 created: 2025-11-16
 author:
   - "[[Wasi's Log]]"
+aliases:
+  - 01KQQV6TW9HRSRGJMK5NZJAAA6
 ---
 
 > [!danger] NOT MINE

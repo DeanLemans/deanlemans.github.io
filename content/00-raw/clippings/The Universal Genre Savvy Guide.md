@@ -12,6 +12,8 @@ description: "A page for describing JustForFun: Universal Genre Savvy Guide. Why
 created: 2026-04-19
 author:
   - Contributors to TV Tropes (aka Tropers)
+aliases:
+  - 01KQQV6TTVEV948HZXKA3Z3CYR
 ---
 
 > [!danger] NOT MINE

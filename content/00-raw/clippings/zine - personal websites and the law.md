@@ -8,6 +8,8 @@ description: turned a submission into a zine.
 created: 2025-10-31
 author:
   - "[[ava's blog]]"
+aliases:
+  - 01KQQV6TTF16ZWKJJKX1PXB2GD
 ---
 
 > [!danger] NOT MINE

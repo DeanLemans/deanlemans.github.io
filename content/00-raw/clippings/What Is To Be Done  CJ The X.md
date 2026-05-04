@@ -10,6 +10,8 @@ id: 01KQQV6TTDBTSZWP5J9XBH6EGT
 description:
 created: 2025-10-26
 author:
+aliases:
+  - 01KQQV6TTF16ZWKJJKX1PXB2GD
 ---
 
 > [!danger] NOT MINE

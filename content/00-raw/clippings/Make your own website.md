@@ -11,6 +11,8 @@ description: I’ve been maintaining websites in some form for a long time now, 
 created: 2025-10-26
 author:
   - "[[jsrn]]"
+aliases:
+  - 01KQQV6TV9H92WPM11ZEM964EB
 ---
 
 > [!danger] NOT MINE

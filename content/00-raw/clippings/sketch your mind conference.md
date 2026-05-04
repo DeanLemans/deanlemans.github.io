@@ -10,6 +10,8 @@ id: 01KQQV6TT7NT1A8E1FQSP1MZ3N
 description:
 created: 2025-10-13
 author:
+aliases:
+  - 01KQQV6TT7NT1A8E1FQSP1MZ3N
 ---
 
 # sketch your mind conference

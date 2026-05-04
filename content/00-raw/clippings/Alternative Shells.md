@@ -11,6 +11,8 @@ id: 01KQQV6TWFPNPRRFGKPFGQVG06
 description: Alternative Shells
 created: 2026-04-19
 author:
+aliases:
+  - 01KQQV6TWFPNPRRFGKPFGQVG06
 ---
 
 > [!danger] NOT MINE

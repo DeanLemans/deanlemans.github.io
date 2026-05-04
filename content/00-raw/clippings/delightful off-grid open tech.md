@@ -11,6 +11,8 @@ id: 01KQQV6TTA1TNA12R5EHAZ158T
 description: Delightful curated lists of free software, open science and information sources.
 created: 2026-04-19
 author:
+aliases:
+  - 01KQQV6TTA1TNA12R5EHAZ158T
 ---
 
 > [!danger] NOT MINE

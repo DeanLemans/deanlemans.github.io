@@ -12,6 +12,8 @@ description:
 created: 2025-11-02
 author:
   - "[[Creating an Authorization Endpoint]]"
+aliases:
+  - 01KQQV6TV6SJY46MHTSEEDYJNP
 ---
 
 > [!danger] NOT MINE

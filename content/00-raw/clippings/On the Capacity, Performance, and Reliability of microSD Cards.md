@@ -11,6 +11,8 @@ description: "Or: What are the best microSD cards you can get for under $15 in 2
 created: 2025-11-08
 author:
   - "[[Matt Cole]]"
+aliases:
+  - 01KQQV6TV4M3EFXM75RTP7WAPR
 ---
 
 > [!danger] NOT MINE

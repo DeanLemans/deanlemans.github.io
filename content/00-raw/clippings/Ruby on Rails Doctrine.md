@@ -10,6 +10,8 @@ id: 01KQQV6TV3TWG8VDJ4GN7DP8PS
 description:
 created: 2025-11-15
 author:
+aliases:
+  - 01KQQV6TV3TWG8VDJ4GN7DP8PS
 ---
 
 > [!danger] NOT MINE

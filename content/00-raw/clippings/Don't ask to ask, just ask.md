@@ -1,6 +1,6 @@
 ---
 unlisted: true
-title: "Don't ask to ask, just ask"
+title: Don't ask to ask, just ask
 tags:
   - clippings
 source: https://dontasktoask.com/
@@ -10,6 +10,8 @@ id: 01KQQV6TVRVEJ9KSAFPY2040EE
 description:
 created: 2025-11-15
 author:
+aliases:
+  - 01KQQV6TVRVEJ9KSAFPY2040EE
 ---
 
 > [!danger] NOT MINE

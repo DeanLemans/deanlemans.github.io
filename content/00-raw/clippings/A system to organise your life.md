@@ -10,6 +10,8 @@ id: 01KQQV6TWGWXG9PZZJ477RXDZZ
 description: Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
 created: 2025-10-05
 author:
+aliases:
+  - 01KQQV6TWGWXG9PZZJ477RXDZZ
 ---
 
 > [!danger] NOT MINE

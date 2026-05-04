@@ -9,6 +9,8 @@ id: 01KQQV6TTNT4XNRT5GABBSWNED
 description:
 created: 2025-10-24
 author:
+aliases:
+  - 01KQQV6TTNT4XNRT5GABBSWNED
 ---
 
 > [!danger] NOT MINE

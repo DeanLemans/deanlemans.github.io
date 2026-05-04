@@ -11,6 +11,8 @@ description:
 created: 2025-09-29
 author:
   - "[[Contributors to Wikimedia projects]]"
+aliases:
+  - 01KQQV6TVZH679984D3JZ9TTX5
 ---
 
 > [!danger] NOT MINE

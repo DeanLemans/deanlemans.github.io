@@ -1,12 +1,14 @@
 ---
 title: 00.01 Clippings
 tags:
-  
 publish: true
-modified: 2026-05-03
+modified: 2026-05-04
 id: 01KQQV6TT915DHCW7HG6VQ2GF3
 created: 2026-04-19
 unlisted: true
+aliases:
+  - 01KQQV6TT915DHCW7HG6VQ2GF3
+  - 00.01 Clippings
 ---
 
 # 00.01 Clippings

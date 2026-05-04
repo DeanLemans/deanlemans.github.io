@@ -11,6 +11,8 @@ description: "A page for describing Main: Evil Overlord List. The infamous lists
 created: 2025-11-11
 author:
   - "[[Contributors to TV Tropes (aka Tropers)]]"
+aliases:
+  - 01KQQV6TVEYHMQZDB65VH1X8RA
 ---
 
 > [!danger] NOT MINE

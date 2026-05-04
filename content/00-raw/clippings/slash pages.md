@@ -10,6 +10,8 @@ id: 01KQQV6TT68C4RAZKD3ADP5HH0
 description: A guide to common pages you can add to your website
 created: 2025-10-26
 author:
+aliases:
+  - 01KQQV6TT68C4RAZKD3ADP5HH0
 ---
 
 > [!danger] NOT MINE

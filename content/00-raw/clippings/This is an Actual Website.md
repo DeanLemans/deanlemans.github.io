@@ -11,6 +11,8 @@ description: A less profane and non-Oedipal manifesto for a better World Wide We
 created: 2025-10-26
 author:
   - "[[Matthew Graybosch]]"
+aliases:
+  - 01KQQV6TTHH4QKV5BHB0NM6H7R
 ---
 
 > [!danger] NOT MINE

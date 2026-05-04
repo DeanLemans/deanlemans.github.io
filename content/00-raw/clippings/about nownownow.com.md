@@ -11,6 +11,8 @@ description: "nownownow.com: personal websites with a /now page"
 created: 2025-10-26
 author:
   - "[[Derek Sivers]]"
+aliases:
+  - 01KQQV6TTCH9B6K3SXMN7CWWVA
 ---
 
 # about nownownow.com

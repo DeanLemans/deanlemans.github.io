@@ -10,6 +10,8 @@ id: 01KQQV6TVB3NPADVZP26JQJJVG
 description: Don’t let your friends dump git logs into changelogs.
 created: 2025-09-29
 author:
+aliases:
+  - 01KQQV6TVB3NPADVZP26JQJJVG
 ---
 
 > [!danger] NOT MINE

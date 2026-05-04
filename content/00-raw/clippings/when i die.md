@@ -12,6 +12,8 @@ description: contingency plan and clarifications for when i die.
 created: 2026-04-29
 author:
   - "[[ava's blog]]"
+aliases:
+  - 01KQQV6TTF16ZWKJJKX1PXB2GD
 ---
 
 > [!danger] NOT MINE

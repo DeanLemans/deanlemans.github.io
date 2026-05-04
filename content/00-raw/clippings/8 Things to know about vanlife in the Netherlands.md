@@ -12,6 +12,8 @@ description: 8 Things to know about vanlife in the Netherlands. A blog about tra
 created: 2025-10-03
 author:
   - "[[rainelda17herta]]"
+aliases:
+  - 01KQQV6TWKVP0EEWD5YPWX7EW2
 ---
 
 > [!danger] NOT MINE

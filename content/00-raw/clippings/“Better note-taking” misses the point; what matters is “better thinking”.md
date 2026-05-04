@@ -11,6 +11,8 @@ description:
 created: 2025-10-24
 author:
   - "[[Andyʼs working notes]]"
+aliases:
+  - 01KQQV6TT1SEQME3W462MC0ZAZ
 ---
 
 > [!danger] NOT MINE

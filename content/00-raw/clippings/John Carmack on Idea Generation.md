@@ -12,6 +12,8 @@ description: Last year at an internal talk at Facebook I was fortunate to see [J
 created: 2026-04-19
 author:
   - amasad.me
+aliases:
+  - 01KQQV6TVCVJ3MGK1S2EW63BBZ
 ---
 
 > [!danger] NOT MINE

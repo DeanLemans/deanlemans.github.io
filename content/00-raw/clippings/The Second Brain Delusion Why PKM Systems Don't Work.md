@@ -11,6 +11,8 @@ description: I spent 200+ hours building a 'second brain' in Obsidian that made 
 created: 2025-10-05
 author:
   - "[[Jay]]"
+aliases:
+  - 01KQQV6TTXZPMP27B9JW89S2WJ
 ---
 
 > [!danger] NOT MINE

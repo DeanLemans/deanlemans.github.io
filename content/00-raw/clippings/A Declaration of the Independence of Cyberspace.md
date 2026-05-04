@@ -11,6 +11,8 @@ description: by John Perry Barlow Governments of the Industrial World, you weary
 created: 2025-10-29
 author:
   - "[[Electronic Frontier Foundation]]"
+aliases:
+  - 01KQQV6TWHFJM05JTKK3XZFWDM
 ---
 
 > [!danger] NOT MINE

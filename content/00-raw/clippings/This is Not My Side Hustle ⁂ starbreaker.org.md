@@ -11,6 +11,8 @@ description: I got an email from a guy who doesn’t understand why I’d run a 
 created: 2025-10-26
 author:
   - "[[Matthew Cambion]]"
+aliases:
+  - 01KQQV6TTJ7PPY40QFZRRH35KR
 ---
 
 > [!danger] NOT MINE
