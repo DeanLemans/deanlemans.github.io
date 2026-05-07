@@ -7,12 +7,6 @@
       "commit": "9336ec67662735119bc0f8d6389b24cf338ba75c",
       "installedAt": "2026-05-04T18:25:03.992Z"
     },
-    "article-title": {
-      "source": "github:quartz-community/article-title",
-      "resolved": "https://github.com/quartz-community/article-title.git",
-      "commit": "ea9a6d8c48e27b36b9b1066d439bcfb17482a278",
-      "installedAt": "2026-05-04T18:25:06.532Z"
-    },
     "backlinks": {
       "source": "github:quartz-community/backlinks",
       "resolved": "https://github.com/quartz-community/backlinks.git",
@@ -151,12 +145,6 @@
       "commit": "bdb10721c837cb66e1c8b314b2f095351d7f762a",
       "installedAt": "2026-05-04T18:25:02.027Z"
     },
-    "latex": {
-      "source": "github:quartz-community/latex",
-      "resolved": "https://github.com/quartz-community/latex.git",
-      "commit": "d8ae32d3d5b4365e586a54e602fab82f9b683b13",
-      "installedAt": "2026-05-04T18:25:04.651Z"
-    },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",
@@ -222,12 +210,6 @@
       "resolved": "https://github.com/quartz-community/spacer.git",
       "commit": "f013389f71ca615e0b37984971e358a54f1625f7",
       "installedAt": "2026-05-04T18:25:07.603Z"
-    },
-    "stacked-pages": {
-      "source": "github:quartz-community/stacked-pages",
-      "resolved": "https://github.com/quartz-community/stacked-pages.git",
-      "commit": "e4ccf97602c9ea72f9fefad3032d0a6675498099",
-      "installedAt": "2026-05-04T18:25:06.933Z"
     },
     "syntax-highlighting": {
       "source": "github:quartz-community/syntax-highlighting",

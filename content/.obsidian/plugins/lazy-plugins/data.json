@@ -86,6 +86,12 @@
       },
       "guid-front-matter": {
         "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "instant"
+      },
+      "obsidian-version-history-diff": {
+        "startupType": "instant"
       }
     }
   }

@@ -41,7 +41,7 @@ something that confronts me, changlnese me
 - [ ] <https://starbreaker.org/blogroll/index.html> search ts⏬
 - [ ] read <https://rosswintle.uk/2024/02/a-manifesto-for-small-static-web-apps/>⏬
 - [ ] <https://jamesg.blog/>⏬
-- [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023?mibextid=Zxz2cZ>
+- [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023>
 - [ ] Research: bee boxes⏬
 - [ ] look into how to make a proper godot game with functions, classes, ETC⏬
 - [ ] <https://journal.miso.town/>⏬

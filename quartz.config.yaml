@@ -61,7 +61,7 @@ plugins:
       theme:
         light: github-light
         dark: github-dark
-      keepBackground: false
+      keepBackground: true
     order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
@@ -70,7 +70,7 @@ plugins:
       highlight: true
       wikilinks: false
       callouts: true
-      mermaid: true
+      mermaid: false
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
@@ -84,17 +84,23 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    options:
+      collapseByDefault: true
+      minEntries: 2
     order: 50
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
       markdownLinkResolution: relative
       lazyload: true
+      prettyLinks: false
+      openLinksInNewTab: true
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
     order: 70
-  - source: github:quartz-community/citations
+  - source: github:quartz-community/citations #need to configure this
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
@@ -119,14 +125,8 @@ plugins:
     options:
       iterations: 600000
       passwordField: password
-      unlistWhenEncrypted: false
+      unlistWhenEncrypted: true
       outputPath: static/encryptedContentIndex.json
-  - source: github:quartz-community/stacked-pages
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -134,7 +134,7 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
-      includeEmptyFiles: true
+      includeEmptyFiles: false
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
@@ -148,7 +148,7 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/explorer
     enabled: true
     layout:
@@ -175,6 +175,9 @@ plugins:
         scale: 0.9
         fontSize: 0.6
         opacityScale: 1
+        centerForce: 0.5
+        repelForce: 0.4
+        linkDistance: 25
         removeTags:
           - exclude-explorer
         showTags: false
@@ -196,13 +199,10 @@ plugins:
     layout:
       position: afterBody
       priority: 30
-  - source: github:quartz-community/article-title
-    enabled: false
-    layout:
-      position: beforeBody
-      priority: 1
   - source: github:quartz-community/content-meta
     enabled: true
+    options:
+      showReadingTime: false
     layout:
       position: beforeBody
       priority: 20
@@ -223,18 +223,21 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+      spacerSymbol: "/"
+      resolveFrontmatterTitle: true
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
+  - source: github:quartz-community/comments #configure in future dean
     enabled: false
     options:
       provider: giscus
@@ -277,7 +280,7 @@ plugins:
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
-      language: yaml
+      language: toml
       quartz-properties-collapse: true
     order: 5
     layout:

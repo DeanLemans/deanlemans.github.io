@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-03
+modified: 2026-05-06
 id: 01KQQV6TQZQ0E7PF415EEHYT4K
 description: my collection of games
 created: 2024-10-08
@@ -204,6 +204,7 @@ aliases:
 - [White Knuckle](https://store.steampowered.com/app/2445120/White_Knuckle/)
 - [south scrimshaw](https://nomarsh.itch.io)
 - [Town to City](https://store.steampowered.com/app/2319580/Town_to_City/)
+- [Undertale Icebound](https://gamejolt.com/games/undertaleicebound/688804)
 - [Northern Journey](https://store.steampowered.com/app/1639790/Northern_Journey/)
 - [Split Fiction](https://store.steampowered.com/app/2960240/Split_Fiction/)
 - [Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity)

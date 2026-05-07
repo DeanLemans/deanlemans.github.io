@@ -1,5 +1,4 @@
 [
-  "omnisearch",
   "obsidian-hider",
   "obsidian-plugin-update-tracker",
   "lazy-plugins",
@@ -13,9 +12,11 @@
   "better-markdown-links",
   "smart-rename",
   "obsidian-auto-link-title",
-  "nldates-obsidian",
   "obsidian42-strange-new-worlds",
-  "guid-front-matter",
   "settings-search",
-  "pdf-plus"
+  "omnisearch",
+  "obsidian-version-history-diff",
+  "pdf-plus",
+  "guid-front-matter",
+  "advanced-canvas"
 ]
