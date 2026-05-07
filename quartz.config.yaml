@@ -172,15 +172,15 @@ plugins:
         drag: true
         zoom: true
         depth: -1
-        scale: 0.9
+        scale: 1
         fontSize: 0.6
         opacityScale: 1
         centerForce: 0.5
-        repelForce: 0.4
-        linkDistance: 25
+        repelForce: 0.5
+        linkDistance: 30
         removeTags:
           - exclude-explorer
-        showTags: false
+        showTags: true
         focusOnHover: true
         enableRadial: true
     layout:
@@ -254,6 +254,8 @@ plugins:
         Source Code: https://github.com/DeanLemans/deanlemans.github.io
         Guest Book: https://theseeker.atabook.org/
         Analytics: https://cloud.umami.is/share/cQibaMjOX3vvklQG
+        RSS: index.xml
+        SiteMap: sitemap.xml
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -280,7 +282,6 @@ plugins:
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
-      language: toml
       quartz-properties-collapse: true
     order: 5
     layout:
