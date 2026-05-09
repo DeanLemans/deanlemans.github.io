@@ -2,7 +2,7 @@
 title: Colophon
 tags:
   
-modified: 2026-05-04
+modified: 2026-05-09
 id: 01KQQV6TQNFNF7TE8MZ7YKAHAZ
 created: 2026-04-30
 ---
@@ -20,3 +20,7 @@ but recently i have been thinking of moving to emacs instead of obsidian, but im
 
 i write in markdown, quartz parses those file with node.js to html + css + js to the web, i use 3 github CI scripts to publish my site site to nekoweb, neocities, and github pages(also internet archive, but there i could just paste my link in)
 
+
+## inspiration/references
+
+[Colophon : Garden of Learning by Juhis](https://notes.hamatti.org/about/colophon)

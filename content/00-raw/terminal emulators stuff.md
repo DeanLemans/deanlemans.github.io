@@ -4,7 +4,7 @@ title: terminal emulators stuff
 tags:
   - research
 publish: true
-modified: 2026-05-04
+modified: 2026-05-09
 id: 01KQQV6TRCB7ZE6HPXHBNYKZ5X
 created: 2026-05-02
 ---
@@ -30,6 +30,12 @@ the contenterd (name header WIP)
 - alacritty
 - ghosty
 
-# ghosty
+## ghosty
 
 not choosing it bc fuck gnome and for idc aoub the multiple platform support. i just use linux
+
+## kitty
+
+## foot
+
+## alacritty
