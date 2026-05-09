@@ -2,14 +2,24 @@
 unlisted: true
 title: TDD
 publish: true
-modified: 2026-05-06
+modified: 2026-05-09
 id: 01KQX7QGYDTFACK8WNQW02D506
 created: 2026-05-05
 ---
 
-# TDD
+# Technical Design Document
 
-Godot 4.6
-Git
-Obsidian
-pixelorama
+- Godot 4.6
+	- dialoge manager
+	- godot resource cleaner
+	- script ide
+	- phantom camara
+	- debug menu
+	- gdlinter
+	- GDgdtoolkit
+	- smartshape2d
+	- virtual joystick
+	- your buil
+- Git
+- Obsidian
+- pixelorama

@@ -1,13 +1,15 @@
 ---
-title: GDD
+unlisted: true
+title: Game/General Design Document
 publish: true
-modified: 2026-05-06
+modified: 2026-05-09
 id: 01KQX7QGYDTFACK8WNQW02D506
 created: 2026-05-05
-unlisted: true
 ---
 
-# GDD
+# Game/General Design Document
+
+18 35
 
 Title:
 Agony/Despair
@@ -20,13 +22,14 @@ Instructions:
 
 Goal(s) of the Game:
 
-see the world
+see the world, experience, explore?
 
 *What is the goal of the game? What are you collecting? How do you win? You can describe the endings in the story section (or here if you like).*
 
 Theme(s) of the game:
 
 *Yume Nikki was about loneliness. .flow was about disease and corruption. Yume 2kki is about endless dreaming. What's the main thing in your game?*
+experience (the past?)
 
 How do you want your player to feel when they play the game?
 

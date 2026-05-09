@@ -62,7 +62,7 @@
 		{"id":"d2aa7494f5b39c5e","type":"text","text":"chest doesnt fit","x":-468,"y":240,"width":160,"height":50},
 		{"id":"d8e1c51c7c9bfa4d","type":"file","file":"static_files/Pasted image 20260506205439.png","x":-718,"y":943,"width":122,"height":207},
 		{"id":"fa51ce74ed85454f","type":"file","file":"static_files/Pasted image 20260507001939.png","x":-540,"y":943,"width":118,"height":215},
-		{"id":"8aa7c9d4c465d441","type":"file","file":"static_files/Pasted image 20260507005118.png","x":86,"y":940,"width":124,"height":218},
+		{"id":"8aa7c9d4c465d441","type":"file","file":"static_files/Pasted image 20260507005118.png","x":86,"y":940,"width":124,"height":217},
 		{
 			"id":"3d9f8b20eaeb6e96",
 			"type":"text",
@@ -73,7 +73,7 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"149e135e0c611f1c","type":"file","file":"static_files/Pasted image 20260507002818.png","x":-99,"y":940,"width":126,"height":222},
+		{"id":"149e135e0c611f1c","type":"file","file":"static_files/Pasted image 20260507002818.png","x":-99,"y":940,"width":126,"height":221},
 		{
 			"id":"62ca1fab5a9557af",
 			"type":"text",
