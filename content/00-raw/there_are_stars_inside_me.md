@@ -4,7 +4,7 @@ title: There Are Stars Inside Me
 tags:
   - dreamy
 publish: true
-modified: 2026-05-04
+modified: 2026-05-09
 id: 01KQQV6TRBR4NXPM3MAN98PXPC
 created: 2026-03-17
 aliases:
@@ -16,8 +16,9 @@ aliases:
 Ego Wilder
 sol walker
 ohn strayer
+the Seeker
 eigenwander
-dean wildmind
+wildmind
 dreamwalker
 
 Grey the Paradox, prisoner of restraint, keen of mind and holder of pragmatism

@@ -9,16 +9,7 @@ created: 2026-05-02
 
 # PKM structure ideas
 
-pkm vs second brain? second brain just a method for PKM??
-
-flatstructure
-folders
-
-link style
-
-no wiklink
-
-unique ID for notes? now that seems interesting
+pkm vs second brain? second brain just a method for PKM?
 
 i need automatic way to create aliase for those unique id
 
@@ -42,3 +33,9 @@ do i wait with writhing notes otherwise i will just have to remove future stuff,
 [Introduction to the Zettelkasten Method • Zettelkasten Method](<./clippings/Introduction to the Zettelkasten Method • Zettelkasten Method.md>)
 [Building a Second Brain The Definitive Introductory Guide](<./clippings/Building a Second Brain The Definitive Introductory Guide.md>)
 [Wittgenstein](<./clippings/Wittgenstein.md>)
+[Personal Knowledge Management System (PKMS)](<./clippings/Personal Knowledge Management System (PKMS).md>)
+[Note Taking & Obsidian](<./clippings/Note Taking & Obsidian.md>)
+
+---
+
+[Watch This to Finally Understand The Zettelkasten Method in Obsidian - YouTube](https://www.youtube.com/watch?v=wvAZ9-hmWQU&t=1226s)

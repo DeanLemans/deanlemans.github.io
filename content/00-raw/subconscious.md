@@ -4,7 +4,7 @@ title: Subconsious
 tags:
   - dreamy
 publish: false
-modified: 2026-05-04
+modified: 2026-05-09
 id: 01KQQV6TRD03S3M5TXVZVK7Z9M
 enableToc: false
 description: this does not exist
@@ -13,8 +13,16 @@ created: 2024-07-17
 
 # Subconsious
 
-alt titles/possibilities:
-dream diary, behind the mask, a truer self, diary, me myself and I, unconscious, suppressed thoughts
+> [!NOTE] Alternative titles
+> - suppressed thoughts
+> - unconscious
+> - shadow work(i dont think im doing it right)
+> - behind the mask
+> - dream diary
+> - me myself and I
+> - diary
+> - a truer self
+
 > [!fail] this does not exist
 > For those who come across this, dont share.
 > Reason: not professional, personal and controversial
