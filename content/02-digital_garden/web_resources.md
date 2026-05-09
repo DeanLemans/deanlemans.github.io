@@ -39,13 +39,14 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Hard Light Productions](https://www.hard-light.net/)
 - [Game Development](https://develop.games/)
 - [FreeGameDev.net Forums](https://freegamedev.net/)
+- [Pixelorama, your free & open source sprite editor. \| Pixelorama](https://pixelorama.org/)
 - [OpenGameArt.org](https://opengameart.org/content/faq)
 - [Libregamewiki](https://libregamewiki.org/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
 - [Virgil Game Search](https://virgil.samidy.com/Game-search/)
 - [NZ:P Documentation](https://docs.nzp.gay/landing/)
 
-## Privacy
+## Privacy, freedom
 
 - [Find KYC-free Services](https://kycnot.me/)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
@@ -96,7 +97,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 
-## Experimental, artistic web
+## Experimental, artistic web, Indie Web
 
 - [MelonLand Project](https://melonland.net/)
 - [Wiby](https://wiby.org/)
@@ -106,6 +107,16 @@ cool projects or articles or services i like and sometimes use/make use of
 - [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
 - [Blood and Dust](https://blood-and-dust.com/)
 - [Are.na](https://www.are.na/)
+- [web0 manifesto](https://web0.small-web.org/)
+- [IndieWeb](https://indieweb.org/)
+- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
+- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
+- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
+- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
+- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
+- [The Wayward Webring](https://waywardweb.org/)
+- [Marginalia Search](https://marginalia-search.com/)
+- [Webring](https://webring.xxiivv.com/#random)
 - [Eclipse](https://eclipse.pub/)
 
 ## Games
@@ -130,22 +141,12 @@ cool projects or articles or services i like and sometimes use/make use of
 
 - [F-Hub](https://f-hub.org/)
 - [quantified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
-- [Marginalia Search](https://marginalia-search.com/)
 - [Radicle](https://radicle.xyz/)
 - [blogroll.org](https://blogroll.org/)
-- [The Wayward Webring](https://waywardweb.org/)
 - [oxipng](https://github.com/shssoichiro/oxipng)
-- [web0 manifesto](https://web0.small-web.org/)
-- [IndieWeb](https://indieweb.org/)
 - [sr.ht](https://sr.ht/~mlb/linkhut/)
 - [snarfed/bridgy-fed: 🌉 A bridge between decentralized social networks · GitHub](https://github.com/snarfed/bridgy-fed)
-- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
 - [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
-- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
-- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
-- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
-- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
-- [Webring](https://webring.xxiivv.com/#random)
 
 ## misc
 
@@ -154,7 +155,12 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 - [Dillo Website](https://dillo-browser.org/)
+- [Vulnerability Garden](https://vulnerability.garden/)
+- [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
 
 ### references/inspiration
 
 - [freemediaheckyeah](https://fmhy.net/)
+- [Oh Hello Ana - Bookmarks](https://ohhelloana.blog/bookmarks/)
+
+- [ ] resort this list in with readlater for myself
