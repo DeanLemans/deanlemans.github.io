@@ -1,6 +1,6 @@
 ---
 title: elementen
-modified: 2026-05-03
+modified: 2026-05-09
 id: 01KQQV6TSBGVMVSJAGYQA0D07M
 created: 2026-05-03
 ---
@@ -95,8 +95,6 @@ Luchfilter
 Olie
 Koeling
 Smeering
-
-#bosplantsoen
 
 Plant met veel takken dicht op elkaar.
 
