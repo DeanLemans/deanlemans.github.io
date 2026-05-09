@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-04
+modified: 2026-05-08
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -67,10 +67,8 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
 - [all things linux](https://atl.wiki/)
 - [Development containers](https://containers.dev/)
-- [Ubicloud - OSS alternative to AWS](https://www.ubicloud.com/)
 - [GNU Health](https://www.gnuhealth.org/)
 - [YunoHost](https://yunohost.org/)
-- [Zola](https://www.getzola.org/)
 - [11ty](https://www.11ty.dev/)
 
 ## Open source, licensing, and standards
@@ -86,8 +84,6 @@ cool projects or articles or services i like and sometimes use/make use of
 
 ## Experimental, artistic web
 
-- [when looking at the pure water, what do you see in it's reflection?](https://glass-reflections.nekoweb.org/)
-- [Are you sure you remember the way out?](/)
 - [MelonLand Project](https://melonland.net/)
 - [Wiby](https://wiby.org/)
 - [Internet Sacred Text Archive](https://sacred-texts.com/)
@@ -132,14 +128,31 @@ cool projects or articles or services i like and sometimes use/make use of
 - [craigslist: Amsterdam](https://amsterdam.craigslist.org)
 - [uxn](https://100r.co/site/uxn.html)
 - [web0 manifesto](https://web0.small-web.org/)
+- [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
 - [IndieWeb](https://indieweb.org/)
 - [Open Home Foundation](https://www.openhomefoundation.org/)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
 - [Gource - a software version control visualization tool](https://gource.io/)
+- [Home - Forte Labs](https://fortelabs.com/)
 - [Fasting Center](https://fasting.center/)
+- [Zettelkasten Forum](https://forum.zettelkasten.de/)
 - [sr.ht](https://sr.ht/~mlb/linkhut/)
+- [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
 - [Webring](https://webring.xxiivv.com/#random)
 - [Blood and Dust](https://blood-and-dust.com/)
+- [GitHub - snarfed/bridgy-fed: 🌉 A bridge between decentralized social networks · GitHub](https://github.com/snarfed/bridgy-fed)
+- [Are.na](https://www.are.na/)
+- [NZ:P Documentation](https://docs.nzp.gay/landing/)
+- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
+- [Hypothesis \| The #1 Social Annotation Tool for Higher Education](https://web.hypothes.is/)
+- [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
+- [Eclipse](https://eclipse.pub/)
+- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
+- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
+- [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
+- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
+- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
+- [weewiki zettelkasten](https://pbat.ch/loom/weewiki_zet/)
 
 ### references/inspiration
 
