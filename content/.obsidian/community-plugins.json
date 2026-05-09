@@ -1,9 +1,11 @@
 [
+  "omnisearch",
   "obsidian-hider",
   "obsidian-plugin-update-tracker",
   "lazy-plugins",
   "obsidian-tasks-plugin",
   "obsidian-linter",
+  "settings-search",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "consistent-attachments-and-links",
@@ -11,12 +13,9 @@
   "external-rename-handler",
   "better-markdown-links",
   "smart-rename",
-  "obsidian-auto-link-title",
+  "advanced-canvas",
+  "nldates-obsidian",
   "obsidian42-strange-new-worlds",
-  "settings-search",
-  "omnisearch",
-  "obsidian-version-history-diff",
-  "pdf-plus",
-  "guid-front-matter",
-  "advanced-canvas"
+  "obsidian-auto-link-title",
+  "guid-front-matter"
 ]
