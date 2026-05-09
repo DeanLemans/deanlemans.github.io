@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-08
+modified: 2026-05-09
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -28,6 +28,9 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
 - [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+- [GitAds Documentation](https://docs.gitads.dev/)
+- [Gource - a software version control visualization tool](https://gource.io/)
+- [learn-anything.xyz](https://learn-anything.xyz/agile-development)
 
 ## Game dev
 
@@ -39,6 +42,8 @@ cool projects or articles or services i like and sometimes use/make use of
 - [OpenGameArt.org](https://opengameart.org/content/faq)
 - [Libregamewiki](https://libregamewiki.org/)
 - [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
+- [Virgil Game Search](https://virgil.samidy.com/Game-search/)
+- [NZ:P Documentation](https://docs.nzp.gay/landing/)
 
 ## Privacy
 
@@ -48,6 +53,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [eigenwallet | Monero wallet](https://eigenwallet.org/)
 - [Secluso](https://secluso.com/)
 - [reto swap](https://retoswap.com/)
+- [Freenet](https://freenet.org/)
 
 ## Writing, knowledge
 
@@ -61,6 +67,11 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Based Cooking](https://based.cooking/)
 - [Musopen](https://musopen.org/)
 - [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
+- [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
+- [Forte Labs](https://fortelabs.com/)
+- [Zettelkasten Forum](https://forum.zettelkasten.de/)
+- [weewiki zettelkasten](https://pbat.ch/loom/weewiki_zet/)
+- [Hypothesis | Social Annotation Tool for Higher Education](https://web.hypothes.is/)
 
 ## Linux, infrastructure
 
@@ -70,6 +81,9 @@ cool projects or articles or services i like and sometimes use/make use of
 - [GNU Health](https://www.gnuhealth.org/)
 - [YunoHost](https://yunohost.org/)
 - [11ty](https://www.11ty.dev/)
+- [uxn](https://100r.co/site/uxn.html)
+- [Open Home Foundation](https://www.openhomefoundation.org/)
+- [HTML Standard](https://html.spec.whatwg.org/)
 
 ## Open source, licensing, and standards
 
@@ -87,9 +101,12 @@ cool projects or articles or services i like and sometimes use/make use of
 - [MelonLand Project](https://melonland.net/)
 - [Wiby](https://wiby.org/)
 - [Internet Sacred Text Archive](https://sacred-texts.com/)
-- [Freenet](https://freenet.org/)
 - [Krita Artists](https://krita-artists.org/)
 - [Libris Adepti](https://librisadepti.com/)
+- [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
+- [Blood and Dust](https://blood-and-dust.com/)
+- [Are.na](https://www.are.na/)
+- [Eclipse](https://eclipse.pub/)
 
 ## Games
 
@@ -106,10 +123,11 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Server Part Deals](https://serverpartdeals.com/)
 - [mostr.pub](https://mostr.pub/)
 - <https://ingredientmd.com/>
+- [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
+- [Fasting Center](https://fasting.center/)
 
 ## Discovery, dev utilities
 
-- [Virgil Game Search](https://virgil.samidy.com/Game-search/)
 - [F-Hub](https://f-hub.org/)
 - [quantified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
 - [Marginalia Search](https://marginalia-search.com/)
@@ -117,43 +135,26 @@ cool projects or articles or services i like and sometimes use/make use of
 - [blogroll.org](https://blogroll.org/)
 - [The Wayward Webring](https://waywardweb.org/)
 - [oxipng](https://github.com/shssoichiro/oxipng)
-- [GitAds Documentation](https://docs.gitads.dev/)
-- [learn-anything.xyz](https://learn-anything.xyz/agile-development)
+- [web0 manifesto](https://web0.small-web.org/)
+- [IndieWeb](https://indieweb.org/)
+- [sr.ht](https://sr.ht/~mlb/linkhut/)
+- [snarfed/bridgy-fed: 🌉 A bridge between decentralized social networks · GitHub](https://github.com/snarfed/bridgy-fed)
+- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
+- [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
+- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
+- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
+- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
+- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
+- [Webring](https://webring.xxiivv.com/#random)
 
 ## misc
 
-(need to sort this)
-- [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
-- [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 - [craigslist: Amsterdam](https://amsterdam.craigslist.org)
-- [uxn](https://100r.co/site/uxn.html)
-- [web0 manifesto](https://web0.small-web.org/)
-- [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
-- [IndieWeb](https://indieweb.org/)
-- [Open Home Foundation](https://www.openhomefoundation.org/)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
-- [Gource - a software version control visualization tool](https://gource.io/)
-- [Home - Forte Labs](https://fortelabs.com/)
-- [Fasting Center](https://fasting.center/)
-- [Zettelkasten Forum](https://forum.zettelkasten.de/)
-- [sr.ht](https://sr.ht/~mlb/linkhut/)
-- [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
-- [Webring](https://webring.xxiivv.com/#random)
-- [Blood and Dust](https://blood-and-dust.com/)
-- [GitHub - snarfed/bridgy-fed: 🌉 A bridge between decentralized social networks · GitHub](https://github.com/snarfed/bridgy-fed)
-- [Are.na](https://www.are.na/)
-- [NZ:P Documentation](https://docs.nzp.gay/landing/)
-- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
-- [Hypothesis \| The #1 Social Annotation Tool for Higher Education](https://web.hypothes.is/)
-- [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
-- [Eclipse](https://eclipse.pub/)
-- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
-- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
 - [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
-- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
-- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
-- [weewiki zettelkasten](https://pbat.ch/loom/weewiki_zet/)
+- [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
+- [Dillo Website](https://dillo-browser.org/)
 
 ### references/inspiration
 
-[freemediaheckyeah](https://fmhy.net/)
+- [freemediaheckyeah](https://fmhy.net/)
