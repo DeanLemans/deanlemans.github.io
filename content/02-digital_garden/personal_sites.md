@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-09
+modified: 2026-05-12
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -15,7 +15,7 @@ alias_sugestion: Cool Personal sites
 
 # Cool Personal sites
 
-> [!NOTE]Alternative titles
+> [!NOTE] Alternative titles
 > - Influences
 > - Signal Boost
 > - Cool Personal Sites

@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-06
+modified: 2026-05-12
 id: 01KQQV6TQZQ0E7PF415EEHYT4K
 description: my collection of games
 created: 2024-10-08
@@ -262,7 +262,7 @@ aliases:
 - [PVKK](https://pvkk.game)
 - [Late Homework](https://sodaraptor.itch.io/late-homework)
 - [Hello Sunshine](https://store.steampowered.com/app/3245140/Hello_Sunshine)
-- [hylics]([https://store.steampowered.com/search/?term=Hylics](https://mason-lindroth.itch.io/hylics))
+- [hylics](https://mason-lindroth.itch.io/hylics)
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
 <details>
@@ -315,6 +315,8 @@ aliases:
 - [Earthbound/mother 1 + 2 + 3 + original](https://earthbound.fandom.com/wiki/Mother_series)
 - [Gris](https://nomada.studio)
 - [The Legend of Zelda: Twilight Princess](https://wikiless.tiekoetter.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?lang=en)
+	- [Dusk decomp](https://twilitrealm.dev/)
+	- [Courage reborn decomp](https://www.youtube.com/watch?v=wqQPgbqbE5g)
 - [MINDHACK](https://store.steampowered.com/app/1727210/MINDHACK/)
 - [ROUTINE](https://store.steampowered.com/app/606160/ROUTINE/)
 - [Hauntii](https://store.steampowered.com/app/1918160/Hauntii/)

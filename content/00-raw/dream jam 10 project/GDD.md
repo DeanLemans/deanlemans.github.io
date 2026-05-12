@@ -2,7 +2,7 @@
 unlisted: true
 title: Game/General Design Document
 publish: true
-modified: 2026-05-09
+modified: 2026-05-10
 id: 01KQX7QGYDTFACK8WNQW02D506
 created: 2026-05-05
 ---
@@ -12,21 +12,21 @@ created: 2026-05-05
 18 35
 
 Title:
-Agony/Despair
+Agony/Despair? the seekers dream? screaming red? .red?
 
 **General**
 
 Instructions:
-
 *How to play the game\!*
 
 Goal(s) of the Game:
-
-see the world, experience, explore?
+see the world, experience, explore
 
 *What is the goal of the game? What are you collecting? How do you win? You can describe the endings in the story section (or here if you like).*
 
 Theme(s) of the game:
+
+silent scream., below i have expended more on what i mean
 
 *Yume Nikki was about loneliness. .flow was about disease and corruption. Yume 2kki is about endless dreaming. What's the main thing in your game?*
 experience (the past?)

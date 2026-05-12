@@ -1,25 +1,26 @@
 ---
+unlisted: true
 title: Quotes
-tags:
+tags: []
 publish: true
-modified: 2026-05-03
+modified: 2026-05-12
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
 aliases:
   - quotes
-unlisted: true
 ---
 
 # Quotes
 
-alt title:
-stuff from books, lines is found interesting, snippets from something
-some stuff i expanded on because i found it fitting
+> [!NOTE] Alternative titles
+> - [commonplace book](<https://notebookofghosts.com/2018/02/25/a-brief-guide-to-keeping-a-commonplace-book/>)
+> - stuff from books
+> - quotes i expanded on because i found it fitting
+> - Pretentious Bullshit I Partially Disagree With
+> - raw excerpts
 
-actually linking/sourcing them is to much effort, so to bad if you want to find the origin. go do it yourself.
-
-i dont agree wholy with everything in here, still need to prune a bit
+actually linking/sourcing them is too much effort, so too bad if you want to find the origin. go do it yourself. dig up your own knowledge
 
 ---
 
@@ -117,6 +118,8 @@ i dont agree wholy with everything in here, still need to prune a bit
 > "And I sat pondering at the edge of a timeless sea. Pondering at what's left of me.
 > Pondering, Is it truly me?"
 
+> oh woe, those who try to find themselves, do you not release how stupid that is? have you tried seeing in the future? ofc not idiot. you plan for it, you build it, you are your own architect, what architect tries to find the fucking blueprint?? no!, he creates it! you disillusioned man, i hope you learn too see.
+
 > "Born too late to explore the Earth and Too early to explore the stars."
 
 > "Truth in lies, lies in truth."
@@ -141,7 +144,9 @@ i dont agree wholy with everything in here, still need to prune a bit
 
 > "Once you give governments power, They don't give it back."
 
-> I teach you the Superman, Man is something that is to be surpassed. What have ye done to surpass man?
+> I teach you the Superman, Man is something that is to be surpassed. What have ye done to surpass man? What havve ye done to surpass your origin? What have ye done to surpass yourself?
+
+> A bird that likes comfy and happy things, and also knives. Once ate a god's eye and awakened the ability to see all that is good in the world. Known to steal shiny ideas and baubles. Currently forbidden from writing his own bios.
 
 > "Nothing is to be taken seriously on the internet"
 
@@ -168,3 +173,9 @@ i dont agree wholy with everything in here, still need to prune a bit
 
 > always include this when talking to ai.:
 moved to [prompt](<./prompt.md>)
+
+## References/Inspiration
+
+[A Brief Guide to Keeping a Commonplace Book – Notebook of Ghosts](<https://notebookofghosts.com/2018/02/25/a-brief-guide-to-keeping-a-commonplace-book/>
+[How to Start a Commonplace Book — Miranda's Notebook](https://mirandasnotebook.com/blog/how-to-start-a-commonplace-book)
+[A Simple Guide to Keeping a Commonplace Book](https://www.thehappyjournals.com/keeping-a-commonplace-book/)
