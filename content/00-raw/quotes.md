@@ -15,7 +15,7 @@ aliases:
 
 > [!NOTE] Alternative titles
 > - [commonplace book](<https://notebookofghosts.com/2018/02/25/a-brief-guide-to-keeping-a-commonplace-book/>)
-> - stuff from books
+> - heap of things
 > - quotes i expanded on because i found it fitting
 > - Pretentious Bullshit I Partially Disagree With
 > - raw excerpts
@@ -84,8 +84,6 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > "A smart pony learns from her mistakes.
 > A wise pony learns from the mistakes of others.
 > A desperate pony invents entirely new and fascinating mistakes."
-
-> Nemesys.md: you are my rival that always tries to challenge and refute my ideas. And tries to offer counterpoints.
 
 > "She now sought not only to broaden her horizons with classical education but also absorbed everything that happened in her fantasy stories"
 
@@ -158,21 +156,18 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > "If i want something done right, i have to do it yourself"
 
-> "I would rather die chasing my dream then die of old age with silent regret"
+> "I would rather die chasing my dream then die of old age with (silent) regret"
 
-> Quantum immortality, the desperate belief
+> Quantum immortality, the desperate belief. how sad
 
 > "Pain is the hammer, it can forge you but it can also destroy you"
 
-> "pain= greater gains but also bigger risk"
+> "pain = greater gains but also bigger risk"
 
-> "I think, therefore I am" better = i am my own
-> - My underlying system determines a large part of my success.
+> "I think, therefore I am" better =" i am my own"
+> - underlying system determines a large part of success.
 
 > If you must acknowledge my departure, here's how I want you to do it: Don't worry about the fucking internet. Eat, drink, be merry. Love your spouses. Play with your children. Run wild beneath the sun with your dogs. Let your cats curl up in your laps. Sing and dance skyclad beneath the moon and stars. Indulge in public fornication. Destroy your idols. Burn the churches down. Raze every prison to the ground. Smash the state. Seize the means of production. Shout at the Devil, curse God, and live free
-
-> always include this when talking to ai.:
-moved to [prompt](<./prompt.md>)
 
 ## References/Inspiration
 
