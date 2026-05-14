@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-12
+modified: 2026-05-13
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -26,6 +26,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > You great star, what would your happiness be had you not those for whom you shine?
 
+> When you have lost one of those dearest to you, to suffer endless grief is foolish indulgence; to suffer none, inhuman hardness
+
 > - Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
 > - Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.
 > Old Corollary always was a presumptuous kid.
@@ -42,13 +44,63 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > Ripples in the fabric of space. A hell of inward-facing teeth, extending to infinity. A tongue that peeled the soul, eyes like apertures into insanity. Slavering planetoids shoved through the eye of a needle. Cracks where a thousand maws closed. A sigh of contentment like thunder in a tiny bowl.
 > Reality reasserted itself.
 
+> Each one of us is alone in the world. It takes great courage to meet the full force of your aloneness. Most of the activity in society is subconsciously designed to quell the voice crying in the wilderness within you
+
+> We sit silently and watch the world around us. This has taken a lifetime to learn. It seems only the old are able to sit next to one another and not say anything and still feel content. The young, brash and impatient, must always break the silence. It is a waste, for silence is pure.
+
+> For the early Buddhists, karma was non-linear and complex. Other Indian schools believed that karma operated in a simple straight line, with actions from the past influencing the present, and present actions influencing the future. As a result, they saw little room for free will.
+> Buddhists, however, saw that karma acts in multiple feedback loops, with the present moment being shaped both by past and by present actions; present actions shape not only the future but also the present. Furthermore, present actions need not be determined by past actions. In other words, there is free will, although its range is somewhat dictated by the past.
+> The nature of this freedom is symbolized in an image used by the early Buddhists: flowing water. Sometimes the flow from the past is so strong that little can be done except to stand fast, but there are also times when the flow is gentle enough to be diverted in almost any direction.
+> So, instead of promoting resigned powerlessness, the early Buddhist notion of karma focused on the liberating potential of what the mind is doing with every moment. Who you are — what you come from — is not anywhere near as important as the mind's motives for what it is doing right now.
+
+> Silence is holy. It draws people together because only those who are comfortable with each other can sit without speaking. This is the great paradox."
+
 > that unease you feel, that hate you feel to those?, that is your subconsisous screaming to you "i see myself in this! i hate this! so i need to resolve this!"
 
 > You are waiting for the revolution? My own began a long time ago! When you will be ready (God, what an endless wait!) I won't mind going along with you for awhile. But when you stop, I shall continue on my insane and triumphal way toward the great and sublime conquest of the nothing!
 
+> "Through feeding on a single kola-fruit a day, my body reached a state of extreme emaciation. Because of eating so little my limbs became like the jointed segments of vine stems or bamboo stems. Because of eating so little my backside became like a camel's hoof. Because of eating so little the projections on my spine stood forth like corded beads. Because of eating so little my ribs jutted out as gaunt as the crazy rafters of an old roofless barn. Because of eating so little the gleam of my eyes sank far down in their sockets, looking like a gleam of water which has sunk far down in a deep well. Because of eating so little my scalp shrivelled and withered as a green bitter gourd shrivels and withers in the wind and sun. Because of eating so little my belly skin adhered to my backbone; thus if I touched my belly skin I encountered my backbone, and if I touched my backbone I encountered my belly skin. Because of eating so little, if I tried to ease my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell from my body as I rubbed."
+
+> "Silence is essential. We need silence just as much as we need air, just as much as plants need light. If our minds are crowded with words and thoughts, there is no space for us."
+
+> Don't go hoard buying. Use what you have first. You will notice that during the year the things you really use will get empty, for these things you can make an exception since they are necessities for your life and it will give you a great idea of the things you really NEED. :)
+>
+> Also, if something gets broken try to see if you could go a week without it. If you notice you really do use it, then buy a replacement.
+>
+> I started my no buy this January so I'm already some months on the way. Would love to hear your rules!
+
 > effective and efficient without regard to delicate sensibilities
 
+> Life is like floating down a river.
+>
+> We may move along with the river's current, or we may "try" to fight the river's current, but we are never "not" in the river.
+>
+> Even when we "think" we are fighting the current, we are still flowing the current, because the current, the flow, is bigger than we are.
+>
+> It is less about "whether" we will flow with the river or not, and more about "how" we will flow with the river.
+>
+> Consider a surfer.
+>
+> Once he catches a wave he's going towards the shore whether he likes it or not.
+>
+> Whether the surfer is going to the shore, or not, is not the question.
+>
+> The question is, will he do so, gracefully, smoothly, and in accord with the wave, or will he be tossed, tumbled and crashed into the rocks?
+>
+> It's not about whether we are moving with the flow, or not. We are always moving with the flow.
+>
+> It's about how we will do so.
+
+> "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet."
+
 > That's the pain problem with AI. It all sounds good on first scan, because it's verbose and well-written text. But the content doesn't make much sense if you read slowly and think about it.
+
+> A sage gets punched in the face. The sage responds: "Please show me my mistake that I am blind to, so that I can correct it or try to make up for it."
+
+> "The signs of one who is making progress are that he criticizes no one, praises no one, blames or accuses no one"—Epictetus, E48.2
+> "If you wish it, you are free; if you wish it, you'll find fault with no one, you'll cast blame on no one"—Epictetus, D1.17.28
+
+> Yep, experiences and relationships. Reality is more like a complex web of interconnected processes rather than some 3D world with separate selves and objects. It becomes glaringly obvious the more you practice mindfulness meditation Even quantum physics pointed this out with wave particle duality. Particles look like something solid but upon further analysis you find they are very slippery, you can't quite pinpoint them
 
 > do not go gentle into that good night
 

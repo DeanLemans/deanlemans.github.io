@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-12
+modified: 2026-05-14
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -87,6 +87,7 @@ alias_sugestion: Cool Personal sites
 - [Death Grips](https://thirdworlds.net/)
 - [Chris Aldrich \| BoffoSocko](https://boffosocko.com/)
 - [Are you sure you remember the way out?](https://vaje.neocities.org)
+- [The Cozy Cat – Welcome to my cozy little home on the internet.](https://thecozy.cat/)
 - [Aaron Parecki](https://aaronparecki.com/)
 - [Blue Agate Home](https://blueagate.vercel.app/)
 - [Jason Textfiles](https://textfiles.com/jason/)

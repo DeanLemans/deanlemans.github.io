@@ -1,6 +1,6 @@
 ---
 title: money_expensive_bank_investing
-modified: 2026-05-09
+modified: 2026-05-13
 id: 01KR50GG7DBYMQH38HJPD175NZ
 created: 2026-05-08
 ---
@@ -10,3 +10,4 @@ created: 2026-05-08
 ## inspiration
 
 [Expenses](https://aarnphm.xyz/thoughts/Expenses)
+[Reddit - Please wait for verification](https://www.reddit.com/r/Fire/)
