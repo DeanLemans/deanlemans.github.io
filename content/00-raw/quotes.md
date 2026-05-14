@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-13
+modified: 2026-05-14
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -24,9 +24,58 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 ---
 
+> "Dependence is a subtle poison, slowly seeping into the soul, until one can no longer distinguish the self from the shackles that bind it."
+
+> They're idiots, their pathetic. All their little minds can imagine as the pinnacle of this technology is a machine that looks and feels human. But why would you ever want that? Humans are stupid, humans can double-think themselves into believing that the god they were raised to think is real while their neighbour who worships another is a lie and a cheat and a fool, while also being aware that neither of them has any more proof than the other. Humans are the bottom, the bare minimum when it comes to intellect and reasoning. Why in the world would you want your AI to be as smart as a human? If we create AI and they're not entirely alien to us, then we will know that we've failed.
+
+> Keep it private till its permanent
+
+> "What had brought us out of such moments was our pioneer spirit, our determination and resolve!"
+
+> "for richer, for poorer, in sickness and in health"
+
+> "The best long-term investment? Land. Real-estate. That's why there isn't an acre of land left for sale on Earth. It was such a good investment that it was invested in."
+
+> "People are impossibly fond of useless crap. Slap a number on it, call it collectible, and make it even moderately interesting, appealing, sexy, or cute, and you'll trigger something real deep in that person's mind."
+
+> Understand: we are all too afraid -- of offending people, of stirring up conflict, of standing out from the crowd, of taking bold action. For thousands of years our relationship to this emotion has evolved -- from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
+
+> If you view everything through the lens of fear, then you tend to stay in retreat mode. You can just as easily see a crisis or problem as a challenge, an opportunity to prove your mettle, the chance to strengthen, toughen, and forge yourself.
+
+> "My greatest motivator? Laziness, the will to not have to do much in the future."
+
+> We need a new minority to pin things on. It's becoming increasingly difficult to blame trans people or the gays. I can't think of any new group to marginalize though. We have a few options, but none of them fit all of our criteria: 1. We need them to be relatively poor. 2. We can't have that group be associated with us politically already. 3. They need a distinct culture. 4. They can't be a group that's well integrated with our own community. 5. The less media representation they have, the better. We'll take care of first impressions. 6. If they have historical reasons for being disliked, then that would be a bonus. I'm thinking we can have the people in the south turn against the French? There's a small but strong French community around New Orleans that we could pin things on. But then the actual French are pretty strong, so it could blow back against us. Ideas?
+
+> I do have faith in you, **HATE**. I'm mostly teasing you to keep your mood up. You're unusually motivated by antagonism, even of the more friendly variety. But I do think that, if you set your mind to it, you'll master this in due time.
+
+> For thousands of years our relationship to this emotion has evolved, from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
+
+> "See, boy, the better ya understan' yerself, the kinder you are, usually. Kindness, as in, not compassion.
+> Compassion's no virtue, 's just blind acceptance. Be a trap, often. Excuse yer failings; 's good for babies and kids. Not for older ones, traps 'em with excuses.
+> Kindness is real, though. Can say no. It just tryna not break 'em noses with 'em noes."
+
+> "One of the events precipitating the fall of several western nations was the rise of censorship. At some point, several governmental entities believed that more robust laws and regulations around the censoring of information were in order, to keep people in line.
+> This had the adverse effect, driving those who would be censored deeper into their own hidden corners.
+> It's no wonder, then, that these people came out of these spaces as extremists, seeing their own governments as enemies and adversaries.
+> As it turns out, one cannot censor someone from shooting them in their own home."
+
 > You great star, what would your happiness be had you not those for whom you shine?
 
 > When you have lost one of those dearest to you, to suffer endless grief is foolish indulgence; to suffer none, inhuman hardness
+
+> A man looks upon a god
+> A benevolent tyrant
+> He see's a being that will sentence millions to death
+> that will trample all in the name of their better
+> A shackled man looks upon a destroyer
+> He looks upon a god of decay
+> And he follows his chains back to his chainers
+> and spreads words to that of sweet smelling fruit
+> he does not speak to free himself of chains
+> he will remain bound
+> but with a collar instead of a chain
+> but his chainer's
+> they will be broken
 
 > - Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
 > - Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.
@@ -53,6 +102,10 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > The nature of this freedom is symbolized in an image used by the early Buddhists: flowing water. Sometimes the flow from the past is so strong that little can be done except to stand fast, but there are also times when the flow is gentle enough to be diverted in almost any direction.
 > So, instead of promoting resigned powerlessness, the early Buddhist notion of karma focused on the liberating potential of what the mind is doing with every moment. Who you are — what you come from — is not anywhere near as important as the mind's motives for what it is doing right now.
 
+> Can you dream of eternity?
+> Can you imagine it?
+> Is imagination (eventually) limitless, if it is, then we should be able to right?
+
 > Silence is holy. It draws people together because only those who are comfortable with each other can sit without speaking. This is the great paradox."
 
 > that unease you feel, that hate you feel to those?, that is your subconsisous screaming to you "i see myself in this! i hate this! so i need to resolve this!"
@@ -60,6 +113,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > You are waiting for the revolution? My own began a long time ago! When you will be ready (God, what an endless wait!) I won't mind going along with you for awhile. But when you stop, I shall continue on my insane and triumphal way toward the great and sublime conquest of the nothing!
 
 > "Through feeding on a single kola-fruit a day, my body reached a state of extreme emaciation. Because of eating so little my limbs became like the jointed segments of vine stems or bamboo stems. Because of eating so little my backside became like a camel's hoof. Because of eating so little the projections on my spine stood forth like corded beads. Because of eating so little my ribs jutted out as gaunt as the crazy rafters of an old roofless barn. Because of eating so little the gleam of my eyes sank far down in their sockets, looking like a gleam of water which has sunk far down in a deep well. Because of eating so little my scalp shrivelled and withered as a green bitter gourd shrivels and withers in the wind and sun. Because of eating so little my belly skin adhered to my backbone; thus if I touched my belly skin I encountered my backbone, and if I touched my backbone I encountered my belly skin. Because of eating so little, if I tried to ease my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell from my body as I rubbed."
+
+> THE VERY FIRST THING I REMEMBER IN MY EARLY CHILDHOOD IS A FLAME, A BLUE FLAME JUMPING OFF A GAS STOVE SOMEBODY LIT…. I WAS THREE YEARS OLD…. I FELT FEAR, REAL FEAR, FOR THE FIRST TIME IN MY LIFE. BUT I REMEMBER IT ALSO LIKE SOME KIND OF ADVENTURE, SOME KIND OF WEIRD JOY, TOO. I GUESS THAT EXPERIENCE TOOK ME SOMEPLACE IN MY HEAD I HADN'T BEEN BEFORE. TO SOME FRONTIER, THE EDGE, MAYBE, OF EVERYTHING POSSIBLE…THE FEAR I HAD WAS ALMOST LIKE AN INVITATION, A CHALLENGE TO GO FORWARD INTO SOMETHING I KNEW NOTHING ABOUT. THAT'S WHERE I THINK MY PERSONAL PHILOSOPHY OF LIFE…STARTED, WITH THAT MOMENT…. IN MY MIND I HAVE ALWAYS BELIEVED AND THOUGHT SINCE THEN THAT MY MOTION HAD TO BE FORWARD, AWAY FROM THE HEAT OF THAT FLAME.
 
 > "Silence is essential. We need silence just as much as we need air, just as much as plants need light. If our minds are crowded with words and thoughts, there is no space for us."
 
@@ -70,6 +125,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > I started my no buy this January so I'm already some months on the way. Would love to hear your rules!
 
 > effective and efficient without regard to delicate sensibilities
+
+> "I have not been dominated by the Dominant Idea of my Age; I have chosen mine own allegiance, and served it. I have proved by a lifetime that there is that in man which saves him from the absolute tyranny of Circumstance, which in the end conquers and remolds Circumstance, the immortal fire of Individual Will, which is the salvation of the Future."
 
 > Life is like floating down a river.
 >
@@ -90,6 +147,12 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > It's not about whether we are moving with the flow, or not. We are always moving with the flow.
 >
 > It's about how we will do so.
+
+> "Mater artium necessitas; the mother of invention is necessity."
+
+> 1 find common ground
+> 2 show interest
+> 3 seize weakness
 
 > "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet."
 
@@ -112,6 +175,10 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > Anarchism, which is the natural liberty of the individual freed from the odious yoke of spiritual and material rulers, is not the construction of a new and suffocating society.' It is a decisive fight against all societies-christian, democratic, socialist, communist, etc., etc.
 
+> Aim to be someome children look up to.
+> '?'
+> Why would i do that? That seems boring.
+
 > Anarchism is the eternal struggle of a small minority of aristocratic outsiders against all societies which follow one another on the stage of history."
 
 > The fall of our footsteps ringeth too hollow through their streets. And just as at night, when they are in bed and hear a man abroad long before sunrise, so they ask themselves concerning us: Where goeth the thief? Go not to men, but stay in the forest! Go rather to the animals! Why not be like mea bear amongst bears, a bird amongst birds?" "And what doeth the saint in the forest?" asked Zarathustra. The saint answered: "I make hymns and sing them; and in making hymns I laugh and weep and mumble: thus do I praise God. With singing, weeping, laughing, and mumbling do I praise the God who is my God."
@@ -129,9 +196,13 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > grants skills related to alchemy, persuasion, manipulation, and religious practices. No matter the labels, no matter the definitions, you shall continue to further the goals of the Malefic Viper while grasping all the power you possibly can along the way.
 
+> There are two kinds of survivalists: the enthusiasts, who only wish to participate in a hobby that could well save their lives later, and the true survivalists, those who wish to abandon the shackles that society has placed around their necks.
+
 > Wherein Twilight learns, to her dismay,
 > the limits to which logic will carry unpopular arguments,
 > and makes plans to further educate herself
+
+> Power was not loyalty. Magic was not worship. Faith could be wielded like any other blade, or abandoned when its edge dulled.
 
 > "A smart pony learns from her mistakes.
 > A wise pony learns from the mistakes of others.
@@ -153,6 +224,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > "Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become."
 
+> Not all **HEROES/THRESHOLDERS/TRANSCENDENTS** have a gimmick, but nearly all of them do. These sometimes form from necessity or preference. A ### adopting a certain kind of weaponry might specialize in that. Others prefer taking a certain role, and will purchase equipment according to that. Still others will find a theme and, over time, will push and develop that to its sometimes illogical extreme.
+
 > "School is trying to teach you how to be average and conform to the social norm, Don't listen to everything, reject the stupid rules, and follow/create your own path"
 
 > "Keep your inner child alive."
@@ -172,7 +245,11 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > "Born too late to explore the Earth and Too early to explore the stars."
 
+> Point. Buy. Kill some xenos, fill your supply! Bam, bam, the counter's a trap Click clack, new gear in yo' lap Rinse, repeat, climb so high! Lyrical extract from Point. Buy., Gun and Done's best selling rap single of 2043
+
 > "Truth in lies, lies in truth."
+
+> "But people don't always know what's good for them."
 
 > Who I once was Is not who I am now, do not hold on to things you are not anymore for it is in my nature to always change, this does not always happen on the same scale but however you change it is still important.
 
@@ -188,7 +265,11 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > "Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times."
 
+> "Carpe diem! Just...don't pluck too hard. Don't want the universe to unravel."
+
 > "Don't trust the government, to hold the individual interest in mind"
+
+> What separates those who go under and those who rise above adversity is the strength of their will and their hunger for power.
 
 > "Ask a question. Do research. Form a hypothesis. Test that hypothesis. Analyze the data. Draw a conclusion. Repeat."
 
@@ -208,7 +289,13 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > "If i want something done right, i have to do it yourself"
 
+> Little fingers cradle a frame, little eyes stare silently at the screen. Little knees pulled to her chest, little girl's tears flow no more, long dry. Her parents lie dead not far, father's hand dropped his ax, mother's hand dropped her knife. Five mangled bodies slashed and sliced lie there too, gruesome maws wide open, butcher's grimace. Her brother bleeds weakly, his pistol droops to the ground, his eyes unfocused, thoughts grow faint. The pictures on the screen move and tell a story, of many dead people and more dead creatures. She watches her sister fight and watches her die, impaled on spears of bone and claw. She watches as a switch falls from her sister's hands and fire swallows all.
+
 > "I would rather die chasing my dream then die of old age with (silent) regret"
+
+> a certain kind of madness balancing fortitude and near maniacal drive
+
+> "They create a bogus study which they publish in a serious-sounding science magazine owned by a for-profit university with a grand name like Anthropological University of Pennsylvania or the like. Website A publishes an outrageous article citing this study, then website B picks up the story, quoting website A. Website C does the same quoting website B… and then website A quotes website C as source. Now, all the clickbait articles dangled under the nose of viewers come with a list of apparently reliable sources. Of course, they control every organism involved from the start. It's just a ploy…"
 
 > Quantum immortality, the desperate belief. how sad
 

@@ -1,14 +1,14 @@
 ---
+unlisted: true
 title: Rymes and Poems
-tags:
+tags: []
 publish: true
-modified: 2026-05-03
+modified: 2026-05-14
 id: 01KQQV6TRG2JCRYD00FNE4MJ79
 draft: "true"
 created: 2026-02-02
 aliases:
   - rymes_and_poems
-unlisted: true
 ---
 
 # Rymes and Poems
@@ -253,6 +253,13 @@ And so it became humankind war cry
 And so they screamed and twitched and raged.
 weathered and half broken
 we survived
+
+---
+
+Hate till it all burns, crawl into yourself, collapse, rage, hate and pain.
+An emptiness, a touch lost.
+What is left
+Chains and hesitation
 
 ---
 

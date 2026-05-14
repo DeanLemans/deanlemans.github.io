@@ -1,6 +1,6 @@
 ---
 title: pastebin_phone
-modified: 2026-05-04
+modified: 2026-05-14
 id: 01KQQV6TRN5WB6ZWFBJWC5WZ2A
 created: 2026-01-24
 ---
@@ -13,10 +13,6 @@ Note: Perhaps this is true. Equally, perhaps it's the very fact that *not enough
 
 True and I would agree that marketing claims can be misleading. At the same time, effective marketing makes a very specific claim to a very specific audience and in most cases, if the product/software/course doesn't deliver on its promise, you're able to get your money back, in which case railing against "greedy people charging for knowledge" doesn't really hold up to scrutiny. Especially not when you're someone who's likely paid tens or even hundreds of thousands of dollars on tertiary education, which is the original "knowledge behind a paywall" business model and it would be a fool's errand to argue that university course descriptions are exercises in clarity in terms of detailing the product being sold, who it'll help and how it'll do so.
 Sr: <https://lite.evernote.com/note/d69cf793-1f14-48f4-bd48-43f41bd88678>
-
----
-
-Power was not loyalty. Magic was not worship. Faith could be wielded like any other blade, or abandoned when its edge dulled.
 
 ---
 
@@ -46,109 +42,6 @@ From what I understand the discrepancy here can be accounted for mostly with tur
 ---
 
 Although while Irwyn was preparing to delve in, Elizabeth instead chose to go explore the 'feast hall'. Irwyn was not hungry as the Trial still repressed all their physical needs and told her as much. To which she just shrugged, decided it was fine to 'indulge gluttony' and left, promising to be back soon with snacks.
-
----
-
-I have not been dominated by the Dominant Idea of my Age; I have chosen mine own allegiance, and served it. I have proved by a lifetime that there is that in man which saves him from the absolute tyranny of Circumstance, which in the end conquers and remolds Circumstance, the immortal fire of Individual Will, which is the salvation of the Future."
-
----
-
-1 find common ground
-2 show interest
-3 seize weakness
-
----
-
-Keep it private till its permanent
-
----
-
-Can you dream of eternity?
-Can you imagine it?
-Is imagination (eventually) limitless, if it is, then we should be able to right?
-
----
-
-Hate till it all burns, crawl into yourself, collapse, rage, hate and pain.
-An emptiness, a touch lost.
-What is left
-Chains and hesitation
-
----
-
-See, boy, the better ya understan' yerself, the kinder you are, usually. Kindness, as in, not compassion.
-
-Compassion's no virtue, 's just blind acceptance. Be a trap, often. Excuse yer failings; 's good for babies and kids. Not for older ones, traps 'em with excuses.
-
-Kindness is real, though. Can say no. It just tryna not break 'em noses with 'em noes."
-
----
-
-A man looks upon a god
-
-A benevolent tyrant
-
-He see's a being that will sentence millions to death
-
-that will trample all in the name of their better
-
-A shackled man looks upon a destroyer
-
-He looks upon a god of decay
-
-And he follows his chains back to his chainers
-
-and spreads words to that of sweet smelling fruit
-
-he does not speak to free himself of chains
-
-he will remain bound
-
-but with a collar instead of a chain
-
-but his chainer's
-
-they will be broken
-
----
-
-The best long-term investment? Land. Real-estate. That's why there isn't an acre of land left for sale on Earth. It was such a good investment that it was invested in."
-
----
-
-"One of the events precipitating the fall of several western nations was the rise of censorship. At some point, several governmental entities believed that more robust laws and regulations around the censoring of information were in order, to keep people in line.
-
-This had the adverse effect, driving those who would be censored deeper into their own hidden corners.
-
-It's no wonder, then, that these people came out of these spaces as extremists, seeing their own governments as enemies and adversaries.
-
-As it turns out, one cannot censor someone from shooting them in their own home."
-
----
-
-for richer, for poorer, in sickness and in health"
-
----
-
-"Laziness is the greatest motivator."
-
----
-
-Laziness is the greatest motivator
-
----
-
-People are impossibly fond of useless crap. Slap a number on it, call it collectible, and make it even moderately interesting, appealing, sexy, or cute, and you'll trigger something real deep in that person's mind."
-
----
-
-I do have faith in you, Catherine. I'm mostly teasing you to keep your mood up. You're unusually motivated by antagonism, even of the more friendly variety. But I do think that, if you set your mind to it, you'll master this in due time.
-
----
-
-Formulary for a New Urbanism
-
-by Ivan Chtcheglov
 
 ---
 
@@ -240,75 +133,11 @@ Do you know what kind of opportunity the average person has? Fuck-all. If you're
 
 ---
 
-Grunge
-
----
-
-Not all samurai have a gimmick, but nearly all of them do. These sometimes form from necessity or preference. A samurai adopting a certain kind of weaponry might specialize in that. Others prefer taking a certain role, and will purchase equipment according to that. Still others will find a theme and, over time, will push and develop that to its sometimes illogical extreme.
-
----
-
-There are two kinds of survivalists: the enthusiasts, who only wish to participate in a hobby that could well save their lives later, and the true survivalists, those who wish to abandon the shackles that society has placed around their necks.
-
----
-
-"Because it doesn't fit the decor at all. Also, while I'm totally down for trashy-chic,
-
----
-
-They're idiots. All their little minds can imagine as the pinnacle of this technology is a machine that looks and feels human. But why would you ever want that? Humans are stupid, humans can double-think themselves into believing that the god they were raised to think is real while their neighbor who worships another is a lie and a cheat and a fool, while also being aware that neither of them has any more proof than the other. Humans are the bottom, the bare minimum when it comes to intellect and reasoning. Why in the world would you want your AI to be as smart as a human? If we create AI and they're not entirely alien to us, then we will know that we've failed.
-
----
-
-We need a new minority to pin things on. It's becoming increasingly difficult to blame trans people or the gays. I can't think of any new group to marginalize though. We have a few options, but none of them fit all of our criteria: 1. We need them to be relatively poor. 2. We can't have that group be associated with us politically already. 3. They need a distinct culture. 4. They can't be a group that's well integrated with our own community. 5. The less media representation they have, the better. We'll take care of first impressions. 6. If they have historical reasons for being disliked, then that would be a bonus. I'm thinking we can have the people in the south turn against the French? There's a small but strong French community around New Orleans that we could pin things on. But then the actual French are pretty strong, so it could blow back against us. Ideas?
-
----
-
-For thousands of years our relationship to this emotion has evolved, from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
-
----
-
-Understand: we are all too afraid -- of offending people, of stirring up conflict, of standing out from the crowd, of taking bold action.
-
----
-
-If you view everything through the lens of fear, then you tend to stay in retreat mode. You can just as easily see a crisis or problem as a challenge, an opportunity to prove your mettle, the chance to strengthen and toughen yourself,
-
----
-
-What had brought us out of such moments was our pioneer spirit, our determination and resolve
-
----
-
-The Fearless Type THE VERY FIRST THING I REMEMBER IN MY EARLY CHILDHOOD IS A FLAME, A BLUE FLAME JUMPING OFF A GAS STOVE SOMEBODY LIT…. I WAS THREE YEARS OLD…. I FELT FEAR, REAL FEAR, FOR THE FIRST TIME IN MY LIFE. BUT I REMEMBER IT ALSO LIKE SOME KIND OF ADVENTURE, SOME KIND OF WEIRD JOY, TOO. I GUESS THAT EXPERIENCE TOOK ME SOMEPLACE IN MY HEAD I HADN'T BEEN BEFORE. TO SOME FRONTIER, THE EDGE, MAYBE, OF EVERYTHING POSSIBLE…THE FEAR I HAD WAS ALMOST LIKE AN INVITATION, A CHALLENGE TO GO FORWARD INTO SOMETHING I KNEW NOTHING ABOUT. THAT'S WHERE I THINK MY PERSONAL PHILOSOPHY OF LIFE…STARTED, WITH THAT MOMENT…. IN MY MIND I HAVE ALWAYS BELIEVED AND THOUGHT SINCE THEN THAT MY MOTION HAD TO BE FORWARD, AWAY FROM THE HEAT OF THAT FLAME. -- Miles Davis
-
----
-
-Understand: we are all too afraid -- of offending people, of stirring up conflict, of standing out from the crowd, of taking bold action. For thousands of years our relationship to this emotion has evolved -- from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
-
----
-
-What separates those who go under and those who rise above adversity is the strength of their will and their hunger for power.
-
----
-
-Point. Buy. Kill some xenos, fill your supply! Bam, bam, the counter's a trap Click clack, new gear in yo' lap Rinse, repeat, climb so high! Lyrical extract from Point. Buy., Gun and Done's best selling rap single of 2043
-
----
-
-But people don't always know what's good for them."
+Grunge, Because it doesn't fit the decor at all. Also, while I'm totally down for trashy-chic,
 
 ---
 
 The notion that behavior can be separated into mutually exclusive components, such as mental or psychological aspects of behavior and purely physical aspects of behavior, is not sustainable given the current understanding of behavior. All psychological and emotional processes have a physiological basis, and all complicated behaviors (behaviors that are not simply reflex actions) have a significant emotional and psychological component. The old dualistic separation of mind and body is a myth and an unrealistic way to view nearly any type of behavior. This includes behaviors associated with substance use disorders and process addictions (e.g. compulsive gambling). Any designation of something as being "purely physical" or "purely psychological" reflects a misunderstanding of behavior in general.
-
----
-
-"Dependence is a subtle poison, slowly seeping into the soul, until one can no longer distinguish the self from the shackles that bind it."
-
----
-
-"Carpe diem! Just...don't pluck too hard. Don't want the universe to unravel."
 
 ---
 
@@ -336,15 +165,7 @@ She watches as the beast's head comes around the corner, and she looks into its 
 
 ---
 
-"Mater artium necessitas; the mother of invention is necessity."
-
----
-
 "FUCK MY LIFE!" – They, who have contracted a terminal case of reality
-
----
-
-Little fingers cradle a frame, little eyes stare silently at the screen. Little knees pulled to her chest, little girl's tears flow no more, long dry. Her parents lie dead not far, father's hand dropped his ax, mother's hand dropped her knife. Five mangled bodies slashed and sliced lie there too, gruesome maws wide open, butcher's grimace. Her brother bleeds weakly, his pistol droops to the ground, his eyes unfocused, thoughts grow faint. The pictures on the screen move and tell a story, of many dead people and more dead creatures. She watches her sister fight and watches her die, impaled on spears of bone and claw. She watches as a switch falls from her sister's hands and fire swallows all.
 
 ---
 
@@ -362,18 +183,6 @@ Beside her, Yin lit up like the morning sun as he too shook with the sweet, dupl
 
 ---
 
-a certain kind of madness balancing fortitude and near maniacal drive
-
----
-
 A lot like Stormild, her elemental nature shone through, making her innately more childish and flighty than a normal beast. This isn't to say she wasn't as smart as other monsters; it just meant that becoming more "mature" wasn't a prioritized development goal.
 
 ---
-
-They create a bogus study which they publish in a serious-sounding science magazine owned by a for-profit university with a grand name like Anthropological University of Pennsylvania or the like. Website A publishes an outrageous article citing this study, then website B picks up the story, quoting website A. Website C does the same quoting website B… and then website A quotes website C as source. Now, all the clickbait articles dangled under the nose of viewers come with a list of apparently reliable sources. Of course, they control every organism involved from the start. It's just a ploy…"
-
----
-
-Aim to be someome children look up to.
-?
-That seems boring
