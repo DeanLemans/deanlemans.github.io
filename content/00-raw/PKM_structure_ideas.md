@@ -2,7 +2,7 @@
 unlisted: true
 title: PKM structure ideas
 publish: true
-modified: 2026-05-12
+modified: 2026-05-15
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
@@ -20,7 +20,7 @@ so first off
 
 - evergreen
 
-[About these notes \| Evergreen notes \| Evergreen notes should be concept-oriented \| Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)
+- atomic notes
 
 - second brain
 
@@ -34,11 +34,19 @@ so first off
 	- fleeting notes
 	- zettels
 
+- jhonny decibel
+	- numbers 00.00
+
 - PARA:
 	- Projects,
 	- Areas,
 	- Resources
 	- Archives
+
+- ACE:
+	- Atlas
+	- Calendar
+	- Efforts
 
 ---
 
@@ -63,6 +71,7 @@ Topic tags vs object tag
 - [Wittgenstein](<./clippings/Wittgenstein.md>)
 - [Personal Knowledge Management System (PKMS)](<./clippings/Personal Knowledge Management System (PKMS).md>)
 - [Note Taking & Obsidian](<./clippings/Note Taking & Obsidian.md>)
+- [The Ultimate Folder System: A quixotic journey to ACE - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/the-ultimate-folder-system-a-quixotic-journey-to-ace/63483)
 - [Quantum OS](https://quantumgardener.info/notes/quantum-os)
 
 ---

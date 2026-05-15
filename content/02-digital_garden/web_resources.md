@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-09
+modified: 2026-05-14
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -157,6 +157,8 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Dillo Website](https://dillo-browser.org/)
 - [Vulnerability Garden](https://vulnerability.garden/)
 - [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
+- [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
+- [LibrePhone project](https://librephone.fsf.org/)
 
 ### references/inspiration
 
