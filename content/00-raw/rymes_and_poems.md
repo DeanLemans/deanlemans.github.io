@@ -263,6 +263,13 @@ Chains and hesitation
 
 ---
 
+ADVENTURE, EXPLORATION, that great longing, do you feel it? in you veins, in the trees, and trhough the air?
+do you feel it, clinging to you, like an insestent child? that wild primordial need? that craving?
+like something wants to get outh through your bones? itching itching itching.
+just beyond the mountain. beyond the horizon.
+
+---
+
 ## 3 of all, 3 of none
 
 Kindle the flame. The soul
