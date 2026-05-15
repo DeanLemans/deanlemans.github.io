@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-12
+modified: 2026-05-15
 id: 01KQQV6TQZQ0E7PF415EEHYT4K
 description: my collection of games
 created: 2024-10-08
@@ -110,6 +110,9 @@ aliases:
 - [Citizen Sleeper 2](https://www.citizensleeper.com)
 - [NeverAwake](https://store.steampowered.com/app/1727180/NeverAwake/)
 - [Watch Dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2)
+- zelda: breath of the wildl
+	- still need to play with mods
+	- [Relics of the Past (Official) v3.1.0 Mod for The Legend of Zelda: Breath of the Wild (Switch) \| BotW Mods](https://gamebanana.com/mods/414823)
 - [Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate)
 - [BAD END THEATER](https://badendtheater.com/)
 - [It Takes Two](https://www.ea.com/games/it-takes-two)
@@ -179,6 +182,14 @@ aliases:
 - [Rayman 4](https://raymanpc.com/wiki/en/Rayman_4)
 - [Epic Mickey 3](https://www.mariowiki.com/Epic_Mickey_3)
 - [Post Void](https://store.steampowered.com/app/1285670/Post_Void)
+- [The Legend of Zelda: Tears of the Kingdom - Zelda Wiki](https://zeldawiki.wiki/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) (depth of the kingdom and the second quest are currently not compatible, research)
+	- [TotK Mod Manager](https://tkmm.org/)
+	- [UltraCam - TOTK mods \| 60+ FPS & Graphics Enhancements for Tears Of The Kingdom](https://www.nxoptimizer.com/games/tears-of-the-kingdom/)
+	- [The Second Quest Mod for The Legend of Zelda](https://gamebanana.com/mods/479009)
+	- [Depths of the Kingdom Mod for The Legend of Zelda](https://gamebanana.com/mods/578624)
+	- [Visible Rauru's arm for all armors Mod for The Legend of Zelda](https://gamebanana.com/mods/453232)
+		- [Ryubing](https://git.ryujinx.app/projects/Ryubing)
+		- [eden](https://git.eden-emu.dev/eden-emu/eden)
 - [CRYPT WORLDS](https://www.cicadamarionette.com/Games/CryptWorlds/Main.html)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian)
 - [PAPER ANGEL](https://slitherbop.itch.io/paper-angel)
