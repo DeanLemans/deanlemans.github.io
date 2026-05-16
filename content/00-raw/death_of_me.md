@@ -58,5 +58,5 @@ idk, go figure out your own answer
 
 #### references/inspiration
 
-[testament ⁂ starbreaker.org](<./clippings/testament ⁂ starbreaker.org.md>)
-[when i die](<./clippings/when i die.md>)
+[testament ⁂ starbreaker.org](<./00_01-clippings/testament ⁂ starbreaker.org.md>)
+[when i die](<./00_01-clippings/when i die.md>)

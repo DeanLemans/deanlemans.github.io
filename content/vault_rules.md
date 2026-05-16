@@ -88,7 +88,7 @@ aliases:
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault
 - Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
-- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
+- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_01-clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
 - Store files in open and readable formats.
 - Use consistent naming and metadata for search-ability and discoverbility.(proper YAML data, good tags, etc)
 

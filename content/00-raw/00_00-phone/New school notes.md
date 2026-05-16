@@ -4,7 +4,7 @@ modified: 2026-05-09
 id: 01KQQV6TRTYCSS44Q8HCPKT1CN
 created: 2026-03-18
 ---
-[fleeting](<../dump/fleeting.md>)
+[fleeting](<../00_02-dump/fleeting.md>)
 
 # New school notes
 

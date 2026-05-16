@@ -28,10 +28,10 @@ aliases:
 
 ## Check Out My CVs
 
-> [!info] [Software CV](<./00-raw/dump/cv_software.md>)
+> [!info] [Software CV](<./00-raw/00_02-dump/cv_software.md>)
 > development experience.
 
-> [!info] [Gardening CV](<./00-raw/dump/cv_gardening.md>)
+> [!info] [Gardening CV](<./00-raw/00_02-dump/cv_gardening.md>)
 > gardening experience.
 
 ## Tools & Technologies

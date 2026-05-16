@@ -20,7 +20,7 @@ then just spread it on good substrate
 
 ## how to create moss terrarium
 
-[Mossariums’ How To Guide](<../00-raw/clippings/Mossariums’ How To Guide.md>)
+[Mossariums’ How To Guide](<../00-raw/00_01-clippings/Mossariums’ How To Guide.md>)
 
 - container
 	- drainage layer
