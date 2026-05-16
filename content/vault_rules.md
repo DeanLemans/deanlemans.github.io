@@ -79,7 +79,7 @@ aliases:
 
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/my-references/backup_rule.md>)
+- follow the [backup_rule](<./00-raw/PKM TEST FOLDER/my-references/backup_rule.md>)
 
 ---
 
