@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-14
+modified: 2026-05-16
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -53,6 +53,9 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > "See, boy, the better ya understan' yerself, the kinder you are, usually. Kindness, as in, not compassion.
 > Compassion's no virtue, 's just blind acceptance. Be a trap, often. Excuse yer failings; 's good for babies and kids. Not for older ones, traps 'em with excuses.
 > Kindness is real, though. Can say no. It just tryna not break 'em noses with 'em noes."
+
+> "I thought the Inquisition takes no sides," Elizabeth pointed out.
+> "Your father has made a compelling case as for why keeping you shielded is beneficial for the Federation's War efforts. The image of impartiality is vital, but small acts can be considered with sufficient incentives. The goal of neutrality is to _preserve_ our power, not squander it."
 
 > "One of the events precipitating the fall of several western nations was the rise of censorship. At some point, several governmental entities believed that more robust laws and regulations around the censoring of information were in order, to keep people in line.
 > This had the adverse effect, driving those who would be censored deeper into their own hidden corners.
