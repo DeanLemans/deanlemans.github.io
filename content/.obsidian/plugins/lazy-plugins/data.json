@@ -1,11 +1,11 @@
 {
-  "dualConfigs": false,
+  "dualConfigs": true,
   "showConsoleLog": false,
   "desktop": {
     "shortDelaySeconds": 5,
     "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": "instant",
+    "defaultStartupType": "disabled",
     "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
@@ -25,7 +25,7 @@
         "startupType": "instant"
       },
       "omnisearch": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-plugin-update-tracker": {
         "startupType": "instant"
@@ -46,13 +46,13 @@
         "startupType": "instant"
       },
       "pdf-plus": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "settings-search": {
         "startupType": "instant"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
@@ -92,6 +92,15 @@
       },
       "obsidian-version-history-diff": {
         "startupType": "instant"
+      },
+      "full-calendar-remastered": {
+        "startupType": "instant"
+      },
+      "obsidian-reminder-plugin": {
+        "startupType": "disabled"
+      },
+      "smart-connections": {
+        "startupType": "disabled"
       }
     }
   }

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+                "file": "02-digital_garden/personal_sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "“Better note-taking” misses the point; what matters is “better thinking”"
+              "title": "personal_sites"
             }
           }
         ],
@@ -128,8 +128,8 @@
             "extraContext": false,
             "sortOrder": "alphabetical"
           },
-          "icon": "lucide-search",
-          "title": "Search"
+          "icon": "lucide-ghost",
+          "title": "search"
         }
       }
     ],
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+            "file": "02-digital_garden/personal_sites.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -206,6 +206,16 @@
           "icon": "file-digit",
           "title": "Strange New Worlds"
         }
+      },
+      {
+        "id": "fc6a5e20e4d6ddb7",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "clock",
+          "title": "Reminders"
+        }
       }
     ],
     "currentTab": 2
@@ -213,20 +223,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Create new canvas": false,
-      "switcher:Open quick switcher": false,
       "random-note:Open random note": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-plugin-update-tracker:Plugin Update Tracker": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "64a1e67987c639ce",
   "lastOpenFiles": [
+    "00-raw/pc stuff.md",
+    "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
+    "00-raw/phone/In dreams in death.sync-conflict-20260509-151904-42WPSFV.md",
+    "00-raw/PKM_structure_ideas.md",
+    "00-raw/how to improve browser stuff.md",
+    "00-raw/clippings/The Difference Between Good and Bad Tags • Zettelkasten Method.md",
+    "00-raw/rymes_and_poems.md",
+    "vault_rules.md",
     "00-raw/dump/yuverta/classes.md",
     "00-raw/phone/New school notes.md",
     "00-raw/phone/Plants.md",
@@ -235,7 +247,6 @@
     "00-raw/phone/In dreams in death.md",
     "00-raw/phone/Godot.md",
     "00-raw/phone/Paste-web.md",
-    "00-raw/PKM_structure_ideas.md",
     "00-raw/music stuff player and file stuff.md",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",
@@ -250,7 +261,6 @@
     "static_files/Pasted image 20260506190504.png",
     "static_files/Pasted image 20260506003014.png",
     "static_files/Pasted image 20260506014350.png",
-    "00-raw/how to improve browser stuff.md",
     "colophon.md",
     "static_files/Pasted image 20260506162624.png",
     "00-raw/my-references/streisand_effect.md",
@@ -259,12 +269,6 @@
     "00-raw/my-references/Discipline.md",
     "00-raw/dump/sintlucas/sintlucas_klachten.md",
     "00-raw/my-references/blueprint.md",
-    "00-raw/my-references/pomodoro_technique.md",
-    "00-raw/my-references/Destiny.md",
-    "02-digital_garden/personal_sites.md",
-    "00-raw/terminal emulators stuff.md",
-    "00-raw/how to learn faster.md",
-    "00-raw/hair stuff.md",
     "00-raw/Phone",
     "Clippings"
   ]
