@@ -2,7 +2,7 @@
 title: Death of Me
 tags:
 publish: true
-modified: 2026-05-03
+modified: 2026-05-18
 id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?
 created: 2026-04-29
@@ -11,7 +11,7 @@ unlisted: true
 
 # Death of Me
 
-> [!NOTE]Alternative titles
+> [!NOTE] Alternative titles
 > - unfortunate contingency that hopefully never comes to pass
 > - Legacy
 > - I'm fucking death man
@@ -58,5 +58,5 @@ idk, go figure out your own answer
 
 #### references/inspiration
 
-[testament ⁂ starbreaker.org](<./00_01-clippings/testament ⁂ starbreaker.org.md>)
-[when i die](<./00_01-clippings/when i die.md>)
+[testament ⁂ starbreaker.org](<./00_00-clippings/testament ⁂ starbreaker.org.md>)
+[when i die](<./00_00-clippings/when i die.md>)

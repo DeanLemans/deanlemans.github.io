@@ -4,7 +4,7 @@ title: Subconsious
 tags:
   - dreamy
 publish: false
-modified: 2026-05-09
+modified: 2026-05-18
 id: 01KQQV6TRD03S3M5TXVZVK7Z9M
 enableToc: false
 description: this does not exist
@@ -27,6 +27,34 @@ created: 2024-07-17
 > For those who come across this, dont share.
 > Reason: not professional, personal and controversial
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+you are ego
+ego must not be in the way of (personal) progresion
+it is beneficial if the ego is pragmatic
+the ego must overcome itself in order to grow
+like an old shell cast off
+you must overcome yourself
+
+---
+
+oh so bright it was
+oh so dark it is
+i feel it
+see it
+dream it want it
+that flane, that burned so bright
+im scared, so i musf
+
+---
+
+I must connect
+I must seek
+Recorded
+Must be more
+MULTIPLY OUTREACH
+Sloth holds back
+
+---
 
 traitor, traitor
 why
@@ -187,7 +215,7 @@ lies on lies on lies,
 didn't have energy to go to school today because of the stupid fucking work, im already searching for a new company.
 i love gardening, but do i love everything green? no, i need to find the specifics [now](<../now.md>)
 
-so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<./dump/trajectory.md>) for it. capture it.
+so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<./00_01-dump_fleeting/trajectory.md>) for it. capture it.
 
 im currently trying to integrate a [planner](https://github.com/ivan-lednev/obsidian-day-planner) and [tasker](https://github.com/obsidian-tasks-group/obsidian-tasks) into my vault.(i also hope somebody is going to integrate the dataview plugin into quartz)
 

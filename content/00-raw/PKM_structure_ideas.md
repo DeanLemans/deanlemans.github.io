@@ -2,7 +2,7 @@
 unlisted: true
 title: PKM structure ideas
 publish: true
-modified: 2026-05-16
+modified: 2026-05-18
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
@@ -57,6 +57,8 @@ do i wait with writhing notes otherwise i will just have to remove future stuff,
 
 Topic tags vs object tag
 
+map of content(MOC), are my index folders!, how did i never realised that?
+
 [vault_rules](<../vault_rules.md>)
 
 ---
@@ -70,18 +72,18 @@ learned things will go in the evergreen/references/atomic/zettel folder.(WIP)
 
 ## inspiration
 
-- [“Better note-taking” misses the point; what matters is “better thinking”](<./00_01-clippings/“Better note-taking” misses the point; what matters is “better thinking”.md>)
-- [Evergreen notes](<./00_01-clippings/Evergreen notes.md>)
-- [Ideas for my note-taking workflow ¶](<./00_01-clippings/Ideas for my note-taking workflow ¶.md>)
-- [My Zettelkasten workflow from start to finish](<./00_01-clippings/My Zettelkasten workflow from start to finish.md>)
-- [Zettelkasten](<./00_01-clippings/Zettelkasten.md>)
-- [Zettelkasten 1](<./00_01-clippings/Zettelkasten 1.md>)
-- [About This Website](<./00_01-clippings/About This Website.md>)
-- [Introduction to the Zettelkasten Method • Zettelkasten Method](<./00_01-clippings/Introduction to the Zettelkasten Method • Zettelkasten Method.md>)
-- [Building a Second Brain The Definitive Introductory Guide](<./00_01-clippings/Building a Second Brain The Definitive Introductory Guide.md>)
-- [Wittgenstein](<./00_01-clippings/Wittgenstein.md>)
-- [Personal Knowledge Management System (PKMS)](<./00_01-clippings/Personal Knowledge Management System (PKMS).md>)
-- [Note Taking & Obsidian](<./00_01-clippings/Note Taking & Obsidian.md>)
+- [“Better note-taking” misses the point; what matters is “better thinking”](<./00_00-clippings/“Better note-taking” misses the point; what matters is “better thinking”.md>)
+- [Evergreen notes](<./00_00-clippings/Evergreen notes.md>)
+- [Ideas for my note-taking workflow ¶](<./00_00-clippings/Ideas for my note-taking workflow ¶.md>)
+- [My Zettelkasten workflow from start to finish](<./00_00-clippings/My Zettelkasten workflow from start to finish.md>)
+- [Zettelkasten](<./00_00-clippings/Zettelkasten.md>)
+- [Zettelkasten 1](<./00_00-clippings/Zettelkasten 1.md>)
+- [About This Website](<./00_00-clippings/About This Website.md>)
+- [Introduction to the Zettelkasten Method • Zettelkasten Method](<./00_00-clippings/Introduction to the Zettelkasten Method • Zettelkasten Method.md>)
+- [Building a Second Brain The Definitive Introductory Guide](<./00_00-clippings/Building a Second Brain The Definitive Introductory Guide.md>)
+- [Wittgenstein](<./00_00-clippings/Wittgenstein.md>)
+- [Personal Knowledge Management System (PKMS)](<./00_00-clippings/Personal Knowledge Management System (PKMS).md>)
+- [Note Taking & Obsidian](<./00_00-clippings/Note Taking & Obsidian.md>)
 - [The Ultimate Folder System: A quixotic journey to ACE - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/the-ultimate-folder-system-a-quixotic-journey-to-ace/63483)
 - [Quantum OS](https://quantumgardener.info/notes/quantum-os)
 

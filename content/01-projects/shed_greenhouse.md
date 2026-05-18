@@ -16,7 +16,7 @@ aliases:
 ## references
 
 - [create_plant_terrarium](<./create_plant_terrarium.md>)
-- [how_to_grow_moss](<./how_to_grow_moss.md>)
+- [how_to_grow_moss](<../00-raw/00_02-knowledge/how_to_grow_moss.md>)
 
 ---
 

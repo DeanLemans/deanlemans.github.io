@@ -79,7 +79,7 @@ aliases:
 
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/PKM TEST FOLDER/my-references/backup_rule.md>)
+- follow the [backup_rule](<./00-raw/00_02-knowledge/principles_theorethical_atomic/backup_rule.md>)
 
 ---
 
@@ -88,7 +88,7 @@ aliases:
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault
 - Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
-- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_01-clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
+- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_00-clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
 - Store files in open and readable formats.
 - Use consistent naming and metadata for search-ability and discoverbility.(proper YAML data, good tags, etc)
 

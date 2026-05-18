@@ -10,7 +10,7 @@ aliases: []
 # /now
 
 [create_plant_terrarium](<./01-projects/create_plant_terrarium.md>)
-[how_to_grow_moss](<./01-projects/how_to_grow_moss.md>)
+[how_to_grow_moss](<./00-raw/00_02-knowledge/how_to_grow_moss.md>)
 [shed_greenhouse](<./01-projects/shed_greenhouse.md>)
 
 - See: [01 projects](<./01-projects/index.md>)for my current projects

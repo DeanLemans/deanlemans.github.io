@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-14
+modified: 2026-05-17
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -57,7 +57,6 @@ alias_sugestion: Cool Personal sites
 - [Minnie's Home Page](http://tuhs.org/)
 - [devonzuegel.com](https://devonzuegel.com/)
 - [Dave Heinemann](https://dheinemann.com/)
-- [Swyx Ideas](https://www.swyx.io/)
 - [Aleen42 Wiki](https://wiki.aleen42.com/)
 - [Jesse Squires TIL](https://jessesquires.github.io/TIL/)
 - [Lyz-Code Blue Book](https://lyz-code.github.io/blue-book/)

@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-15
+modified: 2026-05-18
 id: 01KQQV6TQZQ0E7PF415EEHYT4K
 description: my collection of games
 created: 2024-10-08
@@ -198,6 +198,7 @@ aliases:
 - [异化之恶〇Abnormal Treatment](https://store.steampowered.com/app/1122750/Abnormal_Treatment/)
 - [Misao](https://store.steampowered.com/app/691450/Misao__2024_HD_Remaster)
 - [Disillusion](https://store.steampowered.com/app/1490060/Disillusion) + [remaster](https://disillusionst.itch.io/disillusion-st)
+- [Pathologic](https://www.pathologic-game.com/)(need to playa 2005 version)
 - [CAUTIOUS V](https://beefstrong.itch.io/cautious-v-)
 - [8:11](https://goth-6669.itch.io/811)
 - [Nova Drift](https://store.steampowered.com/app/858210/Nova_Drift/)
