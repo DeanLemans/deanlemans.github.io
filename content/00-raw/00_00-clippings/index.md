@@ -1,9 +1,9 @@
 ---
 unlisted: true
-title: 00.01 Clippings
+title: 00.00 Clippings
 tags: []
 publish: true
-modified: 2026-05-16
+modified: 2026-05-19
 id: 01KQQV6TT915DHCW7HG6VQ2GF3
 created: 2026-04-19
 aliases:
@@ -11,7 +11,7 @@ aliases:
   - 01KQQV6TT915DHCW7HG6VQ2GF3
 ---
 
-# 00.01 Clippings
+# 00.00 Clippings
 
 Articles from the internet i like.
 a vault for stuff not mine.

@@ -2,7 +2,7 @@
 unlisted: true
 title: PKM structure ideas
 publish: true
-modified: 2026-05-18
+modified: 2026-05-19
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
@@ -58,6 +58,8 @@ do i wait with writhing notes otherwise i will just have to remove future stuff,
 Topic tags vs object tag
 
 map of content(MOC), are my index folders!, how did i never realised that?
+	
+root of my 00-raw/hidden folder is my inbox folder, but what about the dump folder
 
 [vault_rules](<../vault_rules.md>)
 
