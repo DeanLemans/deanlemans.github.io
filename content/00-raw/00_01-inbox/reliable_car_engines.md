@@ -8,6 +8,7 @@ description: most relialbe engine type shi
 created: 2026-02-02
 aliases:
   - reliable/long term car engine
+  - car_engine
 unlisted: true
 ---
 
