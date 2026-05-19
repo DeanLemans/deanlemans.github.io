@@ -4,19 +4,20 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-05-03
+modified: 2026-05-19
 id: 01KQQV6TR223AM608VN0GPEJ9Q
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project
+unlisted: true
 ---
 
 # Shed Greenhouse Project
 
 ## references
 
-- [create_plant_terrarium](<./create_plant_terrarium.md>)
-- [how_to_grow_moss](<../00-raw/00_02-knowledge/how_to_grow_moss.md>)
+- [🌱plant_terrarium_project](<./🌱plant_terrarium_project.md>)
+- [🌱how_to_grow_moss](<./🌱how_to_grow_moss.md>)
 
 ---
 

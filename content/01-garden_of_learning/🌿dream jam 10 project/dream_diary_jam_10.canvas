@@ -118,8 +118,8 @@
 		{"id":"e3877953263f11cc","type":"file","file":"static_files/Pasted image 20260510014449.png","x":-1312,"y":1544,"width":312,"height":315},
 		{"id":"1ff9fe0460a3a41a","type":"file","file":"static_files/Pasted image 20260510014530.png","x":-954,"y":1539,"width":316,"height":320},
 		{"id":"00a49c1561c24640","type":"file","file":"static_files/Pasted image 20260510020049.png","x":-596,"y":1542,"width":319,"height":319},
-		{"id":"a5a860080d51ac22","type":"file","file":"01-projects/dream jam 10 project/GDD.md","x":-1472,"y":1920,"width":632,"height":541},
-		{"id":"ccc559fa0864ca86","type":"file","file":"01-projects/dream jam 10 project/TDD.md","x":-796,"y":1920,"width":536,"height":541}
+		{"id":"a5a860080d51ac22","type":"file","file":"01-garden_of_learning/🌿dream jam 10 project/GDD.md","x":-1472,"y":1920,"width":632,"height":541},
+		{"id":"ccc559fa0864ca86","type":"file","file":"01-garden_of_learning/🌿dream jam 10 project/TDD.md","x":-796,"y":1920,"width":536,"height":541}
 	],
 	"edges":[
 		{"id":"1f2a3c666be92d5b","fromNode":"acf7f0a6d4cfa0dd","fromSide":"bottom","toNode":"71daa9985ccd3d4d","toSide":"top"},

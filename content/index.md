@@ -47,7 +47,7 @@ aliases:
 - Indie Web
 
 > [!info] Current main Project
-> - [Greenhouse Project](<./01-projects/shed_greenhouse.md>)
+> - [Greenhouse Project](<./01-garden_of_learning/🪴shed_greenhouse.md>)
 
 > [!info] Collections
 > - [Book Library](<./02-digital_garden/book_list.md>)

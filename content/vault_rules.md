@@ -79,7 +79,7 @@ aliases:
 
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/00_02-knowledge/principles_theorethical_atomic/backup_rule.md>)
+- follow the [backup_rule](<./00-raw/00_02-knowledge/backup_rule.md>)
 
 ---
 

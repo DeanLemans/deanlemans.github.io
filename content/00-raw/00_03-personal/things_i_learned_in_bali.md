@@ -1,12 +1,15 @@
 ---
+unlisted: true
 title: Research Bali
 tags:
   - finished
 publish: true
-modified: 2026-05-03
+modified: 2026-05-19
 id: 01KQQV6TRA7N1QVDFZ8MHM08T3
 description: observations, notes, and research from my time in Bali
 created: 2025-08-25
+aliases:
+  - Research Bali
 ---
 
 # Research Bali

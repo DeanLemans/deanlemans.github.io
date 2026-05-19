@@ -7,7 +7,7 @@ created: 2026-03-18
 
 # Plants
 
-[shed_greenhouse](<../../01-projects/shed_greenhouse.md>)
+[🪴shed_greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
  lights
  heat mat
 humidifier

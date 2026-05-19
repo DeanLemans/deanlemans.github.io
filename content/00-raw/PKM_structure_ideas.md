@@ -52,25 +52,36 @@ so first off
 
 ---
 
+## my method
+	(only for the 00-raw folder, the rest is site oriented and not PKM focused)
+
+pinboard for inbox/dump for articles, then filtered/high quality articles/references/snipits in the appropriate folder, high quality articles will go in the clippings folder.
+and quostes will go in the commonplacebook(same)
+
+
+- raw(folder hidden from public site.)
+	- clippings(external reference folder)
+	- dump/fleeting(the inbox)
+	- knowledge?(for atomic/evergreen ideas)
+- projects(could make this ace or para)
+	- areas(same with this)
+
+
+learned things will go in the evergreen/references/atomic/zettel folder.(WIP)
+---
+
 this needs to be for like general structure, so what does vault rules serve?
 do i wait with writhing notes otherwise i will just have to remove future stuff, no i will keep writhing
 
 Topic tags vs object tag
 
 map of content(MOC), are my index folders!, how did i never realised that?
-	
+
 root of my 00-raw/hidden folder is my inbox folder, but what about the dump folder
 
 [vault_rules](<../vault_rules.md>)
 
 ---
-
-my method
-(only for the 00-raw folder, the rest is site oriented and not PKM focused)
-
-pinboard for inbox/dump for articles, then filtered/high quality articles/references/snipits in the appropriate folder, high quality articles will go in the clippings folder.
-and quostes will go in the commonplacebook(same)
-learned things will go in the evergreen/references/atomic/zettel folder.(WIP)
 
 ## inspiration
 

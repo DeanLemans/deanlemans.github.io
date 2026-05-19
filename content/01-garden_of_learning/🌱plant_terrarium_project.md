@@ -9,6 +9,7 @@ id: 01KQQV6TR8FWNVR2CWDNEDF5MG
 created: 2026-03-12
 aliases:
   - Creating Plant terrarium
+  - create_plant_terrarium
 ---
 
 # Creating Plant terrarium
@@ -23,7 +24,7 @@ springtails
 
 ## mix for terrarium substrate
 
-[general_substrate_mix](<../00-raw/00_02-knowledge/principles_theorethical_atomic/general_substrate_mix.md>)
+[general_substrate_mix](<../00-raw/00_02-knowledge/general_substrate_mix.md>)
 
 layers
 1. 1 rocks

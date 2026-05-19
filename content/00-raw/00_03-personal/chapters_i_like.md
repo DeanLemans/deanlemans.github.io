@@ -13,7 +13,7 @@ unlisted: true
 # Chapters I Like
 
 A list of chapters i like, i lost a lot of them on my old phone
-- [ ] need a way to track all of this and consolidate such as my (formal) books in [book_list](<../02-digital_garden/book_list.md>)
+- [ ] need a way to track all of this and consolidate such as my (formal) books in [book_list](<../../02-digital_garden/book_list.md>)
 
 * [Chapter 702: Blackgard's Blackguard - Jackal Among Snakes | Royal Road](https://www.royalroad.com/fiction/48969/jackal-among-snakes/chapter/1958938/chapter-702-blackgards-blackguard)
 * [Chapter 8: The Truth Beartrap - Somebody Stop Him [A Progression Fantasy Epic] | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1972574/chapter-8-the-truth-beartrap)

@@ -24,7 +24,7 @@ i was/am 18 as of writhing this, i wrote the fist draft of this on 29 April 2026
 
 ## what will happen to this site and its contents when i die?
 
-idfk man, almost no one in my family is that tech savvy to know this/know what specific tools i use, the *[usage](<../vault_rules.md>)* of this vault/site of mine is documented, but what will happen to it? idk, i want to maybe turn this into a PKM for future, but there are a lot of personal thought stored in here, so i can perhaps separate/silo them off? try to make people also use this site? further contribute to it? that seems cool, but i don't want this to become a goddamn Wikipedia type site, if people take inspiration; sure!, great even. but dont turn it into some damn community project, except if that community is the family, if that concept(family) even survives in the future. if it doesn't: then the thing closest to that i guess.(family is not always blood)
+idfk man, almost no one in my family is that tech savvy to know this/know what specific tools i use, the *[usage](<../../vault_rules.md>)* of this vault/site of mine is documented, but what will happen to it? idk, i want to maybe turn this into a PKM for future, but there are a lot of personal thought stored in here, so i can perhaps separate/silo them off? try to make people also use this site? further contribute to it? that seems cool, but i don't want this to become a goddamn Wikipedia type site, if people take inspiration; sure!, great even. but dont turn it into some damn community project, except if that community is the family, if that concept(family) even survives in the future. if it doesn't: then the thing closest to that i guess.(family is not always blood)
 
  i do have this site backup-ed to multiple sources ( [github](https://github.com/DeanLemans/deanlemans.github.io/), [codeberg](https://codeberg.org/DeanLemans/deanlemans.github.io), [neocities](https://deann.neocities.org/), [radicle](https://radicle.network/nodes/iris.radicle.xyz/rad%3Az2K9bJ1S1wZTkWE9FWq8uN8dDfTUw), [internet archive](https://web.archive.org/web/https://deanlemans.github.io/) ), bc im not some fucking idiot that doesn't know about DMCA, being cancelled, or other stupid shit like that, also no servives are guarantee to survive forever, so i saved mine in multiple open source/decentralised/archive locations. I'm not my dad that relies on godamn google to managa that for him.
 (hopefully obsidian will open source itself, or I'm switching to Emacs or smth similar)
@@ -58,5 +58,5 @@ idk, go figure out your own answer
 
 #### references/inspiration
 
-[testament ⁂ starbreaker.org](<./00_00-clippings/testament ⁂ starbreaker.org.md>)
-[when i die](<./00_00-clippings/when i die.md>)
+[testament ⁂ starbreaker.org](<../00_00-clippings/testament ⁂ starbreaker.org.md>)
+[when i die](<../00_00-clippings/when i die.md>)
