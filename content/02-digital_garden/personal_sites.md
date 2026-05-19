@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-17
+modified: 2026-05-19
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -33,9 +33,11 @@ alias_sugestion: Cool Personal sites
 - [ang's corner!](https://angs-corner.nekoweb.org/)
 - [World Wide Website](https://oyaswmi.net/)
 - [WHITEDESERT](https://whitedesert.neocities.org/)
+- [Wrongthink/](https://wrongthink.link/)
 - [John Hays](https://jonhays.net/)
 - [The Nihilist Void](https://marmysz.wordpress.com/about/)
 - [Tantek Çelik](https://tantek.com/)
+- [Koshka's Kingdom](https://koshka.love/)
 - [Andres Estrella](https://andresestrella.vercel.app/)
 - [ASCII Textfiles](https://ascii.textfiles.com/)
 - [Oh Hello Ana](https://ohhelloana.blog/)
@@ -59,6 +61,7 @@ alias_sugestion: Cool Personal sites
 - [Dave Heinemann](https://dheinemann.com/)
 - [Aleen42 Wiki](https://wiki.aleen42.com/)
 - [Jesse Squires TIL](https://jessesquires.github.io/TIL/)
+- [ഒ](https://digdeeper.rodeo/middlepot/middlepot.com/home.html)
 - [Lyz-Code Blue Book](https://lyz-code.github.io/blue-book/)
 - [bulltown.neo](https://bulltown.neocities.org/)
 - [paveloom's notes: A personal collection of notes](https://paveloom.dev)
@@ -68,7 +71,9 @@ alias_sugestion: Cool Personal sites
 - [Juha-Matti Santala](https://hamatti.org/)
 - [Studio Idem](https://studio-idem.com/)
 - [Logan's Blog](https://lberrymage.dev/)
+- [Ray Peat](https://raypeat.com/)
 - [Ignited In Dark – Against The Dominant Idea](https://ignitedindark.wordpress.com/)
+- [Unix Digest](https://unixdigest.com/)
 - [Melanie Sumner](https://melsumner.github.io/)
 - [The Traveling Gardener](https://thetravelinggardener.com/)
 - [Notes](https://ruk.si/notes)
@@ -95,15 +100,19 @@ alias_sugestion: Cool Personal sites
 - [Gavart](https://gavart.ist/)
 - [Mark1626](https://mark1626.github.io/)
 - [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+- [Luke Smith](https://lukesmith.xyz/)
 - [dotcomboom](https://dotcomboom.somnolescent.net/)
 - [web.textfiles.com](http://web.textfiles.com)
+- [Gabe Rocks!](https://gabe.rocks/)
 - [cubething](https://www.cubething.dev/)
 - [ritualdust.com](https://ritualdust.com/)
+- [Ran Prieur](https://ranprieur.com/)
 - [p4m](https://www.p4m.dev/)
 - [Purarue](https://purarue.xyz/)
 - [procedural notes.](https://notes.aarnphm.xyz/)
 - [Eilleen's (online!) Everything Notebook \| Eilleen's e-Notebook](https://quartz.eilleeenz.com/)
 - [Gwern.net](https://gwern.net/about)
+- [Solene'%](https://dataswamp.org/~solene/)
 - [XXIIVV — about](https://wiki.xxiivv.com/site/about.html)
 - [Community Builder. Dreamer. Adventurer. : Juha-Matti Santala](https://hamatti.org/)
 - [maggieappleton.com](https://maggieappleton.com/garden)

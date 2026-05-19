@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-14
+modified: 2026-05-19
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -152,17 +152,26 @@ cool projects or articles or services i like and sometimes use/make use of
 
 - [craigslist: Amsterdam](https://amsterdam.craigslist.org)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
+- [LARBS](https://larbs.xyz/)
 - [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
+- [Wikispooks - DDOS defence - Human Verification](https://wikispooks.com/wiki/Main_Page)
 - [Dillo Website](https://dillo-browser.org/)
 - [Vulnerability Garden](https://vulnerability.garden/)
 - [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
 - [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
 - [LibrePhone project](https://librephone.fsf.org/)
+- [Libre Solutions Network](https://libresolutions.network/)
+- [Small Technology Foundation: Home](https://small-tech.org/)
+- [Home - VitaminDWiki](https://vitamindwiki.com/)
+- [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+- [dataswamp.org](https://dataswamp.org/)
+- [systemd-free linux community \| we follow the development of linux away from systemd](https://sysdfree.wordpress.com/)
 
 ### references/inspiration
 
 - [freemediaheckyeah](https://fmhy.net/)
+- [Resources](https://sadgrl.online/resources/)
 - [Oh Hello Ana - Bookmarks](https://ohhelloana.blog/bookmarks/)
 
 - [ ] resort this list in with readlater for myself

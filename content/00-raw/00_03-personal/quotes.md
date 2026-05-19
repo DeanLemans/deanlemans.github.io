@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-16
+modified: 2026-05-19
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -35,6 +35,18 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > "for richer, for poorer, in sickness and in health"
 
 > "The best long-term investment? Land. Real-estate. That's why there isn't an acre of land left for sale on Earth. It was such a good investment that it was invested in."
+
+> "I don't speak", Bijaz said. "I operate a machine called language. It creaks and groans, but is mine own."
+
+> _The road to wisdom? Well, it's plain_
+> ﻿_and simple to express:_
+>
+> ﻿_Err_
+> ﻿_and err_
+> ﻿_and err again_
+> ﻿_but **less**_
+> ﻿_and **less**_
+> ﻿_and **less**._
 
 > "People are impossibly fond of useless crap. Slap a number on it, call it collectible, and make it even moderately interesting, appealing, sexy, or cute, and you'll trigger something real deep in that person's mind."
 

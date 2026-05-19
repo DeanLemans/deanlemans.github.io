@@ -1,7 +1,7 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-05-03
+modified: 2026-05-19
 id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
 description: Dean's Personal Site
 created: 2025-09-25
@@ -54,6 +54,7 @@ aliases:
 > - [Game Library](<./02-digital_garden/game_list.md>)
 > - [Vault Rules](<./vault_rules.md>)
 > - [Manga List](<./02-digital_garden/manga_list.md>)
+> - [web resources](<./02-digital_garden/web_resources.md>)
 
 > [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**
