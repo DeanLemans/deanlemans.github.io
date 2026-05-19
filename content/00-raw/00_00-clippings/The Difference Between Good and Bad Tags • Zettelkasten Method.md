@@ -8,8 +8,8 @@ created: 2026-05-09
 description: "When I search in my archive for the tag #diet I get really annoying results. I don’t only get notes on diet. I get notes on carbohydrates, insulin sensitivity and many other. “Why is that a problem?”, you might ask. “All the above topics are relevant for diet, aren’t they?” No, and here is why."
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR4Y4SQNCA3MTDV9R1E6DGEC
 ---
 > [!danger] NOT MINE  

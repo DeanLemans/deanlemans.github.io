@@ -8,8 +8,8 @@ created: 2026-05-09
 description: Two things are very important to me:Documenting my workflows. Sharing my knowledge with others as freely as possible. As of time of writing, I’m participating in some “learning sprints” for queries in Logseq. I actually don’t consider myself a Logseq power user or anything, at least compared to the folks who build these complicated dashboards and workflows for every aspect of their lives. I mainly use Logseq for my Zettelkasten; therefore, my needs aren’t too complicated.
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR4ZWABQ572DCN7KF24MEH70
 ---
 > [!danger] NOT MINE  

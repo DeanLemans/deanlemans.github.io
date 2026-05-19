@@ -1,14 +1,14 @@
 ---
+unlisted: true
 title: FUTURE
-tags:
+tags: []
 publish: true
-modified: 2026-05-03
+modified: 2026-05-19
 id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:
   - FUTURE
-unlisted: true
 ---
 
 # FUTURE

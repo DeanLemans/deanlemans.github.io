@@ -1,10 +1,10 @@
 ---
 title: Colophon
-tags:
-  
 modified: 2026-05-15
 id: 01KQQV6TQNFNF7TE8MZ7YKAHAZ
 created: 2026-04-30
+publish: true
+unlisted: true
 ---
 
 # Colophon

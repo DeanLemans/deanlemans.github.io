@@ -7,8 +7,8 @@ created: 2026-05-09
 description: language games, pictures of states, proposition
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR50JGFGQZRWSN9JDNDWBRFR
 modified: 2026-05-09
 ---

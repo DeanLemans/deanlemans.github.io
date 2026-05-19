@@ -1,5 +1,5 @@
 ---
-title: 01 Projects
+title: 01 Garden of Learning
 tags: []
 publish: true
 modified: 2026-05-19
@@ -11,7 +11,7 @@ aliases:
   - 01 garden_of_learning
 ---
 
-# 01 Projects
+# 01 Garden of Learning
 
-projects im working on and some are finished
+my garden of learning, the status is signified to the user via the emojies
 

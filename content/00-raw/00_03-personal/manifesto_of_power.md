@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: manifesto for power?
-publish:
-modified: 2026-05-03
+publish: true
+modified: 2026-05-19
 id: 01KQQV6TS2HH55JZ8WY8KD9JWE
 draft: "true"
 description: No Gods, No Masters, No Idols

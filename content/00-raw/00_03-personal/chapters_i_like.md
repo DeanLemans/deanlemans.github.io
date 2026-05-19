@@ -1,13 +1,13 @@
 ---
+unlisted: true
 title: Chapters I Like
-tags:
+tags: []
 publish: true
-modified: 2026-05-03
+modified: 2026-05-19
 id: 01KQQV6TWMJKN6RZC5A6YHWPN2
 created: 2026-02-02
 aliases:
   - Chapters
-unlisted: true
 ---
 
 # Chapters I Like

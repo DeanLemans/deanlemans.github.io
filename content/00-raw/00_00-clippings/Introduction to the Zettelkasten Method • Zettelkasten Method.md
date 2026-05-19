@@ -8,8 +8,8 @@ created: 2026-05-09
 description: Learn how the Zettelkasten works as a system, what a Zettel is made of, and how to grow an organic web of knowledge.
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR50DY605X01AS5XGXKQSC55
 ---
 > [!danger] NOT MINE  

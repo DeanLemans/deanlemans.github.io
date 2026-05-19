@@ -8,8 +8,8 @@ created: 2026-05-09
 description:
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR5028RBE56YXBY1A7THFPB4
 ---
 > [!danger] NOT MINE  

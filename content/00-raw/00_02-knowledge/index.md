@@ -1,12 +1,12 @@
 ---
 unlisted: true
-title: knowledge
+title: 00.00 Knowledge
 publish: true
-modified: 2026-05-18
+modified: 2026-05-19
 id: 01KQQV6TRYN6BC7YT3F1WAYP4G
 created: 2026-05-02
 ---
 
-# knowledge
+# 00.00 Knowledge
 
 wip

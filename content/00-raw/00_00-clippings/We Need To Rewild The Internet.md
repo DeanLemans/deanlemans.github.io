@@ -1,5 +1,5 @@
 ---
-unlisted: "true"
+unlisted: true
 title: We Need To Rewild The Internet
 tags:
   - clippings

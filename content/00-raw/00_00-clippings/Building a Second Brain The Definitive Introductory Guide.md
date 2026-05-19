@@ -8,8 +8,8 @@ created: 2026-05-09
 description: This is an introduction to Building a Second Brain, the proven method to organize your digital life and unlock your creative potential
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KR4Y6KSWP1EH0GD7D8860CBC
 ---
 > [!danger] NOT MINE  

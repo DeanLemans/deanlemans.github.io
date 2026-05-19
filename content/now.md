@@ -1,6 +1,6 @@
 ---
 title: /now
-publish: false
+publish: true
 modified: 2026-05-03
 id: 01KQQV6TQ3TK7QG0G1759NQZDR
 created: 2026-03-17

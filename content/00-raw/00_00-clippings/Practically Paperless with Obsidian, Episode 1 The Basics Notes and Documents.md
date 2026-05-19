@@ -7,8 +7,8 @@ created: 2026-05-18
 description: "Photo by Pixabay on Pexels.com Welcome to my blog series, “Practically Paperless with Obsidian.” Foran overview of this series, please see Episode 0: Series Overview. Nearly 10 years ag…"
 tags:
   - clippings
-publish: "true"
-unlisted: "true"
+publish: true
+unlisted: true
 id: 01KRXRQK3ETHVAFZBMP327CGHX
 ---
 > [!danger] NOT MINE  

@@ -1,5 +1,5 @@
 ---
-unlisted: "true"
+unlisted: true
 title: Personal Knowledge Management Is Bullshit by Justin Murphy
 tags:
   - clippings

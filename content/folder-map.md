@@ -2,6 +2,7 @@
 id: 01KS01NXEJ09HNTYSX4A678B7J
 created: 2026-05-18
 modified: 2026-05-19
+publish: true
 ---
 .
 ├── 00-raw
