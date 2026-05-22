@@ -119,7 +119,15 @@
 		{"id":"1ff9fe0460a3a41a","type":"file","file":"static_files/Pasted image 20260510014530.png","x":-954,"y":1539,"width":316,"height":320},
 		{"id":"00a49c1561c24640","type":"file","file":"static_files/Pasted image 20260510020049.png","x":-596,"y":1542,"width":319,"height":319},
 		{"id":"a5a860080d51ac22","type":"file","file":"01-garden_of_learning/🌿dream jam 10 project/GDD.md","x":-1472,"y":1920,"width":632,"height":541},
-		{"id":"ccc559fa0864ca86","type":"file","file":"01-garden_of_learning/🌿dream jam 10 project/TDD.md","x":-796,"y":1920,"width":536,"height":541}
+		{"id":"ccc559fa0864ca86","type":"file","file":"01-garden_of_learning/🌿dream jam 10 project/TDD.md","x":-796,"y":1920,"width":536,"height":541},
+		{"id":"b89c02df2c5f0db1","type":"text","text":"bedroom\n","x":-2451,"y":589,"width":250,"height":60},
+		{"id":"6ef99e278b95992d","type":"text","text":"balcony","x":-2340,"y":320,"width":250,"height":60},
+		{"id":"c667fb1768e872df","type":"text","text":"dream bedroom","x":-2477,"y":717,"width":250,"height":60},
+		{"id":"4e65dea7fca3192b","type":"text","text":"star room","x":-2551,"y":1031,"width":250,"height":60},
+		{"id":"76e080fbad05c769","type":"text","text":"nexus","x":-2602,"y":840,"width":250,"height":60},
+		{"id":"e72393ac6d19335d","type":"text","text":"eye room","x":-2227,"y":860,"width":250,"height":60},
+		{"id":"e27117741a93dd09","type":"text","text":"void","x":-2508,"y":1220,"width":250,"height":60},
+		{"id":"0c900b0a3197f4f8","type":"text","text":"maniac/mania","x":-3160,"y":868,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1f2a3c666be92d5b","fromNode":"acf7f0a6d4cfa0dd","fromSide":"bottom","toNode":"71daa9985ccd3d4d","toSide":"top"},
@@ -247,7 +255,14 @@
 			"fromSide":"top",
 			"toNode":"149e135e0c611f1c",
 			"toSide":"bottom"
-		}
+		},
+		{"id":"6226a70e21564c61","fromNode":"b89c02df2c5f0db1","fromSide":"top","toNode":"6ef99e278b95992d","toSide":"left"},
+		{"id":"b108fdc432e43f30","fromNode":"b89c02df2c5f0db1","fromSide":"bottom","toNode":"c667fb1768e872df","toSide":"top"},
+		{"id":"5fe94e11b222a525","fromNode":"c667fb1768e872df","fromSide":"bottom","toNode":"76e080fbad05c769","toSide":"top"},
+		{"id":"65ad7593bc63879e","fromNode":"76e080fbad05c769","fromSide":"bottom","toNode":"4e65dea7fca3192b","toSide":"top"},
+		{"id":"98e0e6c6dab065f9","fromNode":"76e080fbad05c769","fromSide":"right","toNode":"e72393ac6d19335d","toSide":"left"},
+		{"id":"b55352b64938abdc","fromNode":"4e65dea7fca3192b","fromSide":"bottom","toNode":"e27117741a93dd09","toSide":"top"},
+		{"id":"41b76638a2038270","fromNode":"76e080fbad05c769","fromSide":"left","toNode":"0c900b0a3197f4f8","toSide":"right"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
