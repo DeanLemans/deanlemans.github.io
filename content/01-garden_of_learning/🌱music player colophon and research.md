@@ -4,7 +4,7 @@ title: music stuff player and file stuff
 tags:
   - research
 publish: true
-modified: 2026-05-19
+modified: 2026-05-22
 id: 01KQQV6TS1YVD5N77K526MDTJG
 created: 2026-05-02
 ---
@@ -20,3 +20,10 @@ currently using tauon for laptop, but its not mature enough, so im going to be s
 ## 2026-05-09
 
 decided to go for strawberry, as clementine is still recommending a 10 year old version on their site
+
+## 2026-05-22
+
+it wrecked my entire playlist, and i dont really like the ui
+
+
+[DeaDBeeF](https://deadbeef.sourceforge.io/)
