@@ -16,8 +16,8 @@
     "bases-page": {
       "source": "github:quartz-community/bases-page",
       "resolved": "https://github.com/quartz-community/bases-page.git",
-      "commit": "af346b7ceec47c644a38a01f9986def6b03a66ab",
-      "installedAt": "2026-05-04T18:25:11.554Z"
+      "commit": "3181c2bcccaf3ba069dd3f4a91d4108e5370d3a6",
+      "installedAt": "2026-05-22T17:10:17.846Z"
     },
     "breadcrumbs": {
       "source": "github:quartz-community/breadcrumbs",
@@ -28,8 +28,8 @@
     "canvas-page": {
       "source": "github:quartz-community/canvas-page",
       "resolved": "https://github.com/quartz-community/canvas-page.git",
-      "commit": "9f2f0c60cd1421f9310e6c10cee729b2415eed47",
-      "installedAt": "2026-05-04T18:25:04.488Z"
+      "commit": "c3c069a70b645272bf98b4f536538ff932cb2508",
+      "installedAt": "2026-05-22T17:10:17.955Z"
     },
     "citations": {
       "source": "github:quartz-community/citations",
@@ -70,8 +70,8 @@
     "crawl-links": {
       "source": "github:quartz-community/crawl-links",
       "resolved": "https://github.com/quartz-community/crawl-links.git",
-      "commit": "0218662b7fdff9911c4869199e5e265452951b21",
-      "installedAt": "2026-05-04T18:25:02.301Z"
+      "commit": "f96e631d92031f3265f878b6c5a7a43467331c1e",
+      "installedAt": "2026-05-22T17:10:17.681Z"
     },
     "created-modified-date": {
       "source": "github:quartz-community/created-modified-date",
@@ -136,8 +136,8 @@
     "graph": {
       "source": "github:quartz-community/graph",
       "resolved": "https://github.com/quartz-community/graph.git",
-      "commit": "57078cd5cec5b8f3de4ecab8233f827e3c9eeab1",
-      "installedAt": "2026-05-04T18:25:04.783Z"
+      "commit": "7239b083aece21880d1f057ce08ec96c03f39763",
+      "installedAt": "2026-05-22T17:10:19.200Z"
     },
     "hard-line-breaks": {
       "source": "github:quartz-community/hard-line-breaks",
@@ -148,8 +148,8 @@
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",
-      "commit": "198c465be70252d8fc179acac86100b4f60b8b8a",
-      "installedAt": "2026-05-04T18:25:08.716Z"
+      "commit": "7e86ce6ee9d7af7042b493cfe5187fa4cefbd19d",
+      "installedAt": "2026-05-22T17:10:19.450Z"
     },
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
