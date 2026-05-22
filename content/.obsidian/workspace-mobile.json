@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/dreams.md",
+                "file": "02-digital_garden/personal_sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dreams"
+              "title": "personal_sites"
             }
           }
         ],
@@ -145,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-raw/dreams.md",
+            "file": "02-digital_garden/personal_sites.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,8 +231,20 @@
   },
   "active": "64a1e67987c639ce",
   "lastOpenFiles": [
-    "02-digital_garden/web_resources.md",
+    "unifarm_research_stage.md",
+    "00-raw/00_01-inbox/leerbedrijf_glastuinbouw.md",
+    "folder-map.md",
+    "colophon.md",
     "02-digital_garden/personal_sites.md",
+    "00-raw/00_01-dump_fleeting/leerbedrijf_glastuinbouw.md",
+    "00-raw/00_01-dump_fleeting/pc message.md",
+    "00-raw/00_01-dump_fleeting/Plants.md",
+    "00-raw/00_01-dump_fleeting/stage school problem.md",
+    "00-raw/00_01-dump_fleeting/Think about my future education.md",
+    "00-raw/00_01-dump_fleeting/career stuff.md",
+    "00-raw/00_01-dump_fleeting/New school notes.md",
+    "00-raw/dreams.md",
+    "02-digital_garden/web_resources.md",
     "00-raw/pc stuff.md",
     "00-raw/clippings/“Better note-taking” misses the point; what matters is “better thinking”.md",
     "00-raw/phone/In dreams in death.sync-conflict-20260509-151904-42WPSFV.md",
@@ -245,30 +257,18 @@
     "00-raw/phone/New school notes.md",
     "00-raw/phone/Plants.md",
     "00-raw/phone/Think about my future education.md",
-    "00-raw/dream.md",
-    "00-raw/phone/In dreams in death.md",
-    "00-raw/phone/Godot.md",
-    "00-raw/phone/Paste-web.md",
-    "00-raw/music stuff player and file stuff.md",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",
     "static_files/Pasted image 20260506003027.png",
-    "00-raw/clippings/Wittgenstein.md",
     "static_files/Pasted image 20260506161524.png",
     "00-raw/dream jam 10 project/dream_diary_jam_10.canvas",
     "static_files/Pasted image 20260506185021.png",
-    "00-raw/death_of_me.md",
     "static_files/Pasted image 20260506155945.png",
-    "00-raw/clippings/Introduction to the Zettelkasten Method • Zettelkasten Method.md",
     "static_files/Pasted image 20260506190504.png",
     "static_files/Pasted image 20260506003014.png",
     "static_files/Pasted image 20260506014350.png",
-    "colophon.md",
     "static_files/Pasted image 20260506162624.png",
-    "00-raw/my-references/streisand_effect.md",
-    "00-raw/clippings/when i die.md",
     "00-raw/dream jam 10 project/first prototype.pxo",
-    "00-raw/my-references/Discipline.md",
     "00-raw/Phone",
     "Clippings"
   ]
