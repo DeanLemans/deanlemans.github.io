@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-19
+modified: 2026-05-24
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -55,6 +55,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Secluso](https://secluso.com/)
 - [reto swap](https://retoswap.com/)
 - [Freenet](https://freenet.org/)
+- [LibrePhone project](https://librephone.fsf.org/)
 
 ## Writing, knowledge
 
@@ -85,6 +86,9 @@ cool projects or articles or services i like and sometimes use/make use of
 - [uxn](https://100r.co/site/uxn.html)
 - [Open Home Foundation](https://www.openhomefoundation.org/)
 - [HTML Standard](https://html.spec.whatwg.org/)
+- [LARBS](https://larbs.xyz/)
+- [Dillo Website](https://dillo-browser.org/)
+- [systemd-free linux community \| we follow the development of linux away from systemd](https://sysdfree.wordpress.com/)
 
 ## Open source, licensing, and standards
 
@@ -96,6 +100,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
+- [Libre Solutions Network](https://libresolutions.network/)
 
 ## Experimental, artistic web, Indie Web
 
@@ -118,6 +123,9 @@ cool projects or articles or services i like and sometimes use/make use of
 - [Marginalia Search](https://marginalia-search.com/)
 - [Webring](https://webring.xxiivv.com/#random)
 - [Eclipse](https://eclipse.pub/)
+- [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
+- [Home - Protoweb](https://protoweb.org/)
+- [Small Technology Foundation: Home](https://small-tech.org/)
 
 ## Games
 
@@ -152,26 +160,18 @@ cool projects or articles or services i like and sometimes use/make use of
 
 - [craigslist: Amsterdam](https://amsterdam.craigslist.org)
 - [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
-- [LARBS](https://larbs.xyz/)
 - [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
 - [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 - [Wikispooks - DDOS defence - Human Verification](https://wikispooks.com/wiki/Main_Page)
-- [Dillo Website](https://dillo-browser.org/)
 - [Vulnerability Garden](https://vulnerability.garden/)
 - [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
-- [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
-- [LibrePhone project](https://librephone.fsf.org/)
-- [Libre Solutions Network](https://libresolutions.network/)
-- [Small Technology Foundation: Home](https://small-tech.org/)
 - [Home - VitaminDWiki](https://vitamindwiki.com/)
 - [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
 - [dataswamp.org](https://dataswamp.org/)
-- [systemd-free linux community \| we follow the development of linux away from systemd](https://sysdfree.wordpress.com/)
 
 ### references/inspiration
 
 - [freemediaheckyeah](https://fmhy.net/)
 - [Resources](https://sadgrl.online/resources/)
-- [Oh Hello Ana - Bookmarks](https://ohhelloana.blog/bookmarks/)
 
 - [ ] resort this list in with readlater for myself

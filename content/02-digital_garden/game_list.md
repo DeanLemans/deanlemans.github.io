@@ -1,7 +1,7 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-18
+modified: 2026-05-24
 id: 01KQQV6TQZQ0E7PF415EEHYT4K
 description: my collection of games
 created: 2024-10-08
@@ -186,8 +186,10 @@ aliases:
 	- [TotK Mod Manager](https://tkmm.org/)
 	- [UltraCam - TOTK mods \| 60+ FPS & Graphics Enhancements for Tears Of The Kingdom](https://www.nxoptimizer.com/games/tears-of-the-kingdom/)
 	- [The Second Quest Mod for The Legend of Zelda](https://gamebanana.com/mods/479009)
+	- [Dark Army Resurrection Mod for The Legend of Zelda: Tears of the Kingdom \| TOTK Mods](https://gamebanana.com/mods/453422)
+	- [Challenge Mode Complete Version Mod for The Legend of Zelda: Tears of the Kingdom \| TOTK Mods](https://gamebanana.com/mods/537404)
 	- [Depths of the Kingdom Mod for The Legend of Zelda](https://gamebanana.com/mods/578624)
-	- [Visible Rauru's arm for all armors Mod for The Legend of Zelda](https://gamebanana.com/mods/453232)
+	- [Hyrule Rebeautified - A Complete Visual Overhaul Mod for The Legend of Zelda: Tears of the Kingdom \| TOTK Mods](https://gamebanana.com/mods/605379)
 		- [Ryubing](https://git.ryujinx.app/projects/Ryubing)
 		- [eden](https://git.eden-emu.dev/eden-emu/eden)
 - [CRYPT WORLDS](https://www.cicadamarionette.com/Games/CryptWorlds/Main.html)
