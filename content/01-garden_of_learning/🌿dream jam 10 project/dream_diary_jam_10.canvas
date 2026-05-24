@@ -127,7 +127,9 @@
 		{"id":"76e080fbad05c769","type":"text","text":"nexus","x":-2602,"y":840,"width":250,"height":60},
 		{"id":"e72393ac6d19335d","type":"text","text":"eye room","x":-2227,"y":860,"width":250,"height":60},
 		{"id":"e27117741a93dd09","type":"text","text":"void","x":-2508,"y":1220,"width":250,"height":60},
-		{"id":"0c900b0a3197f4f8","type":"text","text":"maniac/mania","x":-3160,"y":868,"width":250,"height":60}
+		{"id":"0c900b0a3197f4f8","type":"text","text":"maniac/mania","x":-3160,"y":868,"width":250,"height":60},
+		{"id":"1afb42080d6687e3","type":"file","file":"static_files/Pasted image 20260524000813.png","x":-190,"y":1544,"width":400,"height":222},
+		{"id":"d3eefc34ca73ec27","type":"text","text":"everything is now a seperate img","x":-59,"y":1429,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1f2a3c666be92d5b","fromNode":"acf7f0a6d4cfa0dd","fromSide":"bottom","toNode":"71daa9985ccd3d4d","toSide":"top"},
@@ -262,7 +264,11 @@
 		{"id":"65ad7593bc63879e","fromNode":"76e080fbad05c769","fromSide":"bottom","toNode":"4e65dea7fca3192b","toSide":"top"},
 		{"id":"98e0e6c6dab065f9","fromNode":"76e080fbad05c769","fromSide":"right","toNode":"e72393ac6d19335d","toSide":"left"},
 		{"id":"b55352b64938abdc","fromNode":"4e65dea7fca3192b","fromSide":"bottom","toNode":"e27117741a93dd09","toSide":"top"},
-		{"id":"41b76638a2038270","fromNode":"76e080fbad05c769","fromSide":"left","toNode":"0c900b0a3197f4f8","toSide":"right"}
+		{"id":"41b76638a2038270","fromNode":"76e080fbad05c769","fromSide":"left","toNode":"0c900b0a3197f4f8","toSide":"right"},
+		{"id":"f685542a97e7c646","fromNode":"e3877953263f11cc","fromSide":"right","toNode":"1ff9fe0460a3a41a","toSide":"left"},
+		{"id":"91faaf79fcd3f2a2","fromNode":"1ff9fe0460a3a41a","fromSide":"right","toNode":"00a49c1561c24640","toSide":"left"},
+		{"id":"20ad4e298a7a2b89","fromNode":"00a49c1561c24640","fromSide":"right","toNode":"1afb42080d6687e3","toSide":"left"},
+		{"id":"993cfe61c6d0cdd5","fromNode":"d3eefc34ca73ec27","fromSide":"bottom","toNode":"1afb42080d6687e3","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
