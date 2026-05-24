@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-19
+modified: 2026-05-24
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -46,6 +46,7 @@ alias_sugestion: Cool Personal sites
 - [Andy Matuschak Notes](https://notes.andymatuschak.org/)
 - [Bhupesh TIL](https://til.bhupesh.me/)
 - [Vale Rocks](https://vale.rocks/)
+- [Garden of Learning : Garden of Learning by Juhis](https://notes.hamatti.org/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/about)
 - [Jethro braindump](https://braindump.jethro.dev/)
 - [Y/CJ/Y](https://www.whycjwhy.com/)
@@ -55,6 +56,7 @@ alias_sugestion: Cool Personal sites
 - [sadgirl.online](https://sadgrl.online/)
 - [Scripting News](http://scripting.com/?tab=about)
 - [Welcome! - Jayeless.net](https://www.jayeless.net/)
+- [Digital Gardening with Quartz](https://be-far.com/Projects/Obsidian/digital-garden)
 - [Yordi - A Lifelong Journey of Growth](https://yordi.me/about/)
 - [Minnie's Home Page](http://tuhs.org/)
 - [devonzuegel.com](https://devonzuegel.com/)
@@ -124,7 +126,6 @@ alias_sugestion: Cool Personal sites
 - [Simon Willison TIL](https://til.simonwillison.net/)
 - [Nikiv Dev](https://nikiv.dev/)
 - [Tom Critchlow. Move. Think. Create.](https://tomcritchlow.com/)
-- [Nikiv Wiki Old](https://wiki-old.nikiv.dev/)
 - [nuthead.neocities](https://nuthead.neocities.org/_home/)
 - [Garden of Learning : Garden of Learning by Juhis](https://notes.hamatti.org/)
 - [kovidgoyal.net](https://kovidgoyal.net/)

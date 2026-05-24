@@ -18,156 +18,135 @@ for featured personal sites [click here: Blogroll](<./personal_sites.md>)
 
 cool projects or articles or services i like and sometimes use/make use of
 
+Sorted by action: (Read, Download, Use, Join, Buy)
+
 ---
 
-## Developer tools
+## read
 
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
-- [Boot.dev](http://boot.dev)
-- [Accrescent Blog](https://blog.accrescent.app/)
-- [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
-- [Paperfellows Blog](https://paperfellows.com/blog/voloboev-writing-research-and-development)
-- [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-- [GitAds Documentation](https://docs.gitads.dev/)
-- [Gource - a software version control visualization tool](https://gource.io/)
-- [learn-anything.xyz](https://learn-anything.xyz/agile-development)
-
-## Game dev
-
-- [Godot game engine](https://godotengine.org/)
-- [freelancegamedevs.com](https://www.freelancegamedevs.com/)
-- [Hard Light Productions](https://www.hard-light.net/)
-- [Game Development](https://develop.games/)
-- [FreeGameDev.net Forums](https://freegamedev.net/)
-- [Pixelorama, your free & open source sprite editor. \| Pixelorama](https://pixelorama.org/)
-- [OpenGameArt.org](https://opengameart.org/content/faq)
-- [Libregamewiki](https://libregamewiki.org/)
-- [Outskirts - Godot Environment Demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
-- [Virgil Game Search](https://virgil.samidy.com/Game-search/)
-- [NZ:P Documentation](https://docs.nzp.gay/landing/)
-
-## Privacy, freedom
-
-- [Find KYC-free Services](https://kycnot.me/)
-- [FitGirl Repacks](https://fitgirl-repacks.site/)
-- [Monero Marketplace](https://xmrbazaar.com/)
-- [eigenwallet | Monero wallet](https://eigenwallet.org/)
-- [Secluso](https://secluso.com/)
-- [reto swap](https://retoswap.com/)
-- [Freenet](https://freenet.org/)
-- [LibrePhone project](https://librephone.fsf.org/)
-
-## Writing, knowledge
-
-- [_A Pattern Language_](https://patternlanguage.cc/README)
-- [Garden of Learning : Juha-Matti Santala](https://notes.hamatti.org/)
-- [Digital Gardening with Quartz](https://be-far.com/Projects/Obsidian/digital-garden)
-- [superorganizers.substack.com](https://superorganizers.substack.com/p/how-to-build-a-learning-machine###)
-- [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
-- [freedom of the press foundation](https://freedom.press/)
-- [nasa-jpl-memex.github.io](https://nasa-jpl-memex.github.io/)
-- [Based Cooking](https://based.cooking/)
-- [Musopen](https://musopen.org/)
-- [What happened to the joy of contributing to open-source?](https://www.reddit.com/r/opensourcegames/comments/1hepzor/what_happened_to_the_joy_of_contributing_to/)
-- [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
-- [Forte Labs](https://fortelabs.com/)
-- [Zettelkasten Forum](https://forum.zettelkasten.de/)
-- [weewiki zettelkasten](https://pbat.ch/loom/weewiki_zet/)
-- [Hypothesis | Social Annotation Tool for Higher Education](https://web.hypothes.is/)
-
-## Linux, infrastructure
-
-- [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
-- [all things linux](https://atl.wiki/)
-- [Development containers](https://containers.dev/)
-- [GNU Health](https://www.gnuhealth.org/)
-- [YunoHost](https://yunohost.org/)
-- [11ty](https://www.11ty.dev/)
-- [uxn](https://100r.co/site/uxn.html)
-- [Open Home Foundation](https://www.openhomefoundation.org/)
-- [HTML Standard](https://html.spec.whatwg.org/)
-- [LARBS](https://larbs.xyz/)
-- [Dillo Website](https://dillo-browser.org/)
-- [systemd-free linux community \| we follow the development of linux away from systemd](https://sysdfree.wordpress.com/)
-
-## Open source, licensing, and standards
-
-- [Document Liberation Project](https://www.documentliberation.org/)
-- [Open source plants seeds](https://osseeds.org/)
-- [microformats](https://microformats.org/)
+ - [Accrescent Blog](https://blog.accrescent.app/)
+ - [Become a Tech Whistleblower - by Bryan Lunduke](https://lunduke.substack.com/p/become-a-tech-whistleblower)
+ - [GitAds Documentation](https://docs.gitads.dev/)
+ - [Forte Labs](https://fortelabs.com/)
+ - [systemd-free linux community \| we follow the development of linux away from systemd](https://sysdfree.wordpress.com/)
+ - [Game Development](https://develop.games/)
+ - [LibrePhone project](https://librephone.fsf.org/)
+ - [FOSS Wiki](https://atl.wiki)
+ - [Vulnerability Garden](https://vulnerability.garden/)
+ - [NZ:P Documentation](https://docs.nzp.gay/landing/)
+ - [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
+ - [Antifragile Ideas](https://braindump.jethro.dev/posts/antifragile_ideas/)
+ - [Libregamewiki](https://libregamewiki.org/)
+ - [JPL MEMEX](https://nasa-jpl-memex.github.io/)
+ - [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
+ - [Open Home Foundation](https://www.openhomefoundation.org/)
+ - [HTML Standard](https://html.spec.whatwg.org/)
+ - [/conventionalcommits/](https://www.conventionalcommits.org)
+ - [_A Pattern Language_](https://patternlanguage.cc/README)
+ - [Libris Adepti](https://librisadepti.com/)
+ - [Development containers](https://containers.dev/)
+ - [Based Cooking](https://based.cooking/)
+ - [Find KYC-free Services](https://kycnot.me/)
+ - [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+- [dataswamp.org](https://dataswamp.org/)
+ - [Internet Sacred Text Archive](https://sacred-texts.com/)
+ - [microformats](https://microformats.org/)
+ - [web0 manifesto](https://web0.small-web.org/)
+ - [create good images](https://www.imgflo.org/)
+ - [IndieWeb](https://indieweb.org/)
+ - [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
+ - [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
 - [switching software](https://switching.software/replace/)
-- [Awesome Search](https://awesomelists.top/)
-- [Conventional Commits](https://www.conventionalcommits.org/)
-- [Can I license my project with an open-source license but disallow commercial use?](https://overflow.hostux.net/exchange/opensource/questions/9805/can-i-license-my-project-with-an-open-source-license-but)
+- [Blood and Dust](https://blood-and-dust.com/)
+- [wikispooks​​](https://wikispooks.com)
+- [Fasting Center](https://fasting.center/)
+- [Small Technology Foundation: Home](https://small-tech.org/)
+ - [documentliberation](https://www.documentliberation.org/)
+ - [Home - VitaminDWiki](https://vitamindwiki.com/)
+ - [quantified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
+ - [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
+ - [Freedom of the Press Foundation](https://freedom.press)
+ - [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
+ - [FAQ \| OpenGameArt.org](https://opengameart.org/content/faq)
 - [Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies)
 - [Libre Solutions Network](https://libresolutions.network/)
+- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
+- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
 
-## Experimental, artistic web, Indie Web
+## install / download
 
+- [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+- [Godot game engine](https://godotengine.org/)
+- [Hard Light Productions](https://www.hard-light.net/)
+- [FitGirl Repacks](https://fitgirl-repacks.site/)
+- [uxn](https://100r.co/site/uxn.html)
+- [linkhut: A social bookmarking site](https://sr.ht/~mlb/linkhut/)
+- [Gource - a software version control visualization tool](https://gource.io/)
+- [LARBS](https://larbs.xyz/)
+- [Dillo Website](https://dillo-browser.org/)
+- [weewiki zettelkasten](https://pbat.ch/loom/weewiki_zet/)
+- [Zotero](https://www.zotero.org/)
+- [oxipng](https://github.com/shssoichiro/oxipng)
+- [11ty](https://www.11ty.dev/)
+- [Why Use Fvwm?](https://www.fvwm.org/Wiki/NewToFvwm/WhyFvwm/)
+- [YunoHost](https://yunohost.org/)
+- [Radicle](https://radicle.xyz/)
+- [eigenwallet](https://eigenwallet.org)
+- [GNU Health \| Freedom and Equity in Healthcare](https://www.gnuhealth.org/)
+- [Pixelorama, your free & open source sprite editor. \| Pixelorama](https://pixelorama.org/)
+
+## service / use
+
+- [Boot.dev](http://boot.dev)
+- [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
+- [https://www.freelancegamedevs.com/](https://www.freelancegamedevs.com/)
+- [blogroll.org](https://blogroll.org/)
+- [Open Source Seed Initiative - Home of the OSSI Pledge](https://osseeds.org/)
+- [brid.gy](https://brid.gy/about#bridgy-fed)
+- [Freenet](https://freenet.org)
+- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
+- [Virgil Game Search](https://virgil.samidy.com/Game-search/)
+- [Musopen](https://musopen.org/)
+- [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
+- [F-Hub](https://f-hub.org/)
+- [Awesome Search](https://awesomelists.top/)
+- [fed.brid.gy](https://fed.brid.gy/)
+- [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
+- [Chattable](https://iframe.chat/)
+
+- [Marginalia Search](https://marginalia-search.com/)
+- [Home - Protoweb](https://protoweb.org/)
+- [IngredientMD - Your Supplements, Diagnosed. 2,999 Ingredients Scored.](https://ingredientmd.com/)
+- [Are.na](https://www.are.na/)
 - [MelonLand Project](https://melonland.net/)
 - [Wiby](https://wiby.org/)
-- [Internet Sacred Text Archive](https://sacred-texts.com/)
-- [Krita Artists](https://krita-artists.org/)
-- [Libris Adepti](https://librisadepti.com/)
-- [The Million Dollar Homepage - Own a piece of internet history!](https://milliondollarhomepage.com/)
-- [Blood and Dust](https://blood-and-dust.com/)
-- [Are.na](https://www.are.na/)
-- [web0 manifesto](https://web0.small-web.org/)
-- [IndieWeb](https://indieweb.org/)
-- [IndieWebify.Me - a guide to getting you on the IndieWeb](https://indiewebify.me/)
-- [How to Start Using IndieLogin.com](https://indielogin.com/setup)
-- [Lieu — webring search engine](https://lieu.cblgh.org/?q=Memex)
-- [Memex - Marginalia Search](https://marginalia-search.com/search?query=Memex)
-- [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
+- [learn-anything.xyz](https://learn-anything.xyz/)
+- [Hypothesis | Social Annotation Tool for Higher Education](https://web.hypothes.is/)
+
+## join
+
 - [The Wayward Webring](https://waywardweb.org/)
-- [Marginalia Search](https://marginalia-search.com/)
-- [Webring](https://webring.xxiivv.com/#random)
+- [mostr.pub](https://mostr.pub/)
+- [Krita Artists](<https://krita-artists.org/>)
+- [Zettelkasten Forum](https://forum.zettelkasten.de/)
+- [FreeGameDev.net Forums](https://freegamedev.net/)
+- [xxiivv](https://webring.xxiivv.com/#random)
 - [Eclipse](https://eclipse.pub/)
-- [The indie web index directory \| theindex.fyi](https://theindex.fyi/)
-- [Home - Protoweb](https://protoweb.org/)
-- [Small Technology Foundation: Home](https://small-tech.org/)
+
+## buy / trade
+
+- [Monero Marketplace](https://xmrbazaar.com/)
+- [Buy & Sell Monero \| Cash. Crypto. P2P.](https://retoswap.com)
+- [Server Part Deals](https://serverpartdeals.com/)
+- [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
+- [craigslist: Amsterdam](https://amsterdam.craigslist.org)
+- [Secluso \| Completely Private Security Camera](https://secluso.com)
 
 ## Games
 
 > [!info]
 > for games see my [Game List](<./game_list.md>)
-
-## Utilities, infrastructure tools
-
-- [create good images](https://www.imgflo.org/)
-- [Zotero](https://www.zotero.org/)
-- [brid.gy](https://brid.gy/about#bridgy-fed)
-- [fed.brid.gy](https://fed.brid.gy/)
-- [Chattable](https://iframe.chat/)
-- [Server Part Deals](https://serverpartdeals.com/)
-- [mostr.pub](https://mostr.pub/)
-- <https://ingredientmd.com/>
-- [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
-- [Fasting Center](https://fasting.center/)
-
-## Discovery, dev utilities
-
-- [F-Hub](https://f-hub.org/)
-- [quantified self](https://github.com/woop/awesome-quantified-self#applications-and-platforms)
-- [Radicle](https://radicle.xyz/)
-- [blogroll.org](https://blogroll.org/)
-- [oxipng](https://github.com/shssoichiro/oxipng)
-- [sr.ht](https://sr.ht/~mlb/linkhut/)
-- [snarfed/bridgy-fed: 🌉 A bridge between decentralized social networks · GitHub](https://github.com/snarfed/bridgy-fed)
-- [Pinboard: public bookmarks for iwebthings](https://pinboard.in/u:iwebthings/)
-
-## misc
-
-- [craigslist: Amsterdam](https://amsterdam.craigslist.org)
-- [Fabric of the Universe | clothing](https://www.fabricoftheuniverse.com/)
-- [Rich Snippets: What Are They & How Do You Get Them?](https://ahrefs.com/blog/rich-snippets/)
-- [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
-- [Wikispooks - DDOS defence - Human Verification](https://wikispooks.com/wiki/Main_Page)
-- [Vulnerability Garden](https://vulnerability.garden/)
-- [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
-- [Home - VitaminDWiki](https://vitamindwiki.com/)
-- [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
-- [dataswamp.org](https://dataswamp.org/)
 
 ### references/inspiration
 

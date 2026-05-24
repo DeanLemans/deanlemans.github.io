@@ -3,7 +3,7 @@ unlisted: true
 title: Chapters I Like
 tags: []
 publish: true
-modified: 2026-05-19
+modified: 2026-05-24
 id: 01KQQV6TWMJKN6RZC5A6YHWPN2
 created: 2026-02-02
 aliases:
@@ -25,3 +25,4 @@ Return Of The Shattered Constellation chapter 92. Good chap
 
 * [Chapter 24: Winged Interrogator [II] - Somebody Stop Him (A Progression Fantasy Epic) | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1985060/chapter-24-winged-interrogator-ii)
 * [32-9 Warfare (II) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/1988381/32-9-warfare-ii)
+* [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
