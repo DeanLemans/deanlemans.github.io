@@ -55,12 +55,6 @@
       "commit": "34621a71940977a6af6b20abd5dc552d81181b6b",
       "installedAt": "2026-05-24T19:05:53.182Z"
     },
-    "content-meta": {
-      "source": "github:quartz-community/content-meta",
-      "resolved": "https://github.com/quartz-community/content-meta.git",
-      "commit": "a148b4104e9fb6323a6459b2f13c46f9a92da487",
-      "installedAt": "2026-05-24T19:05:53.165Z"
-    },
     "content-page": {
       "source": "github:quartz-community/content-page",
       "resolved": "https://github.com/quartz-community/content-page.git",
@@ -163,23 +157,11 @@
       "commit": "52ea59e2b40dde77abf7fd88eddecf161e671085",
       "installedAt": "2026-05-24T19:05:54.676Z"
     },
-    "ox-hugo": {
-      "source": "github:quartz-community/ox-hugo",
-      "resolved": "https://github.com/quartz-community/ox-hugo.git",
-      "commit": "832871da9ab33d52f904456c1a5e14f1b2057d83",
-      "installedAt": "2026-05-24T19:05:54.613Z"
-    },
     "page-title": {
       "source": "github:quartz-community/page-title",
       "resolved": "https://github.com/quartz-community/page-title.git",
       "commit": "a53cf02ce7faca400bcf3cfeed47eb860329e534",
       "installedAt": "2026-05-24T19:05:54.645Z"
-    },
-    "reader-mode": {
-      "source": "github:quartz-community/reader-mode",
-      "resolved": "https://github.com/quartz-community/reader-mode.git",
-      "commit": "02e36d3720e10c2087abce23cf0d2e94d53d27f1",
-      "installedAt": "2026-05-24T19:05:54.657Z"
     },
     "recent-notes": {
       "source": "github:quartz-community/recent-notes",
@@ -192,12 +174,6 @@
       "resolved": "https://github.com/quartz-community/remove-draft.git",
       "commit": "0a51a4c6abb3c86961a9bbf46f4538da87fcf9f8",
       "installedAt": "2026-05-24T19:05:54.843Z"
-    },
-    "roam": {
-      "source": "github:quartz-community/roam",
-      "resolved": "https://github.com/quartz-community/roam.git",
-      "commit": "b2aad70fdf548d07b8fd28df9edbdba7f256f166",
-      "installedAt": "2026-05-24T19:05:55.970Z"
     },
     "search": {
       "source": "github:quartz-community/search",

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Dean's Site
-  pageTitleSuffix: "Dean's amazing site"
+  pageTitle: Dean's amazing site
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,7 +16,6 @@ configuration:
     - .obsidian
     - .trash
     - static_files/templates
-    #- 00-raw
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -100,18 +99,12 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
-  - source: github:quartz-community/citations #need to configure this
+  - source: github:quartz-community/citations
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
     order: 90
-  - source: github:quartz-community/ox-hugo
-    enabled: false
-    order: 91
-  - source: github:quartz-community/roam
-    enabled: false
-    order: 92
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -199,13 +192,6 @@ plugins:
     layout:
       position: afterBody
       priority: 30
-  - source: github:quartz-community/content-meta
-    enabled: true
-    options:
-      showReadingTime: false
-    layout:
-      position: beforeBody
-      priority: 20
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
@@ -222,22 +208,16 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-  - source: github:quartz-community/reader-mode
-    enabled: false
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
     options:
-      spacerSymbol: "/"
+      spacerSymbol: /
       resolveFrontmatterTitle: true
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments #configure in future dean
+  - source: github:quartz-community/comments
     enabled: false
     options:
       provider: giscus
@@ -275,6 +255,9 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - id
+        - tags
+        - aliases
         - description
         - tags
         - created
