@@ -1,7 +1,7 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-24
+modified: 2026-05-25
 id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
 created: 2025-10-10
 aliases:
@@ -18,7 +18,7 @@ for featured personal sites [click here: Blogroll](<./personal_sites.md>)
 
 cool projects or articles or services i like and sometimes use/make use of
 
-Sorted by action: (Read, Download, Use, Join, Buy)
+(sorted by action)
 
 ---
 
