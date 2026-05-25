@@ -3,12 +3,12 @@ unlisted: true
 title: 00 Raw
 tags: []
 publish: true
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TS3NP9DSXB4FYR5WGME
 created: 2026-04-11
 aliases:
-  - 00 Raw
   - 00 HIdden
+  - 00 Raw
 ---
 
 # 00 Raw
@@ -26,3 +26,5 @@ Also know as the true part of my site, I don't want to maintain 2 site (normal a
 this is the true site/side of my site, the normal portion is filtered for normal, and is to be treated as a public folder
 
 - [ ] add bunch of indie/small web badges here bc its cool
+
+[index](<./00_00-clippings/index.md>)

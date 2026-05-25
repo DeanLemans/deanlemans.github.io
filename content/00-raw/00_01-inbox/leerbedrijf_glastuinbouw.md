@@ -1,6 +1,6 @@
 ---
 title: leerbedrijf glastuinbouw
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TRQGDH03H4CVJD99KZ8
 created: 2026-04-11
 ---
@@ -25,7 +25,7 @@ proefcentrums
 6. Solynta
 7. Pippel braamen
 8. [maartenvanoverbeek​​](http://www.maartenvanoverbeek.nl)(meer bomen teelt)
-9. [Betuwe Plant \| Voor elke Tuin een Boom in heel Europa](https://www.betuweplant.nl/) handel bedrijf
+9. [Betuwe Plant \| Voor elke Tuin een Boom in heel Europa](https://www.betuweplant.nl/) handle bedrijf
 10. [ibn kwekerij](https://www.ibn.nl/bedrijfsleven/zaken-doen-met-ibn/kwekerij)
 11. [kasgroeit](https://www.kasgroeit.nl/) (advies bedrijf)
 

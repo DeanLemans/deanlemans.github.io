@@ -1,74 +1,76 @@
 ---
+unlisted: true
 title: Introduction to the Zettelkasten Method • Zettelkasten Method
-source: https://zettelkasten.de/introduction/
-author:
-  - sascha
-published: 2020-10-27
-created: 2026-05-09
-description: Learn how the Zettelkasten works as a system, what a Zettel is made of, and how to grow an organic web of knowledge.
 tags:
   - clippings
+source: https://zettelkasten.de/introduction/
+published: 2020-10-27
 publish: true
-unlisted: true
+modified: 2026-05-25
 id: 01KR50DY605X01AS5XGXKQSC55
+description: Learn how the Zettelkasten works as a system, what a Zettel is made of, and how to grow an organic web of knowledge.
+created: 2026-05-09
+author:
+  - sascha
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
 # Introduction to the Zettelkasten Method • Zettelkasten Method
 
-Why are you reading this introduction? The chances are that you either have an immediate need to solve the riddle of knowledge work, feel overwhelmed by your master’s thesis, try to level up your blog, want to write a book because it’s cool, try to get on top as a consultant, excel at research, or something like that. But the Zettelkasten Method is more than just a tool to finish some work or project. It is a holistic method on how to deal with knowledge in your life.
+Why are you reading this introduction? The chances are that you either have an immediate need to solve the riddle of knowledge work, feel overwhelmed by your master's thesis, try to level up your blog, want to write a book because it's cool, try to get on top as a consultant, excel at research, or something like that. But the Zettelkasten Method is more than just a tool to finish some work or project. It is a holistic method on how to deal with knowledge in your life.
 
 The Zettelkasten Method is an amplifier of your endeavors in the realm of knowledge work. It *is* highly effective, and many people report they have more fun, one even comparing it to the addictive nature of games like World of Warcraft, and have an easier time doing knowledge work overall. But this only comes as a result of putting in a high level of consistent effort.
 
-It is like swimming. If you can’t swim, you won’t be having any fun at all. Swimming sucks if all you do is float (or even sink) and fight the water. But boy, if you figure out the technique and glide through the water, it is incredible. But you don’t learn swimming by aiming for ease and fun. You learn to swim by aiming to be fast and graceful.
+It is like swimming. If you can't swim, you won't be having any fun at all. Swimming sucks if all you do is float (or even sink) and fight the water. But boy, if you figure out the technique and glide through the water, it is incredible. But you don't learn swimming by aiming for ease and fun. You learn to swim by aiming to be fast and graceful.
 
-The Zettelkasten Method needs some practice. First, you will have the feeling that you don’t do anything useful. But with a little bit of practice and patience, you will surprise yourself and produce gems of knowledge.
+The Zettelkasten Method needs some practice. First, you will have the feeling that you don't do anything useful. But with a little bit of practice and patience, you will surprise yourself and produce gems of knowledge.
 
 This introduction is meant to guide your first steps towards excellence. Follow this path and your Zettelkasten will provide you with the tools to thrive on intellectual adventures.
 
-If I had to explain to someone unfamiliar with the concept of Zettelkasten, I’d describe it like this:
+If I had to explain to someone unfamiliar with the concept of Zettelkasten, I'd describe it like this:
 
 > A Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thoughts possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
 
 The Zettelkasten, as we know it today, really took off with Niklas Luhmann, the godfather of the Zettelkasten Method, the most powerful tool for thinking and note taking out there.
 
-## Luhmann’s Zettelkasten
+## Luhmann's Zettelkasten
 
-Niklas Luhmann was a highly productive social scientist. He published 50 books and over 600 articles. [^1] He didn’t achieve this on his own. He had quite a companion.
+Niklas Luhmann was a highly productive social scientist. He published 50 books and over 600 articles. [^1] He didn't achieve this on his own. He had quite a companion.
 
 There are also over 150 unfinished manuscripts left in his estate. At least one of them is a text of 1000 pages. So his productivity surpassed even his already astonishing body of published work.
 
 Luhmann himself stated that his productivity stems from working in a partnership with his Zettelkasten. This strikes a chord with people investigating the Zettelkasten Method. [^2]
 
-Luhmann’s Zettelkasten is a collection of notes on paper slips with a special twist: It is a *hypertext* that he could navigate the drawer cabinet containing all the paper slips with a *reasonable* amount of time and energy. “Reasonable” means that it was reasonable for Luhmann, who, obsessed with his theory of society, was a workaholic and an enthusiastic bureaucrat. A hypertext needs to be surfable. On Wikipedia, you just need to click a link to get to the next article within Wikipedia’s hypertext. It requires more effort to follow a link if the hypertext is paper-based. The other problem is that you need a starting point for your ride. So Luhmann created his Zettelkasten to make his note collection surfable. He needed entry points and a mechanism to surf from one note to another in a productive way.
+Luhmann's Zettelkasten is a collection of notes on paper slips with a special twist: It is a *hypertext* that he could navigate the drawer cabinet containing all the paper slips with a *reasonable* amount of time and energy. "Reasonable" means that it was reasonable for Luhmann, who, obsessed with his theory of society, was a workaholic and an enthusiastic bureaucrat. A hypertext needs to be surfable. On Wikipedia, you just need to click a link to get to the next article within Wikipedia's hypertext. It requires more effort to follow a link if the hypertext is paper-based. The other problem is that you need a starting point for your ride. So Luhmann created his Zettelkasten to make his note collection surfable. He needed entry points and a mechanism to surf from one note to another in a productive way.
 
-We are lucky because we have access to powerful digital tools. Handling a physical Zettelkasten is way more difficult and labor intensive than a digital one. We don’t have to be bureaucratic workaholics to reap the benefits of the Zettelkasten Method.
+We are lucky because we have access to powerful digital tools. Handling a physical Zettelkasten is way more difficult and labor intensive than a digital one. We don't have to be bureaucratic workaholics to reap the benefits of the Zettelkasten Method.
 
-### Why Are We So Interested In Luhmann’s Zettelkasten?
+### Why Are We So Interested In Luhmann's Zettelkasten?
 
-First, we fantasize about what it would mean to be as productive as Luhmann. Luhmann’s Zettelkasten seems to inspire people, which is one of the main drivers why interest in his method of production is surging.
+First, we fantasize about what it would mean to be as productive as Luhmann. Luhmann's Zettelkasten seems to inspire people, which is one of the main drivers why interest in his method of production is surging.
 
-Second, Luhmann’s Zettelkasten promises to be quite an improvement to run-of-the-mill approaches to note-taking and knowledge work in general. It amplifies your effectiveness. It is possible to produce more in less time, but not with less effort *per time*. If we accept this we can improve ordinary note-taking methods in several ways:
+Second, Luhmann's Zettelkasten promises to be quite an improvement to run-of-the-mill approaches to note-taking and knowledge work in general. It amplifies your effectiveness. It is possible to produce more in less time, but not with less effort *per time*. If we accept this we can improve ordinary note-taking methods in several ways:
 
-1. **We can improve the connectivity of our thoughts.** The hyper-textual nature of the Zettelkasten enables us to connect ideas. These connections make new insights possible. Insights don’t happen in a vacuum. They are the result of making new ([unexpected](https://plus.maths.org/content/information-surprise)) connections.
+1. **We can improve the connectivity of our thoughts.** The hyper-textual nature of the Zettelkasten enables us to connect ideas. These connections make new insights possible. Insights don't happen in a vacuum. They are the result of making new ([unexpected](https://plus.maths.org/content/information-surprise)) connections.
 2. **We can be more productive.** The Zettelkasten Method streamlines our workflow by giving clear guidelines on what to do. This, in turn, decreases friction. It is quite common to enter a stage of flow which further increases productivity. I even allocate two days per week to make Zettelkasten work my priority and [allow Zettelkasten flow](https://zettelkasten.de/posts/practical-integration-deep-work/) to happen.
-3. **We stop wasting our efforts.** Even if you don’t use any of your notes for a project you’re working on at the moment, you prepare the knowledge for future projects. At the very least, you improve the depth of processing information from that topic.
+3. **We stop wasting our efforts.** Even if you don't use any of your notes for a project you're working on at the moment, you prepare the knowledge for future projects. At the very least, you improve the depth of processing information from that topic.
 4. **We can tackle more complex problems.** It is very difficult to keep all the balls in the air if you juggle complex problems. The Zettelkasten Method allows you to concentrate on a small part of the problem and after that take a step back and look at it with a panorama vision.
-5. **Normal note-taking will create a bloated mess over time.** The Zettelkasten on the other hand will scale itself automatically to the size of the problem you are tackling. This is what Luhmann talked about when he wrote about “internal growth” (I translated it into “organic growth”) in [his manual](https://zettelkasten.de/communications-with-zettelkastens/).
+5. **Normal note-taking will create a bloated mess over time.** The Zettelkasten on the other hand will scale itself automatically to the size of the problem you are tackling. This is what Luhmann talked about when he wrote about "internal growth" (I translated it into "organic growth") in [his manual](https://zettelkasten.de/communications-with-zettelkastens/).
 6. **The Zettelkasten Method will make your writing easier, more coherent, smoother and more convincing.** One of the main problems in writing and thinking is our limited capacity to follow one line of thought for a long period of time. Just think of meditation. It is even difficult to focus on a simple thing like breathing for a couple of minutes. Imagine how difficult it is to think about one issue for weeks and months to write a thesis. The Zettelkasten will hold your thoughts alive and help you to hold onto them.
 
 We have to make notes to wrestle with problems effectively. To put it [in Luhmann’s words](https://luhmann.surge.sh/learning-how-to-read):
 
 > What are we to do with what we have written down? Certainly, at first, we will produce mostly garbage. But we have been educated to expect something useful from our activities and soon lose confidence if nothing useful seems to result. We should, therefore, reflect on whether and how we arrange our notes so that they are available for later access.
 
-The result of Luhmann’s own note-taking effort was his Zettelkasten. Let’s dive in and see how he achieved this to extract some general principles.
+The result of Luhmann's own note-taking effort was his Zettelkasten. Let's dive in and see how he achieved this to extract some general principles.
 
 ### The Fixed Address of Each Note
 
-If you want to refer to an individual note, it needs to have a fixed and unique address by which you can identify the note. It is necessary to make the actual lookup possible. In our digital age, we rarely think of this problem unless we are software developers. We are used to performing a search on the web, and in a fraction of a second, our search presents us with the results. When you deal with a bunch of paper notes, however, you need to make it possible and bearable to get anywhere at all. Luhmann’s approach was a clever numbering system.
+If you want to refer to an individual note, it needs to have a fixed and unique address by which you can identify the note. It is necessary to make the actual lookup possible. In our digital age, we rarely think of this problem unless we are software developers. We are used to performing a search on the web, and in a fraction of a second, our search presents us with the results. When you deal with a bunch of paper notes, however, you need to make it possible and bearable to get anywhere at all. Luhmann's approach was a clever numbering system.
 
 ![](https://zettelkasten.de/introduction/2020-08-13_folgezettel-sequence.png)
 
@@ -76,16 +78,16 @@ Luhmann's numbering system allowed to make sequences and intersperse notes betwe
 
 The very first note is assigned the number `1`. If you add a second note that is not related to the first note, it is assigned the number `2`. But if you want to continue the first note, or inject something into its content, comment on it, or something along those lines, you branch off. That new note would get assigned the number `1a`. If you continue with this new note, you would go on with `1b`. If you then want to comment on the note `1a`, you would create a note with the address `1a1`. So, in short, whenever you continue a train of thought, you increment the last position in the address, be it number or a character from the alphabet. And when you want to expand, intersperse, or comment on a note, you take its address and append a new character. For this to work, you alternate numbers and characters. [^3]
 
-Luhmann’s numbering system has two consequences for re-creating his method:
+Luhmann's numbering system has two consequences for re-creating his method:
 
-1. It makes organic growth possible. Luhmann didn’t use the term *hypertext*, but he probably would if he lived today. This organic growth is also precisely how wikis and their wiki-link feature works. You have a text but want to expand on a point. You *branch off* from the current page, and thus basically inject another text into the current one, but at the same time hide its contents.
+1. It makes organic growth possible. Luhmann didn't use the term *hypertext*, but he probably would if he lived today. This organic growth is also precisely how wikis and their wiki-link feature works. You have a text but want to expand on a point. You *branch off* from the current page, and thus basically inject another text into the current one, but at the same time hide its contents.
 2. It makes linking possible. The emphasis on linking is a more obvious hint at the hyper-textual nature of his Zettelkasten. The non-linear link structure is the main trait of a hypertext. In his *manual* on how to create a Zettelkasten, [he wrote:](https://zettelkasten.de/communications-with-zettelkastens/) It is *not* important where you place a new note as long as you can link to it.
 
 His numbering system made a paper-based hypertext possible. It worked with a bearable amount of effort for Luhmann.
 
-At this stage, we have a surfable hypertext. But we do not have something like a search engine to enter the hypertext. “Where to start?” is a question Luhmann needed to answer. He used his register as the place to start, his entry point.
+At this stage, we have a surfable hypertext. But we do not have something like a search engine to enter the hypertext. "Where to start?" is a question Luhmann needed to answer. He used his register as the place to start, his entry point.
 
-Luhmann’s register could be mistaken for a tag system. However, the individual notes were not tagged, nor did he put a tagging system in place to organise his Zettelkasten.
+Luhmann's register could be mistaken for a tag system. However, the individual notes were not tagged, nor did he put a tagging system in place to organise his Zettelkasten.
 
 ![](https://zettelkasten.de/introduction/20201027164313_schlagwortregister.png)
 
@@ -95,33 +97,33 @@ There are very few IDs per item in his register, sometimes just a single one, ne
 
 The fixed address of each note is the alpha and omega of the world of Zettelkasten. Everything becomes possible because of it.
 
-If you want to replicate the functionality of Luhmann’s Zettelkasten, you would have to create a hypertext and limit your entry into it via the most central pages on a topic, from which you would continue by following links.
+If you want to replicate the functionality of Luhmann's Zettelkasten, you would have to create a hypertext and limit your entry into it via the most central pages on a topic, from which you would continue by following links.
 
 ## A Zettelkasten Is a Personal Tool for Thinking and Writing
 
-In contrast to other approaches, Luhmann decided against making his Zettelkasten stiff and opted for an organic approach instead. There’s a reason [his own manual](https://zettelkasten.de/communications-with-zettelkastens/) is titled “ *Communicating* with Slip Boxes”, and not something like “A slip box as a writing and thinking tool”. Our point of reference is that The Zettelkasten Method is an organic and non-linear, even living, approach on note-taking.
+In contrast to other approaches, Luhmann decided against making his Zettelkasten stiff and opted for an organic approach instead. There's a reason [his own manual](https://zettelkasten.de/communications-with-zettelkastens/) is titled " *Communicating* with Slip Boxes", and not something like "A slip box as a writing and thinking tool". Our point of reference is that The Zettelkasten Method is an organic and non-linear, even living, approach on note-taking.
 
 Let us begin with the most important traits of a Zettelkasten:
 
-1. It’s hyper-textual.
+1. It's hyper-textual.
 2. It adheres to the *Principle of Atomicity*.
 3. It is personal.
 
-**First,** it is some kind of hypertext, not a single text or just a collection of texts, but texts that refer to each other, explain, expand and use each other’s information. The difference between regular note-taking systems and a Zettelkasten is the emphasis on forming relationships. *A Zettelkasten makes connecting and not collecting a priority*. The difference between just a text and hypertext is that the former is *linear* and the latter is *organic*.
+**First,** it is some kind of hypertext, not a single text or just a collection of texts, but texts that refer to each other, explain, expand and use each other's information. The difference between regular note-taking systems and a Zettelkasten is the emphasis on forming relationships. *A Zettelkasten makes connecting and not collecting a priority*. The difference between just a text and hypertext is that the former is *linear* and the latter is *organic*.
 
-To become a hypertext, a Zettelkasten requires multiple texts, or notes, that you can connect via hyperlinks. We call an individual note a *Zettel*. Zettel is the German word for “paper slip”. They are the smallest building blocks of the Zettelkasten.
+To become a hypertext, a Zettelkasten requires multiple texts, or notes, that you can connect via hyperlinks. We call an individual note a *Zettel*. Zettel is the German word for "paper slip". They are the smallest building blocks of the Zettelkasten.
 
 Each Zettel needs a unique address by which we can refer to it, to make connections between Zettels. Then there can be hypertext and the note-taking system can qualify as a Zettelkasten.
 
 **Second,** the [principle of atomicity](https://zettelkasten.de/atomicity) is one of the core tenets of the Zettelkasten Method. Atomicity refers to the idea that knowledge is made up of discrete building blocks. The Principle of Atomicity is a processing direction in note-taking, aiming for one knowledge building block per note. It is not a rigid law, but a guiding compass. It needs to be contextualised for each application.
 
-Let’s contrast this idea with non-atomic containers for knowledge:
+Let's contrast this idea with non-atomic containers for knowledge:
 
 Books, for example, have addresses and cross-references. They have chapters, sections, and pages. All have unique numbers that can be referenced. However, you cannot refer to a thought, an idea, or any content. Chapters, sections, and pages are more like coordinates. A thought might span the entire book! You cannot refer to it directly with just one reference.
 
 A book is *not* a web of thoughts. Likewise, Wikipedia is not a web of thoughts because you can only link to articles and sections within them, but not to individual thoughts inside the text. None of the addresses corresponds to any thought. Wikipedia is not intended to be such a thing. Instead, Wikipedia is an encyclopedia that contains articles on various topics. Wikipedia is not a thinking tool but a tool for information retrieval.
 
-**Third,** there is one Zettelkasten per person, and one person per Zettelkasten. Thinking is a different process from communicating with another person. You want your Zettelkasten to be a personal thinking tool. If you don’t keep your diary absolutely private, you wouldn’t write some things down, and you’d filter other things, therefore distorting them. Writing for yourself is and should be different from writing for the public.
+**Third,** there is one Zettelkasten per person, and one person per Zettelkasten. Thinking is a different process from communicating with another person. You want your Zettelkasten to be a personal thinking tool. If you don't keep your diary absolutely private, you wouldn't write some things down, and you'd filter other things, therefore distorting them. Writing for yourself is and should be different from writing for the public.
 
 That does not mean that it is never useful to create a shared, project-specific hypertext. But that is not what we are talking about when we talk about a Zettelkasten.
 
@@ -151,9 +153,9 @@ The unique identifier (ID) is mandatory to create a Zettelkasten. Only with a un
 
 There are several ways to identify notes, the most common are:
 
-1. There is of course the **Luhmann-ID**. You create some kind of arbitrary hierarchy wherein each Zettel has a place where it could be. Using a paper-based Zettelkasten, I recommend using this technique because it helps to deal with its organisation. The other types of ID wouldn’t work as well for paper.
+1. There is of course the **Luhmann-ID**. You create some kind of arbitrary hierarchy wherein each Zettel has a place where it could be. Using a paper-based Zettelkasten, I recommend using this technique because it helps to deal with its organisation. The other types of ID wouldn't work as well for paper.
 2. You could chose a **Time-based ID**. With a digital Zettelkasten, unlike with a paper-based one, there is no real place for a note. To create the hypertext, you need an address, but not a place. A time-stamp is a very simple way to create a unique string of numbers to which you can refer. A sample time-based ID would be: `202006110955`. Year 2020, 11th of June, 9 am and 55 minutes.
-3. You can use any **arbitrary unique string**. You could just use an incremental number, execute a program that generates a random but unique string, or whatever else you want. The main reason for me to consider this over time-based IDs is the promise to shorten IDs. For example, if you encode the date and time as a hexadecimal number, `202005191402` could be shortened to `2F08729AEA`. This is a direct translation of the timestamp. That would shorten the string by two digits. There are more ways to make it even shorter than that. But you’d sacrifice some simplicity, and you wouldn’t be able to produce an ID manually. Also, this sacrifices human readability of the time of Zettel creation. Therefore, we do not recommend that approach.
+3. You can use any **arbitrary unique string**. You could just use an incremental number, execute a program that generates a random but unique string, or whatever else you want. The main reason for me to consider this over time-based IDs is the promise to shorten IDs. For example, if you encode the date and time as a hexadecimal number, `202005191402` could be shortened to `2F08729AEA`. This is a direct translation of the timestamp. That would shorten the string by two digits. There are more ways to make it even shorter than that. But you'd sacrifice some simplicity, and you wouldn't be able to produce an ID manually. Also, this sacrifices human readability of the time of Zettel creation. Therefore, we do not recommend that approach.
 4. You could also use the **title** of the Zettel as its ID. As long as it is unique, it can serve as an ID. Consequently, you cannot change the title unless you change any reference to it if you want to keep your links intact. There is some software that would handle this problem for you, but we do not recommend this. We prefer a software-independent approach and keep our independence from software.
 
 ### The Body of the Zettel
@@ -168,17 +170,17 @@ The length of a Zettel is directly tied to what kind of hypertext you want to cr
 
 In the [Zettelkasten forum](https://forum.zettelkasten.de/), @Nick asked [how selective I am](https://forum.zettelkasten.de/discussion/comment/5918/#Comment_5918) and what the nature of the information I put in is. Well, that depends on what you are thinking about. I recommend that you stick to knowledge instead of information.
 
-The difference between knowledge and information, in practice, is quite simple. Information could be summarized in one sentence most of the time. Most of the time, it is “dead”. Information just *is*.
+The difference between knowledge and information, in practice, is quite simple. Information could be summarized in one sentence most of the time. Most of the time, it is "dead". Information just *is*.
 
 An example of a piece of information could be:
 
-> At this time (2020-05-20 09:14), I, Sascha, create the first draft of an article which has the working title “Zettelkasten – An introduction”.
+> At this time (2020-05-20 09:14), I, Sascha, create the first draft of an article which has the working title "Zettelkasten – An introduction".
 
 What do you do with this? As a historian of the Zettelkasten Method, you could process it for a timeline of introductory articles on the Zettelkasten Method, to track the topic as it unfolds on the internet. Then you would create an empirical base of information for your historical work. But as a mere statement, it is quite useless. To most of us, it is just dead information and not knowledge.
 
-As a rule of thumb, you should always make something from the information you process. You should always translate information to knowledge by adding context and relevance. Even if you don’t use the created knowledge directly, as long as you enrich the information with relevance you are on the right path. You don’t need to worry about what Zettelkasten forum user [@grayen wondered](https://forum.zettelkasten.de/discussion/comment/5925/#Comment_5925) in the context of taking notes from articles on the internet:
+As a rule of thumb, you should always make something from the information you process. You should always translate information to knowledge by adding context and relevance. Even if you don't use the created knowledge directly, as long as you enrich the information with relevance you are on the right path. You don't need to worry about what Zettelkasten forum user [@grayen wondered](https://forum.zettelkasten.de/discussion/comment/5925/#Comment_5925) in the context of taking notes from articles on the internet:
 
-> I sometimes struggle to determine whether it is worth writing a detailed Zettel about what makes the website worthwhile to write a Zettel about, but I don’t want to write for the sake of writing, and most of the time I am not sure if it is just transient stuff or whether it really is useful to keep around long term and not just for the processing of a particular thought/query I had. I don’t want to turn my Zettelkasten into busywork, i.e. a kind of procrastination. (slightly edited)
+> I sometimes struggle to determine whether it is worth writing a detailed Zettel about what makes the website worthwhile to write a Zettel about, but I don't want to write for the sake of writing, and most of the time I am not sure if it is just transient stuff or whether it really is useful to keep around long term and not just for the processing of a particular thought/query I had. I don't want to turn my Zettelkasten into busywork, i.e. a kind of procrastination. (slightly edited)
 
 If in doubt, write the note, within the confines of your deadline. If you knew whether or not every piece of knowledge would be relevant to your final product, there would be no reason to take notes, because you would already have the final product in your mind. Every bit of knowledge you add has the potential to be useful in ways you might not be able to see in the moment you produce it.
 
@@ -196,12 +198,12 @@ Those byproducts are not waste. In the long run, they become valuable knowledge 
 
 ### Other Examples
 
-- If you are working on your bachelor’s thesis and are pressed for time, allow very little deviation and do focus on the source material relevant to your thesis.
+- If you are working on your bachelor's thesis and are pressed for time, allow very little deviation and do focus on the source material relevant to your thesis.
 - If you are a retired mechanical engineer who spends your well earned free Sundays in a forest barn with your Zettelkasten to work on a novel, allow as much deviation from the project as you wish. Enjoy your time!
-- If you are a nurse who wants to publish a small book on how to deal with the healthcare system, don’t stress so much to get focused work done. You are doing so much for all of us already, you should enjoy the writing process and satisfy your intellectual curiosity, even if this slows down your progress.
+- If you are a nurse who wants to publish a small book on how to deal with the healthcare system, don't stress so much to get focused work done. You are doing so much for all of us already, you should enjoy the writing process and satisfy your intellectual curiosity, even if this slows down your progress.
 - If you are an ambitious type-A personality, allow room for deviation as much as you can endure. Your personality will ensure that you come back quite fast to the source material that is relevant for your project anyway.
 
-Whether you should work focussed or allow deviation isn’t much of an issue of the Zettelkasten Method but more an issue of circumstances in your general life.
+Whether you should work focused or allow deviation isn't much of an issue of the Zettelkasten Method but more an issue of circumstances in your general life.
 
 ### Reference
 
@@ -217,7 +219,7 @@ To manage the references, use reference management software like [BibDesk](https
 
 Sometimes, however, you will refer to other Zettel as your source of inspiration. In that case, you base your thoughts on something you have already processed in the past. You reference the Zettel by linking to it via the ID, connecting the new to the old.
 
-If you have no reference at all, perhaps that means you wandered through the forest and had a sudden insight about the true nature of the world. In that case, you don’t need to do anything in this reference section. If no reference is given in a Zettel, it is your own thought by default.
+If you have no reference at all, perhaps that means you wandered through the forest and had a sudden insight about the true nature of the world. In that case, you don't need to do anything in this reference section. If no reference is given in a Zettel, it is your own thought by default.
 
 ### Putting the pieces together
 
@@ -227,7 +229,7 @@ See this picture with all the elements pointed out.
 
 All the parts of a Zettel together
 
-Up to this point, we have only looked at the individual Zettel. Now, let’s take a look at the relationship between Zettels.
+Up to this point, we have only looked at the individual Zettel. Now, let's take a look at the relationship between Zettels.
 
 ## Connecting Zettel
 
@@ -241,7 +243,7 @@ The true magic of a Zettelkasten, when compared to ordinary note-taking systems,
 
 The main benefit from connections is their effect on you and your brain: When you *relate* pieces of knowledge to others, you create *relationships* between pieces of knowledge. Knowledge relationships significantly improve recall, and forming them also trains your mind to see patterns.
 
-Let’s say you read an article about anthills and think: “Wait a minute. That looks like the organization of the factory I own!” You draw many connections about the *parallels* you see between your factory and the anthill. Why do you see those connections? You see them because there is a typical pattern that can describe both the anthill and the factory. And some may contain more than what you do know: hypotheses on what is yet unknown. *Could there be particularly efficient pathways in the anthill, and you could similarly adapt your factory layout to make it operate more efficiently, too?*
+Let's say you read an article about anthills and think: "Wait a minute. That looks like the organization of the factory I own!" You draw many connections about the *parallels* you see between your factory and the anthill. Why do you see those connections? You see them because there is a typical pattern that can describe both the anthill and the factory. And some may contain more than what you do know: hypotheses on what is yet unknown. *Could there be particularly efficient pathways in the anthill, and you could similarly adapt your factory layout to make it operate more efficiently, too?*
 
 As you connect, you will learn, understand, and thus expand yourself in two ways: (a) Your knowledge will increase and (b) you will be a better observer. By being a better observer, you will be able to draw more insights from observation. More universal patterns arise and become more apparent to you. A fundamental aspect of working like this is that it allows you to access the general patterns of reality.
 
@@ -265,9 +267,9 @@ A Zettelkasten should not *only* be a web of thoughts that you create from the b
 
 We can have a look at how he used his register. Not each relevant Zettel was listed for each keyword. Only the most central Zettels that served as entry points to a topic.
 
-Also, Luhmann had [hub notes](https://zettelkasten.de/posts/zettelkasten-hubs/). These are Zettels that list many other places to look at for a continuation of a topic. Luhmann’s Zettelkasten posed a severe challenge in getting to all the relevant parts of a search, especially compared to a digital Zettelkasten.
+Also, Luhmann had [hub notes](https://zettelkasten.de/posts/zettelkasten-hubs/). These are Zettels that list many other places to look at for a continuation of a topic. Luhmann's Zettelkasten posed a severe challenge in getting to all the relevant parts of a search, especially compared to a digital Zettelkasten.
 
-The main benefit of hierarchical structures is the increased potential for knowledge creation. Structuring your knowledge is a very productive method to get *a bigger picture*. Let’s explore The Structure Note as it is one of the ways to add structure to a zettelkasten.
+The main benefit of hierarchical structures is the increased potential for knowledge creation. Structuring your knowledge is a very productive method to get *a bigger picture*. Let's explore The Structure Note as it is one of the ways to add structure to a zettelkasten.
 
 ![](https://zettelkasten.de/introduction/2020-07-30-struktur.png)
 
@@ -282,7 +284,7 @@ A part of a list of general models in my Zettelkasten
 Another Structure Note of mine is about general models. Each Zettel notes a separate schema about various mental models. Two examples for illustration:
 
 1. The obstacle model. It is a general view of the need to increase energy output to transition from one state to another. One application is the phenomenon of hunger. In nature, you need to increase your energy output (hunt or gather) to move from the state of being hungry to being sated. Concentration is another use case. It could be modelled as the ability to increase and focus your mental energy output on moving from an incomplete to a complete task.
-2. The chemistry model. Its gestalt is a molecule that has atoms as parts. Atoms are the parts which are assumed not to be divisible into smaller chunks. A molecule is the composition of the elements. The Zettelkasten Method is a model of this application. Another application is Ido Portal’s [teaching methods of skills](https://www.facebook.com/notes/ido-portal/optimal-teaching-chunking-vs-the-chemistry-model-by-ido-portal/255608244481163).
+2. The chemistry model. Its gestalt is a molecule that has atoms as parts. Atoms are the parts which are assumed not to be divisible into smaller chunks. A molecule is the composition of the elements. The Zettelkasten Method is a model of this application. Another application is Ido Portal's [teaching methods of skills](https://www.facebook.com/notes/ido-portal/optimal-teaching-chunking-vs-the-chemistry-model-by-ido-portal/255608244481163).
 
 The chemistry model is both a part of the Structure Note on general models and in the Structure Note on the Zettelkasten Method itself. Those overlaps in zettels create a semilattice structure:
 
@@ -304,19 +306,19 @@ To recap: To create Zettels about the relationship between other Zettels, is cal
 
 ### Choosing Software
 
-If you choose software to handle your Zettelkasten, there are some  
-features the software should have. Below is an essential checklist for  
+If you choose software to handle your Zettelkasten, there are some
+features the software should have. Below is an essential checklist for
 features you should look for:
 
-1. The software needs to make hypertext possible. There are two ways to accomplish this. You either use whatever linking feature the software offers – this is often more convenient for less tech-savvy people –, or you stick to the imitation of direct links through full-text search. The search-based approach is more robust over time and across apps, but perhaps a bit more awkward to get used to. [See our demonstration how TextMate would handle links](https://www.youtube.com/watch?v=d-x8MpM4yDE). Keep in mind that I didn’t modify TextMate in any way to accommodate the handling of a Zettelkasten.
-2. The navigation between Zettel will depend on two things: Full-text  
-	search and being able to follow links. The full-text search is an  
-	equivalent of finding entry points via the register in Luhmann’s  
-	Zettelkasten (more powerful, obviously). Links are just links as you  
-	know them. No further explanation needed. A full-text search is an  
-	advantageous option a digital Zettelkasten has, but an analogue  
-	Zettelkasten doesn’t, which results in the heavier usage of it.
-3. A kind of sandbox. An implicit part of Luhmann’s Zettelkasten was his desk. He could just pull out any number of Zettel and arrange them on his desk as he liked. You can’t do this so easy in the digital version. In *The Archive* I use Structure Notes as my desktop. The arrangement is more hierarchical and not so free like physical slips of paper. But it does the job.
+1. The software needs to make hypertext possible. There are two ways to accomplish this. You either use whatever linking feature the software offers – this is often more convenient for less tech-savvy people –, or you stick to the imitation of direct links through full-text search. The search-based approach is more robust over time and across apps, but perhaps a bit more awkward to get used to. [See our demonstration how TextMate would handle links](https://www.youtube.com/watch?v=d-x8MpM4yDE). Keep in mind that I didn't modify TextMate in any way to accommodate the handling of a Zettelkasten.
+2. The navigation between Zettel will depend on two things: Full-text
+	search and being able to follow links. The full-text search is an
+	equivalent of finding entry points via the register in Luhmann's
+	Zettelkasten (more powerful, obviously). Links are just links as you
+	know them. No further explanation needed. A full-text search is an
+	advantageous option a digital Zettelkasten has, but an analogue
+	Zettelkasten doesn't, which results in the heavier usage of it.
+3. A kind of sandbox. An implicit part of Luhmann's Zettelkasten was his desk. He could just pull out any number of Zettel and arrange them on his desk as he liked. You can't do this so easy in the digital version. In *The Archive* I use Structure Notes as my desktop. The arrangement is more hierarchical and not so free like physical slips of paper. But it does the job.
 
 ### The Paper-Based Zettelkasten
 
@@ -326,7 +328,7 @@ I started my Zettelkasten journey this way and experimented with it for a couple
 
 ### The Archive
 
-One of the main concepts of *The Archive* is the software-agnostic  
+One of the main concepts of *The Archive* is the software-agnostic
 philosophy and adherence to a simple plain text approach.
 
 1. Software-agnosticism is the principle that you make the opposite of what boxing-in tries to achieve. There are direct ways to box you in, for example, by storing notes in a closed-off file-format that no other software can decipher. But there are also implicit ways to make it difficult to change the software, for example by making the export process difficult, or by training the user to depend on features that are not available anywhere else. One example of how we try to avoid this is our decision to make the search function responsible for carrying out a lot of the features. Even Zettel links boil down to search. Full-text search is omnipresent on computers, and therefore you can reproduce your workflow with about any plain text editor in the world.
@@ -353,7 +355,7 @@ All the screenshots here are examples of our Zettelkastens in *The Archive*.
 
 [DokuWiki](https://www.dokuwiki.org/) is one of my favourite software solutions for managing a Zettelkasten. If you use DokuWiki, you could consider not making each Zettel its own wiki page. The design of the DokuWiki user interface is more tailored towards long(er) pages. This violates the principle of atomicity to appoint. However, if you link directly to subsections and each subsection contains one thought you will be fine. Every page can be divided into sections and subsections, each with its address, making it possible to treat sections as individual Zettel.
 
-DokuWiki allows you to use title-based IDs and keeps the links functioning if you change the title names, hence the IDs. I still recommend to additionally use time-based IDs. They would just come up in the address of each site or subsection but wouldn’t be in the way otherwise. The benefit is that you will be able to export DokuWiki to another software (especially text editors) solution much easier. Think of the time-based ID part of the code of the Zettelkasten itself which can be read by various software. If the code is complete you can use a high number of apps. If you decide against some parts of the code (conventions) transitions will be much harder.
+DokuWiki allows you to use title-based IDs and keeps the links functioning if you change the title names, hence the IDs. I still recommend to additionally use time-based IDs. They would just come up in the address of each site or subsection but wouldn't be in the way otherwise. The benefit is that you will be able to export DokuWiki to another software (especially text editors) solution much easier. Think of the time-based ID part of the code of the Zettelkasten itself which can be read by various software. If the code is complete you can use a high number of apps. If you decide against some parts of the code (conventions) transitions will be much harder.
 
 With DokuWiki, Structure Notes are regular wiki pages. They deal with structures just like plain text files do, which I described above.
 
@@ -386,8 +388,8 @@ Many thanks go out to the other beta readers, too, namely:
 
 [^1]: See [https://pub.uni-bielefeld.de/download/2942475/2942530/jschmidt\_2016\_niklas%20luhmanns%20card%20index.pdf](https://pub.uni-bielefeld.de/download/2942475/2942530/jschmidt_2016_niklas%20luhmanns%20card%20index.pdf)
 
-[^2]: However, Luhmann’s productivity wasn’t so high just because he used a Zettelkasten. He worked all day, every day. Being a workaholic helps in getting work done.
+[^2]: However, Luhmann's productivity wasn't so high just because he used a Zettelkasten. He worked all day, every day. Being a workaholic helps in getting work done.
 
-[^3]: Luhmann’s actual numbering system included one slash, but for didactic reasons, we chose to leave it out. He used it for better readability.
+[^3]: Luhmann's actual numbering system included one slash, but for didactic reasons, we chose to leave it out. He used it for better readability.
 
 [^4]: Thanks @henrikenggaard for pointing me to this term.

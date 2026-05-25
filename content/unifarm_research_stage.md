@@ -1,6 +1,6 @@
 ---
 title: unifarm_research_stage
-modified: 2026-05-20
+modified: 2026-05-25
 id: 01KS0CR65FGRNNFBS80VVA1PT8
 created: 2026-05-19
 ---
@@ -18,27 +18,28 @@ created: 2026-05-19
 	- onderzoekend gefocust\
 
 ---
-# Vragen voor unifarm.
+
+# Vragen voor unifarm
+
 - wat zijn de werktijden (3 mogelijke, 8.00 8.30 9.00)
 - wat voor werk zou ik moeten doen(licht aan welk)
 - zijn er andere bbl/stage geweest?
-       - hoe is het met hun gegaan?
-       - zijn er slechte ervaringen met stage/bbl geweest?
-       - zijn er bbl weg gegaan?(laatste BBL was 4-5 jaar geleden)
+	   - hoe is het met hun gegaan?
+	   - zijn er slechte ervaringen met stage/bbl geweest?
+	   - zijn er bbl weg gegaan?(laatste BBL was 4-5 jaar geleden)
 - grootste verschillen tussen de 6(7?) afdelingen
-- 
 
 Te weinig personeel
 Ook buiten afdeling, akkerbouw.
 
-
 06 26793376
 
 ---
+
 ## thoughts/reflextion
 
 Expectation were that i i was at least doing a little bit of research. I wont, they **support** researchers, *sometime* they test new led lights.
-What do i want? 
+What do i want?
 - create systems for plant growth(glastuinbouw)
 - research or/and create better/different type of plants
 - glastuinbouw, is creating systems? But mostly its growing plants in mass.

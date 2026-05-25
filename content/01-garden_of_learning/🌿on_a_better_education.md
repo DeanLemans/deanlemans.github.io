@@ -1,10 +1,10 @@
 ---
-unlisted: true
+unlisted: false
 title: On a better education
 tags:
   - research
 publish: true
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TR9FM796RXXR04P5NGJ
 description: education problem research
 created: 2026-02-02

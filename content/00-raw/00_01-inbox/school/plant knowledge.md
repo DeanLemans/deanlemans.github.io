@@ -1,10 +1,10 @@
 ---
 title: plant knowledge
-modified: 2026-05-18
-id: 01KQQV6TSA5K8VB9GWX4NQPQVW
-created: 2026-05-03
 tags:
   - yuverta
+modified: 2026-05-25
+id: 01KQQV6TSA5K8VB9GWX4NQPQVW
+created: 2026-05-03
 ---
 
 # plant knowledge

@@ -1,24 +1,26 @@
 ---
+unlisted: true
 title: Note Taking & Obsidian
-source: https://andresestrella.vercel.app/brain/20-areas/26-productivity/note-taking-and-obsidian/
-author:
-published:
-created: 2026-05-09
-description:
 tags:
   - clippings
+source: https://andresestrella.vercel.app/brain/20-areas/26-productivity/note-taking-and-obsidian/
+published:
 publish: true
-unlisted: true
+modified: 2026-05-25
 id: 01KR6MJZB26TFXBJQ9YSBFPNFT
+description:
+created: 2026-05-09
+author:
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
 
 # Note Taking & Obsidian
 
-[obsidian plugins](https://andresestrella.vercel.app/404)  
+[obsidian plugins](https://andresestrella.vercel.app/404)
 [Obsidian shortcuts](https://andresestrella.vercel.app/brain/20-areas/22-software-engineering/workflow/obsidian-shortcuts/)
 
 ## TASKS
@@ -31,14 +33,13 @@ id: 01KR6MJZB26TFXBJQ9YSBFPNFT
 
 for web use [Obsidian Web Clipper](https://andresestrella.vercel.app/404)
 
-for books see [kindle#exporting highlights to markdown (obsidian)](https://andresestrella.vercel.app/404)  
+for books see [kindle#exporting highlights to markdown (obsidian)](https://andresestrella.vercel.app/404)
 readwise is prob the best solution but it is very expensive.
 
-- - read list note + obsidian web clipper. (falls short on mobile)
+- read list note + obsidian web clipper. (falls short on mobile)
 		- raindrop ⭐️
 		- matter
 		- [saveread](https://saveread.io/)
-		-
 
 **readwise features**
 
@@ -48,15 +49,13 @@ readwise is prob the best solution but it is very expensive.
 
 ## zettelkasten
 
-Is another system that I haven't tried to implement in my system.  
-more on it [here](https://andresestrella.vercel.app/404) and [here](https://www.youtube.com/watch?v=wvAZ9-hmWQU&t=1226s)  
+Is another system that I haven't tried to implement in my system.
+more on it [here](https://andresestrella.vercel.app/404) and [here](https://www.youtube.com/watch?v=wvAZ9-hmWQU&t=1226s)
 I think it would be more beneficial if in the future I need to do more research or studying.
 
 ## file tagging
 
 I haven't gotten used to tagging notes all that much. Maybe I haven't found it's benefits personally.
-
--
 
 ## How to take notes
 
@@ -64,18 +63,18 @@ I haven't gotten used to tagging notes all that much. Maybe I haven't found it's
 
 ## file organization
 
-I organized my vault with the PARA structure with some additions of my own.  
+I organized my vault with the PARA structure with some additions of my own.
 [Personal Knowledge Management System (PKMS)](https://andresestrella.vercel.app/brain/20-areas/26-productivity/personal-knowledge-management-system-pkms/)
 
 ## granularity
 
-atomic notes: like programming functions, it can be a good idea to atomize notes.  
+atomic notes: like programming functions, it can be a good idea to atomize notes.
 so If im writing about water I should write different separated/atomic notes on water: what is water? | what are the benefits? | why is it necessary? | etc... instead of writing one big note on the topic
 
 ## up / parent
 
-(I don't really do this)  
-think about what other note is directly related "above" the note relates to.  
+(I don't really do this)
+think about what other note is directly related "above" the note relates to.
 MOST of the time I think a note should relate to only one note above, but I'm not completely strict on this for the right occasion
 
 - **parent/child/friend note tagging method**
@@ -102,7 +101,7 @@ try only placing a note in a folder only when it is linked correctly to other no
 
 when was the note created and/or last updated.
 
-## Highlighting books colors:
+## Highlighting books colors
 
 - Yellow = interesting point
 - Pink = disagree with author
@@ -126,28 +125,26 @@ Obsidian is a markdown editor and visualizer. see [learning markdown](https://an
 
 ## Tables
 
-Type this: `| header1 | header2|`  
+Type this: `| header1 | header2|`
 can also use table extension toolbar on the side
 
 ## Lists
 
-Ctrl + L todo list item  
-Ctrl+Shift+L bullet point  
-works for multiple highlighted lines.  
+Ctrl + L todo list item
+Ctrl+Shift+L bullet point
+works for multiple highlighted lines.
 I probably changed some keymap settings to have it this way
 
 ## tasks/todos and time
 
 I've been using Google Tasks a lot recently bc of how well it works in my phone with Gemini, Google Calendar, etc..
 
--
-
 ## Templates
 
-All templates are in the templates dir in this vault.  
+All templates are in the templates dir in this vault.
 I have the templater plugin to autocomplete values in the templates and move cursor around faster while filling out the templates (cmd + J jumpts to next cursor position)
 
 ## automatic MOCs
 
-Automatic Maps of Content so I don't have to link every note to their MOC.  
+Automatic Maps of Content so I don't have to link every note to their MOC.
 This note views all unlinked notes in my vault [Diagnostics - orphan - unlinked notes](https://andresestrella.vercel.app/404). Use it to organize my vault

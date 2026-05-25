@@ -1,18 +1,20 @@
 ---
+unlisted: true
 title: Ideas for my note-taking workflow ¶
-source: https://www.edwinwenink.xyz/zettelkasten/notetaking_ideas/
-author:
-  - Edwin Wenink
-published:
-created: 2026-05-09
-description:
 tags:
   - clippings
+source: https://www.edwinwenink.xyz/zettelkasten/notetaking_ideas/
+published:
 publish: true
-unlisted: true
+modified: 2026-05-25
 id: 01KR5028RBE56YXBY1A7THFPB4
+description:
+created: 2026-05-09
+author:
+  - Edwin Wenink
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -55,12 +57,12 @@ In my own Zettelkasten:
 	- If I want to rely heavily on links between files, I need a method for not breaking links when filenames change.
 		- Is there a method for linking with identifiers without needing the timestamp to be in the filename?
 		- Alternatively, I would need to write a program that scans the whole archive for the old filename, to update the links
-2. Add a ‘last modified’ remark that updates on writing
+2. Add a 'last modified' remark that updates on writing
 	- In principle, I could outsource this to something like `git blame`
 3. How to search on multiple custom defined tags at once?
 	- Can you do this already with the existing TagSearch function, by passing a pattern?
 		- If yes, might be still a good idea to create a wrapper function that takes multiple tags and calls TagSearch with the correct arguments.
-4. Write a script that writes all tags to a ‘ctags’ format. Normally in code you only define a definition once and then have various locations where you use it. But you should be able to find all different locations. I think you by default do \-\] to jump to the last tag. But if you run g \-\] you should find all locations corresponding to the tag. What you essentially do is create *ambiguous* tags.
+4. Write a script that writes all tags to a 'ctags' format. Normally in code you only define a definition once and then have various locations where you use it. But you should be able to find all different locations. I think you by default do \-\] to jump to the last tag. But if you run g \-\] you should find all locations corresponding to the tag. What you essentially do is create *ambiguous* tags.
 	- See [https://www.youtube.com/watch?v=XA2WjJbmmoM](https://www.youtube.com/watch?v=XA2WjJbmmoM) 21 mark.
 	- Search tags with `ts[elect]` (refers to last tag if no match)
 	- \-\] tag under cursor (also usable with helptags)
@@ -87,7 +89,7 @@ Change:
 --regex-markdown=/@(\w.*)\s/\1/t,tag,tags/
 ```
 
-This one also matches post-phenomenology as a whole. I tried to make a lazy version but that didn’t seem to work somehow. Now the whole sentence is matched.
+This one also matches post-phenomenology as a whole. I tried to make a lazy version but that didn't seem to work somehow. Now the whole sentence is matched.
 
 ```
 --regex-markdown=/@(\w.*?)\s/\1/t,tag,tags/
@@ -95,15 +97,15 @@ This one also matches post-phenomenology as a whole. I tried to make a lazy vers
 
 Clear limitation: only one tag can be matched per line, so I need to put each tag on a new line. If you want to fix this you need to define a language parser for ctags. You can define more regular expressions though. Idea: hardcore regex for situations with more tags per line, up until a certain limit? I.e. just match a different group each time, i.e. the first tag, than the second etc.
 
-Okay so exuberant ctags (also the later universal ctags ) use POSIX ERE regex, which does not support much and has the quirk that it always matches greedily. See [https://www.regular-expressions.info/posix.html](https://www.regular-expressions.info/posix.html). In other words, you really can’t have multiple tags on one page.
+Okay so exuberant ctags (also the later universal ctags ) use POSIX ERE regex, which does not support much and has the quirk that it always matches greedily. See [https://www.regular-expressions.info/posix.html](https://www.regular-expressions.info/posix.html). In other words, you really can't have multiple tags on one page.
 
 Even the newer universal ctags says this:
 
-> By default it uses the Extended Regular Expressions (ERE) syntax, as used by most engines today; however it does not support many of the “modern” extensions such as lazy captures, non-capturing grouping, atomic grouping, possessive quantifiers, look-ahead/behind, etc. It is also notoriously slow when backtracking, and has some known “quirks” with respect to escaping special characters in bracket expressions.
+> By default it uses the Extended Regular Expressions (ERE) syntax, as used by most engines today; however it does not support many of the "modern" extensions such as lazy captures, non-capturing grouping, atomic grouping, possessive quantifiers, look-ahead/behind, etc. It is also notoriously slow when backtracking, and has some known "quirks" with respect to escaping special characters in bracket expressions.
 
 See: [https://docs.ctags.io/en/latest/optlib.html](https://docs.ctags.io/en/latest/optlib.html)
 
-TODO how can I match both tags AND backreferences or headers? I guess just with an “Or” statement in the regex, right?
+TODO how can I match both tags AND backreferences or headers? I guess just with an "Or" statement in the regex, right?
 
 My build of exuberant ctags was compiled in 2009 (and I downloaded the latest version).
 
@@ -145,7 +147,7 @@ Dus de uiteindelijke score:
 
 mgroup moet je aangeven voor mline modus. YES! Werkt super!
 
-## Tips ‘n Tricks
+## Tips 'n Tricks
 
 ### Issues with linking to line numbers
 
@@ -177,7 +179,7 @@ What is a nice way to keep both the Vim reference and a correct Markdown referen
 
 If you only provide the filename rather than only a path, `gF` will start a search and work anyways! This assumes that we `cd` into the root directory of our notes, which we do with our custom `\ww` mapping.
 
-I could use this to make links more robust against moving between folders. However, this makes my notes not useable for editors dumber than Vim. Not a problem for me, but if others use this system they should probably give full links. This of course also breaks GitHub preview.
+I could use this to make links more robust against moving between folders. However, this makes my notes not usable for editors dumber than Vim. Not a problem for me, but if others use this system they should probably give full links. This of course also breaks GitHub preview.
 
 But if I use my system above, I can maintain correct links:
 
@@ -188,7 +190,7 @@ So, in conclusion, this should be my convention:
 
 [Stiegler-Aufklarung\_Philosophical\_Engineering.md:20](https://www.edwinwenink.xyz/zettelkasten/stiegler-aufklarung_philosophical_engineering/)
 
-TODO convert this in a blog post “A Convention for Combining Vim and Markdown File Linking”
+TODO convert this in a blog post "A Convention for Combining Vim and Markdown File Linking"
 
 ## Unique IDs and Timestamps
 
@@ -204,9 +206,9 @@ Con:
 - Timestamps make filenames longer and less readable
 - No grouping on filesystem based on names, e.g. papers from the same author, or index pages, or author pages.
 
-Then there’s a related issue. Do I use timestamps for structure notes?
+Then there's a related issue. Do I use timestamps for structure notes?
 
-For example, otherwise I could group together index files by prefixing them with “index”.
+For example, otherwise I could group together index files by prefixing them with "index".
 
 ## Structure
 
@@ -228,17 +230,17 @@ Denk na over wanneer links of backlinks handiger zijn.
 
 Stelregel: gebruik alleen terugverwijzingen als je zeker weet dat de referentie stabiel blijft en geen verdere organisatie nodig heeft.
 
-Ik gebruik in auteur pagina’s backlinks en daar is het wel logisch. Maar misschien moet ik dat bij index pagina’s niet doen.
+Ik gebruik in auteur pagina's backlinks en daar is het well logisch. Maar misschien moet ik dat bij index pagina's niet doen.
 
 Nadeel van backlinks vs gewone links: als je iets verandert moet je potentieel alles op veel plaatsen veranderen ipv alleen in de index zelf.
 
-Ik heb nu een aantal notities die bij mijn “rema thesis” project horen. Wil ik dat bovenaan elke notitie hebben staan, of juist lekker in de “backlinks” sectie.
+Ik heb nu een aantal notities die bij mijn "rema thesis" project horen. Wil ik dat bovenaan elke notitie hebben staan, of juist lekker in de "backlinks" sectie.
 
 In een project is het wellicht juist één centrale plek te hebben om alle links te bewerken. Een project is wss wat dynamischer dan een auteur pagina.
 
-Stel je voor: je hebt een project “Techniek filosofie”. Je maakt backlinks naar die notitie, en alles komt op één homp te staan. Later wil je wat verdere onderscheidingen maken. Aangezien backlinks automatisch worden bijgehouden kan dat niet. Daarom moet je een nieuwe notitie maken voor en aparte categorie. Als je nu wilt dat andere notities doorverwijzen moet je alle bestanden langs om de verwijzing aan te passen. Geen goed idee!
+Stel je voor: je hebt een project "Techniek filosofie". Je maakt backlinks naar die notitie, en alles komt op één homp te staan. Later wil je wat verdere onderscheidingen maken. Aangezien backlinks automatisch worden bijgehouden kan dat niet. Daarom moet je een nieuwe notitie maken voor en aparte categorie. Als je nu wilt dat andere notities doorverwijzen moet je alle bestanden langs om de verwijzing aan te passen. Geen goed idee!
 
-Dus ik moet me afvragen, wat voor een typen structuur notities zijn er? Streef net als bij programmeren naar “loose coupling” en “high cohesion”; is dat iets soortgelijks?
+Dus ik moet me afvragen, wat voor een typen structuur notities zijn er? Streef net als bij programmeren naar "loose coupling" en "high cohesion"; is dat iets soortgelijks?
 
 - author (gebruik backlinks)
 	- sterke coupling; auteur blijft stabiel.
@@ -247,9 +249,9 @@ Dus ik moet me afvragen, wat voor een typen structuur notities zijn er? Streef n
 - project (denk dat gewone links het meest gepast zijn)
 	- wat je dan ook nodig hebt
 
-## Dealing with “forgetting”
+## Dealing with "forgetting"
 
-TODO: I notice that I’m hesitant to throw all my old notes in the Zettelkasten flat directory. When everything depends on interlinking, notes that are not linked to will be forgotten by the Zettelkasten (and by you, for sure!).
+TODO: I notice that I'm hesitant to throw all my old notes in the Zettelkasten flat directory. When everything depends on interlinking, notes that are not linked to will be forgotten by the Zettelkasten (and by you, for sure!).
 
 Some ideas:
 
@@ -262,19 +264,19 @@ To keep the notetaking system manageable, we should establish some conventions.
 
 ### Filenaming and directory structure
 
-I’m still not decided on a filenaming convention.
+I'm still not decided on a filenaming convention.
 
 Timestamps at the end of a filename would offer some robustness to recover from broken links. They would be fully robust if I would rewrite all tools to only use the timestamp. The clear downside is that filenames are in themselves harder to read.
 
-- I still rely too much on directory structure. I should flatten the entire directory and instead rely on index pages in the Zettelkasten if I for example want to collect “Philosophy” notes.
+- I still rely too much on directory structure. I should flatten the entire directory and instead rely on index pages in the Zettelkasten if I for example want to collect "Philosophy" notes.
 
 If I ever write all of this into some Vim plugin (kuch learn Vimscript first kuch), I should make clear this plugin is *opiniated*.
 
 ### Linking
 
-- Link format: see above for “Issues with linking to line numbers”
+- Link format: see above for "Issues with linking to line numbers"
 - Everything is searchable. A great secondary use for searching (i.e. grepping) is actually finding old notes to link to
-	- Case study: I encountered the “Collingridge dilemma” in a lecture slide and vaguely recalled I had seen it before. I grepped for Collingridge and found the reference in notes about an academic article.
+	- Case study: I encountered the "Collingridge dilemma" in a lecture slide and vaguely recalled I had seen it before. I grepped for Collingridge and found the reference in notes about an academic article.
 		- Because the Collingridge dilemma now occurs in multiple places, I create a new Zettel for this idea
 		- I link from the lecture notes and from the article (which I just found) to the new Zettel.
 		- When running backlinks, the Zettel now contains links to all notes that refer to the Collingridge dilemma
@@ -283,9 +285,9 @@ What to use tags for?
 
 - I currently have a primitive tag system that does not allow searching on multiple tags at once; this requires some conventions to keep tag searching manageable.
 - Not for authors; link to author Zettels instead and use the backlink mechanism to populate the author zettel with files to all other files that link to it.
-- Not for genres such as “philosophy”: too broad. Again, you can use
-- Tags could be useful to keep track of index pages though (ts “index”)
-- How did Luhman do this? See [https://sociologica.unibo.it/article/view/8350/8270](https://sociologica.unibo.it/article/view/8350/8270) Tags are not used for searching but for a point of entry! So the “index” file I have should be a “Keyword Index”
+- Not for genres such as "philosophy": too broad. Again, you can use
+- Tags could be useful to keep track of index pages though (ts "index")
+- How did Luhman do this? See [https://sociologica.unibo.it/article/view/8350/8270](https://sociologica.unibo.it/article/view/8350/8270) Tags are not used for searching but for a point of entry! So the "index" file I have should be a "Keyword Index"
 - Luhman had 3200 tags. Keep them specific!
 - Of course, Luhman could not search on tags. His tag index was not complete, he only listed 1 to 4 files where the tag could be found as points of entry.
 
@@ -297,7 +299,7 @@ Backup of suprsen.vimrc setup:
 function! ZettelkastenSetup()
   syn region mkdFootnotes matchgroup=mkdDelimiter start="\[\["    end="\]\]"
 
-  inoremap <expr> <plug>(fzf-complete-path-custom) fzf#vim#complete#path("rg --files -t md \| sed 's/^/[[/g' \| sed 's/$/]]/'")
+  inoremap <expr> <plug>(fzf-complete-path-custom) fzf#vim#complete#path("rg --files -t md \| sed 's/^/[[/g' \|sed 's/$/]]/'")
   imap <buffer> [[ <plug>(fzf-complete-path-custom)
 
   function! s:CompleteTagsReducer(lines)

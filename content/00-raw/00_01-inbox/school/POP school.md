@@ -1,10 +1,10 @@
 ---
 title: POP school
-modified: 2026-05-03
-id: 01KQQV6TSR0GVBX7EH2SDDVJWK
-created: 2025-05-21
 tags:
   - sintlucas
+modified: 2026-05-25
+id: 01KQQV6TSR0GVBX7EH2SDDVJWK
+created: 2025-05-21
 ---
 
 # POP school

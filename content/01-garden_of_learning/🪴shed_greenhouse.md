@@ -1,15 +1,15 @@
 ---
+unlisted: false
 title: Shed Greenhouse Project
 tags:
   - green
   - research
 publish: true
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TR223AM608VN0GPEJ9Q
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project
-unlisted: true
 ---
 
 # Shed Greenhouse Project

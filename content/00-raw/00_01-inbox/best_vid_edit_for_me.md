@@ -1,13 +1,13 @@
 ---
+unlisted: true
 title: best video editors for me
-tags:
+tags: []
 publish: true
-modified: 2026-05-03
+modified: 2026-05-25
 id: 01KQQV6TWP6RPP1SKCQSJ9K8TJ
 created: 2026-03-24
 aliases:
   - best video editors for me
-unlisted: true
 ---
 
 # best video editors for me

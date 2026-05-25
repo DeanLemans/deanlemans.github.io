@@ -1,10 +1,10 @@
 ---
 title: "Portfolio-opdracht 1: Ik en mijn omgeving"
-modified: 2026-05-18
-id: 01KQQV6TS9M8B0A0DZ59AT8PAD
-created: 2025-11-14
 tags:
   - yuverta
+modified: 2026-05-25
+id: 01KQQV6TS9M8B0A0DZ59AT8PAD
+created: 2025-11-14
 ---
 
 > [!NOTE] Verwerk alle antwoorden in je profiel.

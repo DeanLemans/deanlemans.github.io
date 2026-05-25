@@ -2,7 +2,7 @@
 unlisted: true
 title: PKM structure ideas
 publish: true
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
@@ -53,11 +53,11 @@ so first off
 ---
 
 ## my method
+
 	(only for the 00-raw folder, the rest is site oriented and not PKM focused)
 
 pinboard for inbox/dump for articles, then filtered/high quality articles/references/snipits in the appropriate folder, high quality articles will go in the clippings folder.
 and quostes will go in the commonplacebook(same)
-
 
 - raw(folder hidden from public site.)
 	- clippings(external reference folder)
@@ -65,7 +65,6 @@ and quostes will go in the commonplacebook(same)
 	- knowledge?(for atomic/evergreen ideas)
 - projects(could make this ace or para)
 	- areas(same with this)
-
 
 learned things will go in the evergreen/references/atomic/zettel folder.(WIP)
 ---

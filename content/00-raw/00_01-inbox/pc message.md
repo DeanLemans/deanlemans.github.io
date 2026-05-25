@@ -1,8 +1,12 @@
 ---
+title: pc message
+modified: 2026-05-25
 id: 01KRRXA8JMGB2X52W9D0X511PJ
 created: 2026-05-16
-modified: 2026-05-16
 ---
+
+# pc message
+
 Deze Megaport Game PC inclusief Monitor is in goede staat en klaar voor gaming en andere taken. Hij is volledig getest en technisch in orde. Specificaties:
 
 - Processor: AMD Ryzen 7 5700X

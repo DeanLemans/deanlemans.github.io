@@ -4,12 +4,12 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-05-04
+modified: 2026-05-25
 id: 01KQQV6TR8FWNVR2CWDNEDF5MG
 created: 2026-03-12
 aliases:
-  - Creating Plant terrarium
   - create_plant_terrarium
+  - Creating Plant terrarium
 ---
 
 # Creating Plant terrarium

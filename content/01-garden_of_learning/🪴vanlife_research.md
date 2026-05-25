@@ -1,11 +1,11 @@
 ---
-unlisted: true
+unlisted: false
 title: "Dean's Vanlife Research"
 tags:
   - research
   - vanlilfe
 publish: true
-modified: 2026-05-19
+modified: 2026-05-25
 id: 01KQQV6TR1CV98PYDWNJD6RJPQ
 draft: "true"
 created: 2026-03-17
@@ -76,7 +76,7 @@ Instead of still officially living with my parents, should probb instead conside
 
 + Continue registering as living with your parents if it works, but prepare documentation (idk what though)
 
-+ Build an emergency fund
++ Build an emergency fund [🌰money_expensive_bank_investing](<./🌰money_expensive_bank_investing.md>)
 
 + Build a online presence (via this site, i still need to restructure this)
 

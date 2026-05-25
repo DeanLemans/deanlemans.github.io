@@ -1,10 +1,10 @@
 ---
 title: school presentation info
-modified: 2026-05-03
-id: 01KQQV6TS8PHH4HF86ZNG8S3V0
-created: 2026-05-03
 tags:
   - yuverta
+modified: 2026-05-25
+id: 01KQQV6TS8PHH4HF86ZNG8S3V0
+created: 2026-05-03
 ---
 
 # school presentation info

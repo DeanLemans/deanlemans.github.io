@@ -1,18 +1,20 @@
 ---
+unlisted: true
 title: Zettelkasten
-source: https://en.wikipedia.org/wiki/Zettelkasten
-author:
-  - Wikipedia
-published: 2020-05-31
-created: 2026-05-09
-description:
 tags:
   - clippings
+source: https://en.wikipedia.org/wiki/Zettelkasten
+published: 2020-05-31
 publish: true
-unlisted: true
+modified: 2026-05-25
 id: 01KR506AQEVNP1PFJA4RW6FE5E
+description:
+created: 2026-05-09
+author:
+  - Wikipedia
 ---
-> [!danger] NOT MINE  
+
+> [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!
 
 ---
@@ -144,7 +146,7 @@ Twentieth-century American comedians [Phyllis Diller](https://en.wikipedia.org/w
 
 [^18]: Müller-Wille, Staffan; Charmantier, Isabelle (March 2012). ["Natural history and information overload: The case of Linnaeus"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3878424). *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*. **43** (1): 4–15. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1016/j.shpsc.2011.10.021](https://doi.org/10.1016%2Fj.shpsc.2011.10.021). [PMC](https://en.wikipedia.org/wiki/PMC_\(identifier\) "PMC (identifier)") [3878424](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3878424). [PMID](https://en.wikipedia.org/wiki/PMID_\(identifier\) "PMID (identifier)") [22326068](https://pubmed.ncbi.nlm.nih.gov/22326068).
 
-[^19]: Paul, Jean (2013) \[1796\]. *Leben des Quintus Fixlein, aus funfzehn Zettelkästen gezogen. Nebst einem Mustheil und einigen Jus de tablette. Geschichte meiner Vorrede zur zweiten Auflage des Quintus Fixlein*. Werke: historisch-kritische Ausgabe (in German). Vol. VI, 1. Berlin: [de Gruyter](https://en.wikipedia.org/wiki/De_Gruyter "De Gruyter"). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1515/9783110303711](https://doi.org/10.1515%2F9783110303711). [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-3-484-10917-9](https://en.wikipedia.org/wiki/Special:BookSources/978-3-484-10917-9 "Special:BookSources/978-3-484-10917-9"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [881295864](https://search.worldcat.org/oclc/881295864).
+[^19]: Paul, Jean (2013) \[1796\]. *Leben des Quintus Fixlein, aus funfzehn Zettelkästen gezogen. Nebst einem Mustheil und einigen Just de tablette. Geschichte meiner Vorrede zur zweiten Auflage des Quintus Fixlein*. Werke: historisch-kritische Ausgabe (in German). Vol. VI, 1. Berlin: [de Gruyter](https://en.wikipedia.org/wiki/De_Gruyter "De Gruyter"). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1515/9783110303711](https://doi.org/10.1515%2F9783110303711). [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-3-484-10917-9](https://en.wikipedia.org/wiki/Special:BookSources/978-3-484-10917-9 "Special:BookSources/978-3-484-10917-9"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [881295864](https://search.worldcat.org/oclc/881295864).
 
 [^20]: Helbig, Daniela K. (17 April 2019). ["Ruminant machines: a twentieth-century episode in the material history of ideas"](https://jhiblog.org/2019/04/17/ruminant-machines-a-twentieth-century-episode-in-the-material-history-of-ideas/). *[Journal of the History of Ideas](https://en.wikipedia.org/wiki/Journal_of_the_History_of_Ideas "Journal of the History of Ideas") Blog*. Retrieved 8 June 2021.
 
@@ -172,7 +174,7 @@ Twentieth-century American comedians [Phyllis Diller](https://en.wikipedia.org/w
 
 [^32]: Shafer, Robert Jones; et al., eds. (1980) \[1969\]. ["Research Notes"](https://archive.org/details/guidetohistorica0000shaf/page/117). *A Guide to Historical Method*. The Dorsey Series in History (3rd ed.). Homewood, Ill.: Dorsey Press. pp. [117–126](https://archive.org/details/guidetohistorica0000shaf/page/117). [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-0-256-02313-8](https://en.wikipedia.org/wiki/Special:BookSources/978-0-256-02313-8 "Special:BookSources/978-0-256-02313-8"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [6400352](https://search.worldcat.org/oclc/6400352).
 
-[^33]: Heyde, Johannes Erich (1933). *Technik des wissenschaftlichen Arbeitens: eine Anleitung, besonders für Studierende* (in German) (4th ed.). Berlin: Junker und Dünnhaupt. [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [38252126](https://search.worldcat.org/oclc/38252126). For other editions, see: ["Heyde, Johannes Erich 1892–1979"](https://worldcat.org/identities/lccn-no97060626/). *WorldCat*. Retrieved 22 August 2022.
+[^33]: Heyde, Johannes Erich (1933). *Technique des wissenschaftlichen Arbeitens: eine Anleitung, besonders für Studierende* (in German) (4th ed.). Berlin: Junker und Dünnhaupt. [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [38252126](https://search.worldcat.org/oclc/38252126). For other editions, see: ["Heyde, Johannes Erich 1892–1979"](https://worldcat.org/identities/lccn-no97060626/). *WorldCat*. Retrieved 22 August 2022.
 
 [^34]: [Pomeroy, Earl](https://en.wikipedia.org/wiki/Earl_S._Pomeroy "Earl S. Pomeroy") (March 1953). "Frederic L. Paxson and His Approach to History". *[The Mississippi Valley Historical Review](https://en.wikipedia.org/wiki/The_Mississippi_Valley_Historical_Review "The Mississippi Valley Historical Review")*. **39** (4): 673–692. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.2307/1895394](https://doi.org/10.2307%2F1895394). [JSTOR](https://en.wikipedia.org/wiki/JSTOR_\(identifier\) "JSTOR (identifier)") [1895394](https://www.jstor.org/stable/1895394).
 
@@ -207,7 +209,7 @@ Twentieth-century American comedians [Phyllis Diller](https://en.wikipedia.org/w
 [^48]: - Luhmann, Niklas (1992). "Kommunikation mit Zettelkästen: Ein Erfahrungsbericht". In Kieserling, André (ed.). *Universität als Milieu. Kleine Schriften* (in German). Bielefeld: Haux. pp. 53–61. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-3-925471-13-1](https://en.wikipedia.org/wiki/Special:BookSources/978-3-925471-13-1 "Special:BookSources/978-3-925471-13-1"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [28139214](https://search.worldcat.org/oclc/28139214). Essay originally published 1981; translated in: ["Communicating with Slip Boxes by Niklas Luhmann"](https://luhmann.surge.sh/communicating-with-slip-boxes). *luhmann.surge.sh*. [Archived](https://web.archive.org/web/20160307152755/https://luhmann.surge.sh/communicating-with-slip-boxes) from the original on 2016-03-07. Retrieved 2020-05-31.
 - Cevolini, Alberto (October 2018). ["Where does Niklas Luhmann's card index come from?"](https://www.researchgate.net/publication/328624186). *Erudition and the Republic of Letters*. **3** (4): 390–420. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1163/24055069-00304002](https://doi.org/10.1163%2F24055069-00304002). [hdl](https://en.wikipedia.org/wiki/Hdl_\(identifier\) "Hdl (identifier)"):[11380/1165387](https://hdl.handle.net/11380%2F1165387). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [149942238](https://api.semanticscholar.org/CorpusID:149942238).
 
-[^49]: Gfrereis, Heike; Strittmatter, Ellen (2013). *Zettelkästen. Maschinen der Phantasie*. Marbacher Kataloge (in German). Vol. 66. Marbach am Neckar: Deutsche Schillerges. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-3-937384-83-2](https://en.wikipedia.org/wiki/Special:BookSources/978-3-937384-83-2 "Special:BookSources/978-3-937384-83-2"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [835530478](https://search.worldcat.org/oclc/835530478). Der Zettelkasten ist die leibgewordene und vordigitale Variante dieser Phantasiemaschine: Lesefrüchte und Schreibeinfälle werden hier gesammelt und einsortiert, vernetzt und verschachtelt und – durch Glücksaufschläge, Buchstaben- oder Zahlencodes – immer wieder in neue Zusammenhänge gebracht: -Es- denkt und schreibt.
+[^49]: Gfrereis, Heike; Strittmatter, Ellen (2013). *Zettelkästen. Maschinen der Phantasie*. Marbacher Kataloge (in German). Vol. 66. Marbach am Neckar: Deutsche Schillerges. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-3-937384-83-2](https://en.wikipedia.org/wiki/Special:BookSources/978-3-937384-83-2 "Special:BookSources/978-3-937384-83-2"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [835530478](https://search.worldcat.org/oclc/835530478). Der Zettelkasten ist die leibgewordene und vordigitale Variante dieser Phantasiemaschine: Lesefrüchte und Schreibeinfälle werden hier gesammelt und einsortiert, vernetzt und verschachtelt und – durch Glücksaufschläge, Buchstabenoder Zahlencodes – immer wieder in neue Zusammenhänge gebracht: -Esdenkt und schreibt.
 
 [^50]: [Grenville, Kate](https://en.wikipedia.org/wiki/Kate_Grenville "Kate Grenville") (1990). ["Sorting Through"](https://archive.org/details/writingbookworkb0000gren/page/18). *The Writing Book: A Workbook for Fiction Writers*. Sydney: [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin "Allen & Unwin"). p. [18](https://archive.org/details/writingbookworkb0000gren/page/18). [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-0-04-442124-5](https://en.wikipedia.org/wiki/Special:BookSources/978-0-04-442124-5 "Special:BookSources/978-0-04-442124-5"). [OCLC](https://en.wikipedia.org/wiki/OCLC_\(identifier\) "OCLC (identifier)") [655778675](https://search.worldcat.org/oclc/655778675).
 

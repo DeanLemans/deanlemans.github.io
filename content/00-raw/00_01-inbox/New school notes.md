@@ -1,9 +1,10 @@
 ---
 title: New school notes
-modified: 2026-05-18
+modified: 2026-05-25
 id: 01KQQV6TRTYCSS44Q8HCPKT1CN
 created: 2026-03-18
 ---
+
 [pastebin](<./pastebin.md>)
 
 # New school notes
@@ -48,13 +49,11 @@ vague plan long term;
 - learn practical aspects from glastuinbouw opleiding.
 - researcher/professor for plants/ecology(how though?)
 
-
 ## career stuff
 
 1. Teelt en techniek(glastuin bouw) BBL/BOL, horst en geldermalsen
 2. bos en natuur beheer: BBL/BOL, velp en roermond
 3. eco en wildlife: BOL geldermalsen en velp
 4. Toegepaste biologie: BOL, aalsmeer, tilburg, heerlen, velp
-
 
 a concern: if i turn my hobby of gardening into work, that i will not enjoy it anymore

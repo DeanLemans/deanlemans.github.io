@@ -1,8 +1,8 @@
 ---
-unlisted: true
+unlisted: false
 title: Game/General Design Document
 publish: true
-modified: 2026-05-10
+modified: 2026-05-25
 id: 01KQX7QGYDTFACK8WNQW02D506
 created: 2026-05-05
 ---
@@ -169,3 +169,4 @@ How to Avoid:
 **Other Mechanics:**
 
 *Write down any other cool mechanics you want to put into your game here. E.g., items you can use in the real world and the dream world, actual RPG battles, etc.*
+

@@ -2,11 +2,11 @@
 unlisted: true
 title: Fleeting
 publish: true
-modified: 2026-05-18
+modified: 2026-05-25
 id: 01KQQV6TSVVETVNAT89YK6WAA7
 description: i need to integrate this into my vault. sum random shit in here
 created: 2026-03-17
-aliases:
+aliases: []
 ---
 
 # Fleeting
@@ -107,7 +107,6 @@ indieweb bookclub
 hamster cms
 
 melons guide to homepage
-
 
 # pastebin\_phone
 

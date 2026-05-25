@@ -1,8 +1,8 @@
 ---
-unlisted: true
-title: TDD
+unlisted: false
+title: Technical Design Document
 publish: true
-modified: 2026-05-10
+modified: 2026-05-25
 id: 01KQX7QGYDTFACK8WNQW02D506
 created: 2026-05-05
 ---
