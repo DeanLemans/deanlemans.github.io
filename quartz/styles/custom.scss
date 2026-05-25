@@ -1,8 +1,23 @@
 //@use "./base.scss";
 @use "./variables.scss" as *;
-@use "themes";
+//@use "themes";
 // put your custom CSS here!
 
+@media all and (min-width: 1200px) {
+  .page > #quartz-body {
+    grid-template:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer"
+      / 320px;
+    margin-right: 2%;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    display: none;
+    width: 0px;
+  }
+}
 
 footer > p:first-of-type {
   display: none;
