@@ -16,8 +16,8 @@
     "bases-page": {
       "source": "github:quartz-community/bases-page",
       "resolved": "https://github.com/quartz-community/bases-page.git",
-      "commit": "6752fea28112966ffa3877e484fb89aad775db12",
-      "installedAt": "2026-05-24T19:05:53.117Z"
+      "commit": "077ebacd657a86bc92adc4ec392a238cacbfc298",
+      "installedAt": "2026-05-25T19:01:49.583Z"
     },
     "breadcrumbs": {
       "source": "github:quartz-community/breadcrumbs",
@@ -124,8 +124,8 @@
     "footer": {
       "source": "github:quartz-community/footer",
       "resolved": "https://github.com/quartz-community/footer.git",
-      "commit": "fd8b652e6e62050ad8e210f0795d2d5e71cea41b",
-      "installedAt": "2026-05-24T19:05:54.597Z"
+      "commit": "9e3f6d734d886eac0d41841c4dc8862b377fcaf4",
+      "installedAt": "2026-05-25T19:01:51.193Z"
     },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
