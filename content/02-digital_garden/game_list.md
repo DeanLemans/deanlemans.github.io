@@ -238,6 +238,7 @@ aliases:
 - [Constance](https://store.steampowered.com/app/2313700/Constance)
 - [.45 PARABELLUM BLOODHOUND](https://store.steampowered.com/app/3014650/45_PARABELLUM_BLOODHOUND__Cyberpunk_Active_Time_Action)
 - [NIGHTMARE OPERATOR](https://store.steampowered.com/app/2957360/NIGHTMARE_OPERATOR)
+- pixy garden ps1
 - [DOWNHILL](https://store.steampowered.com/app/3433000/DOWNHILL/)
 - [Plague Inc](https://www.nexusmods.com/games/plagueincevolved)
 - [Crowsworn](https://crowsworn.com)
