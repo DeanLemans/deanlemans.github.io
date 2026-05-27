@@ -1,7 +1,7 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-24
+modified: 2026-05-26
 id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
 created: 2026-03-17
 aliases:
@@ -12,6 +12,8 @@ aliases:
   - external_sites
 alias_sugestion: Cool Personal sites
 ---
+
+****
 
 # Cool Personal sites
 
@@ -74,8 +76,10 @@ alias_sugestion: Cool Personal sites
 - [Studio Idem](https://studio-idem.com/)
 - [Logan's Blog](https://lberrymage.dev/)
 - [Ray Peat](https://raypeat.com/)
+- [NYSCYRA](https://nyscyra.net/)
 - [Ignited In Dark – Against The Dominant Idea](https://ignitedindark.wordpress.com/)
 - [Unix Digest](https://unixdigest.com/)
+- [eyeorb](https://eyeorb.net/)
 - [Melanie Sumner](https://melsumner.github.io/)
 - [The Traveling Gardener](https://thetravelinggardener.com/)
 - [Notes](https://ruk.si/notes)

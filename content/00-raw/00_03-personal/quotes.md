@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-19
+modified: 2026-05-26
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -61,6 +61,14 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > I do have faith in you, **HATE**. I'm mostly teasing you to keep your mood up. You're unusually motivated by antagonism, even of the more friendly variety. But I do think that, if you set your mind to it, you'll master this in due time.
 
 > For thousands of years our relationship to this emotion has evolved, from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
+
+> Millions died thanks to these murderers. The sheer unrestrained madness of these XXX to slaughter life so easily.
+>
+> Life is not meant to be extinguished in this manner.
+>
+> Life is to struggle. To claw our way up the mountain that is progress.
+>
+> Progress, even if we start from the smallest and lowest of places, is exhilarating. Death was final. Death was the end of all means of progress. What is life if not to constantly make small, incremental changes?
 
 > "See, boy, the better ya understan' yerself, the kinder you are, usually. Kindness, as in, not compassion.
 > Compassion's no virtue, 's just blind acceptance. Be a trap, often. Excuse yer failings; 's good for babies and kids. Not for older ones, traps 'em with excuses.
