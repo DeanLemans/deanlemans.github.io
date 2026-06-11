@@ -230,8 +230,7 @@ plugins:
     options:
       links:
         Content License: https://creativecommons.org/licenses/by/4.0
-        Contact Links: https://linksta.cc/@Dean
-        Source Code: https://github.com/DeanLemans/deanlemans.github.io
+        Contact Me!: https://linksta.cc/@Dean
         Guest Book: https://theseeker.atabook.org/
         Analytics: https://cloud.umami.is/share/cQibaMjOX3vvklQG
         RSS: index.xml

@@ -1,7 +1,7 @@
 ---
 unlisted: true
 title: money_expensive_bank_investing
-modified: 2026-06-01
+modified: 2026-06-04
 id: 01KR50GG7DBYMQH38HJPD175NZ
 created: 2026-05-08
 ---
@@ -26,7 +26,6 @@ created: 2026-05-08
 	- methods?
 		- fire
 		- leanfire
-		- 401k
 
 - how to budget
 	- track my spending
@@ -43,3 +42,4 @@ money must move?
 [aarnphm| Expenses](https://aarnphm.xyz/thoughts/Expenses)
 [fire](https://www.reddit.com/r/Fire/)
 [Retoswap.](https://retoswap.com/)
+[FIRE Europe - Financial Independence Retire Early for Europeans](https://fireeurope.com/)
