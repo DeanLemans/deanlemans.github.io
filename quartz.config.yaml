@@ -202,6 +202,8 @@ plugins:
     layout:
       position: left
       priority: 10
+  - source: github:quartz-community/fonts
+    enabled: true
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
