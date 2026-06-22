@@ -3,7 +3,7 @@ unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-05-26
+modified: 2026-06-22
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -52,11 +52,15 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > Understand: we are all too afraid -- of offending people, of stirring up conflict, of standing out from the crowd, of taking bold action. For thousands of years our relationship to this emotion has evolved -- from a primitive fear of nature, to generalized anxiety about the future, to the fearful attitude that now dominates us. As rational, productive adults we are called upon to finally overcome this downward trend and to evolve beyond our fears.
 
+>I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
+
 > If you view everything through the lens of fear, then you tend to stay in retreat mode. You can just as easily see a crisis or problem as a challenge, an opportunity to prove your mettle, the chance to strengthen, toughen, and forge yourself.
 
 > "My greatest motivator? Laziness, the will to not have to do much in the future."
 
 > We need a new minority to pin things on. It's becoming increasingly difficult to blame trans people or the gays. I can't think of any new group to marginalize though. We have a few options, but none of them fit all of our criteria: 1. We need them to be relatively poor. 2. We can't have that group be associated with us politically already. 3. They need a distinct culture. 4. They can't be a group that's well integrated with our own community. 5. The less media representation they have, the better. We'll take care of first impressions. 6. If they have historical reasons for being disliked, then that would be a bonus. I'm thinking we can have the people in the south turn against the French? There's a small but strong French community around New Orleans that we could pin things on. But then the actual French are pretty strong, so it could blow back against us. Ideas?
+
+>here's meaning to be found in a stagnant life
 
 > I do have faith in you, **HATE**. I'm mostly teasing you to keep your mood up. You're unusually motivated by antagonism, even of the more friendly variety. But I do think that, if you set your mind to it, you'll master this in due time.
 
@@ -69,6 +73,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > Life is to struggle. To claw our way up the mountain that is progress.
 >
 > Progress, even if we start from the smallest and lowest of places, is exhilarating. Death was final. Death was the end of all means of progress. What is life if not to constantly make small, incremental changes?
+
+> You made me think of this quote: "If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - Antoine de Saint-Exupéry
 
 > "See, boy, the better ya understan' yerself, the kinder you are, usually. Kindness, as in, not compassion.
 > Compassion's no virtue, 's just blind acceptance. Be a trap, often. Excuse yer failings; 's good for babies and kids. Not for older ones, traps 'em with excuses.
@@ -100,6 +106,14 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > but his chainer's
 > they will be broken
 
+> Sloth: The Chairman (The Still One)
+Gluttony: The Devouring/Hollow One
+Envy: The Mirrored One
+Wrath: The Burning One
+Lust: whichever one comes with the perfume
+Greed: the one represented by gold
+Pride: The Crowned One
+
 > - Tenet, The First : There is no soul or anything resembling it. Man's consciousness is purely a function of the physical interactions between itsy bitsy thingumajigs in his brain. Women are of course beyond belief.
 > - Corollary, The First: If we are indeed entirely physical entities, every aspect of us is subject to the vagaries of the environment, and I don't mean the weather. Even our thoughts, decisions and ideas are a function of the physical state of the brain; which in turn depends on its previous state, and so on...ad infinitum.
 > Old Corollary always was a presumptuous kid.
@@ -120,10 +134,20 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > We sit silently and watch the world around us. This has taken a lifetime to learn. It seems only the old are able to sit next to one another and not say anything and still feel content. The young, brash and impatient, must always break the silence. It is a waste, for silence is pure.
 
+>Contact. Brief and dim, it was a startled awareness that merely brushed against Felix's Mind. He reeled. Strange and terrifying facets swirled through him, all encompassing and upending. Nothing made sense. The images clustered and broke apart, fractal patterns that split infinitely in every direction, emotions he had no name for, and images that bled through his thoughts like wounds. All of it thundered in his mind in that brief moment.
+
 > For the early Buddhists, karma was non-linear and complex. Other Indian schools believed that karma operated in a simple straight line, with actions from the past influencing the present, and present actions influencing the future. As a result, they saw little room for free will.
 > Buddhists, however, saw that karma acts in multiple feedback loops, with the present moment being shaped both by past and by present actions; present actions shape not only the future but also the present. Furthermore, present actions need not be determined by past actions. In other words, there is free will, although its range is somewhat dictated by the past.
 > The nature of this freedom is symbolized in an image used by the early Buddhists: flowing water. Sometimes the flow from the past is so strong that little can be done except to stand fast, but there are also times when the flow is gentle enough to be diverted in almost any direction.
 > So, instead of promoting resigned powerlessness, the early Buddhist notion of karma focused on the liberating potential of what the mind is doing with every moment. Who you are — what you come from — is not anywhere near as important as the mind's motives for what it is doing right now.
+
+> Step 1—Crawl inside the machine.
+> 
+> Step 2—The screws go tight all around.
+> 
+> Step 3—Cross my heart and hope to die.
+> 
+> Step 4—Stick a needle in your eye.
 
 > Can you dream of eternity?
 > Can you imagine it?
@@ -136,6 +160,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > You are waiting for the revolution? My own began a long time ago! When you will be ready (God, what an endless wait!) I won't mind going along with you for awhile. But when you stop, I shall continue on my insane and triumphal way toward the great and sublime conquest of the nothing!
 
 > "Through feeding on a single kola-fruit a day, my body reached a state of extreme emaciation. Because of eating so little my limbs became like the jointed segments of vine stems or bamboo stems. Because of eating so little my backside became like a camel's hoof. Because of eating so little the projections on my spine stood forth like corded beads. Because of eating so little my ribs jutted out as gaunt as the crazy rafters of an old roofless barn. Because of eating so little the gleam of my eyes sank far down in their sockets, looking like a gleam of water which has sunk far down in a deep well. Because of eating so little my scalp shrivelled and withered as a green bitter gourd shrivels and withers in the wind and sun. Because of eating so little my belly skin adhered to my backbone; thus if I touched my belly skin I encountered my backbone, and if I touched my backbone I encountered my belly skin. Because of eating so little, if I tried to ease my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell from my body as I rubbed."
+
+> we’re currently disbanding Gentoo Foundation in favor of SPI to reduce the risk of direct financial governance becoming a choke point.
 
 > THE VERY FIRST THING I REMEMBER IN MY EARLY CHILDHOOD IS A FLAME, A BLUE FLAME JUMPING OFF A GAS STOVE SOMEBODY LIT…. I WAS THREE YEARS OLD…. I FELT FEAR, REAL FEAR, FOR THE FIRST TIME IN MY LIFE. BUT I REMEMBER IT ALSO LIKE SOME KIND OF ADVENTURE, SOME KIND OF WEIRD JOY, TOO. I GUESS THAT EXPERIENCE TOOK ME SOMEPLACE IN MY HEAD I HADN'T BEEN BEFORE. TO SOME FRONTIER, THE EDGE, MAYBE, OF EVERYTHING POSSIBLE…THE FEAR I HAD WAS ALMOST LIKE AN INVITATION, A CHALLENGE TO GO FORWARD INTO SOMETHING I KNEW NOTHING ABOUT. THAT'S WHERE I THINK MY PERSONAL PHILOSOPHY OF LIFE…STARTED, WITH THAT MOMENT…. IN MY MIND I HAVE ALWAYS BELIEVED AND THOUGHT SINCE THEN THAT MY MOTION HAD TO BE FORWARD, AWAY FROM THE HEAT OF THAT FLAME.
 
@@ -330,6 +356,18 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 > - underlying system determines a large part of success.
 
 > If you must acknowledge my departure, here's how I want you to do it: Don't worry about the fucking internet. Eat, drink, be merry. Love your spouses. Play with your children. Run wild beneath the sun with your dogs. Let your cats curl up in your laps. Sing and dance skyclad beneath the moon and stars. Indulge in public fornication. Destroy your idols. Burn the churches down. Raze every prison to the ground. Smash the state. Seize the means of production. Shout at the Devil, curse God, and live free
+
+> The eye hummed. It was a sweet sound that Felix couldn’t stand. It thundered across the horizon like a whale call, slipping through him like a sharp, freezing gale. His Aspects resonated with it, turning every piece of Felix on edge as metal drawn against metal. He convulsed, tossed back onto his knees.
+> 
+> You Are Worthy.
+> 
+> The eye blinked and was gone.
+> 
+> You Have Completed A Hidden Quest!
+> 
+> Earn Etrionn’s Approval
+> 
+> The Great Beast of a distant land has approved of your judgment and has granted you Authority over its remains! Weep, for it was the last of its kind. Rejoice, for all things must end so others may start anew.
 
 ## References/Inspiration
 
