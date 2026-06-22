@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-digital_garden/personal_sites.md",
+                "file": "00-raw/00_03-personal/dreams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "personal_sites"
+              "title": "dreams"
             }
           }
         ],
@@ -131,6 +131,20 @@
           "icon": "lucide-ghost",
           "title": "search"
         }
+      },
+      {
+        "id": "3499de71d99621f2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -145,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02-digital_garden/personal_sites.md",
+            "file": "00-raw/00_03-personal/dreams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,11 +245,12 @@
   },
   "active": "64a1e67987c639ce",
   "lastOpenFiles": [
+    "00-raw/00_03-personal/quotes.md",
+    "02-digital_garden/personal_sites.md",
     "unifarm_research_stage.md",
     "00-raw/00_01-inbox/leerbedrijf_glastuinbouw.md",
     "folder-map.md",
     "colophon.md",
-    "02-digital_garden/personal_sites.md",
     "00-raw/00_01-dump_fleeting/leerbedrijf_glastuinbouw.md",
     "00-raw/00_01-dump_fleeting/pc message.md",
     "00-raw/00_01-dump_fleeting/Plants.md",
@@ -256,7 +271,6 @@
     "00-raw/dump/yuverta/classes.md",
     "00-raw/phone/New school notes.md",
     "00-raw/phone/Plants.md",
-    "00-raw/phone/Think about my future education.md",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",
     "static_files/Pasted image 20260506003027.png",
