@@ -1,6 +1,6 @@
 ---
 title: Book of the Dead
-modified: 2026-06-03
+modified: 2026-06-22
 id: 01KT7CE83VYCPMZ3SN77YGAS2F
 created: 2026-06-03
 ---
@@ -11,3 +11,4 @@ created: 2026-06-03
 - opa henny
 - oma greet
 - lauwere 514
+- frind mushroom lauwere

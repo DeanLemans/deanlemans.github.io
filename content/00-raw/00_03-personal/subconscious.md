@@ -4,7 +4,7 @@ title: Subconsious
 tags:
   - dreamy
 publish: false
-modified: 2026-05-18
+modified: 2026-06-22
 id: 01KQQV6TRD03S3M5TXVZVK7Z9M
 enableToc: false
 description: this does not exist
@@ -28,6 +28,28 @@ created: 2024-07-17
 > Reason: not professional, personal and controversial
 > Content of this page is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+# 2026-06-23
+
+i am so so bored, no, im so fucking dissatisfied of the world, reality.
+oh woo me, i hate it, i can barely take it, this this this, energy? hate? emotion? needs to get out. i cant take it
+how i see endless worlds through my screen, through my eyes, i see endless possibilities in stories in games, stories, books, novels, tv,
+AND IM SCOOPED UP WITH THIS SHIT?>?>
+WHY WHY WHY,
+just why.
+how to change how to change it.
+how to murder reality, how to tear it all apart, how to control it, how to improve it, how to fix it.
+how to be? how how how how how?
+money, how to create? trade, create smth and sell it. how? dropshipping? service? scamming? selling products?
+through death, through money, through hate, with me, with hate, with want.
+want and want and want and more and and AND AND IT JUST ISNT FUCKING THERE>
+JUST WHERE IT IS??
+oh woo, tear the sky aprt
+oh woe rip the world apart
+oh WANT AND HATE, see reality torn asunder
+hurry, i cant take it.
+
+---
+
 you are ego
 ego must not be in the way of (personal) progresion
 it is beneficial if the ego is pragmatic
@@ -44,6 +66,13 @@ see it
 dream it want it
 that flane, that burned so bright
 im scared, so i musf
+
+---
+
+words, words words words, so empty arenth they? mascerading truth, or at the veryleast a shitty translation of **feeling, emotion, knowledge, information and more**
+sad isn't it? written down, talking, recording.
+the main fuckign way, and its this? how sad.
+so what is the solution? i dont know, brain to brain contact
 
 ---
 
@@ -79,7 +108,7 @@ Ego that grows as a crown of thorns in response to imidiate stress/adversity
 
 ---
 
-2025-12-05
+# 2025-12-05
 
 The self, multitudes, or an shift. Clothes, the self are clothes, behavior, 'masks' if you will. What will happen when it is shed? When i become 'naked'? My true self? Is the self singular?
 What is self? Ouroboros
@@ -90,7 +119,7 @@ Can i shed infenetly? Would i be infinite.
 
 It used to mean something, that great thing, now i just chase the horizon
 
-2025-12-02
+# 2025-12-02
 
 The city is starving, the tides are here
 We hunger we remain. We come
@@ -110,7 +139,7 @@ Gnawing, motivating possessing obsession craving DESIRE
 Despair and desire
 Adversity breeds strength, pain forges.
 
-2025-12-01
+# 2025-12-01
 
 Let us rage, till there is nothing left
 Rage, rage against the end
@@ -124,7 +153,7 @@ But i will drain you with a mask a niceity, like a parasite.
 You think your better then me? I copy and absorbe your knowledge, improve and refine it, and not credit it. Why would i. It is mine, what is mine is mine is mine.
 So great and tall, i will subsume you.
 
-2025-11-19
+# 2025-11-19
 
 Last 2 days i sat on my ass and didn't do shit, lied to them for examams, unfortunate timing and stress and expectations
 
@@ -138,7 +167,7 @@ Thing to thing, not not head to knies.
 
 ---
 
-11-18-2025
+# 11-18-2025
 
 Be
 I want to be?
