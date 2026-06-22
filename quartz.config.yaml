@@ -256,13 +256,11 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - id
-        - tags
-        - aliases
         - description
-        - tags
         - created
         - modified
+        - id
+        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
