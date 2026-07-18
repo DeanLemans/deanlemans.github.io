@@ -88,7 +88,7 @@ root of my 00-raw/hidden folder is my inbox folder, but what about the dump fold
 
 ## inspiration
 
-- [“Better note-taking” misses the point; what matters is “better thinking”](<../00_00-archive/external/“Better note-taking” misses the point; what matters is “better thinking”.md>)
+- [“Better note-taking” misses the point; what matters is “better thinking”](<../00_00-archive/“Better note-taking” misses the point; what matters is “better thinking”.md>)
 - [Evergreen notes](<../00_00-archive/external/Evergreen notes.md>)
 - [Ideas for my note-taking workflow ¶](<../00_00-archive/external/Ideas for my note-taking workflow ¶.md>)
 - [My Zettelkasten workflow from start to finish](<../00_00-archive/external/My Zettelkasten workflow from start to finish.md>)

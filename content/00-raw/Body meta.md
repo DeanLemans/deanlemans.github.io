@@ -10,7 +10,7 @@ created: 2026-07-07
 
 > note for linking to everything related to body
 
-[No poo/hair qualitt](<../01-garden_of_learning/🌱improving_quality_off_hair.md>)
+[No poo/hair qualitt](<../02-digital_garden/01-garden_of_learning/🌱improving_quality_off_hair.md>)
 
 [[Wetshaving]]
 
@@ -20,7 +20,7 @@ created: 2026-07-07
 
 [[Longlivity]]
 
-[sleep_optimization](<../01-garden_of_learning/🌿improving_my_sleep.md>)
+[sleep_optimization](<../02-digital_garden/01-garden_of_learning/🌿improving_my_sleep.md>)
 
 # see also
 

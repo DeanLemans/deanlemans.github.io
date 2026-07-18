@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: picture_walk
+title: picture walk
 publish: true
 modified: 2026-07-18
 id: 01KQQV6TSRXZ64RJEJH519AV0G

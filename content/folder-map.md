@@ -1,3 +1,12 @@
+---
+title: folder-map
+modified: 2026-07-18
+id: 01KXVCJWSRDQTZTBVW5CARRCB6
+created: 2026-07-18
+---
+
+# folder-map
+
 .
 ├── 00-raw
 │   ├── 00_00-archive
@@ -8,7 +17,7 @@
 │   │   │   ├── A Declaration of the Independence of Cyberspace.md
 │   │   │   ├── Alternative Shells.md
 │   │   │   ├── A system to organise your life.md
-│   │   │   ├── “Better note-taking” misses the point; what matters is “better thinking”.md
+│   │   │   ├── "Better note-taking" misses the point; what matters is "better thinking".md
 │   │   │   ├── Building a Second Brain The Definitive Introductory Guide.md
 │   │   │   ├── Building software to last forever.md
 │   │   │   ├── Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It.md
@@ -20,7 +29,7 @@
 │   │   │   ├── Everything you always wanted to know about DACs (but were afraid to ask).md
 │   │   │   ├── Evil Overlord List.md
 │   │   │   ├── Follow-up This is my 4yo vault, AMA.md
-│   │   │   ├── Git Subtree Alternative to Git Submodule  Atlassian Git Tutorial.md
+│   │   │   ├── Git Subtree Alternative to Git Submodule Atlassian Git Tutorial.md
 │   │   │   ├── How to Make Yourself Into a Learning Machine.md
 │   │   │   ├── Ideas for my note-taking workflow ¶.md
 │   │   │   ├── index.md
@@ -29,7 +38,7 @@
 │   │   │   ├── Keep a Changelog.md
 │   │   │   ├── Lazygit Turns 5 Musings on Git, TUIs, and Open Source.md
 │   │   │   ├── Make your own website.md
-│   │   │   ├── Mossariums’ How To Guide.md
+│   │   │   ├── Mossariums' How To Guide.md
 │   │   │   ├── My Zettelkasten workflow from start to finish.md
 │   │   │   ├── noKYC Only.md
 │   │   │   ├── Note Taking & Obsidian.md
@@ -47,7 +56,7 @@
 │   │   │   ├── The Difference Between Good and Bad Tags • Zettelkasten Method.md
 │   │   │   ├── The power of now notes.md
 │   │   │   ├── The proper design process in web development.md
-│   │   │   ├── The psychology of “second brains” curious about your real struggles - rObsidianMD.md
+│   │   │   ├── The psychology of "second brains" curious about your real struggles - rObsidianMD.md
 │   │   │   ├── The Second Brain Delusion Why PKM Systems Don't Work.md
 │   │   │   ├── The toxic schooling system.md
 │   │   │   ├── The Universal Genre Savvy Guide.md
@@ -56,7 +65,7 @@
 │   │   │   ├── This Page is Designed to Last A Manifesto for Preserving Content on the Web.md
 │   │   │   ├── This time it's personal.md
 │   │   │   ├── We Need To Rewild The Internet.md
-│   │   │   ├── What Is To Be Done  CJ The X.md
+│   │   │   ├── What Is To Be Done CJ The X.md
 │   │   │   ├── when i die.md
 │   │   │   ├── Zettelkasten.md
 │   │   │   └── zine - personal websites and the law.md
@@ -160,7 +169,7 @@
 │   ├── personal_sites.md
 │   └── web_resources.md
 ├── 03-blog
-│   ├── Guide for future blog i havnt even written yet.md
+│   ├── Guide for future blog i haven't even written yet.md
 │   ├── hello_world.md
 │   └── index.md.md
 ├── static_files

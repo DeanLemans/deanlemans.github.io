@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: This time it's personal
+title: "This time it's personal"
 tags:
   - clippings
 source: https://sadgrl.online/posts/its-personal/

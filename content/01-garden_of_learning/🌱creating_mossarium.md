@@ -1,11 +1,11 @@
 ---
 title: creating_mossarium
+tags:
+  - _excluded
 publish: true
 modified: 2026-07-18
 id: 01KRZXBETR095GBH6TPBVJRBR1
 created: 2026-05-19
-tags:
-  - _excluded
 ---
 
 # creating\_mossarium

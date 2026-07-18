@@ -134,6 +134,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 - NDA
 
 ---
+
 it type shi bru
 
 <https://remoteok.com/>
@@ -147,4 +148,4 @@ it type shi bru
 <https://devitjobs.nl/en>
 <https://arc.dev/en-nl/remote-jobs>
 <https://www.tech-careers.nl/>
-<https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands
+<<https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands>

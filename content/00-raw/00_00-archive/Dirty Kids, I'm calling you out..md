@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: Dirty Kids, I'm calling you out
+title: "Dirty Kids, I'm calling you out"
 tags:
   - clippings
 source: https://www.reddit.com/r/vagabond/comments/au6tu2/dirty_kids_im_calling_you_out/
