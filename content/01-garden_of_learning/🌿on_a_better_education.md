@@ -18,7 +18,7 @@ aliases:
 
 ## Introduction
 
-It has already been proven that the current school systems are dogshit [The toxic schooling system](<../00-raw/00_00-clippings/The toxic schooling system.md>)
+It has already been proven that the current school systems are dogshit [The toxic schooling system](<../00-raw/00_00-archive/external/The toxic schooling system.md>)
 
 So i will try to seek/find/create what a better education system is
 

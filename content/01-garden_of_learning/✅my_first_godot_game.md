@@ -1,11 +1,11 @@
 ---
-unlisted: true
+unlisted: false
 title: My First Godot Game
 tags:
   - finished
   - gamedev
 publish: true
-modified: 2026-05-04
+modified: 2026-07-18
 id: 01KQQV6TSV7CA97NVMGRMST1XA
 description: first game made in godot
 created: 2025-09-25

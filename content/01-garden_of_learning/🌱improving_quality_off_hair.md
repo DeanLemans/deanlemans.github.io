@@ -1,10 +1,11 @@
 ---
-unlisted: true
+unlisted: false
 title: hair stuff
 tags:
+  - _excluded
   - research
 publish: true
-modified: 2026-05-04
+modified: 2026-07-18
 id: 01KQQV6TS6969VS9ER7EFR3JV6
 created: 2026-04-30
 ---

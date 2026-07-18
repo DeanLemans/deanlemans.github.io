@@ -1,6 +1,7 @@
 ---
 title: Plants
-modified: 2026-07-17
+publish: true
+modified: 2026-07-18
 id: 01KQQV6TRSS6CVQ3YDVNSJV5P2
 created: 2026-03-18
 ---

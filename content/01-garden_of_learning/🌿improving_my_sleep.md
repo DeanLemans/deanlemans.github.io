@@ -4,7 +4,7 @@ title: Sleep Optimization
 tags:
   - research
 publish: true
-modified: 2026-05-25
+modified: 2026-07-18
 id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 created: 2026-03-21
 aliases:
@@ -22,13 +22,13 @@ so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that ho
 
 ---
 
-### priority 1
+**priority 1**
 
 - light
 - temperature
 - timing/consistent sleep schedule
 
-### priority 2
+**priority 2**
 
 - screen usage
 - sound (noise control, white noise)
@@ -37,7 +37,7 @@ so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that ho
 - quality of mattress
 - ergonomics
 
-### priority 3
+**priority 3**
 
 - quality of cushion
 - quality of blanket
@@ -46,3 +46,5 @@ so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that ho
 - meditation
 - earthing/grounding
 - dream journal
+
+### implementation

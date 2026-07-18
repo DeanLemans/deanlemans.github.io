@@ -26,4 +26,4 @@ aliases: []
 
 [listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
-[about nownownow.com](<./00-raw/00_00-clippings/about nownownow.com.md>)
+[about nownownow.com](<./00-raw/00_00-archive/external/about nownownow.com.md>)

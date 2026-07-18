@@ -1,10 +1,10 @@
 ---
-unlisted: true
+unlisted: false
 title: imrpove browser experience
 tags:
   - research
 publish: true
-modified: 2026-05-10
+modified: 2026-07-18
 id: 01KQQV6TS6CVQ6ER2YD9YTBB63
 created: 2026-04-30
 ---

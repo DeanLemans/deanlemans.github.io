@@ -1,19 +1,19 @@
 ---
-unlisted: true
-title: money_expensive_bank_investing
-modified: 2026-07-05
+unlisted: false
+title: money expensive bank investing
+publish: true
+modified: 2026-07-18
 id: 01KR50GG7DBYMQH38HJPD175NZ
 created: 2026-05-08
 ---
 
-# money\_expensive\_bank\_investing
+# money expensive bank investing
 
 ### what?
 
 - trade
 	- dropshipping
 	- selling shit (that i can reasonably do?)
-		- weed
 		- plants[Shed Greenhouse Project](<./🪴shed_greenhouse.md>)
 		- games
 		- crafts and such
@@ -33,8 +33,8 @@ created: 2026-05-08
 
 ### principles?
 
-[emergency fund](<../00-raw/00_02-zettel/emergency fund.md>)
-[Building a emergency fund](<../00-raw/00_02-zettel/Building a emergency fund.md>)
+[emergency fund](<../00-raw/00_01-zettel/emergency fund.md>)
+[Building a emergency fund](<../00-raw/00_01-zettel/Building a emergency fund.md>)
 
 dont let money stay still.
 money must move?

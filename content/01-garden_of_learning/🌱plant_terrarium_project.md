@@ -1,10 +1,11 @@
 ---
 title: Creating Plant terrarium
 tags:
+  - _excluded
   - green
   - research
 publish: true
-modified: 2026-05-25
+modified: 2026-07-18
 id: 01KQQV6TR8FWNVR2CWDNEDF5MG
 created: 2026-03-12
 aliases:
@@ -24,7 +25,7 @@ springtails
 
 ## mix for terrarium substrate
 
-[general_substrate_mix](<../00-raw/00_02-zettel/general_substrate_mix.md>)
+[general_substrate_mix](<../00-raw/00_01-zettel/general_substrate_mix.md>)
 
 layers
 1. 1 rocks
