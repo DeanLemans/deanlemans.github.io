@@ -2,7 +2,6 @@
 unlisted: false
 title: Evil Overlord List
 tags:
-  - clippings
 source: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList
 publish: true
 modified: 2026-07-18

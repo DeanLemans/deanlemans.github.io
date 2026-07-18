@@ -2,7 +2,6 @@
 unlisted: false
 title: Sigils and occult symbols
 tags:
-  - clippings
 source: https://ritualdust.com/folklore/sigils/
 published:
 publish: true

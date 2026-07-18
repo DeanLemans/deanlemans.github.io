@@ -2,7 +2,6 @@
 unlisted: false
 title: About This Website
 tags:
-  - clippings
 source: https://gwern.net/about#confidence-tags
 published:
 publish: "true"

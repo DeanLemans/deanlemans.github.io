@@ -2,7 +2,6 @@
 unlisted: false
 title: This is Not My Side Hustle ⁂ starbreaker.org
 tags:
-  - clippings
 source: https://starbreaker.org/grimoire/entries/not-my-side-hustle/
 publish: true
 modified: 2026-07-18

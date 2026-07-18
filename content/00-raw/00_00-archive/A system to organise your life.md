@@ -2,7 +2,6 @@
 unlisted: false
 title: A system to organise your life
 tags:
-  - clippings
 source: https://johnnydecimal.com/
 publish: true
 modified: 2026-07-18

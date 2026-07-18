@@ -2,7 +2,6 @@
 unlisted: false
 title: "Building a Second Brain: The Definitive Introductory Guide"
 tags:
-  - clippings
 source: https://fortelabs.com/blog/basboverview/
 published: 2023-05-01
 publish: true

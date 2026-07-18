@@ -2,7 +2,6 @@
 unlisted: false
 title: A Declaration of the Independence of Cyberspace
 tags:
-  - clippings
 source: https://www.eff.org/cyberspace-independence
 publish: true
 modified: 2026-07-18

@@ -2,7 +2,6 @@
 unlisted: false
 title: delightful off-grid open tech
 tags:
-  - clippings
 source: https://delightful.coding.social/delightful-off-grid-open-tech/
 published:
 publish: true

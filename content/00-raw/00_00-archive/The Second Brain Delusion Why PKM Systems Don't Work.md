@@ -2,7 +2,6 @@
 unlisted: false
 title: "The Second Brain Delusion: Why PKM Systems Don't Work"
 tags:
-  - clippings
 source: https://turbulencegains.com/second-brain/
 publish: true
 modified: 2026-07-18

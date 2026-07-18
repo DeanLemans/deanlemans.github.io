@@ -2,7 +2,6 @@
 unlisted: false
 title: Keep a Changelog
 tags:
-  - clippings
 source: https://keepachangelog.com/en/1.1.0/
 publish: true
 modified: 2026-07-18

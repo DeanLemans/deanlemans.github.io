@@ -2,7 +2,6 @@
 unlisted: false
 title: How to Make Yourself Into a Learning Machine
 tags:
-  - clippings
 source: https://superorganizers.substack.com/p/how-to-build-a-learning-machine###
 published: 2022-09-17
 publish: true

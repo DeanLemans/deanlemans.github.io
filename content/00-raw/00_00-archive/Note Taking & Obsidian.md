@@ -2,7 +2,6 @@
 unlisted: false
 title: Note Taking & Obsidian
 tags:
-  - clippings
 source: https://andresestrella.vercel.app/brain/20-areas/26-productivity/note-taking-and-obsidian/
 published:
 publish: true

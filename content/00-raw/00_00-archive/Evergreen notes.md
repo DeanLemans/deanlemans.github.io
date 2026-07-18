@@ -2,7 +2,6 @@
 unlisted: false
 title: Evergreen notes
 tags:
-  - clippings
 source: https://notes.andymatuschak.org/Evergreen_notes
 modified: 2026-07-18
 id: 01KQQV6TVPZ2Z4DB8SAPP80P0F

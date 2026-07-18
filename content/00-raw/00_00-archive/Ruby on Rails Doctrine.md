@@ -2,7 +2,6 @@
 unlisted: false
 title: The Rails Doctrine
 tags:
-  - clippings
 source: https://web.archive.org/web/20160325124504if_/http://rubyonrails.org/doctrine/
 publish: true
 modified: 2026-07-18

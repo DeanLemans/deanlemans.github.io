@@ -2,7 +2,6 @@
 unlisted: "false"
 title: 'Follow-up: "This is my 4yo vault, AMA'
 tags:
-  - clippings
 source: https://www.reddit.com/r/ObsidianMD/comments/1ugk4ph/followup_this_is_my_4yo_vault_ama/
 published: 2026-06-26
 publish: "true"

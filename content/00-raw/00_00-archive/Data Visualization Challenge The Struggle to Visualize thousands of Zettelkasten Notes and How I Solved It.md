@@ -2,7 +2,6 @@
 unlisted: false
 title: Data Visualization Challenge The Struggle to Visualize thousands of Zettelkasten Notes and How I Solved It
 tags:
-  - clippings
 source: https://wasi0013.com/2025/09/22/data-visualization-challenge-the-struggle-to-visualize-thousands-of-zettelkasten-notes-and-how-i-solved-it/
 publish: true
 modified: 2026-07-18

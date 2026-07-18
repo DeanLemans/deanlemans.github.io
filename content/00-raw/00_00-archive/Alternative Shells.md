@@ -2,7 +2,6 @@
 unlisted: false
 title: Alternative Shells
 tags:
-  - clippings
 source: https://purarue.xyz/x/notes/programming/languages/shell/alternative_shells/
 published:
 publish: true

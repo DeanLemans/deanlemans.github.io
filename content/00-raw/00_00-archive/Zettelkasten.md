@@ -2,7 +2,6 @@
 unlisted: false
 title: Zettelkasten
 tags:
-  - clippings
 source: https://idiomdrottning.org/zettelkasten
 published:
 publish: true

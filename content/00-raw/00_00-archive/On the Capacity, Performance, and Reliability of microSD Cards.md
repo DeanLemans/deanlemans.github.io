@@ -2,7 +2,6 @@
 unlisted: false
 title: On the Capacity, Performance, and Reliability of microSD Cards
 tags:
-  - clippings
 source: https://www.bahjeez.com/the-great-microsd-card-survey/
 publish: true
 modified: 2026-07-18

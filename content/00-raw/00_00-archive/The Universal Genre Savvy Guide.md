@@ -2,7 +2,6 @@
 unlisted: false
 title: The Universal Genre Savvy Guide
 tags:
-  - clippings
 source: https://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TheUniversalGenreSavvyGuide
 published: 2012-04-18
 publish: true

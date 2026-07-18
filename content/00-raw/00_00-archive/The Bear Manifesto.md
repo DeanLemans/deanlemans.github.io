@@ -2,7 +2,6 @@
 unlisted: false
 title: The Bear Manifesto
 tags:
-  - clippings
 source: https://herman.bearblog.dev/manifesto/
 publish: true
 modified: 2026-07-18

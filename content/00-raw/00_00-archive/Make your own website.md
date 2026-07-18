@@ -2,7 +2,6 @@
 unlisted: false
 title: Make your own website
 tags:
-  - clippings
 source: https://jsrn.net/make-your-own-website
 publish: true
 modified: 2026-07-18

@@ -1,8 +1,7 @@
 ---
 unlisted: false
-title: "Mossariums' How To Guide"
+title: Mossariums' How To Guide
 tags:
-  - clippings
 source: https://www.reddit.com/r/Mossariums/comments/s0yjcu/mossariums_how_to_guide/
 published: 2022-01-11
 publish: true

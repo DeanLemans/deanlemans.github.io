@@ -2,7 +2,6 @@
 unlisted: false
 title: We Need To Rewild The Internet
 tags:
-  - clippings
 source: https://www.noemamag.com/we-need-to-rewild-the-internet/
 published: 2024-04-16
 publish: true

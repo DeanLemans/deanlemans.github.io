@@ -2,7 +2,6 @@
 unlisted: false
 title: My Zettelkasten workflow from start to finish
 tags:
-  - clippings
 source: https://wilde-at-heart.garden/pages/my-zettelkasten-workflow-from-start-to-finish/
 published: 2022-07-16
 publish: true

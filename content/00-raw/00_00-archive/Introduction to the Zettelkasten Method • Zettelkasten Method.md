@@ -2,7 +2,6 @@
 unlisted: false
 title: Introduction to the Zettelkasten Method • Zettelkasten Method
 tags:
-  - clippings
 source: https://zettelkasten.de/introduction/
 published: 2020-10-27
 publish: true

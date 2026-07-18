@@ -2,7 +2,6 @@
 unlisted: false
 title: The power of now notes
 tags:
-  - clippings
 source: https://andresestrella.vercel.app/brain/30-resources/32-books/the-power-of-now-notes/
 published:
 publish: true

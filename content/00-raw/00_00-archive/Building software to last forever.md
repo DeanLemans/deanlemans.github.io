@@ -2,7 +2,6 @@
 unlisted: false
 title: Building software to last forever
 tags:
-  - clippings
 source: https://herman.bearblog.dev/building-software-to-last-forever/
 publish: true
 modified: 2026-07-18

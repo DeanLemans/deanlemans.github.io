@@ -2,7 +2,6 @@
 unlisted: false
 title: "Git Subtree: Alternative to Git Submodule | Atlassian Git Tutorial"
 tags:
-  - clippings
 source: https://www.atlassian.com/git/tutorials/git-subtree
 publish: true
 modified: 2026-07-18

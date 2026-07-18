@@ -2,7 +2,6 @@
 unlisted: false
 title: testament ⁂ starbreaker.org
 tags:
-  - clippings
 source: https://starbreaker.org/testament/index.html
 published: 2020-05-29
 publish: true

@@ -2,7 +2,6 @@
 unlisted: false
 title: John Carmack on Idea Generation
 tags:
-  - clippings
 source: https://amasad.me/carmack
 published:
 publish: true

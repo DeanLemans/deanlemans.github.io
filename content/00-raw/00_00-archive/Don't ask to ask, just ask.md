@@ -1,8 +1,7 @@
 ---
 unlisted: false
-title: "Don't ask to ask, just ask"
+title: Don't ask to ask, just ask
 tags:
-  - clippings
 source: https://dontasktoask.com/
 publish: true
 modified: 2026-07-18

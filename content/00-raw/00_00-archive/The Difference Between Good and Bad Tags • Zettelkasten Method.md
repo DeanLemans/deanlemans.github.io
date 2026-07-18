@@ -2,7 +2,6 @@
 unlisted: false
 title: The Difference Between Good and Bad Tags • Zettelkasten Method
 tags:
-  - clippings
 source: https://zettelkasten.de/posts/object-tags-vs-topic-tags/
 published: 2018-09-24
 publish: true

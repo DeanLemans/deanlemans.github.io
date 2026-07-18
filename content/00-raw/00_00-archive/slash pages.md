@@ -2,7 +2,6 @@
 unlisted: false
 title: Slash Pages
 tags:
-  - clippings
 source: https://slashpages.net/
 publish: true
 modified: 2026-07-18

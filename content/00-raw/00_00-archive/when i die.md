@@ -2,7 +2,6 @@
 unlisted: false
 title: when i die
 tags:
-  - clippings
 source: https://avas.bearblog.dev/when-i-die/
 published: 2024-12-09
 modified: 2026-07-18
