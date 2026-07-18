@@ -5,7 +5,7 @@ id: 01KQQV6TRTYCSS44Q8HCPKT1CN
 created: 2026-03-18
 ---
 
-[pastebin](<./pastebin.md>)
+[pastebin](<../../00_03-personal/pastebin.md>)
 
 # New school notes
 

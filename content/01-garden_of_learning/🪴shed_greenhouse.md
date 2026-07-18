@@ -5,7 +5,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-05-25
+modified: 2026-06-22
 id: 01KQQV6TR223AM608VN0GPEJ9Q
 created: 2026-03-15
 aliases:
@@ -72,20 +72,20 @@ I live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-ha
 
 ## progress
 
-# 2026-04-15
+# 1
 
 finnaly got the led lights i wanted, (need to paste link here)
 
-# 2026-04-06
+# 1
 
 had a very nice talk with a coworker of mine that is and was(?) really into growing specific rare plants, and such he knows how to build a terrarium, i was apparently researching in the wrong way with the thing im building now, i was researching greenhouses and reverse engineering then when i should have looked at the paledarium side of thiings, knowing how to build and and knowing what techniques go in there
 
-# 2026-04-02
+# 1
 
 finnaly bought timed switches that turn on at 08:00 and turn off at 20:00.
 the lamps are still to weak so i need to buy better ones
 
-### 2026-03-15
+### 2026-04-15
 
 finally cleaned up the shed, i can now use it for projects, i have decided on building 2 climate-greenhouses(buying one is like 1000 euro, i aint got that money)
 i brainstormed a general plan.
@@ -93,7 +93,7 @@ i need to buy some things
 
 ---
 
-### 2026-03-16
+### 2026-04-16
 
 <img src="../static_files/IMG_20260315_235646_937.jpg" width="500">
 
@@ -103,7 +103,7 @@ tomorrow im going to Intratuin.
 
 ---
 
-### 2026-03-17
+### 2026-04-17
 
 <img src="../static_files/IMG_20260317_232205_257.jpg" width="300">
 <img src="../static_files/IMG_20260317_232154_349.jpg" width="500">

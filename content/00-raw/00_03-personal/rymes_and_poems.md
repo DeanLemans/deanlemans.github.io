@@ -3,7 +3,7 @@ unlisted: true
 title: Rymes and Poems
 tags: []
 publish: true
-modified: 2026-05-14
+modified: 2026-07-13
 id: 01KQQV6TRG2JCRYD00FNE4MJ79
 draft: "true"
 created: 2026-02-02
@@ -285,3 +285,12 @@ that divine foe
 that divine tyrant
 oh praise the breaker divine
 tyrant of peace
+
+---
+# purity
+
+like a grinding axe, sandpaper, like a metal filter
+
+emotions are pushed down and distiled there, until either they fade or only the core remains
+
+the core is safer for usage then the original target, expect if it was already aimed at a benifcial goals

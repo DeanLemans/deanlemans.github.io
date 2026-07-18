@@ -14,6 +14,6 @@ created: 2026-05-19
 	- drainage layer
 	- separator(mesh)
 	- charcoal
-	- [main substrate layer](<../00-raw/00_02-knowledge/general_substrate_mix.md>)
+	- [main substrate layer](<../00-raw/00_02-zettel/general_substrate_mix.md>)
 	- hardscape
 	- softscape

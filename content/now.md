@@ -1,7 +1,7 @@
 ---
 title: /now
 publish: true
-modified: 2026-05-03
+modified: 2026-07-17
 id: 01KQQV6TQ3TK7QG0G1759NQZDR
 created: 2026-03-17
 aliases: []
@@ -26,4 +26,4 @@ aliases: []
 
 [listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
-[What is a now page?](https://nownownow.com/about)
+[about nownownow.com](<./00-raw/00_00-clippings/about nownownow.com.md>)

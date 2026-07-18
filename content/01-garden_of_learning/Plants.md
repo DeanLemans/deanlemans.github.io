@@ -1,13 +1,13 @@
 ---
 title: Plants
-modified: 2026-05-04
+modified: 2026-07-17
 id: 01KQQV6TRSS6CVQ3YDVNSJV5P2
 created: 2026-03-18
 ---
 
 # Plants
 
-[🪴shed_greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
+[🪴shed_greenhouse](<./🪴shed_greenhouse.md>)
  lights
  heat mat
 humidifier

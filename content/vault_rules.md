@@ -2,7 +2,7 @@
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-05-11
+modified: 2026-07-17
 id: 01KQQV6TPBSF4Y4E9A2TMC94XT
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
@@ -23,6 +23,9 @@ aliases:
 
 > this vault is written as a legacy of mine(?),
 > therefore it should be future proof.
+
+
+# to integrate
 
 ---
 
@@ -79,7 +82,7 @@ aliases:
 
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/00_02-knowledge/backup_rule.md>)
+- follow the [backup_rule](<./00-raw/00_02-zettel/backup_rule.md>)
 
 ---
 

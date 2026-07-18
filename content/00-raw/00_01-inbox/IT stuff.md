@@ -4,7 +4,7 @@ title: IT ondernemings plan
 tags:
   - research
 publish: false
-modified: 2026-05-04
+modified: 2026-07-07
 id: 01KQQV6TWR33FATQZE504ND60T
 created: 2026-03-17
 aliases:
@@ -132,3 +132,19 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 - BTW-nummer
 - (GDPR)
 - NDA
+
+---
+it type shi bru
+
+<https://remoteok.com/>
+<https://nluug.nl/>
+<https://weworkremotely.com/>
+<https://www.upwork.com/>
+<https://www.toptal.com/>
+<https://striive.com/en>
+<https://builtin.com/jobs/remote/eu/netherlands>
+<https://englishjobsearch.nl/jobs/freelance>
+<https://devitjobs.nl/en>
+<https://arc.dev/en-nl/remote-jobs>
+<https://www.tech-careers.nl/>
+<https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands

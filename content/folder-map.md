@@ -1,6 +1,6 @@
 ---
 title: folder-map
-modified: 2026-05-25
+modified: 2026-07-05
 id: 01KSG8AZR3KF9FGSACSZFQWHSS
 created: 2026-05-25
 ---
@@ -174,7 +174,6 @@ created: 2026-05-25
 │   ├── hello_world.md
 │   └── index.md.md
 ├── static_files
-│   ├── personal
 │   │   ├── avatar-2-CV.jpg
 │   │   ├── avatar-2-focus.jpg
 │   │   ├── avatar-2-header.jpg
@@ -188,88 +187,6 @@ created: 2026-05-25
 │   │   └── default.md
 │   ├── 2016-General-Reference-Filing-.pdf
 │   ├── bali10.jpg
-│   ├── bali11.jpg
-│   ├── bali12.jpg
-│   ├── bali13.jpg
-│   ├── bali14.jpg
-│   ├── bali1.jpeg
-│   ├── bali2.jpg
-│   ├── bali3.jpg
-│   ├── bali4.jpg
-│   ├── bali5.jpg
-│   ├── bali6.jpg
-│   ├── bali7.jpg
-│   ├── bali8.jpg
-│   ├── bali9.jpg
-│   ├── bounce script.png
-│   ├── CV-DeanLemans-old1.pdf
-│   ├── CV-DeanLemans.pdf
-│   ├── dream jam final character.png
-│   ├── first-godot-game.png
-│   ├── GHOST-IN-THE-CITY.jpg
-│   ├── github release.png
-│   ├── godot CI.png
-│   ├── godot-git-plugin.png
-│   ├── IMG_20251114_142822_694.jpg
-│   ├── IMG_20251114_143023_609.jpg
-│   ├── IMG_20251121_142428_940.jpg
-│   ├── IMG_20251121_142806_592.jpg
-│   ├── IMG_20251121_144226_134.jpg
-│   ├── IMG_20260315_235646_937.jpg
-│   ├── IMG_20260317_232154_349.jpg
-│   ├── IMG_20260317_232205_257.jpg
-│   ├── mouse follow script.png
-│   ├── Pasted image 20260506003003.png
-│   ├── Pasted image 20260506003014.png
-│   ├── Pasted image 20260506003027.png
-│   ├── Pasted image 20260506003425.png
-│   ├── Pasted image 20260506003447.png
-│   ├── Pasted image 20260506014027.png
-│   ├── Pasted image 20260506014310.png
-│   ├── Pasted image 20260506014350.png
-│   ├── Pasted image 20260506014512.png
-│   ├── Pasted image 20260506014540.png
-│   ├── Pasted image 20260506014604.png
-│   ├── Pasted image 20260506014700.png
-│   ├── Pasted image 20260506014742.png
-│   ├── Pasted image 20260506014803.png
-│   ├── Pasted image 20260506015021.png
-│   ├── Pasted image 20260506015039.png
-│   ├── Pasted image 20260506015123.png
-│   ├── Pasted image 20260506023934.png
-│   ├── Pasted image 20260506151531.png
-│   ├── Pasted image 20260506152249.png
-│   ├── Pasted image 20260506153106.png
-│   ├── Pasted image 20260506154245.png
-│   ├── Pasted image 20260506154313.png
-│   ├── Pasted image 20260506154355.png
-│   ├── Pasted image 20260506155945.png
-│   ├── Pasted image 20260506161524.png
-│   ├── Pasted image 20260506162300.png
-│   ├── Pasted image 20260506162624.png
-│   ├── Pasted image 20260506162826.png
-│   ├── Pasted image 20260506180820.png
-│   ├── Pasted image 20260506183702.png
-│   ├── Pasted image 20260506185021.png
-│   ├── Pasted image 20260506190424.png
-│   ├── Pasted image 20260506190504.png
-│   ├── Pasted image 20260506204621.png
-│   ├── Pasted image 20260506205439.png
-│   ├── Pasted image 20260507001939.png
-│   ├── Pasted image 20260507002818.png
-│   ├── Pasted image 20260507005118.png
-│   ├── Pasted image 20260510014449.png
-│   ├── Pasted image 20260510014530.png
-│   ├── Pasted image 20260510020049.png
-│   ├── Pasted image 20260524000813.png
-│   ├── pinboard_export.2026.05.19_09.46.html
-│   ├── Point-and-click-adventure.png
-│   ├── REND.jpg
-│   ├── roxy1.jpg
-│   ├── roxy2.jpg
-│   ├── roxy3.jpg
-│   ├── roxy4.jpg
-│   ├── software verdieping onderzoek.pdf
 │   └── why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg
 ├── colophon.md
 ├── folder-map.md

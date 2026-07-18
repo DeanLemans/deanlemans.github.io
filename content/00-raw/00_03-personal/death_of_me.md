@@ -3,7 +3,7 @@ unlisted: true
 title: Death of Me
 tags: []
 publish: true
-modified: 2026-05-19
+modified: 2026-07-07
 id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?
 created: 2026-04-29
@@ -55,6 +55,16 @@ bit of a ramble but that's my advise for those who came by this piece (hopefully
 ### so what the fuck is your advise then?
 
 idk, go figure out your own answer
+
+# technical
+
+Site exist entirely in .md files should be highly portable, currently use quartz v5 as my static site generator. But that can change in the future
+
+Hostes on multiple free domains? As said above. Also every domain is updated per commit via CI.
+(Need to make ci more portable)
+
+If trying to preserve/archive this site, preserve the Markdown first. (In the /content folder of the sourcecode for the site)
+
 
 #### references/inspiration
 

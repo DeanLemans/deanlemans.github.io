@@ -7,7 +7,7 @@ id: 01KQQV6TSRXZ64RJEJH519AV0G
 created: 2026-05-03
 ---
 
-# picture\_walk
+# picture walk
 
 A reading technique that involves skimming the chapter you are planning on reading to reach an partly understanding of it.
 It improves the efficiency of understanding the book

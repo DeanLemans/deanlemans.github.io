@@ -2,7 +2,7 @@
 unlisted: true
 title: PKM structure ideas
 publish: true
-modified: 2026-05-25
+modified: 2026-07-17
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
@@ -18,8 +18,8 @@ so first off
 
 ## definening definitions
 
-- evergreen
-
+- "refined" notes
+- 
 - atomic notes
 
 - second brain
@@ -60,13 +60,18 @@ pinboard for inbox/dump for articles, then filtered/high quality articles/refere
 and quostes will go in the commonplacebook(same)
 
 - raw(folder hidden from public site.)
-	- clippings(external reference folder)
+	- clippings(mostly has copied pages i found interesting., via obsidian web clipper. (Need to change name))
 	- dump/fleeting(the inbox)
 	- knowledge?(for atomic/evergreen ideas)
 - projects(could make this ace or para)
 	- areas(same with this)
 
 learned things will go in the evergreen/references/atomic/zettel folder.(WIP)
+
+workflow for note taking and thinking and capturing? 
+
+most small thoughts go into the inbox folder. some thoughts kinda group together so I have meta folders or notes for them.
+
 ---
 
 this needs to be for like general structure, so what does vault rules serve?
@@ -79,6 +84,8 @@ map of content(MOC), are my index folders!, how did i never realised that?
 root of my 00-raw/hidden folder is my inbox folder, but what about the dump folder
 
 [vault_rules](<../vault_rules.md>)
+
+
 
 ---
 

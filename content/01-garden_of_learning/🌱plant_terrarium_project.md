@@ -24,7 +24,7 @@ springtails
 
 ## mix for terrarium substrate
 
-[general_substrate_mix](<../00-raw/00_02-knowledge/general_substrate_mix.md>)
+[general_substrate_mix](<../00-raw/00_02-zettel/general_substrate_mix.md>)
 
 layers
 1. 1 rocks

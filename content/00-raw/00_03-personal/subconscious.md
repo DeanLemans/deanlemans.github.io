@@ -244,7 +244,7 @@ lies on lies on lies,
 didn't have energy to go to school today because of the stupid fucking work, im already searching for a new company.
 i love gardening, but do i love everything green? no, i need to find the specifics [now](<../../now.md>)
 
-so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<../00_01-inbox/trajectory.md>) for it. capture it.
+so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<./trajectory.md>) for it. capture it.
 
 im currently trying to integrate a [planner](https://github.com/ivan-lednev/obsidian-day-planner) and [tasker](https://github.com/obsidian-tasks-group/obsidian-tasks) into my vault.(i also hope somebody is going to integrate the dataview plugin into quartz)
 

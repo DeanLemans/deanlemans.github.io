@@ -2,7 +2,7 @@
 unlisted: true
 title: manifesto for power?
 publish: true
-modified: 2026-05-19
+modified: 2026-07-08
 id: 01KQQV6TS2HH55JZ8WY8KD9JWE
 draft: "true"
 description: No Gods, No Masters, No Idols
@@ -10,28 +10,21 @@ created: 2024-05-09
 aliases: []
 ---
 
-# manifesto for power?
+# a manifesto for power
 
 > [!NOTE] A note to those that read this. (TLDR; FUCK OFF)
-> this page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this. this is the driving force behind my actions.
+> this page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this. this is the driving framework of what i want to become.
 > its too offensive to some so i will most likely never show this to people.
 
 > [!NOTE] to be integrated into document
 > that divine tyrant, that divine voyeur, i spit on you.
+> karma doesnt exist.
 > trust fully in your own cause, use that of others to your own benefit.
 > change/improvement is not a destination, it is a direction/a way of being/living.
 > do onto others, before they do onto you?(dont be that saint to afraid to offend people).
 >
-> Eruditas, the pursuit of knowledge and intellectual clarity. knowledge isn't static, its the process of constantly refining and learning more.
-> Vitalis, the balance of physical health and strength.(overcome)
-> Dominatus, the quiet strength of superiority through understatement and strategic restraint
->
-> Memento Mori, remember that you can Die.
-> (why not must?)
-> Memento Vivere, remember that you can Live.
->
+> 
 > growth, to be more, in mind spirit, tactics, soul, social, body
-> copy the great, steal their ideas the spirit of it. and make it yours
 > to influence the world the way i want (while remaining anonymous, with a mask carved in lies and deception),
 to change myself,
 to not have to change myself to match social expectation
@@ -56,10 +49,17 @@ to not have to change myself to match social expectation
 - philosophy focused on individuality, pragmatism, actions have consequences(and can be diverted), that life has no meaning and that you must create/find it yourself, the pursuit of knowledge, wisdom, (hidden?) power, and resilience in the face of adversity.
 - power;
 	to influence the world the way i want (while remaining anonymous, with a mask carved in lies and deception), to change myself, to not have to change myself to match social expectation
+
+- Eruditas, the pursuit of knowledge and intellectual clarity. knowledge isn't static, its the process of constantly refining and learning more.
+ - Vitalis, the balance of physical health and strength.(overcome)
+ - Dominatus, the quiet strength of superiority through understatement and strategic restraint
+
 - embrace paradox, accept that multiple things are true, that i can change opinions. woe too those who deem me a hypocrite then. woe to those that are mad that im not a fucking saint.
 - reflection/confrontation/testing;
 	to have other people, to let them test it, ask them to point out what is weak, what can be improved and what they disagree is?
 - family/friends anchor my ego so that it doesn't become a crown of thorns, so that i dont float on my ego to the sky and fall to pieces when it gets attacked?
+- Memento Mori, remember that you can Die. Memento Vivere, remember that you can Live.
+- copy the great, steal their ideas the spirit of it. and make it yours
 
 ## IV. Motivation / Goals
 
@@ -96,6 +96,7 @@ to not have to change myself to match social expectation
 - the ego must master the self,
 - the self must master the ego,
 - ego must tame itself in order to become more
+- *the ego must overcome itself*
 
 ---
 

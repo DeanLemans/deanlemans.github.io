@@ -2,7 +2,7 @@
 unlisted: true
 title: Fleeting
 publish: true
-modified: 2026-05-25
+modified: 2026-07-17
 id: 01KQQV6TSVVETVNAT89YK6WAA7
 description: i need to integrate this into my vault. sum random shit in here
 created: 2026-03-17
@@ -287,5 +287,19 @@ Beside her, Yin lit up like the morning sun as he too shook with the sweet, dupl
 ---
 
 A lot like Stormild, her elemental nature shone through, making her innately more childish and flighty than a normal beast. This isn't to say she wasn't as smart as other monsters; it just meant that becoming more "mature" wasn't a prioritized development goal.
+
+---
+I'm thoroughly memory safety pilled
+
+A lot of people using Zig and interacting with the Zig community seem to become engineering pilled. That's a way more potent pill.
+
+---
+For Godotwind, the project compresses textures as much as possible, uses Atlases, deduplicates material and uses a few tricks like that, but it can't replace a proper texture streaming pipeline.
+
+---
+The lion had spent its entire life training to fight against men, but it was not prepared for the fungi and parasite that attached itself to its flesh. But living beings had antibodies and defense mechanisms, and unlike them, the Leviathan’s body wobbled.
+
+---
+No ai affirmation
 
 ---
