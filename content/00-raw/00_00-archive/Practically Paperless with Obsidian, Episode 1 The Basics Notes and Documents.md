@@ -5,7 +5,7 @@ tags:
 source: https://jamierubin.net/2021/10/05/practically-paperless-with-obsidian-episode-1-the-basics-notes-and-documents/
 published: 2021-10-05
 publish: true
-modified: 2026-07-18
+modified: 2026-07-20
 id: 01KRXRQK3ETHVAFZBMP327CGHX
 description: "Photo by Pixabay on Pexels.com Welcome to my blog series, “Practically Paperless with Obsidian.” Foran overview of this series, please see Episode 0: Series Overview. Nearly 10 years ag…"
 created: 2026-05-18
@@ -51,7 +51,7 @@ Obsidian uses the concept of a "vault" to store notes. A vault is nothing more t
 
 Note-linking is a key reason why I love Obsidian and I'll have a lot more to say on it in Episodes 17 and 19. For now, note links are simply links to other notes in your vault. In the example above, the "\[\[202109220957 Natural Questions\]\] on the "source" line is an example of a note link. Clicking on the link takes you to that note.
 
-Just like in Evernote, notes can have tags. Obsidian uses the hashtag format for tags. In the example above, you can see two tags: #discovery and #favorite. One difference between tags in Obsidian and Evernote is you can refer to tags anywhere in a note in Obsidian. And because Obsidian's search capabilities are very granular, that means that sections or even lines of a note can appear in search results, making tags quite powerful. I'll have more to say about tagging in Episodes 7-10.
+Just like in Evernote, notes can have tags. Obsidian uses the hashtag format for tags. In the example above, you can see two tags: `#discovery` and `#favorite`. One difference between tags in Obsidian and Evernote is you can refer to tags anywhere in a note in Obsidian. And because Obsidian's search capabilities are very granular, that means that sections or even lines of a note can appear in search results, making tags quite powerful. I'll have more to say about tagging in Episodes 7-10.
 
 Notes, then, are containers for information you want to capture. They are the basic unit of storage in Obsidian. You can create notes quickly with a hot key and start typing. Obsidian saves as you type so you don't have to worry about remembering to click a Save button.
 

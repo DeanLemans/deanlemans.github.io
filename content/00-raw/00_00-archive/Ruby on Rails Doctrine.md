@@ -4,7 +4,7 @@ title: The Rails Doctrine
 tags:
 source: https://web.archive.org/web/20160325124504if_/http://rubyonrails.org/doctrine/
 publish: true
-modified: 2026-07-18
+modified: 2026-07-20
 id: 01KQQV6TV3TWG8VDJ4GN7DP8PS
 description:
 created: 2025-11-15
@@ -84,7 +84,7 @@ But creating something like Ruby or Rails is at least at its outset a deeply nar
 
 Like Matz, I at times went to silly lengths to serve my principle. One example is the Inflector, a class that understands just enough of the patterns and irregularities of the English language to map a Person class to a People table, Analysis to Analyses, and simply Comment to Comments. This behavior is now accepted as an unquestioned element of Rails, but the fires of controversy raged with great intensity in the early days when we were still coalescing the doctrine and its importance.
 
-Another example that required less implementation effort, but triggered almost as much consternation: Array#second through #fifth (and #forty\_two for good trolling measure). These alias accessors were deeply offensive to a very vocal constituency who decried the bloat (and near end of civilization, for good measure) of something that could as well be written as Array#\[1\], Array#\[2\] (and Array\[41\]).
+Another example that required less implementation effort, but triggered almost as much consternation: Array#second through `#fifth` (and `#forty`\_two for good trolling measure). These alias accessors were deeply offensive to a very vocal constituency who decried the bloat (and near end of civilization, for good measure) of something that could as well be written as Array#\[1\], Array#\[2\] (and Array\[41\]).
 
 But both decisions still, to this day, make me smile. I relish getting to write people.third in a test case or the console. No, that's not logical. It's not efficient. It may even be pathological. But it continues to make me smile, thus fulfilling the principle and enriching my life, helping to justify my continued involvement with Rails after 12 years of service.
 
@@ -195,7 +195,7 @@ class CreateAccounts < ActiveRecord::Migration
     end
 ```
 
-This is the essence of framework power. The programmer declares a class according to certain convention, like a ActiveRecord::Migration subclass that implements #change, and the framework can do all the plumbing that goes around that, and know this is the method to call.
+This is the essence of framework power. The programmer declares a class according to certain convention, like a ActiveRecord::Migration subclass that implements `#change`, and the framework can do all the plumbing that goes around that, and know this is the method to call.
 
 This leaves the programmer with very little code to write. In the case of migrations, not only will this allow a call to rails db:migrate to upgrade the database to add this new table, it'll also allow it to go the other way of dropping this table with another call. This is very different from a programmer making all this happen and stitching the workflow together from libraries they call themselves.
 

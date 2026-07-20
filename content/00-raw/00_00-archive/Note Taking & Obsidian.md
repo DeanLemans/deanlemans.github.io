@@ -5,7 +5,7 @@ tags:
 source: https://andresestrella.vercel.app/brain/20-areas/26-productivity/note-taking-and-obsidian/
 published:
 publish: true
-modified: 2026-07-18
+modified: 2026-07-20
 id: 01KR6MJZB26TFXBJQ9YSBFPNFT
 description:
 created: 2026-05-09
@@ -92,11 +92,11 @@ try only placing a note in a folder only when it is linked correctly to other no
 - 🌿Ferns: decently fleshed out and connected but could use some more work
 - 🌲Evergreen: fleshed out and deeply connected notes, foundational knowledge.
 - 🗺Map of Content (MOC): summary notes that link many interrelated and connected notes
-- for tasks Zsolt uses this 3 tags: #waitingFor, #discussWith and #promisedTo
-- #person a person
-- #series/recommendation series recommendation
-- #🎨 excalidra drawing
-- #person/chat conversation I had with someone
+- for tasks Zsolt uses this 3 tags: `#waitingFor`, `#discussWith` and `#promisedTo`
+- `#person` a person
+- `#series/recommendation` series recommendation
+- `#🎨` excalidra drawing
+- `#person/chat` conversation I had with someone
 
 when was the note created and/or last updated.
 

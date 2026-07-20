@@ -4,7 +4,7 @@ title: "The Second Brain Delusion: Why PKM Systems Don't Work"
 tags:
 source: https://turbulencegains.com/second-brain/
 publish: true
-modified: 2026-07-18
+modified: 2026-07-20
 id: 01KQQV6TTXZPMP27B9JW89S2WJ
 description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
 created: 2025-10-05
@@ -63,7 +63,7 @@ By outsourcing memory to a passive, static vault, I wasn't enhancing my memory; 
 
 **Confirmation Bias in Linking:** Even when I made links manually, I wasn't immune. I realized I was preferentially connecting ideas that already agreed with each other, building an echo chamber of my own preconceptions. My network wasn't challenging my thinking, it was reinforcing it. A true thinking tool would surface disconfirming evidence, but my system was designed by me, for me, and was subject to all my blind spots.
 
-**Cognitive Load & Maintenance Overhead:** The system, designed to reduce cognitive load, became its primary source. The "maintenance cliff" is real. The first 100 notes are fun. The next 500 are a nightmare. I'd create a tag called " **#psychology/cognitive-bias,**" only to later decide " **#cognition/bias** " was a better structure. I'd spend entire sessions "refactoring" my vaultretagging, relinking, reorganizinginstead of engaging with new ideas. The tool meant to free my mind had become its most demanding taskmaster.
+**Cognitive Load & Maintenance Overhead:** The system, designed to reduce cognitive load, became its primary source. The "maintenance cliff" is real. The first 100 notes are fun. The next 500 are a nightmare. I'd create a tag called `**#psychology/cognitive-bias,**` only to later decide `**#cognition/bias**` was a better structure. I'd spend entire sessions "refactoring" my vaultretagging, relinking, reorganizinginstead of engaging with new ideas. The tool meant to free my mind had become its most demanding taskmaster.
 
 ## The Turning Point: From Archive to Logbook
 
