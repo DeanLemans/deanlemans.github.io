@@ -110,7 +110,7 @@ plugins:
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/unlisted-pages
-    enabled: true
+    enabled: false
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
@@ -173,7 +173,7 @@ plugins:
         linkDistance: 30
         removeTags:
           - exclude-explorer
-        showTags: true
+        showTags: false
         focusOnHover: true
         enableRadial: true
     layout:
