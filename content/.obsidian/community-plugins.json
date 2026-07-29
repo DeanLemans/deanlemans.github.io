@@ -14,5 +14,8 @@
   "obsidian-auto-link-title",
   "advanced-canvas",
   "guid-front-matter",
-  "notebook-navigator"
+  "notebook-navigator",
+  "breadcrumbs",
+  "ninja-cursor",
+  "remember-cursor-position"
 ]

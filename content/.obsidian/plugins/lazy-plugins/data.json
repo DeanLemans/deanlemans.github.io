@@ -107,6 +107,12 @@
       },
       "reverysky-map": {
         "startupType": "disabled"
+      },
+      "remember-cursor-position": {
+        "startupType": "instant"
+      },
+      "ninja-cursor": {
+        "startupType": "instant"
       }
     }
   }
