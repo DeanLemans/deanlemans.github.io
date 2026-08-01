@@ -46,7 +46,7 @@ That means that those who are not very good at something tend to be overly confi
 
 ---
 
-have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness. [PKM_structure_ideas](<./PKM_structure_ideas.md>)
+have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness. [my_PKM](<./my_PKM.md>)
 
 ---
 
@@ -151,7 +151,7 @@ The last element in his file system was an index, from which he would refer to o
 ---
 
 if I were forced to boil it down to a single bullet point, it would be this: We need a reliable and simple external structure to think in that compensates for the limitations of our brains.
-> hmm, I had I feeling that my current notes system is a mess and insufficient, I was working on that[PKM_structure_ideas](<./PKM_structure_ideas.md>)
+> hmm, I had I feeling that my current notes system is a mess and insufficient, I was working on that[my_PKM](<./my_PKM.md>)
 
 ---
 
@@ -210,7 +210,7 @@ The whole workflow becomes complicated: There is the technique of underlining im
 ---
 
 Few of these techniques are particularly complicated in themselves, but they are usually used without any regard to the actual workflow, which then quickly becomes a mess. As nothing really fits together, working within this arrangement becomes extremely complicated indeed and difficult to get anything done. And if you stumble upon one idea and think that it might connect to another idea, what do you do when you employ all these different techniques? Go through all your books to find the right underlined sentence? Reread all your journals and excerpts? And what do you do then? Write an excerpt about it? Where do you save it and how does this help to make new connections? Every little step suddenly turns into its own project without bringing the whole much further forward. Adding another promising technique to it, then, would make things only worse.
-> and this is my fundamental problem. see [PKM_structure_ideas](<./PKM_structure_ideas.md>) for more details, but the gist is that this vault is a blog, PKM, jiurnal, digital garden etc.
+> and this is my fundamental problem. see [my_PKM](<./my_PKM.md>) for more details, but the gist is that this vault is a blog, PKM, jiurnal, digital garden etc.
 
 That is why the slip-box is not introduced as another technique, but as a crucial element in an overarching workflow that is stripped of everything that could distract from what is important. Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking. The slip-box provides an external scaffold to think in and helps with those tasks our brains are not very good at, most of all objective storage of information.
 > this is what I was searching for, a (meta?) system to supplant my current one.

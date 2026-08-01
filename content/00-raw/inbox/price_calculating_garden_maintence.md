@@ -5,7 +5,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-07-18
+modified: 2026-07-29
 id: 01KQQV6TRKM0ZKTFQRZBN191NR
 created: 2026-03-04
 aliases:
@@ -28,3 +28,11 @@ maby have a scoring list that changes the price?
 	- how much experience i have in that garden
 	- how many tools i need to use
 	- if i accedentaly breaks smth(mowed wrong, ugly cut)
+
+---
+
+2026-07-29
+
+12.50 per hour
+if i have van increase price to 15 per hour
+per leafblower/ large equipment. ask 2.50 extra?

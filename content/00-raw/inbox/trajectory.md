@@ -2,7 +2,7 @@
 unlisted: false
 title: Trajectory
 publish: true
-modified: 2026-07-18
+modified: 2026-07-29
 id: 01KQQV6TSJHA419K75PVNHXRDV
 created: 2025-07-25
 aliases:
@@ -13,7 +13,8 @@ aliases:
 
 - [ ] implement the other plans i made in bali [things_i_learned_in_bali](<./things_i_learned_in_bali.md>)
 - [ ] need to rework ts bc i changed educations
-> [!NOTE]Alternative titles
+
+> [!NOTE] Alternative titles
 > - Future
 > - plans
 > - horizon

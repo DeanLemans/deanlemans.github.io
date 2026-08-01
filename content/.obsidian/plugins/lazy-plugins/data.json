@@ -113,6 +113,9 @@
       },
       "ninja-cursor": {
         "startupType": "instant"
+      },
+      "breadcrumbs": {
+        "startupType": "disabled"
       }
     }
   }

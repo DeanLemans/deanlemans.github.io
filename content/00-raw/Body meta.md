@@ -25,5 +25,5 @@ created: 2026-07-07
 # see also
 
 - [death_of_me](<./death_of_me.md>)
-- [PKM_structure_ideas](<./inbox/PKM_structure_ideas.md>)
+- [my_PKM](<./inbox/my_PKM.md>)
 - [[commonplacebook]]

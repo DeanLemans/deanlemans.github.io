@@ -9,7 +9,7 @@ created: 2026-07-13
 # a lifesycle of notes
 
 [How to Take Smart Notes. Notes](<../inbox/How to Take Smart Notes. Notes.md>)
-[PKM_structure_ideas](<../inbox/PKM_structure_ideas.md>)
+[my_PKM](<../inbox/my_PKM.md>)
 pkm community has a lot of conflicting terminology. I will try to include all for the relevant context.
 
 for book note taking it (in the most optimal condition) like this:

@@ -4,7 +4,7 @@ title: IT ondernemings plan
 tags:
   - research
 publish: true
-modified: 2026-07-18
+modified: 2026-07-29
 id: 01KQQV6TWR33FATQZE504ND60T
 created: 2026-03-17
 aliases:
@@ -148,4 +148,4 @@ it type shi bru
 <https://devitjobs.nl/en>
 <https://arc.dev/en-nl/remote-jobs>
 <https://www.tech-careers.nl/>
-<<https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands>
+<https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands>
