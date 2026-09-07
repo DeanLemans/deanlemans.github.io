@@ -54,14 +54,6 @@ plugins:
         - git
         - filesystem
     order: 10
-  - source: github:quartz-community/syntax-highlighting
-    enabled: true
-    options:
-      theme:
-        light: github-light
-        dark: github-dark
-      keepBackground: true
-    order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
@@ -270,6 +262,16 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/syntax-highlighting
+    enabled: false
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+      clipboard: true
+      tokenClassification: true
+    order: 20
 layout:
   groups:
     toolbar:
