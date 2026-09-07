@@ -6,9 +6,7 @@ publish: true
 modified: 2026-09-07
 id: 01KQQV6TS3NP9DSXB4FYR5WGME
 created: 2026-04-11
-aliases:
-  - 00 HIdden
-  - 00 Raw
+aliases: []
 ---
 
 # School folder
