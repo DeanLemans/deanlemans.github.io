@@ -46,7 +46,7 @@
         "startupType": "instant"
       },
       "pdf-plus": {
-        "startupType": "disabled"
+        "startupType": "instant"
       },
       "settings-search": {
         "startupType": "instant"
@@ -97,7 +97,7 @@
         "startupType": "instant"
       },
       "obsidian-reminder-plugin": {
-        "startupType": "disabled"
+        "startupType": "instant"
       },
       "smart-connections": {
         "startupType": "disabled"
@@ -115,7 +115,10 @@
         "startupType": "instant"
       },
       "breadcrumbs": {
-        "startupType": "disabled"
+        "startupType": "instant"
+      },
+      "advanced-rename-and-delete-handler": {
+        "startupType": "instant"
       }
     }
   }

@@ -12,9 +12,12 @@
   "nldates-obsidian",
   "obsidian42-strange-new-worlds",
   "obsidian-auto-link-title",
-  "advanced-canvas",
   "guid-front-matter",
   "notebook-navigator",
   "ninja-cursor",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "advanced-rename-and-delete-handler",
+  "breadcrumbs",
+  "obsidian-reminder-plugin",
+  "pdf-plus"
 ]

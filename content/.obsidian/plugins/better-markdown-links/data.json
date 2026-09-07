@@ -4,9 +4,10 @@
     "/.+\\.tldraw\\.md$/"
   ],
   "includePaths": [],
+  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
   "linkConversionMode": "OnEveryModification",
+  "proposedShouldHandleRenames": null,
   "shouldAllowEmptyEmbedAlias": true,
-  "shouldAutomaticallyUpdateLinksOnRenameOrMove": true,
   "shouldIncludeAttachmentExtensionToEmbedAlias": true,
   "shouldNormalizeFileLinks": true,
   "shouldPreserveExistingLinkStyle": false,
