@@ -1,5 +1,5 @@
 ---
-unlisted: true
+unlisted: false
 title: School folder
 tags: []
 publish: true
