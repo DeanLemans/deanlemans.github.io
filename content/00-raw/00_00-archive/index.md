@@ -6,6 +6,7 @@ publish: true
 modified: 2026-07-18
 created: 2026-04-19
 aliases: []
+id: 01KZ9V0Z39H3EXG6EETJW9XA5P
 ---
 
 # 00.00 Archive

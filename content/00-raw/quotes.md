@@ -28,6 +28,8 @@ actually linking/sourcing them is too much effort, so too bad if you want to fin
 
 > They're idiots, their pathetic. All their little minds can imagine as the pinnacle of this technology is a machine that looks and feels human. But why would you ever want that? Humans are stupid, humans can double-think themselves into believing that the god they were raised to think is real while their neighbour who worships another is a lie and a cheat and a fool, while also being aware that neither of them has any more proof than the other. Humans are the bottom, the bare minimum when it comes to intellect and reasoning. Why in the world would you want your AI to be as smart as a human? If we create AI and they're not entirely alien to us, then we will know that we've failed.
 
+Then, in the corner of their vision, like a phantom, a flicker, a momentary mirage amidst the dancing light and the shifting vapors, they glimpsed the face of a bloodthirsty creature. It was a pale face, paler than the surface of any moon. Eyes black, scleras deep and hungry, but pupils glowing bright, carrying an expression far too intelligent, far too mocking, far too premeditated for a mere beast.
+
 > Keep it private till its permanent
 
 > "What had brought us out of such moments was our pioneer spirit, our determination and resolve!"

@@ -2,7 +2,7 @@
 unlisted: false
 title: Old/fleeting
 publish: false
-modified: 2026-07-18
+modified: 2026-08-05
 id: 01KQQV6TSS827P8PJ42NPBVXTN
 created: 2023-06-21
 aliases:
@@ -366,5 +366,13 @@ The lion had spent its entire life training to fight against men, but it was not
 ---
 
 No ai affirmation
+
+---
+
+Time by itself would still only result in failure, though. The issue was that one often realized the error of one's actions only when it was too late. An aspect could appear perfect to integrate at one moment, and only down the line would the Sword Saint realize it had been a mistake and would have to correct it. One correction would lead to more, and his entire Path could crumble. This was just another reason why most chose to focus on either a predetermined Path or have a far more focused scope, where even if they made a mistake, the consequences wouldn't be that bad.
+
+Fortunately for the Sword Saint, none of this applied to him, because unlike everyone else, he already knew the destination of his Path. He could already glimpse it. The core of his Transcendence remained the peak of his spring and his most ideal form, and while he couldn't enter it at will, he could always feel it. If something wasn't compatible with his ideal state of swordsmanship, he discarded it immediately without even thinking about it.
+
+Of course, even his ideal self grew as he grew, but it was always there, far ahead of the current him, serving as a milestone of where to go.
 
 ---

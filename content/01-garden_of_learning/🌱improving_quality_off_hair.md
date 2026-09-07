@@ -12,6 +12,8 @@ created: 2026-04-30
 
 # hair stuff
 
+vet ding spull(reuzel), lichte shampoo, plant shampoo, plant based conditioner
+
 ## brushe(s)
 
 use a boar bristle brush bc it has benefits

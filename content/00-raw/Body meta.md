@@ -24,6 +24,6 @@ created: 2026-07-07
 
 # see also
 
-- [death_of_me](<./death_of_me.md>)
+- [Testament](<./Testament.md>)
 - [my_PKM](<./inbox/my_PKM.md>)
 - [[commonplacebook]]

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2b0b57bb2233d652","type":"text","text":"# samenwerking/project\n","x":78,"y":-119,"width":347,"height":90},
+		{"id":"0e070ed57501612e","x":84,"y":-284,"width":250,"height":60,"type":"text","text":"comunicatie"},
+		{"id":"1aa5d3cfc4572b7e","x":451,"y":-287,"width":250,"height":60,"type":"text","text":"afspraken maken"},
+		{"id":"766b95f2daaae55d","x":515,"y":-108,"width":250,"height":60,"type":"text","text":"alles hangt af van wat voor soort project dit gaat zijn."},
+		{"id":"8b336aeeb0e76010","x":409,"y":-445,"width":250,"height":60,"type":"text","text":"groepschat?"},
+		{"id":"db0ecb094c7b2f79","x":0,"y":-604,"width":250,"height":60,"type":"text","text":"verdeling van verantwoordelijk"},
+		{"id":"85abb984a295f81b","x":16,"y":-458,"width":250,"height":60,"type":"text","text":"verantwoordelijkheid"},
+		{"id":"67a8c0fb65fe43ee","type":"file","file":"00-raw/school/31 august 2026.md","x":-422,"y":-636,"width":400,"height":605}
+	],
+	"edges":[
+		{"id":"41461ccf7bf07a0b","fromNode":"2b0b57bb2233d652","fromSide":"top","toNode":"0e070ed57501612e","toSide":"bottom"},
+		{"id":"9eaf820d206e9dc7","fromNode":"0e070ed57501612e","fromSide":"right","toNode":"1aa5d3cfc4572b7e","toSide":"left"},
+		{"id":"904ec9105e0feafa","fromNode":"2b0b57bb2233d652","fromSide":"right","toNode":"766b95f2daaae55d","toSide":"left"},
+		{"id":"6b2fdf0ef337ebf1","fromNode":"85abb984a295f81b","fromSide":"top","toNode":"db0ecb094c7b2f79","toSide":"bottom"},
+		{"id":"d47a81054f4a1f87","fromNode":"0e070ed57501612e","fromSide":"top","toNode":"8b336aeeb0e76010","toSide":"bottom"},
+		{"id":"be74c532903d1150","fromNode":"0e070ed57501612e","fromSide":"top","toNode":"85abb984a295f81b","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"id":"01M1CBWDDV0520WD6K93W4JZ2X"}
+	}
+}

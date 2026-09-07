@@ -1,12 +1,15 @@
 ---
-unlisted: false
+unlisted: true
 title: Death of Me
 tags: []
 publish: true
-modified: 2026-07-18
+modified: 2026-09-07
 id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?
 created: 2026-04-29
+aliases:
+  - death
+  - death_of_me
 ---
 
 # Death of Me
@@ -18,6 +21,7 @@ created: 2026-04-29
 > - digital(death) fucking will
 > - shitty Testament of Dean Henny Anton Lemans Haar
 > - 'just in case'
+> - death of me
 
 (currently writhing the first draft of this while listing to vocaloid 'staircatte - russian roulette', not on loop bc shits gets repetitive, also to 'n.u.d.e 2000 | liquid dnb / jungle mix'.
 i was/am 18 as of writhing this, i wrote the fist draft of this on 29 April 2026, and my birthday is on june 21 2007 so im also almost 19. (just search my git commits on how this page changes), my full name is Dean Henny Anton Lemans Haar.)
