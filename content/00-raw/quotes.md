@@ -1,9 +1,9 @@
 ---
-unlisted: false
+unlisted: true
 title: Quotes
 tags: []
 publish: true
-modified: 2026-07-18
+modified: 2026-09-07
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
