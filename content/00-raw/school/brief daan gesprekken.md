@@ -16,11 +16,13 @@ created: 2026-09-04
 - Wat doe je graag in je vrije tijd?
 	- slapen, projecten werken, tuinieren, gamen, tv/youtube kijken
 - Waar ben je trots op?
+	- op mijn tuinen en wat ik kan
 - Wat vinden anderen mensen vaak leuk aan jou?
 
 ## over school en opleiding
 
 - Waarom heb je voor deze gekozen?
+	- leren onderzoeken, specifiek planten en grond onderzoek
 - Wat lijkt je het leukst aan deze opleiding?
 - Waar zie je tegenop of wat vind je spannend?
 - Wat hoop je dit schooljaar te leren?

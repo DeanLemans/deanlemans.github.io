@@ -1,14 +1,14 @@
 ---
 title: Body meta
 publish: true
-modified: 2026-07-18
+modified: 2026-09-07
 id: 01KWYM5WG7NY9WDH4MP6T5QPPW
 created: 2026-07-07
 ---
 
 # Body meta
 
-> note for linking to everything related to body
+> note for linking to everything related to body, that's not linked to anything bc im lazy
 
 [No poo/hair qualitt](<../02-digital_garden/01-garden_of_learning/🌱improving_quality_off_hair.md>)
 

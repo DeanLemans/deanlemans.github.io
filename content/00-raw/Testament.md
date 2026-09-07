@@ -2,7 +2,7 @@
 unlisted: true
 title: Death of Me
 tags: []
-publish: false
+publish: true
 modified: 2026-09-07
 id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?

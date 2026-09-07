@@ -1,5 +1,6 @@
 ---
 title: tussenopdracht 1 week3
+publish: true
 modified: 2026-09-07
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
@@ -11,7 +12,7 @@ created: 2026-09-07
 
 Deze opdracht hoort bij het thema: Economische waarde.
 
-### 1. **Onderzoek je leefomgeving**:
+### 1. **Onderzoek je leefomgeving**
 
 Onderzoek hoeveel afval er bij jou thuis wordt geproduceerd.
 
@@ -25,7 +26,9 @@ Beschrijf:
 	- groen, plastic, rest, papier
 - Geef per categorie een schatting of meting van de hoeveelheid afval.
 	- 50% rest
+
 ---
+
 ### 2. **Afvalverwerking in jouw gemeente**
 
 	Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
@@ -36,7 +39,9 @@ Beschrijf:
 - Welke afvalstromen worden gescheiden.
 - Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
 - Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
+
 ---
+
 ### 3. **Onderzoek naar jouw eigen afvalstroom**
 
 Verzamel thuis informatie over jouw afvalproductie.

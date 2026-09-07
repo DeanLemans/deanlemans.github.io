@@ -1,5 +1,6 @@
 ---
 title: ecosysteem project
+publish: true
 modified: 2026-09-07
 id: 01M1XWHCFDRGGJXBWZQRBS1279
 created: 2026-09-07
