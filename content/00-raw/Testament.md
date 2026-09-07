@@ -8,6 +8,7 @@ id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?
 created: 2026-04-29
 aliases:
+  - /death
   - death
   - death_of_me
 ---

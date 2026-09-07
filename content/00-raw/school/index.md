@@ -15,3 +15,4 @@ aliases: []
 > - work folder for school
 > - folder i need to integrate into vault
 
+need to transfer bullshit paper notes to this school folder and then integrate it into vault
