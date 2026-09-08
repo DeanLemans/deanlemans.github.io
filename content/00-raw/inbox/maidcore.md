@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: maidcore
 publish: true
-modified: 2026-07-18
+modified: 2026-09-08
 id: 01KTD2F07DZ3N102RTJQC1F4E3
 created: 2026-06-05
 ---

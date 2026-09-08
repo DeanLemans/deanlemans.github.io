@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: Using rationality to align thinking
 publish: true
-modified: 2026-07-18
+modified: 2026-09-08
 id: 01KXDHYCWY8RMQEPB087NGQM7F
 created: 2026-07-13
 ---

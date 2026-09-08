@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: this vault. LIFE
 publish: true
-modified: 2026-07-18
+modified: 2026-09-08
 id: 01KXBSRG35C9BR8RYGQQE7M38A
 created: 2026-07-12
 ---

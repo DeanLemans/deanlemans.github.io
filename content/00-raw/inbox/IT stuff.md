@@ -1,10 +1,10 @@
 ---
-unlisted: false
+unlisted: true
 title: IT ondernemings plan
 tags:
   - research
 publish: true
-modified: 2026-07-29
+modified: 2026-09-08
 id: 01KQQV6TWR33FATQZE504ND60T
 created: 2026-03-17
 aliases:

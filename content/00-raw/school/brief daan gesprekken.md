@@ -1,31 +1,33 @@
 ---
-title: brief daan gesprekken
-modified: 2026-09-04
+title: brief Daan gesprekken
+modified: 2026-09-08
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04
 ---
 
-# brief daan gesprekken
+# brief Daan gesprekken
 
 ## over jezelf
 
 - Wie ben je? vertel over jezelf.
-	- ik ben De Deanste Dean
+	- **ik ben De Deanste Dean**
 - Hoe zouden je vrienden jou omschrijven?
-	- huub: eerlijk, zelfbehoude, zecht waar het op aankomt. Rens: jij bent dean, je word rijk en doet tuinen
+	- **huub: eerlijk, zelfbehoude, zecht waar het op aankomt. Rens: jij bent dean, je word rijk en doet tuinen**
 - Wat doe je graag in je vrije tijd?
-	- slapen, projecten werken, tuinieren, gamen, tv/youtube kijken
+	- **slapen, projecten werken, tuinieren, gamen, tv/youtube kijken**
 - Waar ben je trots op?
-	- op mijn tuinen en wat ik kan
+	- **op mijn tuinen en wat ik kan**
 - Wat vinden anderen mensen vaak leuk aan jou?
 
 ## over school en opleiding
 
 - Waarom heb je voor deze gekozen?
-	- leren onderzoeken, specifiek planten en grond onderzoek
+	- **leren onderzoeken, specifiek planten en grond onderzoek**
 - Wat lijkt je het leukst aan deze opleiding?
+	- **leren onderzoeken en connecties/vrienden**
 - Waar zie je tegenop of wat vind je spannend?
 - Wat hoop je dit schooljaar te leren?
+	- onderzoeken en documenteren dat daar bij hoord
 
 ## hoe jij leert
 
@@ -38,12 +40,16 @@ created: 2026-09-04
 ## Over jou als persoon
 
 - Wat geeft jou energie?
+	- eten en drinken
 - Waar maak je je soms zorgen over?
 - Wat vind je belangrijk in een groep of klas?
+	- leren en plezier/leuk hebben
 - Hoe ga je om met nieuwe mensen?
+	- wacht af wat voor persoon ze zijn en dan ga ik mischien met ze praten
 - Wat doe je als iets niet lukt?
+	- kijken hoe het anders XOR beter kan
 
-## wat je mischien niet snel vertelt
+## Wat je mischien niet snel vertelt
 
 - Is er iets wat je lastig vindt om te vertellen, maar wat well belangrijk is dat ik weet?
 - Zijn er omstandigheden thuis of prive waar ik rekening mee moet houden?

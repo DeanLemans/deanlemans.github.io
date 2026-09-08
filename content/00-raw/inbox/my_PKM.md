@@ -1,14 +1,13 @@
 ---
-unlisted: false
-title: PKM structure ideas
+unlisted: true
+title: PKM
 publish: true
-modified: 2026-07-29
+modified: 2026-09-08
 id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
 created: 2026-05-02
 ---
 
 # PKM
-
 
 ## my method
 
@@ -65,7 +64,6 @@ The one thing genuinely absent is a rule for **movement between folders**. Add t
 
 **Capture fast in one inbox. Process sources (including your own past self) into archive. Extract only what passes the test into zettel. Build projects and blog posts by pulling zettels together — never by writing from scratch.**
 ```
-
 
 what kind of pkm exists
 PARA, GTD, Building a Second Brain, zetelkasten,wittengenstein and ofc endless variations between those

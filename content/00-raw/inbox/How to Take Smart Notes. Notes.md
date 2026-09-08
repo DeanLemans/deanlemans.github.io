@@ -1,9 +1,10 @@
 ---
 title: How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
 publish: true
-modified: 2026-07-18
+modified: 2026-09-08
 id: 01KX3VYS5PKBNG6VGPMJEYHJYG
 created: 2026-07-09
+unlisted: true
 ---
 
 # How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking

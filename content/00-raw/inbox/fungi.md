@@ -1,7 +1,8 @@
 ---
+unlisted: true
 title: fungi
 publish: true
-modified: 2026-07-18
+modified: 2026-09-08
 id: 01KT9DSHFFHQX773798VZFR73C
 created: 2026-06-04
 ---
