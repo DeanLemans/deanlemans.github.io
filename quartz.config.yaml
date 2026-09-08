@@ -102,7 +102,7 @@ plugins:
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/unlisted-pages
-    enabled: false
+    enabled: true
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
