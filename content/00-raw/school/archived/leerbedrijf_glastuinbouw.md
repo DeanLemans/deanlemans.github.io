@@ -1,6 +1,9 @@
 ---
 title: leerbedrijf glastuinbouw
-modified: 2026-05-25
+tags:
+  - hovenier
+publish: true
+modified: 2026-09-09
 id: 01KQQV6TRQGDH03H4CVJD99KZ8
 created: 2026-04-11
 ---
@@ -32,19 +35,10 @@ proefcentrums
 tried:
 - <https://www.glastuinbouwnederland.nl/arbeid/leren-ontwikkelen> ❌
 
-Motivatiebrief schrijfen
-
-vakexpert;
-crebo: 25988
-
-horst, geldermalsen, aalsmeer
-
 ---
 
 # gesprek
 
 Eigen kas gebouwed
 Leerbedrijf zoeken
-NRE mag overslaan
-Weinig die glastuinbouw doen
 Proeftuin/proefcentrum leerbedrijf zoeken

@@ -1,6 +1,6 @@
 ---
 title: brief Daan gesprekken
-modified: 2026-09-08
+modified: 2026-09-09
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04
 ---
@@ -19,7 +19,7 @@ created: 2026-09-04
 	- **op mijn tuinen en wat ik kan**
 - Wat vinden anderen mensen vaak leuk aan jou?
 
-## over school en opleiding
+## Over school en opleiding
 
 - Waarom heb je voor deze gekozen?
 	- **leren onderzoeken, specifiek planten en grond onderzoek**
@@ -29,11 +29,13 @@ created: 2026-09-04
 - Wat hoop je dit schooljaar te leren?
 	- onderzoeken en documenteren dat daar bij hoord
 
-## hoe jij leert
+## Hoe jij leert
 
 - Wat helpt jou om goed te leren?
 - Wat vind je lastig of school?
+	- niet willen leren OR werken als het mij niet intereseert
 - Waneer raak je gemotiveerd?
+	- dingen leren die nutig / interesant vind.
 - Waar heb je soms hulp bij nodig?
 - Wat moet een docent weten om jou weten om jou goed te kunnen begeleiden?
 
@@ -43,20 +45,25 @@ created: 2026-09-04
 	- eten en drinken
 - Waar maak je je soms zorgen over?
 - Wat vind je belangrijk in een groep of klas?
-	- leren en plezier/leuk hebben
+	- **leren en plezier/leuk hebben**
 - Hoe ga je om met nieuwe mensen?
-	- wacht af wat voor persoon ze zijn en dan ga ik mischien met ze praten
+	- wacht af wat voor persoon ze zijn en dan ga ik mischien met ze praten. als ik zin heb OR ik ze goed vind.
 - Wat doe je als iets niet lukt?
-	- kijken hoe het anders XOR beter kan
+	- kijken hoe het anders OR beter kan
 
 ## Wat je mischien niet snel vertelt
 
 - Is er iets wat je lastig vindt om te vertellen, maar wat well belangrijk is dat ik weet?
 - Zijn er omstandigheden thuis of prive waar ik rekening mee moet houden?
+	- mijn ouders zij geschijen? maar daar gaat het eig allemaal goed mee
 - Wat kan ik doen als SLB om jou te helpen succesvol te zijn?
+	- mij relevante dingen leren
 - Waar zou je graag eens over willen pragen tijdens een coachgesprek?
+	- hoe dingen better zouden kunnen gaan op school en dingen relevant daaraan
 
 ## tot slot
 
  - Als ik aan het einde van dit schooljaar een ding over jou moet onthouden, wat moet dat dan zijn?
+	 - dat ik Dean ben
 - Stel dat ik je over een jaar spreek en alles is heel goed gegaan. wat is er dan gebeurt?
+	- eigen bus, teraruims aan het verkopen, geleert hoe je moet onderzoeken

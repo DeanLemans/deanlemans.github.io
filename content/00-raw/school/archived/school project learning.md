@@ -1,9 +1,8 @@
 ---
 title: Reflection on Project
 tags:
-  - finished
   - sintlucas
-publish: false
+publish: true
 modified: 2026-05-03
 id: 01KQQV6TSQJQYM6M1AMH3XPY0T
 created: 2026-03-17

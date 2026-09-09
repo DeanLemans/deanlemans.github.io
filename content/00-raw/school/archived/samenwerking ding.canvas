@@ -7,7 +7,7 @@
 		{"id":"8b336aeeb0e76010","x":409,"y":-445,"width":250,"height":60,"type":"text","text":"groepschat?"},
 		{"id":"db0ecb094c7b2f79","x":0,"y":-604,"width":250,"height":60,"type":"text","text":"verdeling van verantwoordelijk"},
 		{"id":"85abb984a295f81b","x":16,"y":-458,"width":250,"height":60,"type":"text","text":"verantwoordelijkheid"},
-		{"id":"67a8c0fb65fe43ee","type":"file","file":"00-raw/school/31 august 2026.md","x":-422,"y":-636,"width":400,"height":605}
+		{"id":"67a8c0fb65fe43ee","type":"file","file":"00-raw/school/archived/samenwerking opdracht.md","x":-422,"y":-636,"width":400,"height":605}
 	],
 	"edges":[
 		{"id":"41461ccf7bf07a0b","fromNode":"2b0b57bb2233d652","fromSide":"top","toNode":"0e070ed57501612e","toSide":"bottom"},

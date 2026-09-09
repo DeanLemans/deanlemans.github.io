@@ -1,7 +1,9 @@
 ---
 title: samenwerking
+tags:
+  - toegepaste_biologie
 publish: true
-modified: 2026-09-07
+modified: 2026-09-09
 id: 01M1BK99F8S79BGY9V9HEZ75Y8
 created: 2026-08-31
 ---

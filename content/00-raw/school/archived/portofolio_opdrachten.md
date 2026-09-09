@@ -1,8 +1,10 @@
 ---
 title: "Portfolio-opdracht 1: Ik en mijn omgeving"
 tags:
+  - hovenier
   - yuverta
-modified: 2026-05-25
+publish: true
+modified: 2026-09-09
 id: 01KQQV6TS9M8B0A0DZ59AT8PAD
 created: 2025-11-14
 ---

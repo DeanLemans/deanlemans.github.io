@@ -25,5 +25,5 @@ created: 2026-07-07
 # see also
 
 - [Testament](<./Testament.md>)
-- [my_PKM](<./inbox/my_PKM.md>)
+- [PKM_brainstorm](<./inbox/PKM_brainstorm.md>)
 - [[commonplacebook]]
