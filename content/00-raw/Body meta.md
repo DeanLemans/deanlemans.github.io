@@ -12,13 +12,13 @@ created: 2026-07-07
 
 [No poo/hair qualitt](<../02-digital_garden/01-garden_of_learning/🌱improving_quality_off_hair.md>)
 
-[[Wetshaving]]
+[Wetshaving](<../Wetshaving.md>)
 
 [My Suplement Stack](<../01-garden_of_learning/🌿my_suplement_stack.md>)
 
-[[Workout research]]
+[Workout research](<../Workout research.md>)
 
-[[Longlivity]]
+[Longlivity](<../Longlivity.md>)
 
 [sleep_optimization](<../02-digital_garden/01-garden_of_learning/🌿improving_my_sleep.md>)
 
@@ -26,4 +26,4 @@ created: 2026-07-07
 
 - [Testament](<./Testament.md>)
 - [PKM_brainstorm](<./inbox/PKM_brainstorm.md>)
-- [[commonplacebook]]
+- [commonplacebook](<../commonplacebook.md>)

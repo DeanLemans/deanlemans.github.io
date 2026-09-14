@@ -51,7 +51,7 @@ the meaning of life according to this Philosophy is that you create your own mea
 ---
 
 darknet
-you can access the darknet via [The Onion Routing](<./The Onion Routing.md>), [[Freenet]], and [Invisible Internet Project](<./Invisible Internet Project.md>)
+you can access the darknet via [The Onion Routing](<./The Onion Routing.md>), [Freenet](<../../Freenet.md>), and [Invisible Internet Project](<./Invisible Internet Project.md>)
 
 Some sites:
 <https://darknetlive.com>
@@ -180,7 +180,7 @@ Sr: <https://lite.evernote.com/note/d69cf793-1f14-48f4-bd48-43f41bd88678>
 
 ---
 
-![](<../../static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg>)
+[](<../../static_files/why-wouldnt-this-work-request-v0-pxtgrja7su3g1.jpeg>)
 It would work, it would just make the water come out of your faucet a bit slower and wouldn't generate much power.
 
 Typical flow rate for a kitchen faucet is 2.2 gallons per minute say. That's 139 grams of water per second.

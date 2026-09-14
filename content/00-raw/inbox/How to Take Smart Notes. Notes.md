@@ -320,6 +320,6 @@ The [permanent] notes are no longer reminders of thoughts or ideas, but contain 
 ---
 
 There is one reliable sign if you managed to structure your workflow according to the fact that writing is not a linear process, but a circular one: the problem of finding a topic is replaced by the problem of having too many topics to write about. Having trouble finding the right topic is a symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guides insinuate. If you on the other hand develop your thinking in writing, open questions will become clearly visible and give you an abundance of possible topics to elaborate further in writing.
-> [[sort writhing by context/thought, not by chronological XOR topic]]
+> [sort writhing by context/thought, not by chronological XOR topic](<../../sort writhing by context/thought, not by chronological XOR topic.md>)
 
 ---

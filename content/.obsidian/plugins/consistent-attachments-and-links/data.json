@@ -1,26 +1,33 @@
 {
   "attachmentUnitFolderPaths": [],
-  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "consistencyReportFile": "consistency-report.md",
   "excludePaths": [
-    "/consistency-report\\.md$/"
+    "^\\.",
+    "(^|/)\\.[^/]*",
+    ".trash"
   ],
-  "excludePathsFromAttachmentCollecting": [],
+  "excludePathsFromAttachmentCollecting": [
+    "^\\.",
+    "(^|/)\\.[^/]*",
+    ".trash"
+  ],
   "includePaths": [],
   "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
-  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
-  "proposedRenameDeleteSettings": {
-    "excludePaths": [
-      "/consistency-report\\.md$/"
-    ],
-    "includePaths": [],
-    "treatAsAttachmentExtensions": [
-      ".excalidraw.md"
-    ]
-  },
+  "maxVaultRootPathLength": 0,
+  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "Prompt",
+  "proposedRenameDeleteSettings": null,
   "shouldAddCommandsToFileMenu": true,
-  "shouldCollectAttachmentsAutomatically": false,
+  "shouldCollectAttachmentsAutomatically": true,
+  "shouldCreateNoteToPreserveOriginalName": false,
+  "shouldEnsurePathCompatibilityOnAndroid": false,
+  "shouldEnsurePathCompatibilityOnEveryPlatform": false,
+  "shouldEnsurePathCompatibilityOnIos": false,
+  "shouldEnsurePathCompatibilityOnLinux": true,
+  "shouldEnsurePathCompatibilityOnMacOs": false,
+  "shouldEnsurePathCompatibilityOnWindows": false,
   "shouldShowBackupWarning": false,
+  "sidecarNoteNamePattern": "{{fileName}}.md",
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ]

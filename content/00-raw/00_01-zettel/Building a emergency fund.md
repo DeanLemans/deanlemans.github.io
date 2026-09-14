@@ -10,7 +10,7 @@ created: 2026-07-05
 
 The practical brother of [emergency fund](<./emergency fund.md>)
 
-The absolute minimum of what you should put into a emergency fund is 10% of all income, also directly gives [[culminative effect]] for income if you put in like a savings account.
+The absolute minimum of what you should put into a emergency fund is 10% of all income, also directly gives [culminative effect](<../../culminative effect.md>) for income if you put in like a savings account.
 
 This directly means not splurging your money on useless shit UNTIL YOU HAVE A BIG ENOUGH EMERGENCY FUND!!!!
 - [ ] need to create MOC for finances

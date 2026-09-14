@@ -3,7 +3,7 @@ unlisted: true
 title: Death of Me
 tags: []
 publish: true
-modified: 2026-09-07
+modified: 2026-09-14
 id: 01KQQV6TT017S85V89JPEQQNWX
 description: what will happen to this site when I die?
 created: 2026-04-29
@@ -72,5 +72,5 @@ If trying to preserve/archive this site, preserve the Markdown first. (In the /c
 
 #### references/inspiration
 
-[testament ⁂ starbreaker.org](<./00_00-archive/external/testament ⁂ starbreaker.org.md>)
-[when i die](<./00_00-archive/external/when i die.md>)
+[testament ⁂ starbreaker.org](<./00_00-archive/testament ⁂ starbreaker.org.md>)
+[when i die](<./00_00-archive/when i die.md>)

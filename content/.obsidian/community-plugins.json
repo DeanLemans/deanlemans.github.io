@@ -4,10 +4,8 @@
   "obsidian-tasks-plugin",
   "obsidian-linter",
   "obsidian-style-settings",
-  "consistent-attachments-and-links",
   "backlink-cache",
   "external-rename-handler",
-  "better-markdown-links",
   "smart-rename",
   "nldates-obsidian",
   "obsidian42-strange-new-worlds",
@@ -19,5 +17,7 @@
   "advanced-rename-and-delete-handler",
   "breadcrumbs",
   "obsidian-reminder-plugin",
-  "pdf-plus"
+  "pdf-plus",
+  "consistent-attachments-and-links",
+  "better-markdown-links"
 ]
