@@ -1,7 +1,9 @@
 {
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [
-    "/consistency-report\\.md$/"
+    "^\\.",
+    "(^|/)\\.[^/]*",
+    ".trash"
   ],
   "includePaths": [],
   "notePriorities": [],

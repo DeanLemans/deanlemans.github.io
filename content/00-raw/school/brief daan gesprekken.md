@@ -1,6 +1,6 @@
 ---
 title: brief Daan LOB / informatie gesprekken
-modified: 2026-09-14
+modified: 2026-09-16
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04
 ---
@@ -20,7 +20,7 @@ created: 2026-09-04
 - Wat vinden anderen mensen vaak leuk aan jou?
 	- **eerlijkheid/directheid**
 - Wat vinden anderen mensen vaak niet leuk aan jou? (extra vraag door Dean bedacht)
-	- 
+	- bot, koppig, eigenwijs
 
 ## Over school en opleiding
 
@@ -36,6 +36,7 @@ created: 2026-09-04
 ## Hoe jij leert
 
 - Wat helpt jou om goed te leren?
+	- als ik dingen leer waar ik intresse in heb
 - Wat vind je lastig of school?
 	- **niet willen leren OR werken als het mij niet intereseert**
 - Waarom ben jij hier? (extra vraag door Dean bedacht)

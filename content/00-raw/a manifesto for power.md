@@ -4,7 +4,7 @@ title: a manifesto for power
 tags:
   - _excluded
 publish: true
-modified: 2026-09-07
+modified: 2026-09-16
 id: 01KQQV6TS2HH55JZ8WY8KD9JWE
 draft: "true"
 description: No Gods, No Masters, No Idols
@@ -102,7 +102,7 @@ to not have to change myself to match social expectation
 
 ---
 
+[Evil Overlord List](<./00_00-archive/Evil Overlord List.md>)
 48 rules of power
-Evil Overlord List
-The Universal Genre Savvy Guide
+[The Universal Genre Savvy Guide](<./00_00-archive/The Universal Genre Savvy Guide.md>)
 how to win friends and influence people

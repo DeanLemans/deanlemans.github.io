@@ -1,7 +1,7 @@
 ---
 title: dont be wikipedia
 publish: true
-modified: 2026-07-18
+modified: 2026-09-16
 id: 01KRW5T4PKDFNP6V0GE0T9NKAJ
 created: 2026-05-17
 ---
@@ -9,7 +9,6 @@ created: 2026-05-17
 # dont be wikipedia
 
 > [!tip] Don't be Wikipedia
-
 > In a PKM, it's easy to end up duplicating public knowledge that already exists elsewhere or is otherwise widely known.
 >
 > **Example**
