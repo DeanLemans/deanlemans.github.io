@@ -1,8 +1,10 @@
 ---
-title: "Guide for future blog i haven't even written yet"
+title: Guide for future blog i haven't even written yet
 modified: 2026-07-29
 id: 01KX6AFWTVW7CJQYJ0379CFA8D
 created: 2026-07-10
+aliases:
+  - Guide for future blog i havnt even written yet
 ---
 
 # Guide for future blog i haven't even written yet

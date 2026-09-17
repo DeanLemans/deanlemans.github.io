@@ -5,6 +5,8 @@ publish: true
 modified: 2026-07-18
 id: 01KQQV6TRZDCMHQJT980V84CMF
 created: 2026-03-17
+aliases:
+  - Discipline
 ---
 
 # Discipline

@@ -1,32 +1,29 @@
 ---
-title: ecosysteem project
+title: Ecosysteem Project
 publish: true
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01M1XWHCFDRGGJXBWZQRBS1279
 created: 2026-09-07
 ---
 
-# ecosysteem project
+# Ecosysteem Project
 
-## doel
+## Doel
 
-een ecosysteem/terarium waar je geen onderhoud aan hoef te plegen.
-ik moet er ook iets van leren, en ik weet hoe de basis moet, dus ik wil wat ingewikkeld
+Een ecosysteem/terrarium waar je geen onderhoud aan hoeft te plegen.
+Ik moet er ook iets van leren, ik weet de basis, dus ik wil het wat ingewikkeld.
+Het moet een "dicht" ecosysteem zijn: na het opzetten hoef ik er zelf niks meer aan te doen. De bovenkant mag open zijn.
+Waarschijnlijk gedeeltelijk water en land. Zoek een ecosysteem om op te baseren (moerasland, savanne, wild, bos, etc).
+Rekening houden met stikstofen schijtkringloop van de waterdieren en insecten.
+Geen gewervelde dieren gebruiken.
+Geen elektriciteit.
+Self sustaining.
 
-het moet een "dicht" ecosysteem zijn, dus ik moet er zelf nadat alles goed is gesteld niks meer bij te doen. de bovenkant mag open zijn
-dus ik wil er waarschijnlijk gedeeltelijk water and land. en dan moet ik een soort ecosysteem te zoeken waar ik het op kan baseren.(moerasland, savana, wild, bos, ETC)
+## Onderzoek
 
-moet rekening houden met stikstof en schijt kringloop van de water dieren en insecten
+### Onderdelen ecosysteem
 
-mag geen gewervelde dieren gebruiken
-geen electrischijt
-
-## onderzoek
-
-### old notes i took
-
-welke onderdelen horen bij een ecosysteem?
-- **Container**
+- Container
 - Drainage layer
 - Separator (mesh)
 - Actieve kool
@@ -34,9 +31,9 @@ welke onderdelen horen bij een ecosysteem?
 - Hardscape
 - Softscape
 
-welke organismen
-- pissenbed, Springstaarten
+### Organismen
 
+- Pissebed, springstaarten
 - Split platte kleine steentjes
 - Potgrond in de magnetron zodat eitjes doodgaan
 - Zoveel mogelijk zuurstof ertussen laten
@@ -45,7 +42,7 @@ welke organismen
 - Bolmos breken: 3 sprong
 - Water toevoegen op het glas, op het mos, noord-zuid-midden, tot 2/3 van de steenlaag
 
-#### Materialen
+### Materialen
 
 - Afgekeurd glas
 - Actieve kool
@@ -54,14 +51,15 @@ welke organismen
 - Sterremos
 - Platmos
 
-- Moetjes planten:
-  - Varen
-  - Soleroia
-  - Vittonia
-  - Mos moet ook
-- Mag:
-  - Hypoestes, mag maar 1
-  - Koffieplantje
-  - Vicuspumia
-  - Meulenmekia
-  - Asperages (alleen in hoge terrarium)
+**Moetjes planten:**
+- Varen
+- Soleroia
+- Vittonia
+- Mos moet ook
+
+**Mag:**
+- Hypoestes, mag maar 1
+- Koffieplantje
+- Vicuspumia
+- Meulenmekia
+- Asperages (alleen in hoge terrarium)

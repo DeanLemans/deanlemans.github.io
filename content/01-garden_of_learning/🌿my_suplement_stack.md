@@ -2,7 +2,7 @@
 unlisted: false
 title: My Suplement Stack
 publish: true
-modified: 2026-05-25
+modified: 2026-09-17
 id: 01KQQV6TR39CN33B077J3PD1S8
 created: 2026-03-15
 aliases:
@@ -29,6 +29,7 @@ what i first eat:
 - creatine (2 gram)
 when going to sleep:
 - sleep magnesium (1 capsules)
+- sleep tea
 
 ---
 

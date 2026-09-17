@@ -4,6 +4,8 @@ publish: true
 modified: 2026-09-17
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
+aliases:
+  - biologie les notities
 ---
 
 # Toegepaste Biologie les notities
@@ -83,4 +85,4 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 	- soorten ontwikkelen verschillende kenmerken, door zich om verschillende leefomstandigheden aan te passen
 
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-	- (moved to standalone note [history doesnt decide shape, environment does](<../../history doesnt decide shape, environment does.md>))
+	- (moved to standalone note [history doesnt decide shape, environment does](<../00_01-zettel/history doesnt decide shape, environment does.md>))

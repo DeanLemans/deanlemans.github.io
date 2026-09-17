@@ -11,4 +11,4 @@ id: 01KZ9V0Z6TYWSM0HHJEQ7KZCVN
 
 zettel/notes/permanet notes
 
-[a possible lifesycle of notes](<./a possible lifesycle of notes.md>)
+[a_possible_lifesycle_of_notes](<./a_possible_lifesycle_of_notes.md>)

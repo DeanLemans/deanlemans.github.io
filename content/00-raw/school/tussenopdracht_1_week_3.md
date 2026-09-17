@@ -4,6 +4,8 @@ publish: true
 modified: 2026-09-17
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
+aliases:
+  - tussenopdracht 1 week3
 ---
 
 # Tussenopdracht 1, week 3

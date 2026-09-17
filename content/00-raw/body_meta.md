@@ -4,6 +4,8 @@ publish: true
 modified: 2026-09-17
 id: 01KWYM5WG7NY9WDH4MP6T5QPPW
 created: 2026-07-07
+aliases:
+  - Body meta
 ---
 
 # Body meta
@@ -24,6 +26,6 @@ created: 2026-07-07
 
 # see also
 
-- [Testament](<./Testament.md>)
+- [testament](<./testament.md>)
 - [PKM_brainstorm](<./inbox/PKM_brainstorm.md>)
 - [commonplacebook](<../commonplacebook.md>)

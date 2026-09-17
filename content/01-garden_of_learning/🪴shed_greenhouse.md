@@ -5,7 +5,7 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-06-22
+modified: 2026-09-17
 id: 01KQQV6TR223AM608VN0GPEJ9Q
 created: 2026-03-15
 aliases:
@@ -18,6 +18,26 @@ aliases:
 
 - [🌱plant_terrarium_project](<./🌱plant_terrarium_project.md>)
 - [🌱how_to_grow_moss](<./🌱how_to_grow_moss.md>)
+
+---
+
+stuff
+
+lights
+ heat mat
+humidifier
+USB/micro fan
+
+Timer plug
+
+Sphagnum moss
+Coco coir
+Perlite
+Activated charcoal
+
+Neem oil
+
+Water pump? +? misting system
 
 ---
 

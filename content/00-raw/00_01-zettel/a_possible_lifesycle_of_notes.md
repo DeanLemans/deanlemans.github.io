@@ -4,6 +4,8 @@ publish: true
 modified: 2026-07-18
 id: 01KXD57NY26D1122GWNA83NWKK
 created: 2026-07-13
+aliases:
+  - a possible lifesycle of notes
 ---
 
 # a lifesycle of notes

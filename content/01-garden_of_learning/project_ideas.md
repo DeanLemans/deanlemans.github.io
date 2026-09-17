@@ -4,6 +4,8 @@ publish: true
 modified: 2026-09-16
 id: 01KXR3XGTBRA5WBZBZRRBM1TXT
 created: 2026-07-17
+aliases:
+  - Project ideas
 ---
 
 # Project ideas

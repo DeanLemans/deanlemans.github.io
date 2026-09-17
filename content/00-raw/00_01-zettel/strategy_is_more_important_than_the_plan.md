@@ -4,6 +4,8 @@ publish: true
 modified: 2026-07-18
 id: 01KXAH9B7DT5JTEXTJTD43VA6Z
 created: 2026-07-12
+aliases:
+  - strategy is more important than then the plan
 ---
 
 # strategy is more important than then the plan

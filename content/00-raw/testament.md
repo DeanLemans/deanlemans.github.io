@@ -11,6 +11,7 @@ aliases:
   - /death
   - death
   - death_of_me
+  - Testament
 ---
 
 # Death of Me
