@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: School folder
+title: archive
 tags: []
 publish: true
 modified: 2026-09-09
@@ -9,7 +9,7 @@ created: 2026-04-11
 aliases: []
 ---
 
-# School folder
+# archive
 
 > [!NOTE] Alternative titles
 > - dump for school things i probb dont need anymore
