@@ -21,6 +21,15 @@ Self sustaining.
 
 ## Onderzoek
 
+materiaalen die ik nodig heb.
+- water
+- grond
+- mos
+- garnaalen
+- springtails
+
+---
+
 ### Onderdelen ecosysteem
 
 - Container
