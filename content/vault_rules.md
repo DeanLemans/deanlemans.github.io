@@ -2,7 +2,7 @@
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KQQV6TPBSF4Y4E9A2TMC94XT
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
@@ -12,8 +12,8 @@ aliases:
 
 # Site Rules
 
-- [ ] split projects blog updates into a blog(so every time i update it the original file stays the same? also if split i people think im active more because new file but its just the same activity but more standerd for visitor to consume) really need to work this shit out
-- [ ] i need automatic way to create aliase for those unique id
+- [ ] split projects blog updates into a blog (so every time I update it the original file stays the same? also if split, people will think I'm more active because of the new file, but it's just the same activity, just more standard for visitors to consume) really need to work this shit out
+- [ ] I need an automatic way to create aliases for those unique IDs
 
 > [!NOTE] Alternative titles
 > - Vault System
@@ -22,7 +22,7 @@ aliases:
 > - how to format
 
 > this vault is written as a legacy of mine(?),
-> therefore it should be future proof.
+> therefore it should be future-proof.
 
 # to integrate
 
@@ -30,7 +30,7 @@ aliases:
 
 ## 1. Creation System
 
-(adapted [from the princes work ethics](https://youtu.be/ECGcTM_gk4s))
+(adapted [from the Prince's work ethic](https://youtu.be/ECGcTM_gk4s))
 - become a finisher
 - make art everyday
 - it doesn't have to be perfect
@@ -52,8 +52,8 @@ aliases:
 ## 3. System Philosophy
 
 - System should be self-reinforcing/defending
-- Minimize uneeded maintence; vault should maintain itself wherever possible
-- Structure for scalability multiple projects, multiple contributors, long-term reference
+- Minimize unneeded maintenance; vault should maintain itself wherever possible
+- Structure for scalability: multiple projects, multiple contributors, long-term reference
 
 ---
 
@@ -64,7 +64,7 @@ aliases:
   - [ ] spellcheck
   - [ ] tag or category validation
   - [ ] unresolved link notifications
-- enjoy the doing, dont make it a burden
+- enjoy the doing, don't make it a burden
 
 ---
 
@@ -75,8 +75,9 @@ aliases:
 
 **Folder Structure**
 - `00-raw`
-- `01-projects`
+- `01-garden_of_learning`
 - `02-digital_garden`
+- `03-blog`
 - `static_files`
 
 - Always use underscores `_` for spaces in filenames
@@ -92,7 +93,7 @@ aliases:
 - Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
 - Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_00-archive/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
 - Store files in open and readable formats.
-- Use consistent naming and metadata for search-ability and discoverbility.(proper YAML data, good tags, etc)
+- Use consistent naming and metadata for search-ability and discoverability. (proper YAML data, good tags, etc)
 
 ---
 
@@ -104,21 +105,21 @@ aliases:
 - Reduce folder complexity to simplify navigation and maintainability
 - [ ] Migrate external content locally or at least link it
 - [ ] when linking an external thing, use an archived version
-- written in markdown and sometimes embedded html.(html mostly for foldable stuff)
-- Heavy use of internal links for interconnectivity (i dont really do this)
+- written in markdown and sometimes embedded html. (html mostly for foldable stuff)
+- Heavy use of internal links for interconnectivity (I don't really do this)
 
 ---
 
 ### 7.2 Folder Organization
 
 **Reference Folder**
-- `00-raw/clippings` external content (essays, articles, wiki pages)
+- `00-raw/00_00-archive` external content (essays, articles, wiki pages)
 
-**Admin Folder
+**Admin Folder**
 - `static_files` images, audio, template, PDFs, etc.
 
 **Raw Folder (hidden)**
-- `00-raw` 'unprofesional' stuff, work folder, experiments
+- `00-raw` 'unprofessional' stuff, work folder, experiments
 
 ---
 
@@ -134,14 +135,14 @@ aliases:
 - `modified: {{date}}` to track edits
 
 **Pruning**
-- (bi?)monthish review, yearly meta-review
+- (bi?)monthly review, yearly meta-review
 - Preserves a fractal web of thought for analysis and historical reference?
 
 **Random Note Exploration**
 - Graph view exploration to find related notes
 - Reconnect older ideas to current projects
 - Opportunity for maintenance;
-	- style, metadata, internal links, and other shi
+	- style, metadata, internal links, and other shit
 
 - [ ] Include script to check for broken links and missing metadata
 
@@ -160,5 +161,4 @@ aliases:
 
 - [ ] Local + external USB backup via BORG BACKUP
 - [ ] Local USB backup via BORG BACKUP
-- [ ] Include versioning and 256-hash to confirm vault integrity to future-proof against edits, deletions, or cencoring.
-
+- [ ] Include versioning and 256-hash to confirm vault integrity to future-proof against edits, deletions, or censoring.

@@ -29,3 +29,16 @@ vraag: er is hier BBL?
 werkvergunningen is een groot belangrijk onderdeel
 
 voobeeld van toen its is foutgegaan <https://www.dumpert.nl/item/100019885_30966a83>
+
+## veilig werken en gedrag
+
+(betekent jezelf en anderen niet in gevaar brengt)
+- veiligheidregels houden
+- onveilig gedrag stoppen
+- onveilige situaties stoppen
+- onveilige handelingen
+- netheid en orde(housekeeping?)
+
+kans risico analyse?
+[VCA samenwerk opdracht week 4](<../../static_files/VCA samenwerk opdracht week 4.pdf>)
+
