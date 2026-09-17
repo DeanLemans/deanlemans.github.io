@@ -4,7 +4,7 @@ tags:
   - hovenier
   - yuverta
 publish: true
-modified: 2026-09-09
+modified: 2026-09-17
 id: 01KQQV6TS9M8B0A0DZ59AT8PAD
 created: 2025-11-14
 ---
@@ -46,7 +46,6 @@ presenteer/vraag feedback dit profiel aan je medestudenten/collegas en stelt het
 		1. dingen mooier maken dan wat ze orgineel zijn.
 		2. dingen beter maken dan wat ze orgineel zijn.
 		3. dingen maken/neerzetten dat er eerst niet was.
-		4. #todo
 	2. niet/minder leuk;
 		1. werk dat (bijna) niemand ziet.
 		2. werk dat (bijna) geen invloed heeft op project.
@@ -69,7 +68,7 @@ presenteer/vraag feedback dit profiel aan je medestudenten/collegas en stelt het
 	2. X
 - **Welke rol(len) heb jij in teams**
   (BPV, werk, opleiding, hobby of sportvereniging).
-	1. werker? #todo
+	1. werker?
 
 ### De keuzes die je tot nu toe gemaakt hebt
 

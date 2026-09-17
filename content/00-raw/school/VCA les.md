@@ -1,5 +1,7 @@
 ---
 title: VCA (Veiligheid Certificaat Aannemer) les
+tags:
+  - toegepaste_biologie
 publish: true
 modified: 2026-09-17
 id: 01M2QFNSJAYDM0RCX04MZQJ9KP
@@ -40,5 +42,5 @@ voobeeld van toen its is foutgegaan <https://www.dumpert.nl/item/100019885_30966
 - netheid en orde(housekeeping?)
 
 kans risico analyse?
-[VCA samenwerk opdracht week 4](<../../static_files/VCA samenwerk opdracht week 4.pdf>)
+[VCA samenwerk opdracht week 4](<./VCA samenwerk opdracht week 4.pdf>)
 

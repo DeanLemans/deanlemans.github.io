@@ -10,7 +10,8 @@
   "excludePathsFromAttachmentCollecting": [
     "^\\.",
     "(^|/)\\.[^/]*",
-    ".trash"
+    ".trash",
+    "00-raw/school"
   ],
   "includePaths": [],
   "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,

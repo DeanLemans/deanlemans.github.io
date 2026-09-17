@@ -2,9 +2,8 @@
 unlisted: true
 title: Rymes and Poems
 tags:
-  - _excluded
 publish: true
-modified: 2026-09-07
+modified: 2026-09-17
 id: 01KQQV6TRG2JCRYD00FNE4MJ79
 created: 2026-02-02
 aliases:

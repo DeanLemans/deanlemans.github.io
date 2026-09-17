@@ -1,11 +1,10 @@
 ---
 title: Creating Plant terrarium
 tags:
-  - _excluded
   - green
   - research
 publish: true
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KQQV6TR8FWNVR2CWDNEDF5MG
 created: 2026-03-12
 aliases:

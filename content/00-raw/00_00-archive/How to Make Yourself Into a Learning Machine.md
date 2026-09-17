@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: How to Make Yourself Into a Learning Machine
-tags:
+tags: []
 source: https://superorganizers.substack.com/p/how-to-build-a-learning-machine###
 published: 2022-09-17
 publish: true
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KSDXRJHEBE7K6V1RREN2X86F
 description: "Imagine this:"
 created: 2026-05-24
@@ -146,7 +146,7 @@ This one's a winner. So I'll create an entry in my Zettelkasten for it:
 
 You'll see in my Zettelkasten I put in the original quote, then the source, and then write a small commentary on it.
 
-Then I'll start connecting this to other notes. One way to do that is with tags, and you'll see that I added a #pessimism tag to the note.
+Then I'll start connecting this to other notes. One way to do that is with tags, and you'll see that I added a (pessimism) tag to the note.
 
 But my system also lets me create links directly to other [notes](https://every.to/c/note-taking) as well.
 

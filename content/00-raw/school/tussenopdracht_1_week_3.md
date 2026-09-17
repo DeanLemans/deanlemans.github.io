@@ -1,5 +1,7 @@
 ---
 title: Tussenopdracht 1, week 3
+tags:
+  - toegepaste_biologie
 publish: true
 modified: 2026-09-17
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
@@ -103,8 +105,6 @@ Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt
 
 Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
 
-
-
 1. Voeg eventueel foto's of kaarten toe.
 2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
 3. Controleer of je document voldoet aan de voorwaarden van een verslag.
@@ -114,4 +114,4 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 
-![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.png>)
+![Mijn Afval Score|288](<./Mijn Afval Score.png>)

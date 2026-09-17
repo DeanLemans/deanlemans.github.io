@@ -4,7 +4,7 @@ title: Subconsious
 tags:
   - dreamy
 publish: false
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KQQV6TRD03S3M5TXVZVK7Z9M
 enableToc: false
 description: this does not exist
@@ -450,7 +450,7 @@ Im willing too get bad grades for my rest.
 **Be nice, be forgiving, but dont be a pushover and retaliate if needed.**
 Important. Solution too paradox is external validation and proving too myself that i have improved
 
-- [ ] On how too act, compartalazation or unity/singularity. I choose a mixture of both, work out the details #important #placeholder .***
+- [ ] On how too act, compartalazation or unity/singularity. I choose a mixture of both, work out the details.***
 
 My indescripable scibbles have now meaning/intent behind them. This is for focus and for not falling into despair again. *What changed. Find the meaning*
 

@@ -1,5 +1,7 @@
 ---
 title: brief Daan LOB / informatie gesprekken
+tags:
+  - toegepaste_biologie
 modified: 2026-09-17
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04

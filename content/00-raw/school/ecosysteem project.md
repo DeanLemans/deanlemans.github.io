@@ -1,5 +1,7 @@
 ---
 title: Ecosysteem Project
+tags:
+  - toegepaste_biologie
 publish: true
 modified: 2026-09-17
 id: 01M1XWHCFDRGGJXBWZQRBS1279

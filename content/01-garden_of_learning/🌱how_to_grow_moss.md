@@ -1,11 +1,10 @@
 ---
 title: how To Grow Moss
 tags:
-  - _excluded
   - green
   - research
 publish: true
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KQQV6TR6RZ1BBNR8XTB68CWS
 created: 2026-03-15
 aliases:

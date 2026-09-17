@@ -1,10 +1,9 @@
 ---
-unlisted: true
+unlisted: false
 title: Inbox
-tags:
-  - _excluded
+tags: []
 publish: true
-modified: 2026-09-07
+modified: 2026-09-17
 id: 01KQQV6TSTBWTMMN18RJV3M1JN
 created: 2026-04-10
 ---

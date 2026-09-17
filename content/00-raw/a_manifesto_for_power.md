@@ -2,7 +2,6 @@
 unlisted: true
 title: A Manifesto for Power
 tags:
-  - _excluded
 publish: true
 modified: 2026-09-17
 id: 01KQQV6TS2HH55JZ8WY8KD9JWE

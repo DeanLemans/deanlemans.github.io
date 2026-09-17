@@ -5,7 +5,7 @@ tags:
   - research
   - vanlilfe
 publish: true
-modified: 2026-05-25
+modified: 2026-09-17
 id: 01KQQV6TR1CV98PYDWNJD6RJPQ
 draft: "true"
 created: 2026-03-17
@@ -68,7 +68,7 @@ For help and double checking if my findings are correct.
 + Make the van sustainable, less suspisous, and more efficient, so:(depends large on what type im going to build though)
 + sunpannel + backup generator, wifi, water storage + disposal,
 + some paint/stickers on outside, (better) insulation, water proof, secure storage, camera,
-(will split this up in a multistage plan) #todo
+(will split this up in a multistage plan)
 
 Instead of still officially living with my parents, should probb instead consider a postadres or a shared address service(?)
 (possibly through postnl?), this is to mitigate the risk with authorities.

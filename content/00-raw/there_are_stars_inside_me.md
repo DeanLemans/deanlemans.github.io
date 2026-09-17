@@ -2,10 +2,9 @@
 unlisted: true
 title: There Are Stars Inside Me
 tags:
-  - _excluded
   - dreamy
 publish: false
-modified: 2026-09-07
+modified: 2026-09-17
 id: 01KQQV6TRBR4NXPM3MAN98PXPC
 created: 2026-03-17
 aliases:
