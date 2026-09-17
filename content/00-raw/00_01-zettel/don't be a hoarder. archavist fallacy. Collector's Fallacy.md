@@ -1,7 +1,7 @@
 ---
 title: "don't be a hoarder. archavist fallacy. Collector's Fallacy"
 publish: true
-modified: 2026-07-18
+modified: 2026-09-17
 id: 01KXR9PRAVMS17TVJCN85VZFY2
 created: 2026-07-17
 ---
@@ -14,3 +14,7 @@ be not afraid of filtering stuff you don't need.
 you don't need
 - 20 copies of almost the exact same picture
 - just in case stuff, if you have smth for a long time and it sees no use in daily life, even though you bought it for that purposes. throw it away
+
+## Related
+
+[[dont be wikipedia](<./dont be wikipedia.md>)]

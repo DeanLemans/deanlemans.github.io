@@ -1,7 +1,7 @@
 ---
 title: dont be wikipedia
 publish: true
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01KRW5T4PKDFNP6V0GE0T9NKAJ
 created: 2026-05-17
 ---
@@ -20,3 +20,7 @@ created: 2026-05-17
 > - Don't just create a note for a book or movie. Include a short review, key takeaways, insights, or how it connects to other notes. A note that adds almost nothing beyond publicly available information is usually not worth keeping.
 > 
 > Recreating public knowledge is inefficient. Spend that time capturing original thinking, decisions, observations, and relationships instead.
+
+## Related
+
+[don't be a hoarder. archavist fallacy. Collector's Fallacy](<./don't be a hoarder. archavist fallacy. Collector's Fallacy.md>)
