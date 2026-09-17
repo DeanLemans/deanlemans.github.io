@@ -20,5 +20,7 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "static_files",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-raw/inbox"
 }
