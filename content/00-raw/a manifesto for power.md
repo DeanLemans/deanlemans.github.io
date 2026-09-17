@@ -4,7 +4,7 @@ title: a manifesto for power
 tags:
   - _excluded
 publish: true
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01KQQV6TS2HH55JZ8WY8KD9JWE
 draft: "true"
 description: No Gods, No Masters, No Idols
@@ -15,7 +15,7 @@ aliases: []
 # a manifesto for power
 
 > [!NOTE] A note to those that read this. (TLDR; FUCK OFF)
-> this page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this. this is the driving framework of what i want to become.
+> this page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this.
 > its too offensive to some so i will most likely never show this to people.
 
 > [!NOTE] to be integrated into document

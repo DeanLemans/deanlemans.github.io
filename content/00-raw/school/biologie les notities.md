@@ -1,6 +1,7 @@
 ---
 title: Toegepaste Biologie les notities
-modified: 2026-09-16
+publish: true
+modified: 2026-09-17
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
 ---

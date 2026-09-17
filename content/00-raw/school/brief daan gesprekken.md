@@ -1,6 +1,6 @@
 ---
 title: brief Daan LOB / informatie gesprekken
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04
 ---
@@ -36,11 +36,11 @@ created: 2026-09-04
 ## Hoe jij leert
 
 - Wat helpt jou om goed te leren?
-	- als ik dingen leer waar ik intresse in heb
+	- **als ik dingen leer waar ik intresse in heb**
 - Wat vind je lastig of school?
 	- **niet willen leren OR werken als het mij niet intereseert**
 - Waarom ben jij hier? (extra vraag door Dean bedacht)
-	- ik ben hier om te leren te onderzoeke, dit is mijn 2de keuze omdat ETC ETC(will finish later)
+	- **ik ben hier om te leren te onderzoeke, dit is mijn 2de keuze omdat ETC ETC(will finish later)**
 - Waneer raak je gemotiveerd?
 	- **dingen leren die nutig / interesant vind.**
 - Waar heb je soms hulp bij nodig?

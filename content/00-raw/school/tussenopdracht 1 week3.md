@@ -1,16 +1,14 @@
 ---
 title: Tussenopdracht 1, week 3
 publish: true
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
 ---
 
 # Tussenopdracht 1, week 3
 
-## Opdracht economische waarde
-
-Deze opdracht hoort bij het thema: Economische waarde.
+## Opdracht: economische waarde
 
 ### 1. Onderzoek je leefomgeving
 
@@ -30,7 +28,6 @@ Beschrijf:
 ### 2. Afvalverwerking in jouw gemeente
 
 Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
-
 Beschrijf onder andere:
 
 * Hoe afval wordt ingezameld.
@@ -98,7 +95,7 @@ Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt
 **2. Eigen compost maken van groenteen fruitresten, zodat dit afval niet wordt weggegooid maar hergebruikt wordt als voeding voor de tuin.**
 **3. Herbruikbaar groenafval in de tuin laten liggen in plaats van bij het restafval te gooien.**
 
-**Voor deze opdracht heb ik voor 1 dag een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien (ga ik eenmalig doen, ik ga deze onzin niet structureel toepassen zolang het niet hoeft).**
+**Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
 
 ### 5. Verwerk je bevindingen in een verslag
 
