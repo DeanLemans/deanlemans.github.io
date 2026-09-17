@@ -17,22 +17,25 @@ aliases:
 ### 1. Onderzoek je leefomgeving
 
 Onderzoek hoeveel afval er bij jou thuis wordt geproduceerd.
-
 Beschrijf:
 
 * Hoeveel afval er gemiddeld wordt geproduceerd in kg.
-   * **Ongeveer 1257 kg.**
+   * **Ongeveer 1257 kg per jaar**
 * Welke soorten afval voorkomen binnen jouw huishouden.
    * **Restafval, GFT, papier, plastic, glas.**
 * In welke categorieën het afval kan worden ingedeeld.
-   * **Groen, plastic, rest, papier.**
+   * **Groen, plastic, rest, papier, glas.**
 * Geef per categorie een schatting of meting van de hoeveelheid afval.
    * **50% rest, 20% papier, 20% plastic, 10% overig.**
+   * **GFT/groen: 25%, glas: 5%
 
 ### 2. Afvalverwerking in jouw gemeente
 
 Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
 Beschrijf onder andere:
+
+**Gemeente Maashorst**
+[Afval | Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
 
 * Hoe afval wordt ingezameld.
    * **Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen.**
@@ -91,6 +94,17 @@ Plastic
 * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
    * **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
 
+Glas
+
+* Waar het afval vandaan komt.
+   * **Glazen flessen en potten.**
+* Waarom dit afval wordt geproduceerd.
+   * **We kopen eten en drinken in glas.**
+* Of de productie van dit afval voorkomen of verminderd kan worden.
+   * **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
+* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+   * **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
+
 ### 4. Verbetermogelijkheden
 
 Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
@@ -100,6 +114,10 @@ Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt
 **3. Herbruikbaar groenafval in de tuin laten liggen/gebruiken in plaats van bij het restafval te gooien.**
 
 **Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
+
+*Photo 1: photo prullenbak*
+*Photo 2: photo van compost*
+*Photo 3: photo theezak in tuin
 
 ### 5. Verwerk je bevindingen in een verslag
 
