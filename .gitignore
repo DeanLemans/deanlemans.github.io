@@ -5,11 +5,6 @@ public
 prof
 tsconfig.tsbuildinfo
 
-#.obsidian (for my boy sander)
-content/.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/workspace.json
-.obsidian/updates.json
 
 #quartz specific stuff
 private/
@@ -19,8 +14,18 @@ replit.nix
 quartz/cli/tui/dist/
 .quartz-cache
 
+#.obsidian (for my boy sander)
+content/.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/updates.json
+
 #my mods
 docs/
 .stversions
 .stfolder
 .trash
+content/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+/home/void/repositories/deanlemans.github.io/content/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+cursor-positions.json
+/content/.obsidian/plugins/remember-cursor-position/cursor-positions.json
