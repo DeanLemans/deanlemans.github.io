@@ -85,4 +85,4 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 	- soorten ontwikkelen verschillende kenmerken, door zich om verschillende leefomstandigheden aan te passen
 
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-	- (moved to standalone note [history doesnt decide shape, environment does](<../00_01-zettel/history doesnt decide shape, environment does.md>))
+	- (moved to standalone note [history_doesnt_decide_shape,_environment_does](<../00_01-zettel/history_doesnt_decide_shape,_environment_does.md>))

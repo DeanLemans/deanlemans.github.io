@@ -1,12 +1,14 @@
 ---
-title: history doesnt decide shape, environment does
+title: history/ancestry doesn't decide shape, environment does
 publish: true
-modified: 2026-09-16
+modified: 2026-09-17
 id: 01M2P53MSE3RHREWRH2XBXR97C
 created: 2026-09-16
+aliases:
+  - history doesnt decide shape, environment does
 ---
 
-# history doesnt decide shape, environment does
+# history/ancestry doesn't decide shape, environment does
 
 for now only contains biological stuff, should add social stuff to this higher concept
 
