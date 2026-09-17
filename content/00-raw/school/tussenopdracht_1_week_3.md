@@ -93,9 +93,9 @@ Plastic
 
 Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
 
-**1. Extra prullenbak neerzetten voor groenafval, zodat etensresten niet meer bij het restafval belanden.**
+**1. Extra prullenbak neerzetten voor groenafval, zodat we minder bij de restafval gooien.**
 **2. Eigen compost maken van groenteen fruitresten, zodat dit afval niet wordt weggegooid maar hergebruikt wordt als voeding voor de tuin.**
-**3. Herbruikbaar groenafval in de tuin laten liggen in plaats van bij het restafval te gooien.**
+**3. Herbruikbaar groenafval in de tuin laten liggen/gebruiken in plaats van bij het restafval te gooien.**
 
 **Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
 
@@ -103,7 +103,7 @@ Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt
 
 Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
 
-**In dit verslag beschrijf ik hoeveel afval er bij mij thuis wordt geproduceerd, welke soorten afval dit zijn, en hoe dit verdeeld is over de categorieën rest, papier, groen en plastic. Ook beschrijf ik hoe mijn gemeente met afvalinzameling en -verwerking omgaat. Per afvalstroom ga ik in op waar het afval vandaan komt, waarom het ontstaat, en of het voorkomen, verminderd of hergebruikt kan worden. Tot slot beschrijf ik drie verbeteringen volgens de Drie R'en, waarvan ik er één heb uitgeprobeerd.**
+
 
 1. Voeg eventueel foto's of kaarten toe.
 2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
