@@ -133,3 +133,40 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 
 ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
+
+---
+
+# Verslag
+
+### Inleiding
+
+Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren. Doel: inzicht krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
+
+### Method
+
+Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan.
+
+### Resultaten
+
+Owns huishouden produceert ongeveer 1257 kg afval per jaar. Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op. Glas en papier worden ook gescheiden. Je betaalt per restafval, dus scheiden loont.
+Mijn eigen afval:
+* Rest: etensresten, stof, haar. Wordt verbrand.
+* Papier: dozen, enveloppen, pakketjes. Wordt gerecycled.
+* Groen: fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+* Plastic: verpakkingen van eten en drinken. Wordt gesorteerd en verwerkt.
+* Glas: flessen en potten. Wordt omgesmolten.
+Ik kan dingen verbeteren:
+1. Extra prullenbak voor groenafval.
+2. Eigen compost maken.
+3. Groenafval in de tuin laten liggen.
+
+### Conclusie
+
+Ik kan mijn afvalstroom verbeteren door minder eten weg te gooien, glazen potten te hergebruiken en groenafval apart te houden. Dat past bij Reduce, Reuse en Recycle. Als ik dat doe, wordt mijn restafval minder.
+
+### Bronnen
+
+Gemeente Maashorst. (2024). *Afval*. <https://www.gemeentemaashorst.nl/inwoners/afval/>
+Centraal Bureau voor de Statistiek. (2024). *Huishoudelijk afval per gemeente per inwoner*. <https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>
+LangMee. (z.d.). *Interactieve huishoudelijke afvalcalculator*. <https://www.langmee.nl/afval/>
+![Mijn Afval Score|288](<./Mijn Afval Score.png>)
