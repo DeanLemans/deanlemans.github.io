@@ -63,7 +63,7 @@ Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator
 * Brievenbussticker: nee/nee
 * Maaltijdbox: nee
 
-De uitkomst van de calculator is een schatting en geen echte weging. De uitslag staat onderaan bij [Uitslag afval calculator](<#6-uitslag-afval-calculator>).
+De uitkomst van de calculator is een schatting en nie echte super acuraat. De uitslag staat onderaan bij de bronnen.
 
 ## 3. Resultaten
 
@@ -75,11 +75,9 @@ De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas
 
 Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. (Gemeente Maashorst, z.d.)
 
-(voeg toe dingen over hoe de gemeente dingen splits en recycled)
+(TOO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
-Je betaalt per restafval, dus scheiden loont?
-
-De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus ja, scheiden loont. (Gemeente Maashorst, z.d.)
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus scheiden loont. (Gemeente Maashorst, z.d.)
 
 ### Mijn eigen afval
 
@@ -99,7 +97,7 @@ De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier,
 	* **Waarom:** we kopen eten en drinken in glas.
 	* **Voorkomen:** statiegeldflessen gebruiken, vaker herbruikbare verpakkingen kiezen en glazen potten hergebruiken voor projecten (Reduce en Reuse).
 
-(ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
+(ik heb er vaak **soms** bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan, in Nederland.)
 
 ### Verbeterpunten
 
@@ -127,19 +125,19 @@ Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 
 ### Uitvoering
 
-Dit heb ik gedaan voor de verbeterpunten hierboven, in dezelfde volgorde.
+Dit heb ik gedaan voor de verbeterpunten boven, zelfde volgorde.
 
-Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
+Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, we deden vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
 
-Verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
+Verder ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
 
-Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
+Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten, ETC) ben ik die gewoon in het zand van de binnenplanten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
 
-Ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
+Ik heb laats gratis afgekeurd glas kunnen ophalen via marktplaats
 
 ## 4. Slot/Einde
 
-Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.(en dat is het doel van deze opdracht dat ik moet laten zien dat ik het kan denk ik)
+Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.(en dat is het doel van deze opdracht dat ik moet laten zien dat ik het kan denk ik)
 
 ## 5. Bronnen
 
