@@ -9,7 +9,7 @@ aliases: []
 
 # /now
 
-[ecosysteem project](<./00-raw/school/ecosysteem project.md>)
+[ecosysteem_project](<./00-raw/school/ecosysteem_project.md>)
 [🪴shed_greenhouse](<./01-garden_of_learning/🪴shed_greenhouse.md>)
 
 - See: [01 projects](<./01-garden_of_learning/index.md>)for my current projects
