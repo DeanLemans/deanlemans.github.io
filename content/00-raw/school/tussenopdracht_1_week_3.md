@@ -10,13 +10,14 @@ aliases:
   - tussenopdracht 1 week3
 ---
 
+
 # Tussenopdracht 1, week 3 en 4
 
 # Verslag
 
 **Door:** Dean Lemans
-**Plaats en datum:** Nederland, Uden. 18-09-2026
-**Opdrachtgever:** Gerjan docent Yuverta
+**Plaats en datum:** Nederland, Uden. 2026-10-07 tot 18-09-2026
+**Opdrachtgever:** Gerjan docent Yuverta(opdracht ook samen gemaakt met Daan? niet zeker)
 
 # Inhoudsopgave
 
@@ -72,17 +73,31 @@ De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
 De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) (Gemeente Maashorst, z.d.)
 
-(voeg toe dingen over hoe de gemeente dingen splits en resycled)
+Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. (Gemeente Maashorst, z.d.)
+
+(voeg toe dingen over hoe de gemeente dingen splits en recycled)
 
 Je betaalt per restafval, dus scheiden loont?
+
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus ja, scheiden loont. (Gemeente Maashorst, z.d.)
 
 ### Mijn eigen afval
 
 * **Rest:** etensresten, stof, haar. Wordt soms verbrand.
+	* **Waarom:** we eten, haar valt uit je hoofd en we stofzuigen.
+	* **Voorkomen:** minder eten weggooien scheelt al veel (Reduce).
 * **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
+	* **Waarom:** we bestellen dingen en maken ze open.
+	* **Voorkomen:** minder losse pakketjes bestellen (Reduce).
 * **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+	* **Waarom:** we eten en trekken onkruid.
+	* **Voorkomen:** minder eten laten bederven (Reduce).
 * **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+	* **Waarom:** we kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.
+	* **Voorkomen:** statiegeldflessen gebruiken in plaats van wegwerpflessen (Reduce).
 * **Glas:** flessen en potten. Wordt soms omgesmolten.
+	* **Waarom:** we kopen eten en drinken in glas.
+	* **Voorkomen:** statiegeldflessen gebruiken, vaker herbruikbare verpakkingen kiezen en glazen potten hergebruiken voor projecten (Reduce en Reuse).
 
 (ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
 
@@ -90,10 +105,25 @@ Je betaalt per restafval, dus scheiden loont?
 
 Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 
-1. Extra prullenbak binnen voor groenafval.
-2. Eigen compost maken.
-3. Klein Groenafval in de tuin of binnen bij de planten begraven.
-4. glaspotten hergebruiken/afgekeurd glas gebruiken
+1. Extra prullenbak binnen voor groenafval. (Reduce en Recycle: minder groen in het restafval, meer gescheiden)
+
+	> [!image]- foto prullenbak  
+	> ![189](<../../static_files/Pasted image 20260918095202.png>)
+
+2. Eigen compost maken. (Recycle: groenafval wordt voeding voor de tuin)
+
+	> [!image]- foto compost  
+	> ![332](<../../static_files/Pasted image 20260918095146.png>)
+
+3. Klein Groenafval in de tuin of binnen bij de planten begraven. (Reuse)
+
+	> [!image]- foto groenafval begraven  
+	> ![213](<../../static_files/Pasted image 20260918095220.png>)
+
+4. glaspotten hergebruiken/afgekeurd glas gebruiken (Reuse)
+
+	> [!image]- foto glaspotten  
+	> ![213](<../../static_files/Pasted image 20260918095220.png>)
 
 ### Uitvoering
 
@@ -150,13 +180,13 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten 
 > (moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
 >
 > * Hoe afval wordt ingezameld.
->    * **Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen.**
+>    * **Gemeente Maashorst geeft je meestal drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Je oranje zakken die je aan paaltjes moet hangen.**
 > * Welke afvalstromen worden gescheiden.
 >    * **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
 > * Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
->    * **De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen.**
+>    * **Kliko's worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
 > * Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
->    * **Betalen per hoeveelheid restafval, en gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
+>    * **Gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
 > 
 > ### 3. Onderzoek naar jouw eigen afvalstroom
 >
@@ -227,9 +257,9 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten 
 >
 > **Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
 >
-> *photo prullenbak*
-> *photo van compost*
-> *photo theezak in tuin
+> *foto prullenbak*
+> *foto van compost*
+> *foto theezak in tuin
 >
 > ### 5. Verwerk je bevindingen in een verslag
 >
