@@ -163,20 +163,17 @@ Mijn eigen afval:
 (ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
 
 verbeter punten:
-1. Extra prullenbak binnen voor groenafval.
-> [!image]-
+
+> [!image]- 1. Extra prullenbak binnen voor groenafval.
 > ![189](<../../static_files/Pasted image 20260918095202.png>)
 
-2. Eigen compost maken.
-> [!image]-
+> [!image]- 2. Eigen compost maken.
 > ![332](<../../static_files/Pasted image 20260918095146.png>)
 
-3. Klein Groenafval in de tuin of binnen bij de planten begraven .
-> [!image]-
+> [!image]- 3. Klein Groenafval in de tuin of binnen bij de planten begraven.
 > ![213](<../../static_files/Pasted image 20260918095220.png>)
 
-4. glaspotten hergebruiken/afgekeurd glas gebruiken
-> [!image]-
+> [!image]- 4. glaspotten hergebruiken/afgekeurd glas gebruiken
 > ![167](<../../static_files/Pasted image 20260918095432.png>)
 
 om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
