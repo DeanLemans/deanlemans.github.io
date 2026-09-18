@@ -1,7 +1,7 @@
 ---
 title: /now
 publish: true
-modified: 2026-07-17
+modified: 2026-09-18
 id: 01KQQV6TQ3TK7QG0G1759NQZDR
 created: 2026-03-17
 aliases: []
@@ -9,11 +9,11 @@ aliases: []
 
 # /now
 
-[🌱plant_terrarium_project](<./01-garden_of_learning/🌱plant_terrarium_project.md>)
-[🌱how_to_grow_moss](<./01-garden_of_learning/🌱how_to_grow_moss.md>)
+[ecosysteem project](<./00-raw/school/ecosysteem project.md>)
 [🪴shed_greenhouse](<./01-garden_of_learning/🪴shed_greenhouse.md>)
 
 - See: [01 projects](<./01-garden_of_learning/index.md>)for my current projects
+- See: [school folder](<./00-raw/school/index.md>) for my school work
 
 ---
 

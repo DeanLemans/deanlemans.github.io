@@ -986,7 +986,7 @@ Small problem:
 
 Conclusie:
 4. Tot nu toe is de sint lucas nog teleurstelend omdat we te weinig tijd besteden aan software development, en dat owns SD prac docent moet onze voor onze creativity invallen waardoor we nog minder tijd hebben voor onze lessen in sd.
-[School klachten](<../School klachten.md>)
+[School klachten](<./inbox/School klachten.md>)
 
 ---
 

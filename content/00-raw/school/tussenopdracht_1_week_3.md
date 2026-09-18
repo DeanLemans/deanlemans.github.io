@@ -36,6 +36,7 @@ Beschrijf onder andere:
 
 **Gemeente Maashorst**
 [Afval | Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
+(moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
 
 * Hoe afval wordt ingezameld.
    * **Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen.**
@@ -151,7 +152,7 @@ Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb 
 
 ### Resultaten
 
-Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier worden ook gescheiden. je hebt aparte plekken waar je glas in kan leveren.
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval)
 Je betaalt per restafval, dus scheiden loont?
 Mijn eigen afval:
 * Rest: etensresten, stof, haar. Wordt soms verbrand.
@@ -163,9 +164,13 @@ Mijn eigen afval:
 
 verbeter punten:
 1. Extra prullenbak binnen voor groenafval.
+![189](<../../static_files/Pasted image 20260918095202.png>)
 2. Eigen compost maken.
+![332](<../../static_files/Pasted image 20260918095146.png>)
 3. Klein Groenafval in de tuin of binnen bij de planten begraven .
-4. glaspotten hergebruiken
+![213](<../../static_files/Pasted image 20260918095220.png>)
+4. glaspotten hergebruiken/afgekeurd glas gebruiken
+![167](<../../static_files/Pasted image 20260918095432.png>)
 
 om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
 verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).

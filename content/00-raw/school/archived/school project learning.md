@@ -13,7 +13,7 @@ created: 2026-03-17
 # Reflection on Project
 
 I made the scope way to big, and i should have build a whole godamn site, but it was fun to do. This is my final project for sintlucas, as i have realised for the final time that the things they teach us arnt useful to me. Add that to the promises they made, 2 month burnout of teachers, the *godamn drawing lessons*, and having a teacher that hasn't been teaching us for 2 whole periods (*that's 4 fucking months btw*). Unstuctured lessons and other such stuff. I have decided to drop out.
-[[School klachten]]
+[School klachten](<../../inbox/School klachten.md>)
 
 > [!Map]- General Plan
 > - 3 kleine games maken in deze period waar ik verschillende onderwerpen mix.
@@ -34,7 +34,7 @@ Of
 > 6. Enemy animatie.
 
 > [!imap]- PDF onderzoek
-> ![[__temp__software verdieping onderzoek.pdf]]
+> ![__temp__software verdieping onderzoek.pdf](<../../inbox/__temp__software verdieping onderzoek.pdf.md>)
 
 ## Backlog
 
