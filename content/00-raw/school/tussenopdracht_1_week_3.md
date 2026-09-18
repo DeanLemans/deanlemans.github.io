@@ -165,6 +165,8 @@ Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst 
 
 Doel van school: studenten inzicht laten krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
 
+Eerst leg ik uit hoe ik het heb onderzocht. Daarna komt resultaten, mijn verbeterpunten en wat ik daarmee heb gedaan. Verslag eindigt met slot.
+
 ## 2. Method
 
 Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
@@ -173,7 +175,11 @@ Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb 
 
 Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
 
+De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
+
 De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval)
+
+(voeg toe dingen over hoe de gemeente dingen splits en resycled)
 
 Je betaalt per restafval, dus scheiden loont?
 
@@ -189,12 +195,16 @@ Je betaalt per restafval, dus scheiden loont?
 
 ### Verbeterpunten
 
+Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
+
 1. Extra prullenbak binnen voor groenafval.
 2. Eigen compost maken.
 3. Klein Groenafval in de tuin of binnen bij de planten begraven.
 4. glaspotten hergebruiken/afgekeurd glas gebruiken
 
 ### Uitvoering
+
+Dit heb ik gedaan voor de verbeterpunten hierboven, in dezelfde volgorde.
 
 Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
 
@@ -203,8 +213,6 @@ Verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de 
 Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
 
 Ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
-
-(voeg toe dingen over hoe de gemeente dingen splits en resycled)
 
 ## 4. Slot/Einde
 
