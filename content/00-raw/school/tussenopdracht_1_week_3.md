@@ -26,7 +26,7 @@ aliases:
 3. [Resultaten](<#3-resultaten>)
    * [Mijn eigen afval](<#mijn-eigen-afval>)
    * [Verbeterpunten](<#verbeterpunten>)
-   * [Uitvoering](<#uitvoering>)
+   * [Wat ik heb gedaan](<#wat-ik-heb-gedaan>)
 4. [Slot/Einde](<#4-sloteinde>)
 5. [Bronnen](<#5-bronnen>)
 
@@ -50,9 +50,9 @@ Eerst leg ik uit hoe ik het heb onderzocht. Daarna resultaten, mijn verbeterpunt
 
 ## 2. Method
 
-Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) (Gemeente Maashorst, z.d.; CBS, z.d.; LangMee, z.d.). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
+Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>); [CBS, z.d.](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>); [LangMee, z.d.](<https://www.langmee.nl/afval/>)). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
 
-Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld (LangMee, z.d.). Dit heb ik ongeveer ingevuld:
+Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld ([LangMee, z.d.](<https://www.langmee.nl/afval/>)). Dit heb ik ongeveer ingevuld:
 
 * Aantal personen in huis: 3
 * Type woning: tussenwoning (huurwoning)
@@ -67,17 +67,17 @@ De uitkomst van de calculator is een schatting en nie echte super acuraat. De ui
 
 ## 3. Resultaten
 
-Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via LangMee, z.d.) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+Ons huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee, z.d.](<https://www.langmee.nl/afval/>)) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
 
 De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
-De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) (Gemeente Maashorst, z.d.)
+De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
-Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. (Gemeente Maashorst, z.d.)
+Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
 (TOO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
-De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus scheiden loont. (Gemeente Maashorst, z.d.)
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus scheiden loont. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
 ### Mijn eigen afval
 
@@ -123,7 +123,7 @@ Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 	> [!image]- foto glaspotten - KLIK HIER OP!
 	> ![213](<../../static_files/Pasted image 20260918095220.png>)
 
-### Uitvoering
+### Wat ik heb gedaan
 
 Dit heb ik gedaan voor de verbeterpunten boven, zelfde volgorde.
 
@@ -142,8 +142,8 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 ## 5. Bronnen
 
 1. CBS. (z.d.). [*Huishoudelijk afval per gemeente per inwoner*](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>). Gebruikt op 17 september 2026, van <https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>
-2. Gemeente Maashorst. (z.d.). *Afval*. Gebruikt op 17 september 2026, van <https://www.gemeentemaashorst.nl/inwoners/afval/>
-3. LangMee. (z.d.). *Afvalvoetafdruk Simulator*. Gebruikt op 15 september 2026, van <https://www.langmee.nl/afval/>
+2. Gemeente Maashorst. (z.d.). [*Afval*](<https://www.gemeentemaashorst.nl/inwoners/afval/>). Gebruikt op 17 september 2026, van <https://www.gemeentemaashorst.nl/inwoners/afval/>
+3. LangMee. (z.d.). [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>). Gebruikt op 15 september 2026, van <https://www.langmee.nl/afval/>
 4. Yuverta. (z.d.). [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>).
 
 > [!image]- Uitslag afval calculator
