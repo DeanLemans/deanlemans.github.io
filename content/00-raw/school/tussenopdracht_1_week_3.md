@@ -132,8 +132,8 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 
 * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
-
-![Mijn Afval Score|288](<./Mijn Afval Score.png>)
+> [!image]- Uitslag afvalcalulator
+> ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
 
 ---
 
@@ -164,13 +164,20 @@ Mijn eigen afval:
 
 verbeter punten:
 1. Extra prullenbak binnen voor groenafval.
-![189](<../../static_files/Pasted image 20260918095202.png>)
+> [!image]-
+> ![189](<../../static_files/Pasted image 20260918095202.png>)
+
 2. Eigen compost maken.
-![332](<../../static_files/Pasted image 20260918095146.png>)
+> [!image]-
+> ![332](<../../static_files/Pasted image 20260918095146.png>)
+
 3. Klein Groenafval in de tuin of binnen bij de planten begraven .
-![213](<../../static_files/Pasted image 20260918095220.png>)
+> [!image]-
+> ![213](<../../static_files/Pasted image 20260918095220.png>)
+
 4. glaspotten hergebruiken/afgekeurd glas gebruiken
-![167](<../../static_files/Pasted image 20260918095432.png>)
+> [!image]-
+> ![167](<../../static_files/Pasted image 20260918095432.png>)
 
 om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
 verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
@@ -183,7 +190,9 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten 
 
 ### Bronnen
 
-<https://www.gemeentemaashorst.nl/inwoners/afval/>
-* [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
-* [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
-![Mijn Afval Score|288](<./Mijn Afval Score.png>)
+1. [Afval \| Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
+2. [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
+3. [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
+
+> [!image]- Uitslag afval calculator
+> ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
