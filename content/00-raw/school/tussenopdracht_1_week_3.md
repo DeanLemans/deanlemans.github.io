@@ -16,7 +16,7 @@ aliases:
 # Verslag
 
 **Door:** Dean Lemans
-**Plaats en datum:** Nederland, Uden. 2026-10-07 tot 18-09-2026
+**Plaats en datum:** Nederland, Uden. 2026-09-10 tot 2026-09-18
 **Opdrachtgever:** Gerjan docent Yuverta(opdracht ook samen gemaakt met Daan? niet zeker)
 
 # Inhoudsopgave
@@ -77,7 +77,7 @@ Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Som
 
 (TOO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
-De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald. Dus scheiden loont. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald.(niet percee compleet gratis, maar je betaalt via de [afvalstoffenheffing](https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/)) Dus scheiden loont. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
 ### Mijn eigen afval
 
