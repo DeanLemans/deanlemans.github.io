@@ -12,7 +12,118 @@ aliases:
 
 # Tussenopdracht 1, week 3
 
-## Opdracht: economische waarde
+# Verslag
+
+**Door:** Dean Lemans
+**Plaats en datum:** Nederland, Uden. 18-09-2026
+**Opdrachtgever:** Gerjan docent Yuverta
+
+# Inhoudsopgave
+
+1. [Inleiding](<#1-inleiding>)
+2. [Method](<#2-method>)
+3. [Resultaten](<#3-resultaten>)
+   * [Mijn eigen afval](<#mijn-eigen-afval>)
+   * [Verbeterpunten](<#verbeterpunten>)
+   * [Uitvoering](<#uitvoering>)
+4. [Slot/Einde](<#4-sloteinde>)
+5. [Bronnen](<#5-bronnen>)
+
+---
+
+## 1. Inleiding
+
+Iedereen maakt thuis afval. Een groot deel daarvan kan je scheiden of hergebruiken, zodat er minder in het restafval komt en minder in de toekomst hoeft te kopen.
+
+Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren en kan veranderen.
+
+Mijn onderzoeksvraag is: hoeveel afval produceren wij thuis en wat kan ik zelf verbeteren?
+
+Doel van school: studenten inzicht laten krijgen in eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
+
+Persoonlijk doel: is te kijken wat wij thuis beter kunnen doen met owns afval.
+
+De Drie R'en zijn Reduce (minder afval), Reuse (dingen opnieuw gebruiken) en Recycle (afval scheiden zodat gerecycled kan worden).
+
+Eerst leg ik uit hoe ik het heb onderzocht. Daarna resultaten, mijn verbeterpunten en wat ik daarmee heb gedaan. Verslag eindigt met slot.(best well logisch toch?)
+
+## 2. Method
+
+Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) (Gemeente Maashorst, z.d.; CBS, z.d.; LangMee, z.d.). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
+
+Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld (LangMee, z.d.). Dit heb ik ongeveer ingevuld:
+
+* Aantal personen in huis: 3
+* Type woning: tussenwoning (huurwoning)
+* 1 hond
+* Tuin: ja
+* Auto: ja
+* Open haard: nee
+* Brievenbussticker: nee/nee
+* Maaltijdbox: nee
+
+De uitkomst van de calculator is een schatting en geen echte weging. De uitslag staat onderaan bij [Uitslag afval calculator](<#6-uitslag-afval-calculator>).
+
+## 3. Resultaten
+
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via LangMee, z.d.) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+
+De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
+
+De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) (Gemeente Maashorst, z.d.)
+
+(voeg toe dingen over hoe de gemeente dingen splits en resycled)
+
+Je betaalt per restafval, dus scheiden loont?
+
+### Mijn eigen afval
+
+* **Rest:** etensresten, stof, haar. Wordt soms verbrand.
+* **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
+* **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+* **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+* **Glas:** flessen en potten. Wordt soms omgesmolten.
+
+(ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
+
+### Verbeterpunten
+
+Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
+
+1. Extra prullenbak binnen voor groenafval.
+2. Eigen compost maken.
+3. Klein Groenafval in de tuin of binnen bij de planten begraven.
+4. glaspotten hergebruiken/afgekeurd glas gebruiken
+
+### Uitvoering
+
+Dit heb ik gedaan voor de verbeterpunten hierboven, in dezelfde volgorde.
+
+Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
+
+Verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
+
+Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
+
+Ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
+
+## 4. Slot/Einde
+
+Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.(en dat is het doel van deze opdracht dat ik moet laten zien dat ik het kan denk ik)
+
+## 5. Bronnen
+
+1. CBS. (z.d.). [*Huishoudelijk afval per gemeente per inwoner*](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>). Gebruikt op 17 september 2026, van <https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>
+2. Gemeente Maashorst. (z.d.). *Afval*. Gebruikt op 17 september 2026, van <https://www.gemeentemaashorst.nl/inwoners/afval/>
+3. LangMee. (z.d.). *Afvalvoetafdruk Simulator*. Gebruikt op 15 september 2026, van <https://www.langmee.nl/afval/>
+4. Yuverta. (z.d.). [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>).
+
+> [!image]- Uitslag afval calculator
+> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
+
+---
+
+(hieronder de onverwerkte opdracht)
 
 ### 1. Onderzoek je leefomgeving
 
@@ -133,97 +244,4 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 > [!image]- Uitslag afvalcalulator
-> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
-
----
-
-# Verslag
-
-**Door:** Dean Lemans
-**Plaats en datum:** Nederland, Uden. 18-09-2026
-**Opdrachtgever:** Gerjan docent Yuverta
-
-# Inhoudsopgave
-
-1. [Inleiding](<#1-inleiding>)
-2. [Method](<#2-method>)
-3. [Resultaten](<#3-resultaten>)
-   * [Mijn eigen afval](<#mijn-eigen-afval>)
-   * [Verbeterpunten](<#verbeterpunten>)
-   * [Uitvoering](<#uitvoering>)
-4. [Slot/Einde](<#4-sloteinde>)
-5. [Bronnen](<#5-bronnen>)
-6. [Uitslag afval calculator](<#6-uitslag-afval-calculator>)
-
----
-
-## 1. Inleiding
-
-(add: introductie onderwerp, probleem/doelstelling is helder, opbouw verslag)
-
-Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren en kan veranderen.
-
-Doel van school: studenten inzicht laten krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
-
-Eerst leg ik uit hoe ik het heb onderzocht. Daarna komt resultaten, mijn verbeterpunten en wat ik daarmee heb gedaan. Verslag eindigt met slot.
-
-## 2. Method
-
-Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
-
-## 3. Resultaten
-
-Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
-
-De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
-
-De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval)
-
-(voeg toe dingen over hoe de gemeente dingen splits en resycled)
-
-Je betaalt per restafval, dus scheiden loont?
-
-### Mijn eigen afval
-
-* **Rest:** etensresten, stof, haar. Wordt soms verbrand.
-* **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
-* **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
-* **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
-* **Glas:** flessen en potten. Wordt soms omgesmolten.
-
-(ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
-
-### Verbeterpunten
-
-Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
-
-1. Extra prullenbak binnen voor groenafval.
-2. Eigen compost maken.
-3. Klein Groenafval in de tuin of binnen bij de planten begraven.
-4. glaspotten hergebruiken/afgekeurd glas gebruiken
-
-### Uitvoering
-
-Dit heb ik gedaan voor de verbeterpunten hierboven, in dezelfde volgorde.
-
-Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
-
-Verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
-
-Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
-
-Ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
-
-## 4. Slot/Einde
-
-Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.
-
-## 5. Bronnen
-
-1. [Afval \| Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
-2. [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
-3. [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
-4. [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
-
-> [!image]- Uitslag afval calculator
 > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
