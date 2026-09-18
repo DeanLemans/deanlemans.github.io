@@ -107,22 +107,22 @@ Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 
 1. Extra prullenbak binnen voor groenafval. (Reduce en Recycle: minder groen in het restafval, meer gescheiden)
 
-	> [!image]- foto prullenbak  
+	> [!image]- foto prullenbak - KLIK HIER OP!
 	> ![189](<../../static_files/Pasted image 20260918095202.png>)
 
 2. Eigen compost maken. (Recycle: groenafval wordt voeding voor de tuin)
 
-	> [!image]- foto compost  
+	> [!image]- foto compost - KLIK HIER OP!
 	> ![332](<../../static_files/Pasted image 20260918095146.png>)
 
 3. Klein Groenafval in de tuin of binnen bij de planten begraven. (Reuse)
 
-	> [!image]- foto groenafval begraven  
+	> [!image]- foto groenafval - KLIK HIER OP!  
 	> ![213](<../../static_files/Pasted image 20260918095220.png>)
 
 4. glaspotten hergebruiken/afgekeurd glas gebruiken (Reuse)
 
-	> [!image]- foto glaspotten  
+	> [!image]- foto glaspotten - KLIK HIER OP!
 	> ![213](<../../static_files/Pasted image 20260918095220.png>)
 
 ### Uitvoering
