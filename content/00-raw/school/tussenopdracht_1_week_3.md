@@ -3,7 +3,7 @@ title: Tussenopdracht 1, week 3
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-17
+modified: 2026-09-18
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
 aliases:
@@ -115,9 +115,9 @@ Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt
 
 **Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
 
-*Photo 1: photo prullenbak*
-*Photo 2: photo van compost*
-*Photo 3: photo theezak in tuin
+*photo prullenbak*
+*photo van compost*
+*photo theezak in tuin
 
 ### 5. Verwerk je bevindingen in een verslag
 
@@ -140,33 +140,43 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 
 ### Inleiding
 
-Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren. Doel: inzicht krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
+Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren en kan veranderen.
+Doel van school: studenten inzicht laten krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
 
 ### Method
 
-Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan.
+Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
 
 ### Resultaten
 
-Owns huishouden produceert ongeveer 1257 kg afval per jaar. Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op. Glas en papier worden ook gescheiden. Je betaalt per restafval, dus scheiden loont.
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier worden ook gescheiden. je hebt aparte plekken waar je glas in kan leveren.
+Je betaalt per restafval, dus scheiden loont?
 Mijn eigen afval:
-* Rest: etensresten, stof, haar. Wordt verbrand.
-* Papier: dozen, enveloppen, pakketjes. Wordt gerecycled.
+* Rest: etensresten, stof, haar. Wordt soms verbrand.
+* Papier: dozen, enveloppen, pakketjes. Wordt soms gerecycled.
 * Groen: fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
-* Plastic: verpakkingen van eten en drinken. Wordt gesorteerd en verwerkt.
-* Glas: flessen en potten. Wordt omgesmolten.
-Ik kan dingen verbeteren:
-1. Extra prullenbak voor groenafval.
+* Plastic: verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+* Glas: flessen en potten. Wordt soms omgesmolten.
+(ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
+
+verbeter punten:
+1. Extra prullenbak binnen voor groenafval.
 2. Eigen compost maken.
-3. Groenafval in de tuin laten liggen.
+3. Klein Groenafval in de tuin of binnen bij de planten begraven .
+4. glaspotten hergebruiken
+
+om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
+verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
+voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
+ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
 
 ### Conclusie
 
-Ik kan mijn afvalstroom verbeteren door minder eten weg te gooien, glazen potten te hergebruiken en groenafval apart te houden. Dat past bij Reduce, Reuse en Recycle. Als ik dat doe, wordt mijn restafval minder.
+Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.
 
 ### Bronnen
 
-Gemeente Maashorst. (2024). *Afval*. <https://www.gemeentemaashorst.nl/inwoners/afval/>
-Centraal Bureau voor de Statistiek. (2024). *Huishoudelijk afval per gemeente per inwoner*. <https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>
-LangMee. (z.d.). *Interactieve huishoudelijke afvalcalculator*. <https://www.langmee.nl/afval/>
+<https://www.gemeentemaashorst.nl/inwoners/afval/>
+* [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
+* [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
