@@ -27,7 +27,7 @@ Beschrijf:
    * **Groen, plastic, rest, papier, glas.**
 * Geef per categorie een schatting of meting van de hoeveelheid afval.
    * **50% rest, 20% papier, 20% plastic, 10% overig.**
-   * **GFT/groen: 25%, glas: 5%
+   * **GFT/groen: 20%, glas: 10%
 
 ### 2. Afvalverwerking in jouw gemeente
 
@@ -136,7 +136,9 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 
 ---
 
-# Verslag
+# Verslag WIP
+
+### inhouds opgave die nog niet af is
 
 ### Inleiding
 

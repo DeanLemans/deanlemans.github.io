@@ -3,7 +3,7 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-17
+modified: 2026-09-18
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
 aliases:
@@ -28,7 +28,7 @@ Ze hebben allebei weinig voedingswaarde.
 Snelgroeiende planten kunnen minder snel groeien omdat (in gebieden met veel biodiversiteit) bijvoorbeeld grote bomen sneller groeien en daarmee kunnen de kleinere/langzamere groeiende planten de tijd hebben om te groeien.
 En daarom gaat de biodiversiteit omhoog.
 
-- Hyperdiversiteit
+- Hyperdiversiteit (betekent eigelijk gewoon super/hyper biodiversitiet. geen echte term in biologie)
 	- bodem
 	- geen extremen
 	- ijstijd (omdat het planten meeneemt)
@@ -53,7 +53,7 @@ Flora en fauna moeten zich aanpassen om niet uit te sterven in een veranderend k
 
 Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
-### Opdracht: mechanismen van evolutie
+### mechanismen van evolutie
 
 - selectiedruk - [Evolutionary pressure - Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_pressure)
 	- als het klimaat (snel) verandert, dan is er druk op flora en fauna om zich aan te passen. Anders gaan ze dood (door milieufactoren passen soorten zich aan)
@@ -63,7 +63,7 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 	- voorbeeld: (kan geen voorbeeld vinden die ik zelf begrijp)
 - mutatie - [Mutatie (biologie) - Wikipedia](https://nl.wikipedia.org/wiki/Mutatie_(biologie))
 	- plotselinge verandering van DNA. Het is meestal negatief, maar kan ook positief (antibiotica theorie/paradox)
-	- voorbeeld: de kleur van de vacht kan katten
+	- voorbeeld: kleur van de vacht kan katten(ook andere dieren, maar niet altijd is dat mutatie)
 - eilandtheorie - [Insular biogeography - Wikipedia](https://en.wikipedia.org/wiki/Insular_biogeography)
 	- studie naar het verband tussen biodiversiteit op geïsoleerde stukken (bijvoorbeeld eiland)
 	- voorbeeld: Madagascar is al voor de dino's een apart eiland dus zijn soorten die 90% niet bestaan op een andere plek
@@ -87,4 +87,6 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 	- soorten ontwikkelen verschillende kenmerken, door zich om verschillende leefomstandigheden aan te passen
 
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-	- (moved to standalone note [history_doesnt_decide_shape,_environment_does](<../00_01-zettel/history_doesnt_decide_shape,_environment_does.md>))
+	- (moved to standalone note [history_doesnt_decide_shape_environment_does](<../00_01-zettel/history_doesnt_decide_shape_environment_does.md>))
+
+## raw notes to filter

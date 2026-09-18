@@ -1,7 +1,7 @@
 ---
-title: history/ancestry doesn't decide shape, environment does
+title: "history/ancestry doesn't decide shape, environment does"
 publish: true
-modified: 2026-09-17
+modified: 2026-09-18
 id: 01M2P53MSE3RHREWRH2XBXR97C
 created: 2026-09-16
 aliases:

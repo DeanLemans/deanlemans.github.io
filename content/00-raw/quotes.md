@@ -3,7 +3,7 @@ unlisted: false
 title: Quotes
 tags: []
 publish: true
-modified: 2026-09-07
+modified: 2026-09-18
 id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -20,7 +20,7 @@ aliases:
 > - Pretentious Bullshit I Partially Disagree With
 > - raw excerpts
 
-actually linking/sourcing them is too much effort, so too bad if you want to find the origin. go do it yourself. dig up your own knowledge
+actually linking/sourcing them is too much effort, so too bad if you want to find the origin. go do it yourself. dig up your own knowledge.
 
 ---
 
