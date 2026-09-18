@@ -139,69 +139,78 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 
 # Verslag
 
-Door: Dean Lemans
-Nederland, Uden. 18-09-2026
-opdrachtgever: Gerjan docent Yuverta
+**Door:** Dean Lemans
+**Plaats en datum:** Nederland, Uden. 18-09-2026
+**Opdrachtgever:** Gerjan docent Yuverta
 
-## Inhoudsopgave
+# Inhoudsopgave
 
 1. [Inleiding](<#1-inleiding>)
-2. [Method](<#method>)
-3. [Resultaten](<#resultaten>)
-   * 3.1 [Mijn eigen afval](<#mijn-eigen-afval>)
-   * 3.2 [Verbeterpunten](<#verbeter-punten>)
-4. [Slot/Einde](<#slot--einde>)
-5. [Bronnen](<#bronnen>)
-6. [Uitslag afval calculator](<#uitslag-afval-calculator>)
+2. [Method](<#2-method>)
+3. [Resultaten](<#3-resultaten>)
+   * [Mijn eigen afval](<#mijn-eigen-afval>)
+   * [Verbeterpunten](<#verbeterpunten>)
+   * [Uitvoering](<#uitvoering>)
+4. [Slot/Einde](<#4-sloteinde>)
+5. [Bronnen](<#5-bronnen>)
+6. [Uitslag afval calculator](<#6-uitslag-afval-calculator>)
 
-### Inleiding
+---
+
+## 1. Inleiding
 
 (add: introductie onderwerp, probleem/doelstelling is helder, opbouw verslag)
+
 Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren en kan veranderen.
+
 Doel van school: studenten inzicht laten krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
 
-### Method
+## 2. Method
 
 Ik heb gekeken op de website van de gemeente Maashorst, CBS en LangMee. Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
 
-### Resultaten
+## 3. Resultaten
 
-Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas. De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval)
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via <https://www.langmee.nl/afval/>) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+
+De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval)
+
 Je betaalt per restafval, dus scheiden loont?
-Mijn eigen afval:
-* Rest: etensresten, stof, haar. Wordt soms verbrand.
-* Papier: dozen, enveloppen, pakketjes. Wordt soms gerecycled.
-* Groen: fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
-* Plastic: verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
-* Glas: flessen en potten. Wordt soms omgesmolten.
+
+### Mijn eigen afval
+
+* **Rest:** etensresten, stof, haar. Wordt soms verbrand.
+* **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
+* **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+* **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+* **Glas:** flessen en potten. Wordt soms omgesmolten.
+
 (ik heb er vaak soms bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan)
 
-verbeter punten:
+### Verbeterpunten
 
-> [!image]- 1. Extra prullenbak binnen voor groenafval.
-> ![189](<../../static_files/Pasted image 20260918095202.png>)
+1. Extra prullenbak binnen voor groenafval.
+2. Eigen compost maken.
+3. Klein Groenafval in de tuin of binnen bij de planten begraven.
+4. glaspotten hergebruiken/afgekeurd glas gebruiken
 
-> [!image]- 2. Eigen compost maken.
-> ![332](<../../static_files/Pasted image 20260918095146.png>)
+### Uitvoering
 
-> [!image]- 3. Klein Groenafval in de tuin of binnen bij de planten begraven.
-> ![213](<../../static_files/Pasted image 20260918095220.png>)
+Om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
 
-> [!image]- 4. glaspotten hergebruiken/afgekeurd glas gebruiken
-> ![167](<../../static_files/Pasted image 20260918095432.png>)
+Verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
 
-om het praktisch te verbeteren heb ik 1 extra prullenbak geplaatst zodat we meer groen afval gaan scheiden, voorheen deden we vaak groen bij het restafval gooien omdat we geen zin hadden om naar de kliko te lopen.
-verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de prullenbak licht, door het in 1 bak buiten te gooien en zand erbij te doen(niet de meest efficiënte method maar goed genoeg voor nu).
-voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
-ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
+Voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
+
+Ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
 
 (voeg toe dingen over hoe de gemeente dingen splits en resycled)
 
-### Slot/Einde
+## 4. Slot/Einde
 
 Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.
 
-### Bronnen
+## 5. Bronnen
 
 1. [Afval \| Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
 2. [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
