@@ -133,16 +133,30 @@ Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlij
 * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 > [!image]- Uitslag afvalcalulator
-> ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
+> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
 
 ---
 
-# Verslag WIP
+# Verslag
 
-### inhouds opgave die nog niet af is
+Door: Dean Lemans
+Nederland, Uden. 18-09-2026
+opdrachtgever: Gerjan docent Yuverta
+
+## Inhoudsopgave
+
+1. [Inleiding](<#1-inleiding>)
+2. [Method](<#method>)
+3. [Resultaten](<#resultaten>)
+   * 3.1 [Mijn eigen afval](<#mijn-eigen-afval>)
+   * 3.2 [Verbeterpunten](<#verbeter-punten>)
+4. [Slot/Einde](<#slot--einde>)
+5. [Bronnen](<#bronnen>)
+6. [Uitslag afval calculator](<#uitslag-afval-calculator>)
 
 ### Inleiding
 
+(add: introductie onderwerp, probleem/doelstelling is helder, opbouw verslag)
 Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst met afval omgaat, en wat ik zelf kan verbeteren en kan veranderen.
 Doel van school: studenten inzicht laten krijgen in mijn eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
 
@@ -181,7 +195,9 @@ verderest ben ik bezig geweest om compost te maken van dat groenafval dat in de 
 voor kleine dingen waar we geen zin hebben om naar de prullenbak te lopen (thee, koffieresten) ben ik die gewoon in het zand van de binnenpotten aan het begraven of doe ik het in de gieter waar ik de planten mee water geef.
 ik ben ook de glazen poten terrariums en als potten voor planten aan het gebruiken.
 
-### Conclusie
+(voeg toe dingen over hoe de gemeente dingen splits en resycled)
+
+### Slot/Einde
 
 Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten te hergebruiken, en groenafval apart en te hergebruiken. Dat is Reduce, Reuse en Recycle.
 
@@ -190,6 +206,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten 
 1. [Afval \| Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
 2. [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 3. [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
+4. [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
 
 > [!image]- Uitslag afval calculator
-> ![Mijn Afval Score|288](<./Mijn Afval Score.png>)
+> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
