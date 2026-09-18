@@ -1,5 +1,5 @@
 ---
-title: Tussenopdracht 1, week 3
+title: Tussenopdracht 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
@@ -10,7 +10,7 @@ aliases:
   - tussenopdracht 1 week3
 ---
 
-# Tussenopdracht 1, week 3
+# Tussenopdracht 1, week 3 en 4
 
 # Verslag
 
@@ -123,125 +123,126 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, glazen potten 
 
 ---
 
-(hieronder de onverwerkte opdracht)
-
-### 1. Onderzoek je leefomgeving
-
-Onderzoek hoeveel afval er bij jou thuis wordt geproduceerd.
-Beschrijf:
-
-* Hoeveel afval er gemiddeld wordt geproduceerd in kg.
-   * **Ongeveer 1257 kg per jaar**
-* Welke soorten afval voorkomen binnen jouw huishouden.
-   * **Restafval, GFT, papier, plastic, glas.**
-* In welke categorieën het afval kan worden ingedeeld.
-   * **Groen, plastic, rest, papier, glas.**
-* Geef per categorie een schatting of meting van de hoeveelheid afval.
-   * **50% rest, 20% papier, 20% plastic, 10% overig.**
-   * **GFT/groen: 20%, glas: 10%
-
-### 2. Afvalverwerking in jouw gemeente
-
-Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
-Beschrijf onder andere:
-
-**Gemeente Maashorst**
-[Afval | Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
-(moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
-
-* Hoe afval wordt ingezameld.
-   * **Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen.**
-* Welke afvalstromen worden gescheiden.
-   * **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
-* Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
-   * **De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen.**
-* Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
-   * **Betalen per hoeveelheid restafval, en gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
-
-### 3. Onderzoek naar jouw eigen afvalstroom
-
-Verzamel thuis informatie over jouw afvalproductie.
-
-Restafval
-
-* Waar het afval vandaan komt.
-   * **Etensresten, stof, haar.**
-* Waarom dit afval wordt geproduceerd.
-   * **Omdat ik dingen eet, haar uit je hoofd valt, en we stofzuigen.**
-* Of de productie van dit afval voorkomen of verminderd kan worden.
-   * **Ja, minder eten weggooien scheelt al veel.**
-* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
-   * **Niet echt hergebruiken, het wordt verbrand voor energie.**
-
-Papier
-
-* Waar het afval vandaan komt.
-   * **Verpakkingen van dozen, enveloppen en pakketjes.**
-* Waarom dit afval wordt geproduceerd.
-   * **We bestellen dingen en maken ze open.**
-* Of de productie van dit afval voorkomen of verminderd kan worden.
-   * **Ja, minder losse pakketjes bestellen zou schelen.**
-* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
-   * **Ja, papier en karton worden gerecycled tot nieuw papier.**
-
-Groen
-
-* Waar het afval vandaan komt.
-   * **Fruit-/groenteresten en onkruid.**
-* Waarom dit afval wordt geproduceerd.
-   * **We eten en trekken onkruid.**
-* Of de productie van dit afval voorkomen of verminderd kan worden.
-   * **Ja, minder eten laten bederven scheelt.**
-* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
-   * **Ja, kan gecomposteerd worden.**
-
-Plastic
-
-* Waar het afval vandaan komt.
-   * **Verpakkingen van eten en drinken, zoals flessen, zakjes en bakjes.**
-* Waarom dit afval wordt geproduceerd.
-   * **We kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.**
-* Of de productie van dit afval voorkomen of verminderd kan worden.
-   * **Ja, statiegeldflessen gebruiken in plaats van wegwerpflessen.**
-* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
-   * **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
-
-Glas
-
-* Waar het afval vandaan komt.
-   * **Glazen flessen en potten.**
-* Waarom dit afval wordt geproduceerd.
-   * **We kopen eten en drinken in glas.**
-* Of de productie van dit afval voorkomen of verminderd kan worden.
-   * **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
-* Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
-   * **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
-
-### 4. Verbetermogelijkheden
-
-Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
-
-**1. Extra prullenbak neerzetten voor groenafval, zodat we minder bij de restafval gooien.**
-**2. Eigen compost maken van groenteen fruitresten, zodat dit afval niet wordt weggegooid maar hergebruikt wordt als voeding voor de tuin.**
-**3. Herbruikbaar groenafval in de tuin laten liggen/gebruiken in plaats van bij het restafval te gooien.**
-
-**Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
-
-*photo prullenbak*
-*photo van compost*
-*photo theezak in tuin
-
-### 5. Verwerk je bevindingen in een verslag
-
-Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
-
-1. Voeg eventueel foto's of kaarten toe.
-2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
-3. Controleer of je document voldoet aan de voorwaarden van een verslag.
-
-## Bronnen
-
-* [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
-* [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
-> [!image]- Uitslag afvalcalulator
-> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
+> [!note]- Onverwerkte opdracht
+>
+> ### 1. Onderzoek je leefomgeving
+>
+> Onderzoek hoeveel afval er bij jou thuis wordt geproduceerd.
+> Beschrijf:
+>
+> * Hoeveel afval er gemiddeld wordt geproduceerd in kg.
+>    * **Ongeveer 1257 kg per jaar**
+> * Welke soorten afval voorkomen binnen jouw huishouden.
+>    * **Restafval, GFT, papier, plastic, glas.**
+> * In welke categorieën het afval kan worden ingedeeld.
+>    * **Groen, plastic, rest, papier, glas.**
+> * Geef per categorie een schatting of meting van de hoeveelheid afval.
+>    * **50% rest, 20% papier, 20% plastic, 10% overig.**
+>    * **GFT/groen: 20%, glas: 10%
+> 
+> ### 2. Afvalverwerking in jouw gemeente
+>
+> Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
+> Beschrijf onder andere:
+>
+> **Gemeente Maashorst**
+> [Afval | Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
+> (moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
+>
+> * Hoe afval wordt ingezameld.
+>    * **Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen.**
+> * Welke afvalstromen worden gescheiden.
+>    * **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
+> * Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
+>    * **De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen.**
+> * Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
+>    * **Betalen per hoeveelheid restafval, en gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
+> 
+> ### 3. Onderzoek naar jouw eigen afvalstroom
+>
+> Verzamel thuis informatie over jouw afvalproductie.
+>
+> Restafval
+>
+> * Waar het afval vandaan komt.
+>    * **Etensresten, stof, haar.**
+> * Waarom dit afval wordt geproduceerd.
+>    * **Omdat ik dingen eet, haar uit je hoofd valt, en we stofzuigen.**
+> * Of de productie van dit afval voorkomen of verminderd kan worden.
+>    * **Ja, minder eten weggooien scheelt al veel.**
+> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    * **Niet echt hergebruiken, het wordt verbrand voor energie.**
+> 
+> Papier
+>
+> * Waar het afval vandaan komt.
+>    * **Verpakkingen van dozen, enveloppen en pakketjes.**
+> * Waarom dit afval wordt geproduceerd.
+>    * **We bestellen dingen en maken ze open.**
+> * Of de productie van dit afval voorkomen of verminderd kan worden.
+>    * **Ja, minder losse pakketjes bestellen zou schelen.**
+> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    * **Ja, papier en karton worden gerecycled tot nieuw papier.**
+> 
+> Groen
+>
+> * Waar het afval vandaan komt.
+>    * **Fruit-/groenteresten en onkruid.**
+> * Waarom dit afval wordt geproduceerd.
+>    * **We eten en trekken onkruid.**
+> * Of de productie van dit afval voorkomen of verminderd kan worden.
+>    * **Ja, minder eten laten bederven scheelt.**
+> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    * **Ja, kan gecomposteerd worden.**
+> 
+> Plastic
+>
+> * Waar het afval vandaan komt.
+>    * **Verpakkingen van eten en drinken, zoals flessen, zakjes en bakjes.**
+> * Waarom dit afval wordt geproduceerd.
+>    * **We kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.**
+> * Of de productie van dit afval voorkomen of verminderd kan worden.
+>    * **Ja, statiegeldflessen gebruiken in plaats van wegwerpflessen.**
+> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    * **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
+> 
+> Glas
+>
+> * Waar het afval vandaan komt.
+>    * **Glazen flessen en potten.**
+> * Waarom dit afval wordt geproduceerd.
+>    * **We kopen eten en drinken in glas.**
+> * Of de productie van dit afval voorkomen of verminderd kan worden.
+>    * **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
+> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    * **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
+> 
+> ### 4. Verbetermogelijkheden
+>
+> Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
+>
+> **1. Extra prullenbak neerzetten voor groenafval, zodat we minder bij de restafval gooien.**
+> **2. Eigen compost maken van groenteen fruitresten, zodat dit afval niet wordt weggegooid maar hergebruikt wordt als voeding voor de tuin.**
+> **3. Herbruikbaar groenafval in de tuin laten liggen/gebruiken in plaats van bij het restafval te gooien.**
+>
+> **Voor deze opdracht heb ik een extra prullenbak geplaatst voor groen afval, zodat we minder bij rest weggooien omdat we geen zin hebben om naar de groen kliko te lopen**
+>
+> *photo prullenbak*
+> *photo van compost*
+> *photo theezak in tuin
+>
+> ### 5. Verwerk je bevindingen in een verslag
+>
+> Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
+>
+> 1. Voeg eventueel foto's of kaarten toe.
+> 2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
+> 3. Controleer of je document voldoet aan de voorwaarden van een verslag.
+> 
+> ## Bronnen
+>
+> * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
+> * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
+> 
+> > [!image]- Uitslag afvalcalulator
+> > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
