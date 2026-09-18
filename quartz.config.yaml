@@ -57,7 +57,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      comments: true
+      comments: false
       highlight: true
       wikilinks: false
       callouts: true
@@ -65,7 +65,7 @@ plugins:
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
-      enableInHtmlEmbed: true
+      enableInHtmlEmbed: false
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true
@@ -105,13 +105,6 @@ plugins:
     enabled: true
     options: {}
     order: 45
-  - source: github:quartz-community/encrypted-pages
-    enabled: false
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: true
-      outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -122,8 +115,6 @@ plugins:
       includeEmptyFiles: false
   - source: github:quartz-community/favicon
     enabled: true
-  - source: github:quartz-community/og-image
-    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -211,14 +202,6 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
@@ -229,8 +212,6 @@ plugins:
         Analytics: https://cloud.umami.is/share/cQibaMjOX3vvklQG
         RSS: index.xml
         SiteMap: sitemap.xml
-  - source: github:quartz-community/recent-notes
-    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -239,10 +220,6 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-  - source: github:quartz-community/bases-page
-    enabled: true
-    options: {}
-    order: 50
   - source: github:quartz-community/note-properties
     enabled: true
     options:
@@ -262,16 +239,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/syntax-highlighting
-    enabled: false
-    options:
-      theme:
-        light: github-light
-        dark: github-dark
-      keepBackground: false
-      clipboard: true
-      tokenClassification: true
-    order: 20
 layout:
   groups:
     toolbar:
