@@ -10,8 +10,12 @@ aliases:
   - tussenopdracht 1 week3
 ---
 
-
 # Tussenopdracht 1, week 3 en 4
+
+> [!NOTE] klein voorwoord van Dean voor docenten die dit lezen.
+> - ik heb geen idee wat APA richtlijnen zijn, dus die zitten er niet in. ik denk dat het gewoon bronvermeldingen zijn? dus ik heb gewoon markdown links naar de bron erin gezet.
+> - beetje minimaal verslag met veel comments, die doe ik er meestal in op stukken waar ik verder op wil ingaan of verduidelijkheid nodig is, maar ik moest het doen op een gebied waar niet mijn interesse in licht en moest maken op een vrijdag dus ik heb het verslag niet optimaal getyped.
+> - ik had ook geen idee wat het qualiteit van het verslag/opdracht moest zijn, dus hopelijk is dit voldoende? heb het op ongeveer op VMBO 4 nivou gemaakt
 
 # Verslag
 
@@ -24,9 +28,9 @@ aliases:
 1. [Inleiding](<#1-inleiding>)
 2. [Method](<#2-method>)
 3. [Resultaten](<#3-resultaten>)
-   * [Mijn eigen afval](<#mijn-eigen-afval>)
-   * [Verbeterpunten](<#verbeterpunten>)
-   * [Wat ik heb gedaan](<#wat-ik-heb-gedaan>)
+   - [Mijn eigen afval](<#mijn-eigen-afval>)
+   - [Verbeterpunten](<#verbeterpunten>)
+   - [Wat ik heb gedaan](<#wat-ik-heb-gedaan>)
 4. [Slot/Einde](<#4-sloteinde>)
 5. [Bronnen](<#5-bronnen>)
 
@@ -48,54 +52,68 @@ De Drie R'en zijn Reduce (minder afval), Reuse (dingen opnieuw gebruiken) en Rec
 
 Eerst leg ik uit hoe ik het heb onderzocht. Daarna resultaten, mijn verbeterpunten en wat ik daarmee heb gedaan. Verslag eindigt met slot.(best well logisch toch?)
 
+## Mijn leefomgeving
+
+Een leefomgeving is de plek en omgeving waar je leeft en woont. Leefomgeving verschilt per locatie, per persoon, (en nog meer), In stad wonen veel mensen dicht bij elkaar. Op het platteland is meer ruimte, maar liggen winkels en voorzieningen verder weg. in dorpen is dr meestal 1 centrum.
+
+Mijn leefomgeving is Uden, in de gemeente Maashorst. Ik woon met 3 mensen en 1 hond in een huurwoning met een tuin. In een drop leefomgeving.
+
+Een leefomgeving bestaat uit deze 3 kernen(volgens Yuverta Tilburg):
+
+- **Ecologisch:** bijvoorbeeld: natuur en milieu.
+- **Sociaal:** bijvoorbeeld: afspraken en school.
+- **Economisch:** bijvoorbeeld: geld en kosten.
+
+voor deze opdracht/verslag heb ik gekozen voor Economisch. Ik kijk dus naar wat mijn afval kost en wat ik kan besparen en herbruiken zodat ik minder geld uitgeef en dus meer kan sparen voor belangrijkere dingen.
+
 ## 2. Method
 
-Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>); [CBS, z.d.](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>); [LangMee, z.d.](<https://www.langmee.nl/afval/>)). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
+Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>); [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>); [LangMee](<https://www.langmee.nl/afval/>)). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
 
-Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld ([LangMee, z.d.](<https://www.langmee.nl/afval/>)). Dit heb ik ongeveer ingevuld:
+Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld ([LangMee](<https://www.langmee.nl/afval/>)). Dit heb ik ongeveer ingevuld:
 
-* Aantal personen in huis: 3
-* Type woning: tussenwoning (huurwoning)
-* 1 hond
-* Tuin: ja
-* Auto: ja
-* Open haard: nee
-* Brievenbussticker: nee/nee
-* Maaltijdbox: nee
+- Aantal personen in huis: 3
+- Type woning: tussenwoning (huurwoning)
+- 1 hond
+- Tuin: ja
+- Auto: ja
+- Open haard: nee
+- Brievenbussticker: nee/nee
+- Maaltijdbox: nee
 
 De uitkomst van de calculator is een schatting en nie echte super acuraat. De uitslag staat onderaan bij de bronnen.
 
 ## 3. Resultaten
 
-Ons huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee, z.d.](<https://www.langmee.nl/afval/>)) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee](<https://www.langmee.nl/afval/>)) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
 
 De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
-De gemeente Maashorst haalt rest, GFT en plastic apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+De gemeente Maashorst haalt rest, GFT en Papier(ZWART, GROEN, BLAUW) apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
-Je hebt drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+Je hebt drie klikos: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
 (TOO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
-De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald.(niet percee compleet gratis, maar je betaalt via de [afvalstoffenheffing](https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/)) Dus scheiden loont. ([Gemeente Maashorst, z.d.](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald.(niet percee compleet gratis, maar je betaalt via de [afvalstoffenheffing](https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/) VGM) Dus scheiden loont. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
 
 ### Mijn eigen afval
 
-* **Rest:** etensresten, stof, haar. Wordt soms verbrand.
-	* **Waarom:** we eten, haar valt uit je hoofd en we stofzuigen.
-	* **Voorkomen:** minder eten weggooien scheelt al veel (Reduce).
-* **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
-	* **Waarom:** we bestellen dingen en maken ze open.
-	* **Voorkomen:** minder losse pakketjes bestellen (Reduce).
-* **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
-	* **Waarom:** we eten en trekken onkruid.
-	* **Voorkomen:** minder eten laten bederven (Reduce).
-* **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
-	* **Waarom:** we kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.
-	* **Voorkomen:** statiegeldflessen gebruiken in plaats van wegwerpflessen (Reduce).
-* **Glas:** flessen en potten. Wordt soms omgesmolten.
-	* **Waarom:** we kopen eten en drinken in glas.
-	* **Voorkomen:** statiegeldflessen gebruiken, vaker herbruikbare verpakkingen kiezen en glazen potten hergebruiken voor projecten (Reduce en Reuse).
+- **Rest:** etensresten, stof, haar. Wordt soms verbrand.
+	- **Waarom:** we eten, haar valt uit je hoofd en we stofzuigen.
+	- **Voorkomen:** minder eten weggooien scheelt al veel (Reduce).
+- **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
+	- **Waarom:** we bestellen dingen en maken ze open.
+	- **Voorkomen:** minder losse pakketjes bestellen (Reduce).
+- **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+	- **Waarom:** we eten en trekken onkruid.
+	- **Voorkomen:** minder eten laten bederven (Reduce).
+- **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+	- **Waarom:** we kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.
+	- **Voorkomen:** statiegeldflessen gebruiken in plaats van wegwerpflessen (Reduce).
+- **Glas:** flessen en potten. Wordt soms omgesmolten.
+	- **Waarom:** we kopen eten en drinken in glas.
+	- **Voorkomen:** statiegeldflessen gebruiken, vaker herbruikbare verpakkingen kiezen en glazen potten hergebruiken voor projecten (Reduce en Reuse).
 
 (ik heb er vaak **soms** bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan, in Nederland.)
 
@@ -105,22 +123,22 @@ Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 
 1. Extra prullenbak binnen voor groenafval. (Reduce en Recycle: minder groen in het restafval, meer gescheiden)
 
-   > [!image]- foto prullenbak - KLIK HIER OP!
+   > [!image]- foto prullenbak - KLIK HIER OP!  
    > ![189](<../../static_files/Pasted image 20260918095202.png>)
 
 2. Eigen compost maken. (Recycle: groenafval wordt voeding voor de tuin)
 
-   > [!image]- foto compost - KLIK HIER OP!
+   > [!image]- foto compost - KLIK HIER OP!  
    > ![332](<../../static_files/Pasted image 20260918095146.png>)
 
 3. Klein groenafval in de tuin of binnen bij de planten begraven. (Reuse)
 
-   > [!image]- foto groenafval - KLIK HIER OP!
+   > [!image]- foto groenafval - KLIK HIER OP!  
    > ![213](<../../static_files/Pasted image 20260918095220.png>)
 
 4. Glaspotten hergebruiken/afgekeurd glas gebruiken. (Reuse)
 
-   > [!image]- foto glaspotten - KLIK HIER OP!
+   > [!image]- foto glaspotten - KLIK HIER OP!  
    > ![213](<../../static_files/Pasted image 20260918095220.png>)
 
 ### Wat ik heb gedaan
@@ -141,10 +159,10 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 
 ## 5. Bronnen
 
-1. CBS. (z.d.). [*Huishoudelijk afval per gemeente per inwoner*](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>). Gebruikt op 17 september 2026, van <https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>
-2. Gemeente Maashorst. (z.d.). [*Afval*](<https://www.gemeentemaashorst.nl/inwoners/afval/>). Gebruikt op 17 september 2026, van <https://www.gemeentemaashorst.nl/inwoners/afval/>
-3. LangMee. (z.d.). [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>). Gebruikt op 15 september 2026, van <https://www.langmee.nl/afval/>
-4. Yuverta. (z.d.). [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>).
+1. [*Huishoudelijk afval per gemeente per inwoner*](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>)
+2. [*Afval*](<https://www.gemeentemaashorst.nl/inwoners/afval/>)
+3. [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>)
+4. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>).
 
 > [!image]- Uitslag afval calculator
 > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
@@ -158,15 +176,15 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > Onderzoek hoeveel afval er bij jou thuis wordt geproduceerd.
 > Beschrijf:
 >
-> * Hoeveel afval er gemiddeld wordt geproduceerd in kg.
->    * **Ongeveer 1257 kg per jaar**
-> * Welke soorten afval voorkomen binnen jouw huishouden.
->    * **Restafval, GFT, papier, plastic, glas.**
-> * In welke categorieën het afval kan worden ingedeeld.
->    * **Groen, plastic, rest, papier, glas.**
-> * Geef per categorie een schatting of meting van de hoeveelheid afval.
->    * **50% rest, 20% papier, 20% plastic, 10% overig.**
->    * **GFT/groen: 20%, glas: 10%
+> - Hoeveel afval er gemiddeld wordt geproduceerd in kg.
+>    - **Ongeveer 1257 kg per jaar**
+> - Welke soorten afval voorkomen binnen jouw huishouden.
+>    - **Restafval, GFT, papier, plastic, glas.**
+> - In welke categorieën het afval kan worden ingedeeld.
+>    - **Groen, plastic, rest, papier, glas.**
+> - Geef per categorie een schatting of meting van de hoeveelheid afval.
+>    - **50% rest, 20% papier, 20% plastic, 10% overig.**
+>    - **GFT/groen: 20%, glas: 10%
 > 
 > ### 2. Afvalverwerking in jouw gemeente
 >
@@ -177,14 +195,14 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > [Afval | Gemeente Maashorst](https://www.gemeentemaashorst.nl/inwoners/afval/)
 > (moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
 >
-> * Hoe afval wordt ingezameld.
->    * **Gemeente Maashorst geeft je meestal drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Je oranje zakken die je aan paaltjes moet hangen.**
-> * Welke afvalstromen worden gescheiden.
->    * **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
-> * Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
->    * **Kliko's worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
-> * Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
->    * **Gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
+> - Hoe afval wordt ingezameld.
+>    - **Gemeente Maashorst geeft je meestal drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Je oranje zakken die je aan paaltjes moet hangen.**
+> - Welke afvalstromen worden gescheiden.
+>    - **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
+> - Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
+>    - **Kliko's worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
+> - Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
+>    - **Gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
 > 
 > ### 3. Onderzoek naar jouw eigen afvalstroom
 >
@@ -192,58 +210,58 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >
 > Restafval
 >
-> * Waar het afval vandaan komt.
->    * **Etensresten, stof, haar.**
-> * Waarom dit afval wordt geproduceerd.
->    * **Omdat ik dingen eet, haar uit je hoofd valt, en we stofzuigen.**
-> * Of de productie van dit afval voorkomen of verminderd kan worden.
->    * **Ja, minder eten weggooien scheelt al veel.**
-> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
->    * **Niet echt hergebruiken, het wordt verbrand voor energie.**
+> - Waar het afval vandaan komt.
+>    - **Etensresten, stof, haar.**
+> - Waarom dit afval wordt geproduceerd.
+>    - **Omdat ik dingen eet, haar uit je hoofd valt, en we stofzuigen.**
+> - Of de productie van dit afval voorkomen of verminderd kan worden.
+>    - **Ja, minder eten weggooien scheelt al veel.**
+> - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    - **Niet echt hergebruiken, het wordt verbrand voor energie.**
 > 
 > Papier
 >
-> * Waar het afval vandaan komt.
->    * **Verpakkingen van dozen, enveloppen en pakketjes.**
-> * Waarom dit afval wordt geproduceerd.
->    * **We bestellen dingen en maken ze open.**
-> * Of de productie van dit afval voorkomen of verminderd kan worden.
->    * **Ja, minder losse pakketjes bestellen zou schelen.**
-> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
->    * **Ja, papier en karton worden gerecycled tot nieuw papier.**
+> - Waar het afval vandaan komt.
+>    - **Verpakkingen van dozen, enveloppen en pakketjes.**
+> - Waarom dit afval wordt geproduceerd.
+>    - **We bestellen dingen en maken ze open.**
+> - Of de productie van dit afval voorkomen of verminderd kan worden.
+>    - **Ja, minder losse pakketjes bestellen zou schelen.**
+> - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    - **Ja, papier en karton worden gerecycled tot nieuw papier.**
 > 
 > Groen
 >
-> * Waar het afval vandaan komt.
->    * **Fruit-/groenteresten en onkruid.**
-> * Waarom dit afval wordt geproduceerd.
->    * **We eten en trekken onkruid.**
-> * Of de productie van dit afval voorkomen of verminderd kan worden.
->    * **Ja, minder eten laten bederven scheelt.**
-> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
->    * **Ja, kan gecomposteerd worden.**
+> - Waar het afval vandaan komt.
+>    - **Fruit-/groenteresten en onkruid.**
+> - Waarom dit afval wordt geproduceerd.
+>    - **We eten en trekken onkruid.**
+> - Of de productie van dit afval voorkomen of verminderd kan worden.
+>    - **Ja, minder eten laten bederven scheelt.**
+> - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    - **Ja, kan gecomposteerd worden.**
 > 
 > Plastic
 >
-> * Waar het afval vandaan komt.
->    * **Verpakkingen van eten en drinken, zoals flessen, zakjes en bakjes.**
-> * Waarom dit afval wordt geproduceerd.
->    * **We kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.**
-> * Of de productie van dit afval voorkomen of verminderd kan worden.
->    * **Ja, statiegeldflessen gebruiken in plaats van wegwerpflessen.**
-> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
->    * **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
+> - Waar het afval vandaan komt.
+>    - **Verpakkingen van eten en drinken, zoals flessen, zakjes en bakjes.**
+> - Waarom dit afval wordt geproduceerd.
+>    - **We kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.**
+> - Of de productie van dit afval voorkomen of verminderd kan worden.
+>    - **Ja, statiegeldflessen gebruiken in plaats van wegwerpflessen.**
+> - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    - **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
 > 
 > Glas
 >
-> * Waar het afval vandaan komt.
->    * **Glazen flessen en potten.**
-> * Waarom dit afval wordt geproduceerd.
->    * **We kopen eten en drinken in glas.**
-> * Of de productie van dit afval voorkomen of verminderd kan worden.
->    * **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
-> * Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
->    * **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
+> - Waar het afval vandaan komt.
+>    - **Glazen flessen en potten.**
+> - Waarom dit afval wordt geproduceerd.
+>    - **We kopen eten en drinken in glas.**
+> - Of de productie van dit afval voorkomen of verminderd kan worden.
+>    - **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
+> - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
+>    - **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
 > 
 > ### 4. Verbetermogelijkheden
 >
@@ -269,8 +287,8 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > 
 > ## Bronnen
 >
-> * [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
-> * [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
+> - [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
+> - [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 > 
 > > [!image]- Uitslag afvalcalulator
 > > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)

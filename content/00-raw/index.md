@@ -3,7 +3,7 @@ unlisted: false
 title: 00 Raw
 tags: []
 publish: true
-modified: 2026-09-14
+modified: 2026-09-19
 id: 01KQQV6TS3NP9DSXB4FYR5WGME
 created: 2026-04-11
 aliases:
@@ -28,3 +28,5 @@ this is the true site/side of my site, the normal portion is filtered for normal
 - [ ] need a central place to render all checkboxes
 
 [Bali Research link](https://dean.nekoweb.org/)
+
+![](<../static_files/Pasted image 20260919233940.png>)

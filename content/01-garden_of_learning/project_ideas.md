@@ -1,7 +1,7 @@
 ---
 title: Project ideas
 publish: true
-modified: 2026-09-16
+modified: 2026-09-19
 id: 01KXR3XGTBRA5WBZBZRRBM1TXT
 created: 2026-07-17
 aliases:
@@ -60,6 +60,11 @@ It wrecked my entire playlist, and I don't really like the UI.
 ## News sites/aggregators
 
 * Grounded
+
+<https://github.com/miniflux/v2>
+<https://susam.net/from-rss-to-atom.html>
+<https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/>
+<https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google>
 
 ---
 
