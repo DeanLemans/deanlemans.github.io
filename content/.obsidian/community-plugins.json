@@ -1,7 +1,6 @@
 [
   "obsidian-hider",
   "lazy-plugins",
-  "obsidian-tasks-plugin",
   "obsidian-linter",
   "obsidian-style-settings",
   "backlink-cache",
@@ -18,5 +17,6 @@
   "obsidian-reminder-plugin",
   "pdf-plus",
   "consistent-attachments-and-links",
-  "better-markdown-links"
+  "better-markdown-links",
+  "obsidian-tasks-plugin"
 ]

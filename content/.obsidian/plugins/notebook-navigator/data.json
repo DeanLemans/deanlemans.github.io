@@ -108,8 +108,8 @@
   "startView": "files",
   "showInfoButtons": true,
   "homepage": {
-    "source": "none",
-    "file": null,
+    "source": "file",
+    "file": "00-raw/index.md",
     "createMissingPeriodicNote": true
   },
   "dualPane": true,

@@ -65,7 +65,7 @@ Een leefomgeving bestaat uit deze 3 kernen(volgens Yuverta Tilburg):
 - **Sociaal:** bijvoorbeeld: afspraken en school.
 - **Economisch:** bijvoorbeeld: geld en kosten.
 
-voor deze opdracht/verslag heb ik gekozen voor Economisch. Ik kijk dus naar wat mijn afval kost en wat ik kan besparen en herbruiken zodat ik minder geld uitgeef en dus meer kan sparen voor belangrijkere dingen.
+voor deze opdracht/verslag heb ik gekozen voor Economisch. Ik kijk dus naar wat mijn afval kost en wat ik kan besparen en herbruiken zodat ik minder geld uitgeef en dus meer kan sparen en uitgeven aan belangrijkere dingen.
 
 ## 2. Method
 
@@ -86,7 +86,7 @@ De uitkomst van de calculator is een schatting en nie echte super acuraat. De ui
 
 ## 3. Resultaten
 
-Ons huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee](<https://www.langmee.nl/afval/>) [9]) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee](<https://www.langmee.nl/afval/>) [9]) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
 
 De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
