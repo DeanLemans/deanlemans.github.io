@@ -3,7 +3,7 @@ title: Tussenopdracht 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-18
+modified: 2026-09-20
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
 aliases:
@@ -26,6 +26,7 @@ aliases:
 # Inhoudsopgave
 
 1. [Inleiding](<#1-inleiding>)
+   - [Mijn leefomgeving](<#mijn-leefomgeving>)
 2. [Method](<#2-method>)
 3. [Resultaten](<#3-resultaten>)
    - [Mijn eigen afval](<#mijn-eigen-afval>)
@@ -68,9 +69,9 @@ voor deze opdracht/verslag heb ik gekozen voor Economisch. Ik kijk dus naar wat 
 
 ## 2. Method
 
-Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>), [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) en [LangMee](<https://www.langmee.nl/afval/>) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>); [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>); [LangMee](<https://www.langmee.nl/afval/>)). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
+Ik heb gekeken op de website van de [gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2], [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) [1] en [LangMee](<https://www.langmee.nl/afval/>) [9] ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2]; [CBS](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>) [1]; [LangMee](<https://www.langmee.nl/afval/>) [9]). Ook heb ik thuis gekeken naar wat wij weggooien en wat beter kan. en daarna heb ik online gezocht met wat ik kan hergebruiken van mijn afval.
 
-Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) ingevuld ([LangMee](<https://www.langmee.nl/afval/>)). Dit heb ik ongeveer ingevuld:
+Om te berekenen hoeveel afval wij per jaar produceren heb ik de [afvalcalculator van LangMee](<https://www.langmee.nl/afval/>) [9] ingevuld ([LangMee](<https://www.langmee.nl/afval/>) [9]). Dit heb ik ongeveer ingevuld:
 
 - Aantal personen in huis: 3
 - Type woning: tussenwoning (huurwoning)
@@ -85,37 +86,42 @@ De uitkomst van de calculator is een schatting en nie echte super acuraat. De ui
 
 ## 3. Resultaten
 
-Owns huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee](<https://www.langmee.nl/afval/>)) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
+Ons huishouden produceert ongeveer 1257 kg afval per jaar.(berekent via [LangMee](<https://www.langmee.nl/afval/>) [9]) Het meeste is restafval. Daarna GFT, papier, plastic en glas.
 
 De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
-De gemeente Maashorst haalt rest, GFT en Papier(ZWART, GROEN, BLAUW) apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+De gemeente Maashorst haalt rest, GFT en Papier(ZWART, GROEN, BLAUW) apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
 
-Je hebt drie klikos: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+Je hebt drie klikos: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
 
-(TOO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
+(TODO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
-De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald.(niet percee compleet gratis, maar je betaalt via de [afvalstoffenheffing](https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/) VGM) Dus scheiden loont. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>))
+De gemeente laat je betalen per hoeveelheid restafval. Gescheiden afval (papier, glas, GFT) wordt gratis opgehaald.(niet percee compleet gratis, maar je betaalt via de [afvalstoffenheffing](https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/) [13] VGM) Dus scheiden loont. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
 
 ### Mijn eigen afval
 
-- **Rest:** etensresten, stof, haar. Wordt soms verbrand.
+- **[Rest](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/restafval/>) [7]:** etensresten, stof, haar. Wordt soms verbrand.
 	- **Waarom:** we eten, haar valt uit je hoofd en we stofzuigen.
 	- **Voorkomen:** minder eten weggooien scheelt al veel (Reduce).
-- **Papier:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
+	- **Verwerken:** kan gebruikt worden om compost te maken maar word meestal verbrand.
+- **[Papier](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/oud-papier/>) [5]:** dozen, enveloppen, pakketjes. Wordt soms gerecycled.
 	- **Waarom:** we bestellen dingen en maken ze open.
 	- **Voorkomen:** minder losse pakketjes bestellen (Reduce).
-- **Groen:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
+	- **[Verwerken](<https://vuilnisbakinfo.nl/afvalkalender/gemeente-maashorst/>) [11]:** papier en karton kan worden gerecycled tot nieuw papier en materialen.
+- **[Groen](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/gfte/>) [3]:** fruit-/groenteresten, onkruid. Kan gecomposteerd worden.
 	- **Waarom:** we eten en trekken onkruid.
 	- **Voorkomen:** minder eten laten bederven (Reduce).
-- **Plastic:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
+	- **[Verwerken](<https://www.gemeentemaashorst.nl/nieuws/2025/03/03/haal-gratis-een-kuub-compost-op>) [4]:** kan ook gecomposteerd worden.
+- **[Plastic](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/plastic/>) [6]:** verpakkingen van eten en drinken. Wordt soms gesorteerd en verwerkt.
 	- **Waarom:** we kopen producten die in plastic verpakt zijn en bestellen dingen online die met plastic opgevuld of verpakt zijn.
 	- **Voorkomen:** statiegeldflessen gebruiken in plaats van wegwerpflessen (Reduce).
-- **Glas:** flessen en potten. Wordt soms omgesmolten.
+	- **[Verwerken](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/plastic/#recyclen-van-pbd>) [6]:** kan gesorteerd en verwerkt worden tot nieuwe plastic producten.
+- **[Glas](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/glas/>) [8]:** flessen en potten. Wordt soms omgesmolten.
 	- **Waarom:** we kopen eten en drinken in glas.
 	- **Voorkomen:** statiegeldflessen gebruiken, vaker herbruikbare verpakkingen kiezen en glazen potten hergebruiken voor projecten (Reduce en Reuse).
+	- **[Verwerken](<https://vang-hha.nl/verpakkingsglas/>) [10]:** soms wordt glas gescheiden en omgesmolten tot nieuw glas.
 
-(ik heb er vaak **soms** bij gezet, want zelf als je het goed gaat scheiden. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan, in Nederland.)
+(ik heb er vaak **soms** bij gezet, want zelf als je het goed scheid. word er niet altijd goed mee omgegaan en word gerecycled. grootendeels word het well goed gedaan in Nederland.)
 
 ### Verbeterpunten
 
@@ -161,8 +167,17 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 
 1. [*Huishoudelijk afval per gemeente per inwoner*](<https://www.cbs.nl/nl-nl/cijfers/detail/83452NED>)
 2. [*Afval*](<https://www.gemeentemaashorst.nl/inwoners/afval/>)
-3. [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>)
-4. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>).
+3. [*GFT+E afval*](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/gfte/>)
+4. [*Haal gratis een kuub compost op!*](<https://www.gemeentemaashorst.nl/nieuws/2025/03/03/haal-gratis-een-kuub-compost-op>)
+5. [*Oud papier*](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/oud-papier/>)
+6. [*Plastic verpakkingen, Blik en Drinkkartons (PBD)*](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/plastic/>)
+7. [*Restafval*](<https://www.gemeentemaashorst.nl/inwoners/afval/afvalsoorten/restafval/>)
+8. [*Wat mag er niet in de glasbak?*](<https://www.gemeentemaashorst.nl/inwoners/afval/tips/wat-hoort-in-de-glasbak-en-wat-niet/>)
+9. [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>)
+10. [*Verpakkingsglas*](<https://vang-hha.nl/verpakkingsglas/>)
+11. [*Afvalkalender gemeente Maashorst 2026*](<https://vuilnisbakinfo.nl/afvalkalender/gemeente-maashorst/>)
+12. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
+13. [*Afvalstoffenheffing*](<https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/>)
 
 > [!image]- Uitslag afval calculator
 > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)

@@ -116,7 +116,7 @@
     },
     "auto-correct-common-misspellings": {
       "enabled": true,
-      "ignore-words": "doen, beter, als, ",
+      "ignore-words": "doen, beter, als, foto, TODO",
       "skip-words-with-multiple-capitals": true,
       "extra-auto-correct-files": []
     },
