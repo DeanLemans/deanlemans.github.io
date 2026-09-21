@@ -3,7 +3,7 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-18
+modified: 2026-09-21
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
 aliases:
@@ -89,4 +89,83 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
 	- (moved to standalone note [history_doesnt_decide_shape_environment_does](<../00_01-zettel/history_doesnt_decide_shape_environment_does.md>))
 
-## raw notes to filter
+---
+
+# raw notes to filter
+
+### water dingen les
+
+water kringloop
+
+als je 1 deel van een water ecosysteem weghaalt, moet het opworden gevad door iets anders(bijvoorbeeld: 1/4 water, organisch stof, water, miniraale delen, en als 1 van die stuk wegvalt ben je kinda fucked en moe je hopen dat de rest van de delen het opvangen)
+
+is water nat?
+
+water is H2o en vloeistof, levelsmiddel, condens,
+
+H3o is zwaar water?
+
+> [!NOTE] mijn waterkringloop/omgeving
+> ![water in je leefomgeving](<./water in je leefomgeving.canvas>)
+
+zuurgraad (een van de dingen waar de kaderrichtlijn naar kijkt)
+- PH schaal is 0 tot 14. 7 is neutraal water.(1 is h+ 14 is OH-)
+- POH
+
+---
+
+### lab les
+
+- families
+	- grassen
+		- pijpenstrootje
+		- engelse gras voetballen de meesten op
+		- ondergrondse uitstekels
+	- ranonkel (ranuculaceae)
+		- bosanemoon, speenkruid (even kroonbladeren)
+		- bloem lijkt uit het steeltje te komen zonder bloembodem
+		- veel meeldraden
+	- zuring(Rumex)
+		- scharnier plant
+		- ridderzuring
+		- zure grond
+		- vliesje
+		- saaie bloeiwijze
+	- vlinderbloemen (leguminosae)
+		- ert
+		- peulvruchten
+		- 1 vlag, 2 waarden en een kiel
+	- rozen (rosaceae)
+		- kan jeukpoeder van maken
+		- amerikaanse krentenboompje
+		- eenstijlige meidoorn
+		- gewone vogelkers
+		- zoenbottles
+		- meestal 5 kroonbladeren
+	- kruisbloemen
+		- bloemkool
+		- boerenkool
+	- lipbloemen
+		- witte dovenetel
+		- vierkante holle stengels
+	- composieten
+		- lintbloem
+		- buisbloem
+	- schermbloemigen
+		- gewone vlier
+		- bleoiwijze meest herkenbaar
+	- Anjers
+		- De 5 is heilig
+		- koekoeksbloem
+
+- [Herbarium - Wikipedia](https://en.wikipedia.org/wiki/Herbarium)
+	- wetenschappelijke naam
+	- Nederlandse naam
+	- vind plaats
+	- datum
+	- familie
+	- leuk weetje
+	- gedroogde plant in een boek
+	- minimaal 30 planten van familie
+		- maximaal 2 van iedere familie
+	- [ ] juni 2027 moet het af
