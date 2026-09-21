@@ -1,7 +1,7 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-05-19
+modified: 2026-09-21
 id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
 description: Dean's Personal Site
 created: 2025-09-25
@@ -17,8 +17,9 @@ aliases:
 ## Green and Tech
 
 <div style="text-align:center;">
-  <img src="./static_files/personal/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
+  <img src="./static_files/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
 </div>
+([[-->more pictures of me<--]])
 
 ## About Me
 
