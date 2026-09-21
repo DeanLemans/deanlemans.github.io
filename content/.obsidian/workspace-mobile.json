@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "folder-map.md",
+                "file": "00-raw/inbox/How to Take Smart Notes. Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "folder-map"
+              "title": "How to Take Smart Notes. Notes"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -102,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "folder-map.md",
+            "file": "00-raw/inbox/How to Take Smart Notes. Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,6 +165,11 @@
   },
   "active": "37fa0882d9ebc3bf",
   "lastOpenFiles": [
+    "00-raw/FUTURE.md",
+    "Price calculation.md",
+    "01-garden_of_learning/Vanlife stuff/🪴vanlife_research.md",
+    "01-garden_of_learning/Vanlife stuff",
+    "folder-map.md",
     "01-garden_of_learning/Project ideas.md",
     "01-garden_of_learning/best_vid_edit_for_me.md",
     "01-garden_of_learning/Best pointer usage for mouse.md",
@@ -187,10 +194,6 @@
     "00-raw/00_00-clippings/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md",
     "00-raw/00_00-clippings/This time it's personal.md",
     "00-raw/00_00-clippings/What Is To Be Done  CJ The X.md",
-    "00-raw/00_00-clippings/when i die.md",
-    "00-raw/00_00-clippings/Zettelkasten.md",
-    "00-raw/00_00-clippings/Zettelkasten 1.md",
-    "00-raw/00_00-clippings/zine - personal websites and the law.md",
     "00-raw/00_01-inbox/Untitled",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",

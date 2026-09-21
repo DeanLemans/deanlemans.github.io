@@ -1,10 +1,9 @@
 ---
 title: How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
 publish: true
-modified: 2026-09-08
+modified: 2026-09-18
 id: 01KX3VYS5PKBNG6VGPMJEYHJYG
 created: 2026-07-09
-unlisted: true
 ---
 
 # How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
@@ -30,7 +29,7 @@ Even though planning is often at odds with the very idea of research and learnin
 The challenge is to structure one's workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery – or insight.
 > "everyone has a plan before they get punched in theface" i think their teaching us that plans that have step by step need not be the main fovus, instead focus should instead also stratagies(effectiveness)
 > so plan for the unexpected, or at least less likely?
-> [strategy_is_more_important_than_the_plan](<../00_01-zettel/strategy_is_more_important_than_the_plan.md>)
+> [strategy is more important than then the plan](<../00_01-zettel/strategy is more important than then the plan.md>)
 
 ---
 
@@ -47,7 +46,7 @@ That means that those who are not very good at something tend to be overly confi
 
 ---
 
-have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness. [PKM_brainstorm](<./PKM_brainstorm.md>)
+have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated. Plus, it reduces the likelihood of building and finding surprising connections between the notes themselves, which means a trade-off between its usability and usefulness. [PKM_structure_ideas](<./PKM_structure_ideas.md>)
 
 ---
 
@@ -141,7 +140,7 @@ He usually wrote his notes with an eye towards already existing notes in the sli
 
 The trick is that he did not organise his notes by topic, but in the rather abstract way of giving them fixed numbers. The numbers bore no meaning and were only there to identify each note permanently. If a new note was relevant or directly referred to an already existing note, such as a comment, correction or addition, he added it directly behind the previous note. If the existing note had the number 22, the new note would become note number 23. If 23 already existed, he named the new note 22a. By alternating numbers and letters, with some slashes and commas in between, he was able to branch out into as many strings of thought as he liked. For example, a note about causality and systems theory carried the number 21/3d7a7 following a note with the number 21/3d7a6 (cf. appendix).
 > that seems.. Inefficient,? Suboptimal at least.
-> I would say if creating permanent note, then give the note a fitting/explicit/direct name([Best pointer usage for mouse](<../../01-garden_of_learning/Best pointer usage for mouse.md>) [building_a_emergency_fund](<../00_01-zettel/building_a_emergency_fund.md>) ETC)
+> I would say if creating permanent note, then give the note a fitting/explicit/direct name([Best pointer usage for mouse](<../../01-garden_of_learning/Best pointer usage for mouse.md>) [Building a emergency fund](<../00_01-zettel/Building a emergency fund.md>) ETC)
 > why did he not do that? Perhaps limitations of only papar? Give it a name of what the note is about? But it is a implementation detail? So don't get stuck up on it?
 
 ---
@@ -152,7 +151,7 @@ The last element in his file system was an index, from which he would refer to o
 ---
 
 if I were forced to boil it down to a single bullet point, it would be this: We need a reliable and simple external structure to think in that compensates for the limitations of our brains.
-> hmm, I had I feeling that my current notes system is a mess and insufficient, I was working on that[PKM_brainstorm](<./PKM_brainstorm.md>)
+> hmm, I had I feeling that my current notes system is a mess and insufficient, I was working on that[PKM_structure_ideas](<./PKM_structure_ideas.md>)
 
 ---
 
@@ -211,7 +210,7 @@ The whole workflow becomes complicated: There is the technique of underlining im
 ---
 
 Few of these techniques are particularly complicated in themselves, but they are usually used without any regard to the actual workflow, which then quickly becomes a mess. As nothing really fits together, working within this arrangement becomes extremely complicated indeed and difficult to get anything done. And if you stumble upon one idea and think that it might connect to another idea, what do you do when you employ all these different techniques? Go through all your books to find the right underlined sentence? Reread all your journals and excerpts? And what do you do then? Write an excerpt about it? Where do you save it and how does this help to make new connections? Every little step suddenly turns into its own project without bringing the whole much further forward. Adding another promising technique to it, then, would make things only worse.
-> and this is my fundamental problem. see [PKM_brainstorm](<./PKM_brainstorm.md>) for more details, but the gist is that this vault is a blog, PKM, jiurnal, digital garden etc.
+> and this is my fundamental problem. see [PKM_structure_ideas](<./PKM_structure_ideas.md>) for more details, but the gist is that this vault is a blog, PKM, jiurnal, digital garden etc.
 
 That is why the slip-box is not introduced as another technique, but as a crucial element in an overarching workflow that is stripped of everything that could distract from what is important. Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking. The slip-box provides an external scaffold to think in and helps with those tasks our brains are not very good at, most of all objective storage of information.
 > this is what I was searching for, a (meta?) system to supplant my current one.
@@ -320,6 +319,12 @@ The [permanent] notes are no longer reminders of thoughts or ideas, but contain 
 ---
 
 There is one reliable sign if you managed to structure your workflow according to the fact that writing is not a linear process, but a circular one: the problem of finding a topic is replaced by the problem of having too many topics to write about. Having trouble finding the right topic is a symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guides insinuate. If you on the other hand develop your thinking in writing, open questions will become clearly visible and give you an abundance of possible topics to elaborate further in writing.
-> [sort writhing by context/thought, not by chronological XOR topic](<../../sort writhing by context/thought, not by chronological XOR topic.md>)
+> [[sort writhing by context/thought, not by chronological XOR topic]]
+
+---
+
+There is one reliable sign if you managed to structure your workflow according to the fact that writing is not a linear process, but a circu­ lar one: the problem of finding a topic is re­ placed by the problem of having too many top­ ics to write about.
+> how to write circular
+
 
 ---
