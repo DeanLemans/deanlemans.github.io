@@ -27,7 +27,7 @@ aliases:
 
 > It's a small game with a grand total of 1 level.
 
-![PointNClick](<../static_files/Point-and-click-adventure.png>)
+![PointNClick](<../static_files/Point-and-click-adventure.webp>)
 
 > [!info]
 > - [Click here to play](https://deanlemans.github.io/point-N-click-adventure/) the game.

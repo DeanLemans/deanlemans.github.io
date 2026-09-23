@@ -71,15 +71,15 @@ Progress per week:
 
 > [!Map]- Week 2:
 > - player follows mouse
-> ![](<../../../static_files/mouse follow script.png>)
+> ![](<../../../static_files/mouse follow script.webp>)
 > - configured [git plugin](https://github.com/godotengine/godot-git-plugin) so I can commit from inside Godot.
-> ![](<../../../static_files/godot-git-plugin.png>)
+> ![](<../../../static_files/godot-git-plugin.webp>)
 
 > [!Map]- Week 3:
 > Sick:
 > Every time I commit and push github actions automatically builds and creates a release.
-> ![](<../../../static_files/godot CI.png>)
-> ![](<../../../static_files/github release.png>)
+> ![](<../../../static_files/godot CI.webp>)
+> ![](<../../../static_files/github release.webp>)
 
 > [!Map]- Week 4:
 > - sick: but I'm beginning to move my site to using [Quartz](https://github.com/jackyzha0/quartz)
@@ -87,7 +87,7 @@ Progress per week:
 > [!Map]- Week 5:
 > - finished moving my site to new framework, and uploading this to my site.
 > - implemented basic bounce to game
-> ![](<../../../static_files/bounce script.png>)
+> ![](<../../../static_files/bounce script.webp>)
 > - updated [Godot to version 4.4.1](https://godotengine.org/article/maintenance-release-godot-4-4-1)
 > - updated [Script-IDE to version 1.7.0](https://github.com/Maran23/script-ide/releases/tag/1.7.0)
 

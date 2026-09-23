@@ -71,9 +71,9 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
 > [!example]- Related images
 >
-> ![306](<./static_files/Pasted image 20260916093208.png>)
-> ![246](<./static_files/Pasted image 20260916093752.png>)
-> ![138](<./static_files/Pasted image 20260916094332.png>)
+> ![306](<./static_files/Pasted image 20260916093208.webp>)
+> ![246](<./static_files/Pasted image 20260916093752.webp>)
+> ![138](<./static_files/Pasted image 20260916094332.webp>)
 
 ### Soortvorming en co-evolutie
 

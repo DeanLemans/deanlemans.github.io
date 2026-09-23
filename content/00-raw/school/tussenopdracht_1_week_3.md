@@ -130,22 +130,22 @@ Dit zijn dingen die ik bij mijn eigen afval(gebruik) kan verbeteren:
 1. Extra prullenbak binnen voor groenafval. (Reduce en Recycle: minder groen in het restafval, meer gescheiden)
 
    > [!image]- foto prullenbak - KLIK HIER OP!  
-   > ![189](<../../static_files/Pasted image 20260918095202.png>)
+   > ![189](<../../static_files/Pasted image 20260918095202.webp>)
 
 2. Eigen compost maken. (Recycle: groenafval wordt voeding voor de tuin)
 
    > [!image]- foto compost - KLIK HIER OP!  
-   > ![332](<../../static_files/Pasted image 20260918095146.png>)
+   > ![332](<../../static_files/Pasted image 20260918095146.webp>)
 
 3. Klein groenafval in de tuin of binnen bij de planten begraven. (Reuse)
 
    > [!image]- foto groenafval - KLIK HIER OP!  
-   > ![213](<../../static_files/Pasted image 20260918095220.png>)
+   > ![213](<../../static_files/Pasted image 20260918095220.webp>)
 
 4. Glaspotten hergebruiken/afgekeurd glas gebruiken. (Reuse)
 
    > [!image]- foto glaspotten - KLIK HIER OP!  
-   > ![213](<../../static_files/Pasted image 20260918095220.png>)
+   > ![213](<../../static_files/Pasted image 20260918095220.webp>)
 
 ### Wat ik heb gedaan
 
@@ -180,7 +180,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 13. [*Afvalstoffenheffing*](<https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/>)
 
 > [!image]- Uitslag afval calculator
-> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
+> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.webp>)
 
 ---
 
@@ -306,4 +306,4 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > - [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 > 
 > > [!image]- Uitslag afvalcalulator
-> > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.png>)
+> > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.webp>)
