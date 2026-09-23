@@ -1,5 +1,6 @@
 ---
 title: Opdracht naaldbomen herkennen Roeland
+publish: true
 modified: 2026-09-23
 id: 01M36KKBQZE6R8BKG3H5T1Y1V6
 created: 2026-09-23

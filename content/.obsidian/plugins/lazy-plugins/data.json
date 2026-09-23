@@ -119,6 +119,9 @@
       },
       "advanced-rename-and-delete-handler": {
         "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
       }
     }
   }

@@ -1,6 +1,6 @@
 ---
 title: project bouwstenen
-modified: 2026-09-18
+modified: 2026-09-23
 id: 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
 created: 2026-09-18
 ---
@@ -29,4 +29,11 @@ de klas moet zien en begrijpt
 - hoe jij de toekomst ziet en waar dat beeld vandaan komt
 
 video maken van mijn kamers voor een roomtour
-ook van mijn huis
+1. bij pa
+	1. mijn kamer
+	2. zolder
+	3. eten
+2. bij moeder
+	1. mijn kamer
+	2. planten
+	3. buiten

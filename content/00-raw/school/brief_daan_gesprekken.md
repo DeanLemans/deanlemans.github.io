@@ -2,7 +2,7 @@
 title: brief Daan LOB / informatie gesprekken
 tags:
   - toegepaste_biologie
-modified: 2026-09-17
+modified: 2026-09-23
 id: 01M1P0YW11V5P1G3STCSV2NDFB
 created: 2026-09-04
 aliases:
@@ -33,9 +33,9 @@ aliases:
 - Wat lijkt je het leukst aan deze opleiding?
 	- **leren onderzoeken en connecties/vrienden**
 - Waar zie je tegenop of wat vind je spannend?
-	- **dingen die ik moeilijk vind: dingen optijd doen, actie nemen op mijn plannen**
+	- **dingen die ik moeilijk vind: dingen optijd doen, optijd zijn, actie nemen op mijn plannen**
 - Wat hoop je dit schooljaar te leren?
-	- **onderzoeken en documenteren dat daar bij hoord**
+	- **onderzoeken en documenteren dat daar bij hoord. over biologie en de dingen die daar bij horen(kringloop, evolutie, planten, ETC)**
 
 ## Hoe jij leert
 
@@ -67,17 +67,18 @@ aliases:
 ## Wat je mischien niet snel vertelt
 
 - Is er iets wat je lastig vindt om te vertellen, maar wat well belangrijk is dat ik weet?
-	- **ik weet dat ik mij soms/vaak kinderachtig gedraag maar dat doe ik express, ik vind dat dingen niet meer doen die je als kind/jonger well deed een hoop onzin en zie da als je eigen kind beetje verwrugen/vermoorden.**
+	- **??? idk, ik weet dat ik vaak super chagerijneg kijk en soms is dat zo, maar vaak is het ook gewoon mijn neutrale gezicht.**
 - Zijn er omstandigheden thuis of prive waar ik rekening mee moet houden?
-	- **mijn ouders zij geschijen? maar daar gaat het eig allemaal goed mee**
+	- **mijn pa heeft zware slaap Apneu en Astma, dus daar moet ik hem soms mee helpen, mijn tante/buurvrouw heeft een hersen hernia gehad dit jaar en kan op het moment niet super veel, dus haar moet ik ook soms helpen**
 - Wat kan ik doen als SLB om jou te helpen succesvol te zijn?
-	- **mij relevante dingen leren**
+	- **mij motiveren en uitleggen wat het nut is van sommige dingen die we op school leren. als ik het nut niet ergens van inzie ga ik er niet opletten/leren.
+	- **dus iets meer uitleg van waarom we dingen leren zou fijn zijn**
 - Waar zou je graag eens over willen praten tijdens een coachgesprek?
 	- **hoe dingen better zouden kunnen gaan op school en dingen relevant daaraan**
 
 ## Tot slot
 
  - Als ik aan het einde van dit schooljaar een ding over jou moet onthouden, wat moet dat dan zijn?
-	 - **dat ik Dean ben.**
+	 - **dat ik Dean ben. (en hoe ik onderzoek moet doen, als we dat leren)**
 - Stel dat ik je over een jaar spreek en alles is heel goed gegaan. wat is er dan gebeurt?
-	- **eigen bus, teraruims aan het verkopen, geleert hoe je moet onderzoeken**
+	- **eigen bus, teraruims aan het verkopen, geleerd hoe je moet onderzoeken**, onderzoek hebben geleerd, praktisch en theoretisch
