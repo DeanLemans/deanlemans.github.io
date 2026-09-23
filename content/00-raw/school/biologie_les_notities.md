@@ -3,7 +3,7 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-21
+modified: 2026-09-23
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
 aliases:
@@ -71,9 +71,9 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
 > [!example]- Related images
 >
-> ![306](<../../static_files/Pasted image 20260916093208.png>)
-> ![246](<../../static_files/Pasted image 20260916093752.png>)
-> ![138](<../../static_files/Pasted image 20260916094332.png>)
+> ![306](<./static_files/Pasted image 20260916093208.png>)
+> ![246](<./static_files/Pasted image 20260916093752.png>)
+> ![138](<./static_files/Pasted image 20260916094332.png>)
 
 ### Soortvorming en co-evolutie
 
@@ -169,3 +169,5 @@ zuurgraad (een van de dingen waar de kaderrichtlijn naar kijkt)
 	- minimaal 30 planten van familie
 		- maximaal 2 van iedere familie
 	- [ ] juni 2027 moet het af
+
+[opdracht_naaldbomen_herkennen](<./opdracht_naaldbomen_herkennen.md>)
