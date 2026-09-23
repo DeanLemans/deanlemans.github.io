@@ -7,4 +7,4 @@ created: 2026-09-21
 
 # more pictures of me
 
-![deanpfp|401](<../../static_files/deanpfp.jpg>)![](<../../static_files/avatar-2.jpg>)![770](<../../static_files/bali4.jpg>)
+![deanpfp|401](<./deanpfp.jpg>)![](<./avatar-2.jpg>)![770](<./bali4.jpg>)
