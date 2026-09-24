@@ -124,5 +124,132 @@
         "startupType": "instant"
       }
     }
+  },
+  "mobile": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "instant",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "consistent-attachments-and-links": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "novel-word-count": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "long"
+      },
+      "obsidian-plugin-update-tracker": {
+        "startupType": "instant"
+      },
+      "booksidian-plugin": {
+        "startupType": "disabled"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-day-planner": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-linter": {
+        "startupType": "instant"
+      },
+      "pdf-plus": {
+        "startupType": "instant"
+      },
+      "settings-search": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "disabled"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "todoist-sync-plugin": {
+        "startupType": "instant"
+      },
+      "ultimate-todoist-sync": {
+        "startupType": "instant"
+      },
+      "backlink-cache": {
+        "startupType": "instant"
+      },
+      "better-markdown-links": {
+        "startupType": "instant"
+      },
+      "external-rename-handler": {
+        "startupType": "instant"
+      },
+      "smart-rename": {
+        "startupType": "instant"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "instant"
+      },
+      "nldates-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian42-strange-new-worlds": {
+        "startupType": "instant"
+      },
+      "guid-front-matter": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "instant"
+      },
+      "obsidian-version-history-diff": {
+        "startupType": "instant"
+      },
+      "full-calendar-remastered": {
+        "startupType": "instant"
+      },
+      "obsidian-reminder-plugin": {
+        "startupType": "instant"
+      },
+      "smart-connections": {
+        "startupType": "disabled"
+      },
+      "notebook-navigator": {
+        "startupType": "instant"
+      },
+      "reverysky-map": {
+        "startupType": "disabled"
+      },
+      "remember-cursor-position": {
+        "startupType": "instant"
+      },
+      "ninja-cursor": {
+        "startupType": "instant"
+      },
+      "breadcrumbs": {
+        "startupType": "instant"
+      },
+      "advanced-rename-and-delete-handler": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
+      },
+      "k-plex": {
+        "startupType": "instant"
+      }
+    }
   }
 }
