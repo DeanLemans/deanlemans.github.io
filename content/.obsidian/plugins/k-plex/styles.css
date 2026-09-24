@@ -1,0 +1,2817 @@
+.excalibrain-view-host,
+.excalibrain-view-host > div,
+.excalibrain-app {
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+
+.excalibrain-app {
+  position: relative;
+  --eb-panel: rgba(15, 19, 25, 0.96);
+  --eb-panel-2: rgba(25, 31, 40, 0.96);
+  --eb-line: rgba(255, 255, 255, 0.10);
+  --eb-muted: rgba(222, 231, 243, 0.56);
+  --eb-text: #e9f1fb;
+  --eb-accent: #74b6ff;
+  color: var(--eb-text);
+  background: #0d1219;
+  font-family: var(--font-interface);
+  overflow: hidden;
+}
+
+.excalibrain-main-column {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 46px minmax(0, 1fr) 40px;
+}
+
+.excalibrain-topbar {
+  position: relative;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 0 10px;
+  background: linear-gradient(180deg, rgba(24, 30, 39, .98), rgba(14, 18, 24, .98));
+  border-bottom: 1px solid var(--eb-line);
+  box-shadow: 0 5px 18px rgba(0,0,0,.24);
+}
+
+.excalibrain-brand {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-right: 4px;
+  letter-spacing: .01em;
+  white-space: nowrap;
+}
+
+.kplex-index-status {
+  width: 9px;
+  height: 9px;
+  flex: 0 0 9px;
+  border-radius: 50%;
+  border: 1px solid rgba(255,255,255,.28);
+}
+
+.kplex-index-status.is-ready {
+  background: #45c86f;
+  box-shadow: 0 0 7px rgba(69,200,111,.72);
+}
+
+.kplex-index-status.is-updating {
+  background: #ff4d4d;
+  box-shadow: 0 0 8px rgba(255,77,77,.78);
+  animation: kplex-index-status-blink 1s ease-in-out infinite;
+}
+
+.kplex-index-status-empty {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+}
+
+@keyframes kplex-index-status-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: .25; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kplex-index-status.is-updating { animation: none; }
+}
+
+.excalibrain-brand-mark {
+  color: #f0aa43;
+  font-size: 20px;
+  text-shadow: 0 0 16px rgba(240,170,67,.55);
+}
+
+.excalibrain-topbar button,
+.excalibrain-content-actions button,
+.excalibrain-zoom-controls button {
+  color: var(--eb-text);
+  background: rgba(255,255,255,.055);
+  border: 1px solid rgba(255,255,255,.09);
+  border-radius: 7px;
+  height: 28px;
+  padding: 0 9px;
+  cursor: pointer;
+}
+
+.excalibrain-topbar button:hover,
+.excalibrain-content-actions button:hover,
+.excalibrain-zoom-controls button:hover { background: rgba(255,255,255,.11); }
+.excalibrain-topbar button.is-on { color: #dcecff; border-color: rgba(116,182,255,.48); background: rgba(67,132,205,.18); }
+.excalibrain-topbar button:disabled { opacity: .28; cursor: default; }
+.excalibrain-view-host .excalibrain-icon-button { width: 30px; padding: 0; font-size: 17px; }
+.excalibrain-top-actions { display: flex; align-items: center; gap: 5px; margin-left: auto; }
+.excalibrain-top-actions .kplex-auto-open { width: 32px; padding: 0; }
+
+.excalibrain-search-shell { position: relative; flex: 1; max-width: 520px; min-width: 140px; }
+.excalibrain-search-icon { position: absolute; left: 10px; top: 5px; color: var(--eb-muted); font-size: 18px; pointer-events: none; }
+.excalibrain-view-host .excalibrain-search {
+  width: 100%;
+  height: 30px;
+  padding: 0 12px 0 33px;
+  color: var(--eb-text);
+  background: rgba(0,0,0,.30);
+  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 8px;
+  box-shadow: inset 0 1px 4px rgba(0,0,0,.22);
+}
+.excalibrain-view-host .excalibrain-search:focus { border-color: rgba(116,182,255,.48); box-shadow: 0 0 0 2px rgba(70,145,226,.14); }
+.excalibrain-search-results {
+  position: absolute;
+  z-index: 60;
+  box-sizing: border-box;
+  overflow: auto;
+  overscroll-behavior: contain;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(18,23,31,.99);
+  border-radius: 9px;
+  box-shadow: 0 18px 50px rgba(0,0,0,.48);
+  padding: 6px;
+}
+.excalibrain-search-result {
+  width: 100%;
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+  align-items: center;
+  gap: 18px;
+  text-align: left;
+  border: 0;
+  color: var(--eb-text);
+  background: transparent;
+  border-radius: 6px;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+.excalibrain-search-result:hover { background: rgba(116,182,255,.10); }
+.excalibrain-search-result > span,
+.excalibrain-search-result small {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.excalibrain-search-result small { color: var(--eb-muted); text-align: right; }
+
+.excalibrain-workspace { min-height: 0; display: flex; }
+.excalibrain-graph-area { position: relative; min-width: 0; min-height: 0; flex: 1; overflow: hidden; }
+.excalibrain-plex { position: absolute; inset: 0; overflow: hidden; user-select: none; cursor: grab; }
+.excalibrain-plex:active { cursor: grabbing; }
+.excalibrain-plex::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle at 50% 48%, rgba(108,170,225,.12), transparent 34%), linear-gradient(180deg, rgba(255,255,255,.018), transparent 24%, rgba(0,0,0,.12));
+}
+.excalibrain-camera { position: absolute; width: 0; height: 0; transform-origin: 0 0; will-change: transform; }
+.excalibrain-links { position: absolute; left: -1600px; top: -1200px; overflow: visible; pointer-events: none; z-index: 4; }
+.excalibrain-nodes { position: absolute; left: 0; top: 0; z-index: 8; }
+.excalibrain-edge { transition: opacity .11s ease, filter .11s ease; }
+.excalibrain-edge-visible { pointer-events: none; filter: drop-shadow(0 1px 1px rgba(0,0,0,.55)); transition: opacity .11s ease, filter .11s ease; }
+.excalibrain-edge-hit { pointer-events: stroke; cursor: pointer; }
+.excalibrain-edge.is-highlighted .excalibrain-edge-visible { filter: drop-shadow(0 0 4px rgba(190,226,255,.8)) drop-shadow(0 1px 1px rgba(0,0,0,.55)); }
+.excalibrain-edge.is-dimmed { opacity: .16; }
+.excalibrain-edge-label { pointer-events: none; paint-order: stroke; stroke: rgba(0,0,0,.72); stroke-width: 3px; stroke-linejoin: round; }
+
+.excalibrain-zone-label {
+  position: absolute;
+  z-index: 3;
+  pointer-events: none;
+  font-size: 9px;
+  letter-spacing: .18em;
+  color: rgba(230,240,255,.25);
+  font-weight: 700;
+}
+.zone-parent { top: 12px; left: 50%; transform: translateX(-50%); }
+.zone-child { bottom: 12px; left: 50%; transform: translateX(-50%); }
+.zone-left { top: 50%; left: 10px; transform: translateY(-50%) rotate(-90deg); transform-origin: left top; }
+.zone-right { top: 50%; right: 10px; transform: translateY(-50%) rotate(90deg); transform-origin: right top; }
+
+.excalibrain-thought {
+  position: absolute;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 4px 10px;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 1.08;
+  box-shadow: 0 4px 14px rgba(0,0,0,.32), inset 0 1px 0 rgba(255,255,255,.075);
+  cursor: pointer;
+  transition: filter .11s ease, box-shadow .11s ease, opacity .11s ease;
+}
+.excalibrain-thought:hover { filter: brightness(1.12); z-index: 12; }
+.excalibrain-thought.is-highlighted { filter: brightness(1.22); box-shadow: 0 0 0 1px rgba(184,222,255,.66), 0 0 18px rgba(112,184,255,.32), 0 5px 18px rgba(0,0,0,.36); z-index: 13; }
+.excalibrain-thought.is-dimmed { opacity: .24; filter: saturate(.55) brightness(.72); }
+.excalibrain-thought.is-selected { box-shadow: 0 0 0 2px rgba(255,255,255,.55), 0 0 34px rgba(112,184,255,.28), 0 8px 24px rgba(0,0,0,.42); }
+.excalibrain-thought.is-selected.is-highlighted { box-shadow: 0 0 0 2px rgba(255,255,255,.72), 0 0 34px rgba(112,184,255,.42), 0 8px 24px rgba(0,0,0,.42); }
+.excalibrain-role-center { font-weight: 650; z-index: 14; padding: 8px 13px; }
+.excalibrain-role-sibling { opacity: .86; }
+.excalibrain-role-sibling.is-dimmed { opacity: .22; }
+.excalibrain-thought-label { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.excalibrain-count {
+  display: inline-flex;
+  flex: 0 0 auto;
+  min-width: 17px;
+  height: 17px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+  font-size: 9px;
+  color: rgba(255,255,255,.78);
+  background: rgba(0,0,0,.30);
+  border: 1px solid rgba(255,255,255,.15);
+}
+.excalibrain-role-center .excalibrain-count { min-width: 19px; height: 19px; border-radius: 10px; font-size: 10px; }
+.excalibrain-gate-wrap {
+  position: absolute;
+  z-index: 18;
+  width: var(--kplex-gate-size, 8px);
+  height: var(--kplex-gate-size, 8px);
+  pointer-events: none;
+}
+.gate-wrap-top { top: calc(-1 * var(--kplex-gate-size, 8px) - 3px); left: 50%; transform: translateX(-50%); }
+.gate-wrap-bottom { bottom: calc(-1 * var(--kplex-gate-size, 8px) - 3px); left: 50%; transform: translateX(-50%); }
+.gate-wrap-left { left: calc(-1 * var(--kplex-gate-size, 8px) - 3px); top: 50%; transform: translateY(-50%); }
+.gate-wrap-right { right: calc(-1 * var(--kplex-gate-size, 8px) - 3px); top: 50%; transform: translateY(-50%); }
+.excalibrain-gate {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background: transparent;
+  border: 1.25px solid var(--kplex-gate-stroke, rgba(226,239,255,.84));
+  opacity: .82;
+  box-shadow: 0 0 5px rgba(190,222,255,.22);
+  pointer-events: auto;
+  cursor: crosshair;
+  transition: opacity .1s ease, box-shadow .1s ease, background .1s ease;
+}
+.excalibrain-gate::after {
+  content: "";
+  position: absolute;
+  inset: -5px;
+  border-radius: 50%;
+}
+.excalibrain-gate.has-connections { background: var(--kplex-gate-fill, rgba(226,239,255,.84)); }
+.excalibrain-gate.is-empty { background: transparent; }
+.excalibrain-gate.is-link-disabled { cursor: default; opacity: .56; }
+.excalibrain-gate.is-link-disabled::after { display: none; }
+.excalibrain-gate:hover,
+.excalibrain-gate.is-highlighted { opacity: 1; box-shadow: 0 0 0 2px rgba(139,205,255,.30), 0 0 9px rgba(162,216,255,.72); }
+.excalibrain-gate-count {
+  position: absolute;
+  z-index: 20;
+  pointer-events: none;
+  min-width: 12px;
+  color: rgba(239,247,255,.9);
+  font-size: 8px;
+  font-weight: 650;
+  line-height: 1;
+  text-shadow: 0 1px 3px rgba(0,0,0,.9);
+}
+.gate-wrap-top .excalibrain-gate-count { left: calc(100% + 4px); top: 50%; transform: translateY(-50%); text-align: left; }
+.gate-wrap-bottom .excalibrain-gate-count { left: calc(100% + 4px); top: 50%; transform: translateY(-50%); text-align: left; }
+.gate-wrap-left .excalibrain-gate-count { right: calc(100% + 4px); top: 50%; transform: translateY(-50%); text-align: right; }
+.gate-wrap-right .excalibrain-gate-count { left: calc(100% + 4px); top: 50%; transform: translateY(-50%); text-align: left; }
+
+.excalibrain-sibling-scroll {
+  position: absolute;
+  z-index: 16;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(170,205,235,.35) transparent;
+  overscroll-behavior: contain;
+  border-radius: 10px;
+  background: linear-gradient(90deg, transparent, rgba(5,18,30,.08));
+}
+.excalibrain-sibling-scroll::-webkit-scrollbar { width: 7px; }
+.excalibrain-sibling-scroll::-webkit-scrollbar-track { background: transparent; }
+.excalibrain-sibling-scroll::-webkit-scrollbar-thumb { background: rgba(170,205,235,.32); border-radius: 8px; }
+.excalibrain-sibling-content { position: relative; width: 100%; min-height: 100%; }
+
+.excalibrain-zoom-controls { position: absolute; z-index: 20; right: 12px; bottom: 12px; display: flex; gap: 5px; }
+.excalibrain-zoom-controls button { width: 30px; padding: 0; background: rgba(12,17,23,.78); }
+
+.excalibrain-content-pane {
+  width: var(--excalibrain-content-width);
+  max-width: 760px;
+  min-width: 290px;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(24,29,37,.99), rgba(15,19,25,.99));
+  border-left: 1px solid var(--eb-line);
+  box-shadow: -12px 0 36px rgba(0,0,0,.22);
+  z-index: 24;
+}
+.excalibrain-content-header { padding: 18px 22px 14px; border-bottom: 1px solid var(--eb-line); }
+.excalibrain-content-kicker { font-size: 9px; letter-spacing: .16em; color: #79baff; font-weight: 700; margin-bottom: 6px; }
+.excalibrain-content-header h2 { margin: 0 0 4px; font-size: 22px; color: var(--eb-text); }
+.excalibrain-content-path { color: var(--eb-muted); font-size: 11px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.excalibrain-content-actions { display: flex; gap: 6px; margin-top: 12px; }
+.excalibrain-content-scroll { min-height: 0; overflow: auto; padding: 18px 22px 32px; }
+.excalibrain-markdown { color: var(--text-normal); }
+.excalibrain-markdown h1:first-child { margin-top: 0; }
+.excalibrain-loading { color: var(--eb-muted); padding: 8px 0; }
+.excalibrain-special-content { padding: 28px 16px; text-align: center; border: 1px solid var(--eb-line); border-radius: 10px; background: rgba(255,255,255,.025); }
+.excalibrain-special-icon { font-size: 34px; margin-bottom: 10px; }
+.excalibrain-mapped-links { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--eb-line); }
+.excalibrain-mapped-links h3 { margin: 0 0 10px; font-size: 12px; text-transform: uppercase; letter-spacing: .09em; color: var(--eb-muted); }
+.excalibrain-mapped-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 6px; }
+.excalibrain-mapped-list button { display: flex; justify-content: space-between; gap: 10px; color: var(--eb-text); background: rgba(255,255,255,.035); border: 1px solid var(--eb-line); border-radius: 6px; padding: 7px 8px; cursor: pointer; text-align: left; }
+.excalibrain-mapped-list button:hover { background: rgba(116,182,255,.08); }
+.excalibrain-mapped-list small { color: var(--eb-muted); text-transform: uppercase; font-size: 8px; letter-spacing: .08em; }
+
+.excalibrain-history-bar {
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 0 9px;
+  background: rgba(12,16,22,.99);
+  border-top: 1px solid var(--eb-line);
+  overflow: hidden;
+}
+.excalibrain-history-label { flex: 0 0 auto; font-size: 8px; font-weight: 700; letter-spacing: .13em; color: var(--eb-muted); }
+.excalibrain-history-list { min-width: 0; display: flex; gap: 5px; overflow-x: auto; scrollbar-width: none; }
+.excalibrain-history-list::-webkit-scrollbar { display: none; }
+.excalibrain-history-list button { flex: 0 0 auto; width: 180px; max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: left; color: rgba(230,238,248,.68); border: 1px solid rgba(255,255,255,.06); border-radius: 6px; background: rgba(255,255,255,.025); padding: 5px 9px; cursor: pointer; font-size: 11px; }
+.excalibrain-history-list button:hover { color: var(--eb-text); background: rgba(255,255,255,.06); }
+.excalibrain-history-list button.is-active { color: #eaf5ff; border-color: rgba(116,182,255,.34); background: rgba(72,143,220,.13); }
+.excalibrain-empty { display: grid; place-items: center; color: var(--text-muted); }
+
+@media (max-width: 900px) {
+  .excalibrain-brand strong { display: none; }
+}
+
+/* Obsidian 1.13+ declarative settings keep native rendering; only control width is adjusted. */
+.kplex-settings .setting-item-control textarea {
+  width: 100%;
+  min-width: min(420px, 52vw);
+  max-width: 780px;
+  resize: vertical;
+}
+@media (max-width: 900px) {
+  .kplex-settings .setting-item-control textarea {
+    min-width: 0;
+    width: 100%;
+    max-width: none;
+  }
+}
+
+
+/* K-Plex Lucide icons */
+.kplex-icon { display: inline-flex; align-items: center; justify-content: center; line-height: 0; flex: 0 0 auto; }
+.kplex-icon svg { display: block; stroke: currentColor; }
+.excalibrain-brand-mark { color: #f0aa43; filter: drop-shadow(0 0 7px rgba(240,170,67,.42)); }
+.excalibrain-node-icon { opacity: .88; margin-right: 4px; }
+.excalibrain-thought-label { display: inline-flex; align-items: center; justify-content: center; min-width: 0; }
+.excalibrain-thought-label > span:last-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.excalibrain-thought.is-dragging { cursor: grabbing; z-index: 28; filter: brightness(1.16); box-shadow: 0 0 0 1px rgba(187,226,255,.75), 0 10px 28px rgba(0,0,0,.45); }
+.excalibrain-role-parent,
+.excalibrain-role-child,
+.excalibrain-role-left,
+.excalibrain-role-right,
+.excalibrain-role-previous,
+.excalibrain-role-next { cursor: grab; }
+
+/* Toolbar mirrors the compact legacy controls while staying horizontally scrollable. */
+.excalibrain-topbar { overflow: visible; }
+.excalibrain-top-actions {
+  min-width: 0;
+  max-width: 58%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  padding: 2px 0;
+}
+.excalibrain-top-actions::-webkit-scrollbar { display: none; }
+.excalibrain-view-host .excalibrain-icon-button { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 30px; }
+.excalibrain-toolbar-divider { width: 1px; height: 20px; flex: 0 0 1px; margin: 0 2px; background: rgba(255,255,255,.11); }
+.excalibrain-search-icon { display: flex; align-items: center; top: 7px; }
+
+/* Interactive relationship editing */
+.kplex-drag-connector {
+  pointer-events: none;
+  stroke: var(--interactive-accent, #7ab8ff);
+  stroke-width: 2.2px;
+  stroke-dasharray: 5 4;
+  filter: drop-shadow(0 0 5px rgba(130,196,255,.72));
+}
+.kplex-relation-popover {
+  position: absolute;
+  z-index: 80;
+  width: 372px;
+  max-width: calc(100% - 16px);
+  padding: 10px;
+  color: var(--text-normal);
+  background: var(--background-primary, #171c23);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,.14));
+  border-radius: 10px;
+  box-shadow: 0 18px 54px rgba(0,0,0,.55);
+  user-select: text;
+  cursor: default;
+}
+.kplex-relation-popover-title { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 9px; }
+.kplex-relation-popover-title strong { font-size: 13px; }
+.kplex-popover-icon,
+.kplex-relation-actions button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 28px;
+  padding: 0;
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,.12));
+  border-radius: 6px;
+  background: var(--background-secondary, rgba(255,255,255,.05));
+  cursor: pointer;
+}
+.kplex-relation-label { display: block; margin: 9px 0 5px; color: var(--text-muted); font-size: 10px; font-weight: 650; text-transform: uppercase; letter-spacing: .06em; }
+.kplex-relation-search-wrap { display: flex; align-items: center; gap: 7px; padding: 0 8px; border: 1px solid var(--background-modifier-border); border-radius: 7px; background: var(--background-secondary); }
+.kplex-relation-modal .kplex-relation-search-wrap input { width: 100%; height: 30px; padding: 0; border: 0; box-shadow: none; background: transparent; }
+.kplex-relation-results { max-height: 210px; overflow-y: auto; margin-top: 6px; padding: 3px; border-radius: 7px; background: var(--background-secondary-alt, rgba(0,0,0,.12)); }
+.kplex-relation-results button { width: 100%; display: grid; grid-template-columns: 18px minmax(80px, 1fr) minmax(80px, .9fr); align-items: center; gap: 6px; min-height: 30px; padding: 4px 7px; text-align: left; border: 0; border-radius: 5px; color: var(--text-normal); background: transparent; cursor: pointer; }
+.kplex-relation-results button:hover,
+.kplex-relation-results button.is-selected { background: var(--background-modifier-hover, rgba(120,170,225,.13)); }
+.kplex-relation-results button.is-selected {
+  box-shadow: inset 0 0 0 1px var(--interactive-accent, rgba(116,182,255,.72));
+}
+.kplex-relation-file-name,
+.kplex-relation-results small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kplex-relation-results small { color: var(--text-muted); text-align: right; }
+.kplex-relation-empty { padding: 10px 8px; color: var(--text-muted); font-size: 11px; }
+.kplex-relation-popover select { width: 100%; }
+.kplex-relation-hint { margin-top: 8px; padding: 7px 8px; color: var(--text-muted); background: var(--background-secondary); border-radius: 6px; font-size: 10px; line-height: 1.35; }
+.kplex-relation-summary { display: flex; align-items: center; gap: 8px; min-width: 0; padding: 8px; border-radius: 7px; background: var(--background-secondary); }
+.kplex-relation-summary > span:last-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kplex-relation-direction { flex: 0 0 auto; padding: 2px 6px; color: var(--text-accent); border: 1px solid var(--background-modifier-border); border-radius: 10px; font-size: 9px; text-transform: uppercase; letter-spacing: .05em; }
+.kplex-relation-actions { display: flex; justify-content: flex-end; gap: 6px; margin-top: 10px; }
+
+/* Property-value node style editor modal */
+.modal.kplex-style-editor-modal {
+  width: min(560px, calc(100vw - 32px));
+  max-width: calc(100vw - 20px);
+  box-sizing: border-box;
+}
+.modal.kplex-style-editor-modal .modal-content { min-width: 0; overflow-x: hidden; }
+.kplex-style-editor > p {
+  max-width: 58ch;
+  margin: 0 0 14px;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+.kplex-style-form {
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--background-modifier-border);
+}
+.kplex-style-row {
+  display: grid;
+  grid-template-columns: minmax(120px, .75fr) minmax(0, 1.25fr);
+  align-items: center;
+  gap: 16px;
+  min-width: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.kplex-style-row label { min-width: 0; color: var(--text-normal); font-weight: 500; }
+.kplex-style-row input[type="text"],
+.kplex-style-row input[type="number"],
+.kplex-style-row select {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+.kplex-style-row input[type="color"] { justify-self: start; width: 44px; height: 30px; padding: 2px; }
+.kplex-style-row input[type="checkbox"] { justify-self: start; }
+.kplex-style-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+.kplex-style-actions button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
+.kplex-style-form input.is-invalid { border-color: var(--text-error); }
+.kplex-input-suggestion-line { display: flex; align-items: center; gap: 7px; min-width: 0; }
+.kplex-input-suggestion-line .kplex-lucide { flex: 0 0 auto; width: 16px; height: 16px; color: var(--text-muted); }
+.kplex-input-suggestion-line span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+@media (max-width: 520px) {
+  .kplex-style-row { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .kplex-style-actions button { flex: 1 1 auto; }
+}
+
+/* K-Plex responsive toolbar: controls wrap rather than disappearing into horizontal scroll. */
+.excalibrain-main-column {
+  grid-template-rows: auto minmax(0, 1fr) 40px;
+}
+.excalibrain-topbar {
+  min-height: 46px;
+  height: auto;
+  padding: 6px 10px;
+  flex-wrap: wrap;
+  align-content: center;
+  overflow: visible;
+}
+.excalibrain-search-shell {
+  flex: 1 1 260px;
+  max-width: 560px;
+}
+.excalibrain-top-actions {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: none;
+  margin-left: auto;
+  padding: 0;
+  overflow: visible;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.excalibrain-toolbar-divider { align-self: center; }
+
+/* Generic bounded graph zones (parents, children, friends and siblings). */
+.kplex-zone-panel {
+  position: absolute;
+  z-index: 16;
+  overflow: hidden;
+  border-radius: 10px;
+  background: linear-gradient(90deg, rgba(5,18,30,.025), rgba(5,18,30,.10));
+}
+.kplex-zone-scroll {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(170,205,235,.35) transparent;
+}
+.kplex-zone-scroll::-webkit-scrollbar { width: 7px; }
+.kplex-zone-scroll::-webkit-scrollbar-track { background: transparent; }
+.kplex-zone-scroll::-webkit-scrollbar-thumb { background: rgba(170,205,235,.32); border-radius: 8px; }
+.kplex-zone-content {
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+}
+.kplex-zone-tools {
+  position: absolute;
+  z-index: 34;
+  top: 4px;
+  right: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 4px;
+  pointer-events: none;
+}
+.kplex-zone-tools > * { pointer-events: auto; }
+.kplex-zone-filter-button {
+  width: 24px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  color: rgba(222,236,251,.70);
+  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 6px;
+  background: rgba(10,20,30,.82);
+  box-shadow: 0 2px 8px rgba(0,0,0,.28);
+  cursor: pointer;
+}
+.kplex-zone-filter-button:hover,
+.kplex-zone-filter-button.is-on {
+  color: #eef7ff;
+  border-color: rgba(116,182,255,.46);
+  background: rgba(47,107,168,.72);
+}
+.excalibrain-view-host .kplex-zone-filter-input {
+  width: 150px;
+  height: 24px;
+  padding: 0 7px;
+  font-size: 10px;
+  color: var(--text-normal);
+  border: 1px solid rgba(116,182,255,.36);
+  border-radius: 6px;
+  background: rgba(9,18,28,.94);
+  box-shadow: 0 3px 12px rgba(0,0,0,.34);
+}
+
+/* Gate-drag selection is intentionally inverted: only unavailable targets dim. */
+.excalibrain-thought.is-connect-blocked {
+  opacity: .18;
+  filter: saturate(.45) brightness(.68);
+}
+.excalibrain-thought.is-connect-candidate {
+  opacity: 1;
+}
+.excalibrain-thought.is-connect-candidate:hover {
+  box-shadow: 0 0 0 1px rgba(124,194,255,.60), 0 0 18px rgba(83,164,235,.26), 0 5px 18px rgba(0,0,0,.34);
+}
+.excalibrain-thought.is-connect-origin {
+  opacity: 1;
+  filter: brightness(1.16);
+  box-shadow: 0 0 0 1px rgba(163,216,255,.72), 0 0 20px rgba(94,178,247,.34), 0 6px 18px rgba(0,0,0,.36);
+}
+
+/* Centered Obsidian relationship modal. */
+.kplex-relation-modal {
+  width: min(620px, calc(100vw - 48px));
+  max-width: min(620px, calc(100vw - 48px));
+}
+.kplex-relation-modal-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.kplex-relation-modal .kplex-relation-results {
+  max-height: min(38vh, 340px);
+  overflow-y: auto;
+}
+.kplex-relation-modal .kplex-relation-actions {
+  position: sticky;
+  bottom: 0;
+  z-index: 4;
+  padding-top: 10px;
+  background: var(--background-primary);
+}
+.kplex-relation-modal .kplex-relation-actions button {
+  width: 34px;
+  height: 30px;
+}
+.kplex-relation-modal select { width: 100%; }
+
+/* Ontology lists use one shared label/editor grid so every textarea has the same width.
+   Scope directly to the setting group: Obsidian settings pages do not provide a
+   stable .kplex-settings ancestor. */
+.kplex-ontology-fields > .setting-items {
+  width: 100%;
+}
+.kplex-ontology-fields > .setting-items > .setting-item {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) minmax(420px, 1.35fr);
+  gap: 32px;
+  align-items: start;
+  width: 100%;
+}
+.kplex-ontology-fields > .setting-items > .setting-item > .setting-item-info,
+.kplex-ontology-fields > .setting-items > .setting-item > .setting-item-control {
+  min-width: 0;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+.kplex-ontology-fields > .setting-items > .setting-item > .setting-item-control {
+  display: block;
+  justify-self: stretch;
+}
+.kplex-ontology-fields > .setting-items > .setting-item > .setting-item-control textarea {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  resize: vertical;
+}
+
+.kplex-import-file-row { margin: 10px 0 7px; }
+.kplex-import-file-row input[type="file"] { width: 100%; }
+.kplex-import-status { color: var(--text-muted); font-size: var(--font-ui-small); }
+
+@media (max-width: 900px) {
+  .excalibrain-top-actions { flex-basis: 100%; justify-content: flex-start; }
+  .kplex-ontology-fields > .setting-items > .setting-item {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 8px;
+  }
+  .kplex-ontology-fields > .setting-items > .setting-item > .setting-item-info,
+  .kplex-ontology-fields > .setting-items > .setting-item > .setting-item-control,
+  .kplex-ontology-fields > .setting-items > .setting-item > .setting-item-control textarea {
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+/* Refinements: compact nodes, inline relationship labels, zone counts and quick layout controls. */
+.excalibrain-thought {
+  padding: 3px 8px;
+}
+.excalibrain-role-center {
+  padding: 7px 11px;
+}
+.excalibrain-edge-label {
+  paint-order: normal;
+  stroke: none;
+  font-weight: 600;
+}
+
+.kplex-zone-tools {
+  top: 12px;
+}
+.kplex-zone-filter-control {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.kplex-zone-count {
+  position: absolute;
+  right: 1px;
+  top: -11px;
+  z-index: 2;
+  min-width: 13px;
+  height: 12px;
+  padding: 0 3px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 7px;
+  color: rgba(235,244,255,.78);
+  background: rgba(8,18,28,.76);
+  border: 1px solid rgba(255,255,255,.10);
+  font-size: 8px;
+  line-height: 1;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.kplex-layout-controls {
+  position: absolute;
+  left: 16px;
+  bottom: 17px;
+  z-index: 34;
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  padding: 5px 7px 4px;
+  border-radius: 8px;
+  background: rgba(7,17,27,.32);
+  backdrop-filter: blur(2px);
+}
+.kplex-mini-slider {
+  display: grid;
+  grid-template-rows: 15px 11px;
+  justify-items: center;
+  width: 104px;
+  color: rgba(238,246,255,.78);
+  font-size: 8px;
+  line-height: 1;
+  letter-spacing: .02em;
+  cursor: default;
+}
+.kplex-mini-slider input[type="range"] {
+  width: 100px;
+  height: 13px;
+  margin: 0;
+  padding: 0;
+  cursor: ew-resize;
+}
+.kplex-mini-slider span {
+  align-self: end;
+  user-select: none;
+}
+
+@media (max-width: 760px) {
+  .kplex-layout-controls { left: 8px; bottom: 12px; gap: 6px; padding: 4px; }
+  .kplex-mini-slider { width: 82px; }
+  .kplex-mini-slider input[type="range"] { width: 78px; }
+}
+
+/* Compactness is visual density only: keep the tight node interior padding at every setting. */
+.excalibrain-thought { padding: 3px 8px; }
+.excalibrain-role-center { padding: 7px 11px; }
+
+/* Small, unobtrusive graph-layout sliders. */
+.kplex-mini-slider input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100px;
+  height: 10px;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  cursor: ew-resize;
+}
+.kplex-mini-slider input[type="range"]::-webkit-slider-runnable-track {
+  height: 2px;
+  border-radius: 999px;
+  background: rgba(232,242,252,.40);
+}
+.kplex-mini-slider input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 9px;
+  height: 9px;
+  margin-top: -3.5px;
+  border: 1px solid rgba(255,255,255,.82);
+  border-radius: 50%;
+  background: rgba(247,251,255,.96);
+  box-shadow: 0 0 0 1px rgba(0,0,0,.22);
+}
+.kplex-mini-slider input[type="range"]::-moz-range-track {
+  height: 2px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(232,242,252,.40);
+}
+.kplex-mini-slider input[type="range"]::-moz-range-thumb {
+  width: 9px;
+  height: 9px;
+  border: 1px solid rgba(255,255,255,.82);
+  border-radius: 50%;
+  background: rgba(247,251,255,.96);
+  box-shadow: 0 0 0 1px rgba(0,0,0,.22);
+}
+
+/* Expanded view: each first-level thought can expose a lightweight, scrollable 3x2 child strip. */
+.kplex-expanded-cluster {
+  position: absolute;
+  z-index: 19;
+  overflow: visible;
+  pointer-events: auto;
+}
+.kplex-expanded-scroll {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(170,205,235,.28) transparent;
+}
+.kplex-expanded-scroll.is-scrollable { overflow-y: auto; overflow-x: hidden; }
+.kplex-expanded-scroll::-webkit-scrollbar { width: 5px; }
+.kplex-expanded-scroll::-webkit-scrollbar-track { background: transparent; }
+.kplex-expanded-scroll::-webkit-scrollbar-thumb { background: rgba(170,205,235,.26); border-radius: 8px; }
+.kplex-expanded-content { position: relative; width: 100%; }
+.kplex-expanded-mini-thought {
+  position: absolute;
+  z-index: 20;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  padding: 1px 4px;
+  overflow: visible;
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 6px;
+  color: rgba(235,244,255,.76);
+  font-size: 8px;
+  line-height: 1;
+  opacity: .70;
+  box-shadow: 0 2px 7px rgba(0,0,0,.22);
+  cursor: pointer;
+  transition: opacity .1s ease, filter .1s ease;
+}
+.kplex-expanded-mini-thought:hover { opacity: .92; filter: brightness(1.12); }
+.kplex-expanded-mini-label { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kplex-expanded-mini-icon { flex: 0 0 auto; opacity: .82; }
+.kplex-expanded-mini-gate {
+  position: absolute;
+  left: 50%;
+  top: -3px;
+  width: 4px;
+  height: 4px;
+  transform: translate(-50%, -50%);
+  border: 1px solid rgba(226,239,255,.64);
+  border-radius: 50%;
+  background: rgba(226,239,255,.52);
+  pointer-events: none;
+}
+.kplex-expanded-edge {
+  pointer-events: none;
+  opacity: .52;
+  filter: drop-shadow(0 1px 1px rgba(0,0,0,.38));
+}
+
+/* Interaction polish: navigable thoughts use a pointer; the Plex background remains pannable. */
+.excalibrain-role-parent,
+.excalibrain-role-child,
+.excalibrain-role-left,
+.excalibrain-role-right,
+.excalibrain-role-previous,
+.excalibrain-role-next,
+.excalibrain-role-sibling,
+.excalibrain-thought.is-structural-thought {
+  cursor: pointer;
+}
+.excalibrain-thought:hover { filter: none; }
+.excalibrain-thought.is-highlighted:hover { filter: brightness(1.22); }
+.excalibrain-thought.is-dragging { cursor: grabbing; }
+
+/* Bottom-left density controls: deliberately neutral, thin native-range replacements. */
+.kplex-layout-controls {
+  gap: 14px;
+  padding: 6px 9px 5px;
+  border: 1px solid rgba(255,255,255,.055);
+  border-radius: 7px;
+  background: rgba(6,15,24,.42);
+  box-shadow: 0 4px 14px rgba(0,0,0,.14);
+}
+.kplex-mini-slider {
+  grid-template-rows: 12px 10px;
+  width: 94px;
+  gap: 2px;
+  font-size: 7px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: rgba(230,240,250,.60);
+}
+.excalibrain-plex .kplex-layout-controls .kplex-mini-slider input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 90px;
+  height: 10px;
+  min-height: 10px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  outline: none;
+  cursor: ew-resize;
+}
+.excalibrain-plex .kplex-layout-controls .kplex-mini-slider input[type="range"]::-webkit-slider-runnable-track {
+  -webkit-appearance: none;
+  height: 1px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(226,238,250,.44);
+  box-shadow: none;
+}
+.excalibrain-plex .kplex-layout-controls .kplex-mini-slider input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 7px;
+  height: 7px;
+  min-width: 7px;
+  min-height: 7px;
+  margin-top: -3px;
+  padding: 0;
+  border: 1px solid rgba(255,255,255,.9);
+  border-radius: 50%;
+  background: rgba(231,240,249,.96);
+  box-shadow: 0 0 0 1px rgba(3,10,18,.55);
+}
+.excalibrain-plex .kplex-layout-controls .kplex-mini-slider input[type="range"]::-moz-range-track {
+  height: 1px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(226,238,250,.44);
+  box-shadow: none;
+}
+.excalibrain-plex .kplex-layout-controls .kplex-mini-slider input[type="range"]::-moz-range-thumb {
+  width: 7px;
+  height: 7px;
+  padding: 0;
+  border: 1px solid rgba(255,255,255,.9);
+  border-radius: 50%;
+  background: rgba(231,240,249,.96);
+  box-shadow: 0 0 0 1px rgba(3,10,18,.55);
+}
+
+/* Performance/UI pass: tighter thought chrome and professional micro controls. */
+.excalibrain-view-host .excalibrain-thought {
+  padding: 1px 8px;
+  line-height: 1.02;
+}
+.excalibrain-view-host .excalibrain-role-center {
+  padding: 2px 10px;
+}
+
+.kplex-layout-controls {
+  left: 14px;
+  bottom: 15px;
+  gap: 8px;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+.kplex-density-control {
+  width: 126px;
+  padding: 5px 7px 6px;
+  display: grid;
+  grid-template-rows: 14px 12px;
+  gap: 2px;
+  box-sizing: border-box;
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 7px;
+  background: rgba(7,16,25,.66);
+  box-shadow: 0 2px 8px rgba(0,0,0,.16);
+  color: rgba(232,241,250,.72);
+  cursor: default;
+  user-select: none;
+}
+.kplex-density-heading {
+  display: grid;
+  grid-template-columns: 13px 1fr auto;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  font-size: 7px;
+  line-height: 1;
+  letter-spacing: .055em;
+  text-transform: uppercase;
+}
+.kplex-density-heading svg { opacity: .7; }
+.kplex-density-heading output {
+  min-width: 24px;
+  text-align: right;
+  color: rgba(242,247,252,.88);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.kplex-density-rail {
+  position: relative;
+  align-self: center;
+  display: block;
+  width: 100%;
+  height: 12px;
+}
+.kplex-density-rail::before {
+  content: "";
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  top: 5px;
+  height: 1px;
+  border-radius: 999px;
+  background: rgba(214,228,241,.24);
+}
+.kplex-density-rail.is-stepped::after {
+  content: "";
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  top: 3px;
+  height: 5px;
+  opacity: .28;
+  background: repeating-linear-gradient(to right, transparent 0 calc(14.285% - 1px), rgba(230,240,250,.65) calc(14.285% - 1px) 14.285%);
+  pointer-events: none;
+}
+.kplex-density-fill {
+  position: absolute;
+  left: 1px;
+  top: 5px;
+  height: 1px;
+  border-radius: 999px;
+  background: var(--interactive-accent);
+  pointer-events: none;
+}
+.excalibrain-view-host .kplex-density-rail input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 12px;
+  min-height: 12px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  outline: none;
+  cursor: ew-resize;
+}
+.excalibrain-view-host .kplex-density-rail input[type="range"]::-webkit-slider-runnable-track {
+  height: 12px;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.excalibrain-view-host .kplex-density-rail input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 8px;
+  height: 8px;
+  min-width: 8px;
+  min-height: 8px;
+  margin-top: 2px;
+  padding: 0;
+  border: 1px solid rgba(255,255,255,.8);
+  border-radius: 50%;
+  background: var(--interactive-accent);
+  box-shadow: 0 0 0 2px rgba(7,16,25,.85);
+}
+.excalibrain-view-host .kplex-density-rail input[type="range"]::-moz-range-track {
+  height: 12px;
+  border: 0;
+  background: transparent;
+}
+.excalibrain-view-host .kplex-density-rail input[type="range"]::-moz-range-progress { background: transparent; }
+.excalibrain-view-host .kplex-density-rail input[type="range"]::-moz-range-thumb {
+  width: 8px;
+  height: 8px;
+  border: 1px solid rgba(255,255,255,.8);
+  border-radius: 50%;
+  background: var(--interactive-accent);
+  box-shadow: 0 0 0 2px rgba(7,16,25,.85);
+}
+
+/* K-Plex top stack: toolbar plus persistent quick-access pins. */
+.excalibrain-top-stack {
+  position: relative;
+  z-index: 30;
+  min-width: 0;
+  background: rgba(14, 18, 24, .98);
+  border-bottom: 1px solid var(--eb-line);
+}
+.excalibrain-top-stack .excalibrain-topbar {
+  border-bottom: 0;
+  box-shadow: none;
+}
+.kplex-pinned-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 30px;
+  padding: 2px 10px 6px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: thin;
+  background: rgba(12, 17, 23, .94);
+}
+.kplex-pinned-chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: stretch;
+  max-width: 240px;
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 7px;
+  overflow: hidden;
+  background: rgba(255,255,255,.035);
+}
+.kplex-pinned-chip.is-active {
+  border-color: rgba(116,182,255,.42);
+  background: rgba(67,132,205,.13);
+}
+.kplex-pinned-chip button {
+  height: 25px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: rgba(230,238,248,.78);
+  cursor: pointer;
+}
+.kplex-pinned-chip button:hover { background: rgba(255,255,255,.075); color: var(--eb-text); }
+.kplex-pinned-open {
+  min-width: 0;
+  max-width: 205px;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px;
+  text-align: left;
+  font-size: 10px;
+}
+.kplex-pinned-open svg { flex: 0 0 auto; color: #e2a64d; }
+.kplex-pinned-open span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.excalibrain-view-host .kplex-pinned-remove {
+  width: 25px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-left: 1px solid rgba(255,255,255,.06);
+  color: rgba(230,238,248,.50);
+}
+
+/* Keyboard search selection mirrors pointer hover and remains visible while arrowing. */
+.excalibrain-search-result.is-selected {
+  color: #eef7ff;
+  background: rgba(116,182,255,.15);
+  box-shadow: inset 2px 0 0 rgba(116,182,255,.70);
+}
+
+/* Sibling nodes and their expanded descendants deliberately read as secondary context. */
+.kplex-expanded-mini-thought.is-sibling-descendant {
+  opacity: .60;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+/* Compact resource links on the opening declarative settings page. */
+.kplex-settings .kplex-resource-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+  flex-wrap: wrap;
+  padding: 2px 0 10px;
+  margin-bottom: 2px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.kplex-settings .kplex-resource-links .setting-item {
+  position: relative;
+  flex: 0 0 auto;
+  width: auto;
+  min-width: 0;
+  padding: 0 10px;
+  border: 0;
+}
+.kplex-settings .kplex-resource-links .setting-item + .setting-item::before {
+  content: "|";
+  position: absolute;
+  left: -2px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-faint);
+}
+.kplex-settings .kplex-resource-links .setting-item-info {
+  margin: 0;
+}
+.kplex-settings .kplex-resource-links .setting-item-name {
+  color: var(--text-accent);
+  font-size: var(--font-ui-small);
+  white-space: nowrap;
+}
+.kplex-settings .kplex-resource-links .setting-item-description { display: none; }
+.kplex-settings .kplex-resource-links .setting-item-control { margin-left: 5px; }
+.kplex-settings .kplex-resource-links button {
+  min-width: 0;
+  height: 24px;
+  padding: 0 6px;
+  font-size: var(--font-ui-smaller);
+}
+
+/* Relationship explainability */
+.kplex-explanation-modal { max-width: 760px; }
+.kplex-explanation-pair { margin-bottom: 8px; font-size: 1.05em; }
+.kplex-explanation-result { margin: 8px 0; font-weight: 600; }
+.kplex-explanation-summary { margin: 8px 0 16px; color: var(--text-muted); line-height: 1.45; }
+.kplex-explanation-evidence { display: flex; flex-direction: column; gap: 8px; }
+.kplex-explanation-evidence-row { border: 1px solid var(--background-modifier-border); border-radius: 6px; padding: 8px 10px; }
+.kplex-explanation-evidence-row.is-suppressed { opacity: .72; }
+.kplex-explanation-state { display: inline-block; min-width: 82px; margin-right: 8px; font-size: 10px; font-weight: 700; letter-spacing: .06em; color: var(--text-accent); }
+.kplex-explanation-evidence-row.is-suppressed .kplex-explanation-state { color: var(--text-muted); }
+.kplex-explanation-description { font-size: 12px; }
+.kplex-explanation-evidence code { display: block; margin-top: 6px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.kplex-explanation-reason { margin-top: 5px; color: var(--text-muted); font-size: 11px; }
+.kplex-explanation-actions { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.kplex-explanation-navigate { height: 28px; min-height: 28px; padding: 0 9px; font-size: var(--font-ui-smaller); }
+.kplex-explanation-empty { color: var(--text-muted); }
+
+.kplex-explanation-display-context {
+  margin: 8px 0;
+  padding: 8px 10px;
+  border-left: 3px solid var(--interactive-accent);
+  background: var(--background-secondary);
+  color: var(--text-muted);
+}
+
+/* --------------------------------------------------------------------------
+ * K-Plex mobile, sidepanel, filtering and transition refinements
+ * -------------------------------------------------------------------------- */
+.excalibrain-plex {
+  overscroll-behavior: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* The graph itself owns one- and two-finger gestures. Scrollable relationship
+   lists opt back in to vertical touch scrolling below. */
+.excalibrain-plex,
+.excalibrain-camera,
+.excalibrain-nodes {
+  touch-action: none;
+}
+.kplex-zone-scroll,
+.kplex-expanded-scroll,
+.kplex-relation-results {
+  touch-action: pan-y;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Global visible-Plex filter. It intentionally lives in the toolbar rather
+   than consuming graph space until opened. */
+.kplex-filter {
+  position: relative;
+  flex: 0 0 auto;
+}
+.kplex-filter > summary {
+  list-style: none;
+}
+.kplex-filter > summary::-webkit-details-marker { display: none; }
+.kplex-filter.is-active > summary {
+  color: #dcecff;
+  border-color: rgba(116,182,255,.48);
+  background: rgba(67,132,205,.18);
+}
+.kplex-filter-panel {
+  position: absolute;
+  z-index: 90;
+  top: calc(100% + 6px);
+  left: 0;
+  display: grid;
+  grid-template-columns: minmax(155px, 1fr);
+  gap: 8px;
+  width: min(290px, calc(100vw - 28px));
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  background: var(--background-primary-alt, var(--background-primary));
+  box-shadow: 0 10px 30px rgba(0,0,0,.42);
+}
+.kplex-filter-panel label {
+  display: grid;
+  gap: 3px;
+  color: var(--text-muted);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: .025em;
+}
+.kplex-filter-panel input,
+.kplex-filter-panel select {
+  width: 100%;
+  min-width: 0;
+  font-size: var(--font-ui-small);
+}
+.kplex-filter-panel button { justify-self: end; }
+
+/* Sidepanel views deliberately trade toolbar chrome for graph space. */
+.kplex-surface-sidepanel .excalibrain-topbar {
+  gap: 4px;
+  padding: 4px 6px;
+  flex-wrap: wrap;
+}
+.kplex-surface-sidepanel .excalibrain-brand {
+  min-width: auto;
+}
+.kplex-surface-sidepanel .excalibrain-brand strong { display: none; }
+.kplex-surface-sidepanel .excalibrain-brand-mark { width: 17px; height: 17px; }
+.kplex-surface-sidepanel .excalibrain-search { min-width: 110px; flex: 1 1 145px; }
+.kplex-surface-sidepanel .excalibrain-top-actions {
+  flex: 1 1 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  justify-content: flex-start;
+  scrollbar-width: none;
+}
+.kplex-surface-sidepanel .excalibrain-top-actions::-webkit-scrollbar { display: none; }
+.kplex-surface-sidepanel .excalibrain-topbar button { flex: 0 0 auto; }
+.kplex-surface-sidepanel .kplex-pinned-bar { padding-left: 6px; padding-right: 6px; }
+.kplex-surface-sidepanel .excalibrain-history-label { display: none; }
+.kplex-surface-sidepanel .excalibrain-history-bar { padding-left: 5px; padding-right: 5px; }
+.kplex-surface-sidepanel .kplex-layout-controls { transform: scale(.92); transform-origin: bottom left; }
+
+/* Scene motion is driven by FLIP/Web Animations in PlexGraph so nodes that existed in both
+   scenes visibly migrate between their actual old/new positions. CSS only handles connector
+   appearance; duplicating positional CSS transitions here makes the FLIP transform fight layout. */
+@keyframes kplex-edge-arrive { from { opacity: 0; } to { opacity: 1; } }
+.excalibrain-edge,
+.kplex-expanded-edge {
+  animation: kplex-edge-arrive max(120ms, calc(var(--kplex-motion-ms, 560ms) * .55)) ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .excalibrain-edge, .kplex-expanded-edge { animation: none; }
+}
+
+.excalibrain-plex.is-section-expanded .excalibrain-thought.is-selected {
+  box-shadow: 0 0 0 2px rgba(255,255,255,.48), 0 0 28px rgba(112,184,255,.22), 0 8px 24px rgba(0,0,0,.42);
+}
+
+/* Relation/new-note modal additions. */
+.kplex-relation-new-note {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+.kplex-relation-new-note .kplex-lucide { width: 14px; height: 14px; }
+
+/* On narrow touch devices prioritize graph navigation and large hit targets.
+   Platform-specific layout density itself is stored in settings profiles. */
+@media (max-width: 700px) {
+  .excalibrain-view-host .excalibrain-topbar {
+    gap: 4px;
+    padding: 4px 5px;
+  }
+  .excalibrain-view-host .excalibrain-brand strong { display: none; }
+  .excalibrain-view-host .excalibrain-topbar button,
+  .excalibrain-view-host .excalibrain-icon-button {
+    min-width: 30px;
+    min-height: 30px;
+  }
+  .excalibrain-view-host .excalibrain-search { flex: 1 1 130px; min-width: 100px; }
+  .excalibrain-view-host .excalibrain-top-actions {
+    flex: 1 1 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+  }
+  .excalibrain-view-host .excalibrain-top-actions::-webkit-scrollbar { display: none; }
+  .excalibrain-view-host .kplex-filter-panel {
+    position: fixed;
+    top: max(52px, env(safe-area-inset-top));
+    left: 8px;
+    right: 8px;
+    width: auto;
+  }
+  .excalibrain-view-host .excalibrain-history-bar { min-height: 26px; }
+  .excalibrain-view-host .kplex-density-heading span:not(output) { display: none; }
+  .excalibrain-view-host .kplex-layout-controls { max-width: calc(100% - 70px); }
+}
+
+/* A navigation render gets the transition class on the first frame, before the
+   activePath effect runs, so shared keyed thoughts can glide from their old
+   coordinates rather than jumping and only then becoming animated. */
+@keyframes kplex-scene-arrive {
+  0% { opacity: .82; }
+  100% { opacity: 1; }
+}
+.excalibrain-plex.is-scene-transitioning .excalibrain-camera {
+  animation: kplex-scene-arrive max(120ms, calc(var(--kplex-motion-ms, 560ms) * .72)) ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .excalibrain-plex.is-scene-transitioning .excalibrain-camera { animation: none; }
+}
+
+/* Touch/mobile rendering stability --------------------------------------
+   iOS WebViews are much more sensitive to large transformed/filter-heavy layers. Keep K-Plex
+   visually identical enough on touch devices while avoiding forced 3D compositing and hundreds
+   of simultaneous drop-shadow/position animations during a gesture. Camera motion itself is
+   requestAnimationFrame-batched in PlexGraph. */
+@media (hover: none) and (pointer: coarse) {
+  .excalibrain-camera { will-change: auto; }
+  .excalibrain-edge-visible { filter: none; }
+  .excalibrain-edge.is-highlighted .excalibrain-edge-visible { filter: none; }
+}
+
+
+/* Direct manipulation is intentionally visually cheaper than an idle Plex. In particular, iOS
+   WebViews can reload under memory pressure when a large transformed graph, drop shadows and
+   hundreds of CSS animations are all rasterized while pinching. The gesture classes are toggled
+   imperatively, so this adds no React render traffic during pan/pinch. */
+.excalibrain-plex.is-touch-gesturing .excalibrain-thought,
+.excalibrain-plex.is-touch-gesturing .excalibrain-edge,
+.excalibrain-plex.is-touch-gesturing .kplex-expanded-edge,
+.excalibrain-plex.is-pinch-gesturing .excalibrain-camera {
+  animation: none;
+  transition: none;
+}
+.excalibrain-plex.is-pinch-gesturing .excalibrain-thought {
+  box-shadow: none;
+}
+.excalibrain-plex.is-pinch-gesturing .excalibrain-edge-label-wrap {
+  opacity: 0;
+}
+.excalibrain-plex.is-pinch-gesturing .kplex-section-tree-edge {
+  filter: none;
+}
+
+
+/* iOS WebKit is particularly prone to process reloads when a large SVG relationship layer and
+   hundreds of shadowed HTML nodes are continuously rescaled together. During the *active* pinch
+   gesture keep thoughts visible but temporarily suppress expensive relationship painting. The
+   edges return as soon as the second finger lifts. Android/desktop keep the full graph. */
+.excalibrain-plex.is-ios.is-pinch-gesturing .excalibrain-edge-visible,
+.excalibrain-plex.is-ios.is-pinch-gesturing .kplex-expanded-edge,
+.excalibrain-plex.is-ios.is-pinch-gesturing .kplex-section-tree-edge {
+  opacity: 0;
+}
+.excalibrain-plex.is-ios.is-pinch-gesturing .excalibrain-thought {
+  box-shadow: none;
+  filter: none;
+}
+
+/* Section outline tree ----------------------------------------------------
+   Central-note sections use a document-outline language, not ordinary Plex thought styling.
+   Structural hierarchy is a solid orthogonal tree entering each heading at its left-center edge;
+   semantic relationships still use the normal four K-Plex gates. */
+.kplex-section-tree-edge {
+  stroke: color-mix(in srgb, var(--interactive-accent) 64%, var(--text-muted));
+  stroke-width: 1.55;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+  opacity: .9;
+  pointer-events: none;
+}
+.excalibrain-thought.is-kplex-section {
+  border-radius: 4px;
+  border: 1px solid color-mix(in srgb, var(--text-muted) 34%, var(--background-modifier-border));
+  border-left: 3px solid color-mix(in srgb, var(--interactive-accent) 66%, var(--text-accent));
+  background: color-mix(in srgb, var(--background-secondary) 94%, var(--interactive-accent) 6%);
+  color: var(--text-normal);
+  box-shadow: 0 1px 2px rgba(0,0,0,.12);
+}
+.excalibrain-thought.is-kplex-section:hover {
+  border-color: color-mix(in srgb, var(--interactive-accent) 58%, var(--background-modifier-border));
+  border-left-color: var(--interactive-accent);
+  background: color-mix(in srgb, var(--background-secondary) 90%, var(--interactive-accent) 10%);
+  box-shadow: 0 2px 5px rgba(0,0,0,.15);
+}
+/* Incoming structural port: the L-branch terminates here at the card's left-center edge. */
+.excalibrain-thought.is-kplex-section::after {
+  content: "";
+  position: absolute;
+  left: -4px;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  transform: translate(-50%, -50%);
+  border-radius: 1px;
+  background: var(--background-primary);
+  border: 1.5px solid color-mix(in srgb, var(--interactive-accent) 72%, var(--text-muted));
+  pointer-events: none;
+}
+.excalibrain-thought.is-kplex-section .excalibrain-thought-label {
+  justify-content: flex-start;
+  gap: 8px;
+  padding-inline: 8px 10px;
+  color: var(--text-normal);
+  font-weight: 570;
+  letter-spacing: .003em;
+}
+.kplex-section-heading-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  min-width: 24px;
+  padding: 0 3px;
+  border: 0;
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--interactive-accent) 10%, transparent);
+  color: color-mix(in srgb, var(--text-accent) 86%, var(--text-normal));
+  font-size: 9px;
+  font-weight: 760;
+  line-height: 18px;
+}
+.excalibrain-thought.is-kplex-section .excalibrain-gate.is-empty,
+.excalibrain-thought.is-kplex-section .excalibrain-gate-wrap.is-empty .excalibrain-gate-count {
+  opacity: 0;
+  pointer-events: none;
+}
+.kplex-section-fold-handle {
+  position: absolute;
+  left: 14px;
+  bottom: -6px;
+  width: 10px;
+  height: 10px;
+  min-width: 10px;
+  min-height: 10px;
+  padding: 0;
+  margin: 0;
+  transform: translateX(-50%);
+  border: 1.5px solid color-mix(in srgb, var(--interactive-accent) 76%, var(--text-muted));
+  border-radius: 1px;
+  background: var(--background-primary);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--background-primary) 88%, transparent);
+  z-index: 8;
+  cursor: pointer;
+}
+.kplex-section-fold-handle.is-expanded::after {
+  content: "";
+  position: absolute;
+  left: 2px; right: 2px; top: 3px;
+  height: 1.5px;
+  border-radius: 1px;
+  background: var(--interactive-accent);
+}
+.kplex-section-fold-handle.is-folded {
+  background: color-mix(in srgb, var(--interactive-accent) 72%, var(--background-primary));
+}
+.kplex-section-fold-handle.is-folded::before,
+.kplex-section-fold-handle.is-folded::after {
+  content: "";
+  position: absolute;
+  background: var(--background-primary);
+  border-radius: 1px;
+}
+.kplex-section-fold-handle.is-folded::before { left: 2px; right: 2px; top: 3px; height: 1.5px; }
+.kplex-section-fold-handle.is-folded::after { top: 2px; bottom: 2px; left: 3px; width: 1.5px; }
+.kplex-section-fold-handle:hover {
+  border-color: var(--interactive-accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--interactive-accent) 16%, transparent);
+}
+
+/* Relationship edits are optimistic, but briefly block accidental follow-up clicks until the
+   metadata cache + authoritative index have caught up. */
+.kplex-relationship-updating {
+  position: absolute;
+  inset: 0;
+  z-index: 90;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 56px;
+  background: color-mix(in srgb, var(--background-primary) 5%, transparent);
+  cursor: wait;
+  pointer-events: auto;
+}
+.kplex-relationship-updating > span,
+.kplex-relationship-updating > svg { pointer-events: none; }
+.kplex-relationship-updating {
+  gap: 7px;
+  color: var(--text-normal);
+  font-size: var(--font-ui-small);
+}
+.kplex-relationship-updating::before {
+  content: "";
+  position: absolute;
+  top: 47px;
+  width: 190px;
+  height: 34px;
+  border-radius: 17px;
+  background: var(--background-secondary-alt);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: var(--shadow-s);
+  z-index: -1;
+}
+.kplex-relationship-updating svg { animation: kplex-spin 1s linear infinite; }
+@keyframes kplex-spin { to { transform: rotate(360deg); } }
+
+/* Companion sidecar controls live on the K-Plex edge. The actual sidecar is a native adjacent
+   WorkspaceLeaf, so its divider/resizing remains entirely Obsidian-owned. */
+.kplex-sidecar-controls {
+  position: absolute;
+  z-index: 82;
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-secondary-alt);
+  box-shadow: var(--shadow-s);
+}
+.kplex-sidecar-controls.is-right { right: 4px; top: 50%; transform: translateY(-50%); flex-direction: column; }
+.kplex-sidecar-controls.is-left { left: 4px; top: 50%; transform: translateY(-50%); flex-direction: column; }
+.kplex-sidecar-controls.is-above { top: 4px; left: 50%; transform: translateX(-50%); }
+.kplex-sidecar-controls.is-below { bottom: 4px; left: 50%; transform: translateX(-50%); }
+.kplex-sidecar-controls button {
+  width: 25px;
+  height: 25px;
+  padding: 4px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+}
+.kplex-sidecar-controls button:hover { color: var(--text-normal); background: var(--background-modifier-hover); }
+
+.excalibrain-top-actions.is-compact { flex-wrap: nowrap; }
+.excalibrain-app.is-sidecar-condensed .excalibrain-brand strong { display: none; }
+.kplex-section-root-port {
+  fill: var(--background-primary);
+  stroke: color-mix(in srgb, var(--interactive-accent) 65%, var(--text-muted));
+  stroke-width: 1.25;
+  pointer-events: none;
+}
+
+/* Streamlined add-related modal: one fuzzy note field, ontology field, and creation buttons. */
+.kplex-add-related-modal {
+  width: min(680px, calc(100vw - 24px));
+  max-width: min(680px, calc(100vw - 24px));
+}
+.kplex-add-related-form {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+}
+.kplex-add-related-form .kplex-fuzzy-search {
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.kplex-add-related-form .excalibrain-search {
+  box-sizing: border-box;
+  width: 100%;
+  height: 38px;
+  padding: 0 12px 0 35px;
+  color: var(--text-normal);
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--input-radius, 5px);
+  box-shadow: none;
+}
+.kplex-add-related-form .excalibrain-search:focus {
+  border-color: var(--interactive-accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 18%, transparent);
+}
+.kplex-add-related-form .excalibrain-search-icon {
+  top: 10px;
+  color: var(--text-muted);
+}
+.kplex-add-related-form .kplex-fuzzy-inline-results {
+  left: 0;
+  right: 0;
+  top: calc(100% + 4px);
+  max-height: min(36vh, 300px);
+  color: var(--text-normal);
+  background: var(--background-primary);
+  border-color: var(--background-modifier-border);
+  box-shadow: var(--shadow-l, 0 12px 32px rgba(0,0,0,.28));
+}
+.kplex-add-related-form .excalibrain-search-result {
+  color: var(--text-normal);
+}
+.kplex-add-related-form .excalibrain-search-result small {
+  color: var(--text-muted);
+}
+.kplex-add-related-form .excalibrain-search-result:hover,
+.kplex-add-related-form .excalibrain-search-result.is-selected {
+  background: var(--background-modifier-hover);
+}
+.kplex-add-related-role-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+.kplex-add-related-role-row button {
+  min-width: 0;
+  height: 30px;
+  padding: 0 8px;
+}
+.kplex-add-related-role-row button.is-active {
+  color: var(--text-on-accent);
+  background: var(--interactive-accent);
+}
+.kplex-add-related-control-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  flex-wrap: wrap;
+}
+.kplex-add-related-control-row .kplex-add-related-ontology-search {
+  flex: 1 1 280px;
+}
+.kplex-add-related-control-row .kplex-create-edit-toggle {
+  flex: 0 1 auto;
+}
+.kplex-add-related-compose-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: start;
+  min-width: 0;
+}
+.kplex-add-related-action-area {
+  min-width: 94px;
+  height: 38px;
+}
+.kplex-add-related-create-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  height: 38px;
+}
+.kplex-add-related-type-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 38px;
+  min-width: 42px;
+  padding: 0;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+}
+.kplex-add-related-type-button:not(:disabled):hover {
+  border-color: var(--interactive-accent);
+  background: var(--background-modifier-hover);
+}
+.kplex-add-related-type-button.is-default:not(:disabled) {
+  border-color: color-mix(in srgb, var(--interactive-accent) 65%, var(--background-modifier-border));
+}
+.kplex-add-related-link-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 94px;
+  height: 38px;
+  min-width: 94px;
+  padding: 0 10px;
+  color: var(--text-on-accent);
+  background: var(--interactive-accent);
+  border: 1px solid var(--interactive-accent);
+}
+.kplex-add-related-link-button:not(:disabled):hover {
+  background: var(--interactive-accent-hover);
+}
+.kplex-add-related-create-hint.is-error {
+  color: var(--text-error);
+}
+.kplex-add-related-create-hint {
+  margin-top: -4px;
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  line-height: 1.35;
+}
+@media (max-width: 520px) {
+  .kplex-add-related-role-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .kplex-add-related-control-row { gap: 7px; }
+  .kplex-add-related-control-row .kplex-add-related-ontology-search { flex-basis: 210px; }
+  .kplex-add-related-compose-row { gap: 7px; }
+  .kplex-add-related-action-area { min-width: 83px; }
+  .kplex-add-related-create-actions { gap: 6px; }
+  .kplex-add-related-type-button { width: 36px; min-width: 36px; }
+  .kplex-add-related-link-button { width: 83px; min-width: 83px; }
+}
+@media (max-width: 380px) {
+  .kplex-add-related-modal {
+    width: calc(100vw - 12px);
+    max-width: calc(100vw - 12px);
+  }
+  .kplex-add-related-control-row .kplex-add-related-ontology-search { flex-basis: 150px; }
+  .kplex-add-related-create-actions { gap: 4px; }
+  .kplex-add-related-type-button { width: 33px; min-width: 33px; }
+}
+
+/* Folding K-Plex in companion-sidecar mode removes the Plex tab group from the split. The
+   surviving native document group owns this small edge control so K-Plex is always recoverable. */
+.kplex-sidecar-unfold-plex {
+  position: absolute;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  min-width: 28px;
+  padding: 0;
+  color: var(--text-muted);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  background: color-mix(in srgb, var(--background-primary) 92%, transparent);
+  box-shadow: 0 4px 14px rgba(0,0,0,.24);
+  cursor: pointer;
+}
+.kplex-sidecar-unfold-plex:hover {
+  color: var(--text-normal);
+  border-color: var(--interactive-accent);
+  background: var(--background-modifier-hover);
+}
+.kplex-sidecar-unfold-plex.is-left { left: 5px; top: 50%; transform: translateY(-50%); }
+.kplex-sidecar-unfold-plex.is-right { right: 5px; top: 50%; transform: translateY(-50%); }
+.kplex-sidecar-unfold-plex.is-top { top: 5px; left: 50%; transform: translateX(-50%); }
+.kplex-sidecar-unfold-plex.is-bottom { bottom: 5px; left: 50%; transform: translateX(-50%); }
+
+/* Declarative settings can insert one wrapper around group items depending on the Obsidian build.
+   Keep the resource shortcuts on one row in either DOM shape, wrapping only when space runs out. */
+.kplex-settings .kplex-resource-links > :is(div, section):not(.setting-item) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+/* The last-used create type is the primary action; Ctrl/Cmd+Enter invokes it next time. */
+.kplex-add-related-type-button.is-default:not(:disabled) {
+  color: var(--text-on-accent);
+  background: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--text-on-accent) 18%, transparent);
+}
+.kplex-add-related-type-button.is-default:not(:disabled):hover {
+  color: var(--text-on-accent);
+  background: var(--interactive-accent-hover);
+  border-color: var(--interactive-accent-hover);
+}
+
+/* Fuzzy results shown from modals are portalled to the viewport so they are never clipped by
+   the modal's own bounds. Keep their theme-native appearance even though they no longer inherit
+   from `.kplex-add-related-form`. */
+.kplex-fuzzy-floating-results {
+  color: var(--text-normal);
+  background: var(--background-primary);
+  border-color: var(--background-modifier-border);
+  box-shadow: var(--shadow-l, 0 12px 32px rgba(0,0,0,.28));
+}
+.kplex-fuzzy-floating-results .excalibrain-search-result { color: var(--text-normal); }
+.kplex-fuzzy-floating-results .excalibrain-search-result small { color: var(--text-muted); }
+.kplex-fuzzy-floating-results .excalibrain-search-result:hover,
+.kplex-fuzzy-floating-results .excalibrain-search-result.is-selected { background: var(--background-modifier-hover); }
+.kplex-fuzzy-match {
+  padding: 0;
+  color: var(--text-accent);
+  background: transparent;
+  font: inherit;
+  font-weight: 750;
+}
+
+/* Relationship-create/link feedback. The animation intentionally changes only glow/brightness so
+   it composes with FLIP positioning and never moves the thought itself. */
+@keyframes kplex-new-relationship-flair {
+  0%, 100% { box-shadow: 0 4px 14px rgba(0,0,0,.32), inset 0 1px 0 rgba(255,255,255,.075); filter: brightness(1); }
+  12%, 38%, 64% { box-shadow: 0 0 0 3px color-mix(in srgb, var(--interactive-accent) 82%, white), 0 0 34px color-mix(in srgb, var(--interactive-accent) 58%, transparent), 0 8px 24px rgba(0,0,0,.42); filter: brightness(1.28); }
+  25%, 51%, 77% { box-shadow: 0 0 0 1px color-mix(in srgb, var(--interactive-accent) 50%, transparent), 0 0 16px color-mix(in srgb, var(--interactive-accent) 34%, transparent), 0 6px 18px rgba(0,0,0,.36); filter: brightness(1.08); }
+}
+.excalibrain-thought.is-new-flair {
+  z-index: 35;
+  animation: kplex-new-relationship-flair 3.6s ease-in-out both;
+}
+@keyframes kplex-filter-flair {
+  0%, 100% { box-shadow: none; }
+  12%, 38%, 64% { box-shadow: 0 0 0 3px color-mix(in srgb, var(--interactive-accent) 75%, transparent), 0 0 22px color-mix(in srgb, var(--interactive-accent) 48%, transparent); }
+  25%, 51%, 77% { box-shadow: 0 0 0 1px color-mix(in srgb, var(--interactive-accent) 45%, transparent); }
+}
+.kplex-zone-filter-control.is-new-flair {
+  border-radius: 7px;
+  animation: kplex-filter-flair 3.6s ease-in-out both;
+}
+
+/* Rename-note modal: put the filename editor on its own row so it uses the full width. */
+.kplex-rename-note-modal .kplex-rename-note-name-setting {
+  display: block;
+}
+
+.kplex-rename-note-modal .kplex-rename-note-name-setting .setting-item-info {
+  margin-bottom: 8px;
+}
+
+.kplex-rename-note-modal .kplex-rename-note-name-setting .setting-item-control,
+.kplex-rename-note-modal .kplex-rename-note-name-setting input[type="text"] {
+  width: 100%;
+}
+
+/* Named Graph Lenses (checkpoint 2). Keep the control compact until opened; lens evaluation is
+   still strictly local to the currently materialized Plex. */
+.kplex-filter > summary { position: relative; }
+.kplex-lens-count {
+  position: absolute;
+  right: -5px;
+  top: -5px;
+  min-width: 14px;
+  height: 14px;
+  padding: 0 3px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-size: 9px;
+  line-height: 1;
+  font-weight: 700;
+}
+.kplex-filter-panel { width: min(390px, calc(100vw - 28px)); max-height: min(72vh, 720px); overflow: auto; }
+.kplex-filter-panel textarea { width: 100%; min-width: 0; resize: vertical; font: var(--font-ui-smaller) var(--font-monospace); }
+.kplex-filter-section { display: grid; gap: 8px; }
+.kplex-filter-section + .kplex-filter-section { padding-top: 10px; border-top: 1px solid var(--background-modifier-border); }
+.kplex-filter-section-heading { color: var(--text-normal); font-size: 11px; font-weight: 700; letter-spacing: .025em; }
+.kplex-lens-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.kplex-lens-heading .excalibrain-icon-button { justify-self: auto; }
+.kplex-lens-empty,
+.kplex-lens-help { color: var(--text-muted); font-size: 10px; line-height: 1.35; }
+.kplex-lens-help code { font-size: 9px; }
+.kplex-lens-list { display: grid; gap: 4px; }
+.kplex-lens-row {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto auto auto;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 5px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  opacity: .72;
+}
+.kplex-lens-row.is-enabled { opacity: 1; background: var(--background-secondary); }
+.kplex-lens-row.has-error { border-color: var(--text-error); }
+.kplex-lens-toggle { display: flex; place-items: center; }
+.kplex-lens-toggle input { width: auto; margin: 0; }
+.kplex-lens-main {
+  display: grid;
+  gap: 1px;
+  min-width: 0;
+  padding: 2px 4px;
+  text-align: left;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  justify-self: stretch;
+}
+.kplex-lens-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--text-normal); font-size: 11px; font-weight: 600; }
+.kplex-lens-meta { color: var(--text-muted); font-size: 9px; text-transform: capitalize; }
+.kplex-lens-error-dot { color: var(--text-error); font-weight: 800; }
+.kplex-lens-editor { display: grid; gap: 8px; padding: 8px; border-radius: 7px; background: var(--background-secondary); }
+.kplex-lens-editor-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.kplex-lens-editor-error { color: var(--text-error); font-size: 10px; line-height: 1.35; }
+.kplex-lens-editor-actions { display: flex; justify-content: flex-end; gap: 6px; }
+.kplex-lens-editor-actions button { justify-self: auto; }
+
+/* Graph Lens usability pass ---------------------------------------------------
+   The filter panel is portalled to document.body so it can paint above adjacent Obsidian panes
+   (including a K-Plex companion sidecar). The trigger remains in the K-Plex toolbar. */
+.kplex-filter { position: relative; flex: 0 0 auto; }
+.kplex-filter-trigger { position: relative; }
+.kplex-filter.is-active .kplex-filter-trigger {
+  color: #dcecff;
+  border-color: rgba(116,182,255,.48);
+  background: rgba(67,132,205,.18);
+}
+.kplex-filter.is-open .kplex-filter-trigger {
+  box-shadow: 0 0 0 1px rgba(116,182,255,.22);
+}
+.kplex-filter-portal {
+  z-index: 100000;
+  box-sizing: border-box;
+  overflow: auto;
+  overscroll-behavior: contain;
+  color: var(--text-normal);
+  background: var(--background-primary-alt, var(--background-primary));
+  box-shadow: 0 18px 56px rgba(0,0,0,.58);
+}
+/* Obsidian's styled tooltip is also portalled outside the filter panel. While this overlay is
+   open, keep those tooltips one layer above it instead of letting the panel cover them. */
+body.kplex-filter-panel-open .tooltip { z-index: 100300; }
+.kplex-filter-portal button { justify-self: auto; }
+.kplex-lens-heading-actions { display: flex; align-items: center; gap: 6px; }
+.kplex-lens-disable-all {
+  min-height: 26px;
+  padding: 0 8px;
+  border-radius: 6px;
+  color: var(--text-muted);
+  font-size: 10px;
+}
+.kplex-lens-row {
+  grid-template-columns: auto minmax(0, 1fr) auto auto auto;
+  opacity: .62;
+}
+.kplex-lens-row.is-enabled { opacity: 1; }
+.kplex-lens-enable-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  color: var(--text-faint);
+  background: var(--background-secondary);
+  cursor: pointer;
+}
+.kplex-lens-enable-button.is-on {
+  color: var(--text-accent);
+  border-color: var(--interactive-accent);
+  background: color-mix(in srgb, var(--interactive-accent) 12%, var(--background-secondary));
+}
+.kplex-lens-optional { color: var(--text-faint); font-size: 9px; font-weight: 500; }
+.kplex-lens-editor-mode {
+  display: flex;
+  gap: 4px;
+  padding: 3px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  background: var(--background-primary);
+}
+.kplex-lens-editor-mode button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  flex: 1 1 0;
+  min-height: 28px;
+  border: 0;
+  border-radius: 5px;
+  color: var(--text-muted);
+  background: transparent;
+}
+.kplex-lens-editor-mode button.is-on {
+  color: var(--text-normal);
+  background: var(--background-modifier-hover);
+  box-shadow: inset 0 0 0 1px var(--background-modifier-border);
+}
+.kplex-lens-simple-builder {
+  display: grid;
+  gap: 8px;
+  padding: 8px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  background: var(--background-primary);
+}
+.kplex-lens-group-heading {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--text-muted);
+  font-size: 10px;
+  font-weight: 600;
+}
+.kplex-lens-group-heading select { width: auto; min-width: 170px; }
+.kplex-lens-conditions { display: grid; gap: 7px; }
+.kplex-lens-condition {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+  padding: 6px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  background: var(--background-secondary);
+}
+.kplex-lens-where {
+  flex: 0 0 auto;
+  color: var(--text-muted);
+  font-size: 10px;
+}
+.kplex-lens-condition-field { flex: 1 1 145px; min-width: 120px; width: auto; }
+.kplex-lens-condition-property { flex: 1 1 130px; min-width: 110px; width: auto; }
+.kplex-lens-condition-operator { flex: 0 1 125px; min-width: 105px; width: auto; }
+.kplex-lens-condition-value { flex: 1 1 140px; min-width: 120px; width: auto; }
+.kplex-lens-condition-remove { flex: 0 0 30px; }
+.kplex-lens-add-condition {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  justify-self: start;
+  min-height: 28px;
+}
+.kplex-lens-help strong { color: var(--text-normal); }
+.excalibrain-gate-count { white-space: nowrap; min-width: max-content; }
+
+@media (max-width: 520px) {
+  .kplex-filter-portal { width: calc(100vw - 16px); left: 8px; }
+  .kplex-lens-editor-row { grid-template-columns: 1fr; }
+  .kplex-lens-condition-field,
+  .kplex-lens-condition-property,
+  .kplex-lens-condition-operator,
+  .kplex-lens-condition-value { flex-basis: calc(50% - 16px); }
+}
+
+/* Graph Lens presentation + styling (checkpoint 3). */
+.kplex-filter-heading-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+.kplex-filter-heading-row .kplex-filter-layout-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.kplex-filter-visibility-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.kplex-filter-visibility-options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px 14px;
+}
+.kplex-filter-visibility-options .kplex-filter-layout-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.kplex-filter-layout-toggle input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+.kplex-filter-switch {
+  position: relative;
+  width: 31px;
+  height: 17px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  background: var(--background-modifier-form-field);
+  transition: background 120ms ease, border-color 120ms ease;
+}
+.kplex-filter-switch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--text-muted);
+  transition: transform 120ms ease, background 120ms ease;
+}
+.kplex-filter-layout-toggle input:checked + .kplex-filter-switch {
+  border-color: var(--interactive-accent);
+  background: color-mix(in srgb, var(--interactive-accent) 35%, var(--background-modifier-form-field));
+}
+.kplex-filter-layout-toggle input:checked + .kplex-filter-switch::after {
+  transform: translateX(14px);
+  background: var(--text-on-accent, white);
+}
+.kplex-filter-layout-toggle:focus-within .kplex-filter-switch {
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 28%, transparent);
+}
+.kplex-lens-style-editor {
+  display: grid;
+  gap: 8px;
+  padding: 8px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 7px;
+  background: var(--background-primary);
+}
+.kplex-lens-style-heading {
+  color: var(--text-normal);
+  font-size: 10px;
+  font-weight: 700;
+}
+.kplex-lens-style-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+}
+.kplex-lens-style-grid label {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+}
+.kplex-lens-style-grid input[type="color"] {
+  width: 42px;
+  min-width: 42px;
+  height: 28px;
+  padding: 2px;
+  border-radius: 6px;
+}
+.kplex-lens-style-grid input[type="number"],
+.kplex-lens-style-grid select {
+  width: 104px;
+  min-width: 86px;
+}
+.kplex-lens-style-grid .kplex-lens-style-check {
+  display: flex;
+  grid-column: 1 / -1;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.kplex-lens-style-check input { width: auto; margin: 0; }
+@media (max-width: 520px) {
+  .kplex-lens-style-grid { grid-template-columns: 1fr; }
+  .kplex-filter-layout-toggle > span:first-child { display: none; }
+}
+
+/* Edge imagery is resolved only for the currently visible Plex. The preview never changes the
+   layout box: visual recognition improves without making dense graphs grow around images. */
+.excalibrain-thought.has-node-visual .excalibrain-thought-label {
+  overflow: visible;
+  gap: 5px;
+}
+.kplex-node-visual {
+  position: relative;
+  z-index: 1;
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  overflow: visible;
+}
+.excalibrain-role-center .kplex-node-visual { width: 24px; height: 24px; }
+.kplex-node-visual img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  object-fit: cover;
+  background: var(--background-secondary);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--text-muted) 28%, transparent);
+  transition: transform .12s ease, box-shadow .12s ease;
+  transform-origin: center;
+}
+.kplex-node-visual.is-replace { width: 26px; height: 22px; }
+.excalibrain-role-center .kplex-node-visual.is-replace { width: 38px; height: 30px; }
+.kplex-node-visual.is-replace img { object-fit: contain; }
+.excalibrain-thought-label > .kplex-node-visual:last-child { overflow: visible; text-overflow: clip; }
+@media (hover: hover) and (pointer: fine) {
+  .excalibrain-thought.has-node-visual:hover { z-index: 40; }
+  .kplex-node-visual:hover { z-index: 70; }
+  .kplex-node-visual:hover img {
+    transform: scale(7);
+    box-shadow: 0 7px 28px rgba(0,0,0,.58), 0 0 0 1px var(--background-modifier-border-hover);
+  }
+}
+
+/* New-note creation uses the host's native checkbox-container styling so the preference looks and
+   behaves like an Obsidian toggle instead of introducing a second switch visual language. */
+.kplex-create-edit-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 38px;
+  padding: 4px 8px 4px 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-secondary);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.kplex-create-edit-copy { display: flex; align-items: center; min-width: 0; }
+.kplex-create-edit-toggle .checkbox-container { flex: 0 0 auto; }
+
+/* Connection details is optimized for skimming provenance occurrences and hands actual editing
+   off to the native Markdown source view. */
+.kplex-edge-properties-modal { width: min(860px, calc(100vw - 36px)); max-width: min(860px, calc(100vw - 36px)); }
+.kplex-edge-ontology-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin: 12px 0 16px;
+  padding: 10px 12px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-secondary);
+}
+.kplex-edge-ontology-copy { min-width: 0; display: grid; gap: 2px; }
+.kplex-edge-ontology-value { color: var(--text-muted); overflow-wrap: anywhere; }
+.kplex-edge-why { margin-bottom: 14px; }
+.kplex-edge-source-intro { margin: -3px 0 10px; color: var(--text-muted); line-height: 1.4; font-size: var(--font-ui-small); }
+.kplex-edge-source-list { display: grid; gap: 9px; }
+.kplex-edge-source-card {
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-secondary);
+}
+.kplex-edge-source-card.is-overridden { opacity: .74; }
+.kplex-edge-source-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 9px; }
+.kplex-edge-source-title { min-width: 0; overflow-wrap: anywhere; }
+.kplex-edge-source-title span { color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.kplex-edge-source-status { display: flex; flex: 0 0 auto; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: 5px; max-width: 55%; }
+.kplex-edge-source-evaluations { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px; }
+.kplex-edge-source-evaluation {
+  padding: 2px 6px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  background: var(--background-primary-alt);
+  color: var(--text-muted);
+  font-size: 9px;
+  font-weight: 650;
+  white-space: nowrap;
+}
+.kplex-edge-source-evaluation.is-active {
+  color: var(--text-normal);
+  border-color: color-mix(in srgb, var(--interactive-accent) 40%, var(--background-modifier-border));
+}
+.kplex-edge-source-evaluation.is-overridden { opacity: .72; }
+.kplex-edge-source-state { flex: 0 0 auto; padding: 2px 5px; border-radius: 4px; font-size: 9px; font-weight: 700; letter-spacing: .07em; }
+.kplex-edge-source-state.is-used { color: var(--text-success); background: color-mix(in srgb, var(--text-success) 12%, transparent); }
+.kplex-edge-source-state.is-overridden { color: var(--text-muted); background: var(--background-modifier-hover); }
+.kplex-edge-source-text {
+  max-height: 180px;
+  margin: 8px 0;
+  padding: 8px;
+  overflow: auto;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  border-radius: var(--radius-s);
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  font-size: var(--font-ui-smaller);
+}
+.kplex-edge-source-reason { margin: 5px 0; color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.kplex-edge-source-actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.kplex-edge-source-action { display: inline-flex; align-items: center; gap: 6px; min-height: 28px; padding: 3px 8px; font-size: var(--font-ui-smaller); }
+.kplex-edge-source-action svg { width: 14px; height: 14px; }
+
+.kplex-edge-hover-tooltip {
+  position: absolute;
+  z-index: 95;
+  max-width: min(360px, calc(100% - 24px));
+  padding: 7px 9px;
+  border: 1px solid var(--background-modifier-border-hover);
+  border-radius: var(--radius-s);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  box-shadow: var(--shadow-s);
+  font-size: var(--font-ui-smaller);
+  line-height: 1.35;
+  white-space: pre-line;
+  pointer-events: none;
+}
+
+/* The companion control remains on the remembered side even when the native sidecar is closed. */
+.kplex-sidecar-controls.is-closed { padding: 2px; border-color: color-mix(in srgb, var(--interactive-accent) 35%, var(--background-modifier-border)); }
+.kplex-sidecar-controls .kplex-sidecar-primary { color: var(--text-accent); }
+.kplex-sidecar-controls.is-open .kplex-sidecar-primary { color: var(--text-normal); }
+
+/* Searchable managers keep large style/ontology collections compact and native-looking. */
+.modal.kplex-style-manager-modal {
+  width: min(760px, calc(100vw - 48px));
+  max-width: calc(100vw - 24px);
+  box-sizing: border-box;
+}
+.modal.kplex-style-manager-modal .modal-content {
+  min-width: 0;
+  max-width: 100%;
+  overflow-x: clip;
+}
+.kplex-style-manager {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: clip;
+}
+.kplex-style-manager > p {
+  max-width: 64ch;
+  margin: 0 0 12px;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+.kplex-style-manager-controls {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-width: 0;
+  margin: 12px 0 8px;
+}
+.kplex-style-manager-search {
+  min-width: 0;
+  max-width: 100%;
+}
+.kplex-style-manager-search input {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+.kplex-style-manager-controls select,
+.kplex-style-manager-controls button {
+  min-width: 0;
+  max-width: 220px;
+}
+.kplex-style-manager-controls button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.kplex-style-manager-status {
+  margin: 8px 0;
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+.kplex-style-manager-list {
+  display: grid;
+  gap: 2px;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 4px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  background: var(--background-secondary);
+  overflow: clip;
+}
+.kplex-style-manager-row {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 10px;
+  color: var(--text-normal);
+  text-align: left;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  box-shadow: none;
+  cursor: pointer;
+  overflow: hidden;
+}
+.kplex-style-manager-row:hover,
+.kplex-style-manager-row:focus-visible {
+  background: var(--background-modifier-hover);
+}
+.kplex-style-manager-row > .kplex-lucide { order: 3; flex: 0 0 auto; color: var(--text-muted); }
+.kplex-style-manager-copy { flex: 1 1 auto; min-width: 0; max-width: 100%; display: grid; gap: 2px; overflow: hidden; }
+.kplex-style-manager-heading { min-width: 0; max-width: 100%; display: flex; align-items: center; gap: 7px; flex-wrap: wrap; overflow: hidden; }
+.kplex-style-manager-name { min-width: 0; max-width: 100%; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kplex-style-manager-summary { min-width: 0; max-width: 100%; color: var(--text-muted); font-size: var(--font-ui-smaller); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.kplex-style-manager-badges { min-width: 0; display: inline-flex; gap: 4px; flex-wrap: wrap; }
+.kplex-style-manager-badge {
+  padding: 1px 5px;
+  color: var(--text-muted);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 500;
+}
+.kplex-style-manager-line-swatch {
+  flex: 0 0 28px;
+  height: 0;
+  border-top: 3px solid var(--kplex-style-swatch, var(--text-muted));
+  border-radius: 3px;
+}
+.kplex-style-manager-node-swatch {
+  flex: 0 0 28px;
+  width: 28px;
+  height: 22px;
+  border: 2px solid var(--kplex-style-node-border, var(--background-modifier-border));
+  border-radius: 6px;
+  background: var(--kplex-style-node-bg, var(--background-secondary-alt));
+}
+.kplex-style-manager-property-icon {
+  display: inline-flex;
+  flex: 0 0 28px;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+}
+.kplex-style-manager-empty,
+.kplex-style-manager-limit { padding: 12px; color: var(--text-muted); }
+.kplex-style-manager-empty p { margin: 0 0 10px; }
+.kplex-style-manager-more {
+  justify-self: center;
+  margin: 6px 0 2px;
+}
+
+@media (max-width: 680px) {
+  .modal.kplex-style-manager-modal { width: calc(100vw - 20px); max-width: calc(100vw - 20px); }
+  .kplex-style-manager-controls { grid-template-columns: minmax(0, 1fr); }
+  .kplex-style-manager-controls select,
+  .kplex-style-manager-controls button { width: 100%; max-width: none; }
+  .kplex-style-manager-summary { white-space: normal; }
+}
+.kplex-style-manager-line-swatch.is-dashed { border-top-style: dashed; }
+.kplex-style-manager-line-swatch.is-dotted { border-top-style: dotted; }
+
+/* Briefly identify the entire note leaf currently linked/pinned to K-Plex. The warning token is
+   supplied by the active Obsidian theme; no inline style or hard-coded alert color is required. */
+.kplex-linked-leaf-alert {
+  border: 3px;
+  border-color: var(--text-warning, var(--interactive-accent));
+  border-style: solid;
+}
+
+/* Folder-child creation gives the note name its own full-width row. The native Setting layout is
+   optimized for short controls and otherwise leaves a long filename input cramped into the right
+   column on wide dialogs. */
+.kplex-create-folder-note-modal .kplex-create-folder-note-name-setting {
+  display: block;
+}
+.kplex-create-folder-note-modal .kplex-create-folder-note-name-setting .setting-item-info {
+  margin-bottom: 8px;
+}
+.kplex-create-folder-note-modal .kplex-create-folder-note-name-setting .setting-item-control,
+.kplex-create-folder-note-modal .kplex-create-folder-note-name-setting input[type="text"] {
+  width: 100%;
+  max-width: none;
+}
+
+/* Long-press tooltips ------------------------------------------------------- */
+.kplex-long-press-tooltip {
+  position: fixed;
+  z-index: 100200;
+  max-width: min(300px, calc(100vw - 16px));
+  padding: 5px 8px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  color: var(--text-normal);
+  background: var(--background-secondary);
+  box-shadow: var(--shadow-s);
+  font-size: var(--font-ui-smaller);
+  line-height: 1.3;
+  pointer-events: none;
+  white-space: normal;
+}
+
+/* Consolidated filter / lens controls ------------------------------------- */
+.kplex-filter-visibility-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px 12px;
+}
+.kplex-filter-visibility-grid .kplex-filter-layout-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-width: 0;
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.kplex-filter-visibility-grid .kplex-filter-layout-toggle > span:first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.kplex-quick-lens-row {
+  display: grid;
+  grid-template-columns: minmax(105px, .9fr) minmax(115px, 1fr) minmax(130px, 1.4fr);
+  gap: 7px;
+  align-items: end;
+}
+.kplex-filter-clear {
+  justify-self: start;
+}
+
+/* New-node filename / alias pair. The focused field gets most of the row. */
+.kplex-create-name-pair {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  min-width: 0;
+  width: 100%;
+}
+.kplex-create-name-pair .kplex-add-related-note-search {
+  flex: 17 1 0;
+  min-width: 0;
+  transition: flex-grow 180ms ease;
+}
+.kplex-create-alias-input {
+  flex: 1 1 0;
+  min-width: 72px;
+  width: auto;
+  transition: flex-grow 180ms ease;
+}
+.kplex-create-name-pair.is-alias-focused .kplex-add-related-note-search {
+  flex-grow: 1;
+}
+.kplex-create-name-pair.is-alias-focused .kplex-create-alias-input {
+  flex-grow: 17;
+}
+.kplex-create-name-pair.has-selection .kplex-add-related-note-search {
+  flex: 1 1 auto;
+}
+
+@media (max-width: 520px) {
+  .kplex-filter-visibility-grid { grid-template-columns: 1fr; }
+  .kplex-quick-lens-row { grid-template-columns: 1fr 1fr; }
+  .kplex-quick-lens-row label:last-child { grid-column: 1 / -1; }
+  .kplex-create-name-pair { gap: 6px; }
+  .kplex-create-alias-input { min-width: 62px; }
+}
+
+/* Add-related modal: relationship role lives in the title and the filename field does not
+   spend horizontal space on a decorative search glyph. */
+.kplex-add-related-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+.kplex-add-related-role-select {
+  width: auto;
+  min-width: 128px;
+  max-width: min(46vw, 220px);
+  font: inherit;
+  font-weight: inherit;
+}
+.kplex-create-name-pair .kplex-add-related-note-search .excalibrain-search-icon {
+  display: none;
+}
+.kplex-create-name-pair .kplex-add-related-note-search .excalibrain-search {
+  padding-left: 12px;
+}
+
+/* iPad/WebKit applies large minimum tap-target dimensions to buttons. Keep the tiny section
+   outline control visually square while its surrounding thought remains the forgiving hit area. */
+.kplex-section-fold-handle {
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  inline-size: 10px;
+  block-size: 10px;
+  min-inline-size: 10px;
+  min-block-size: 10px;
+  max-inline-size: 10px;
+  max-block-size: 10px;
+  flex: 0 0 10px;
+  overflow: hidden;
+  font-size: 0;
+  -webkit-touch-callout: none;
+}
+.excalibrain-thought,
+.excalibrain-thought * {
+  -webkit-touch-callout: none;
+}
+@media (pointer: coarse) {
+  .kplex-section-fold-handle {
+    width: 14px;
+    height: 14px;
+    min-width: 14px;
+    min-height: 14px;
+    max-width: 14px;
+    max-height: 14px;
+    inline-size: 14px;
+    block-size: 14px;
+    min-inline-size: 14px;
+    min-block-size: 14px;
+    max-inline-size: 14px;
+    max-block-size: 14px;
+    flex-basis: 14px;
+    bottom: -8px;
+  }
+  .kplex-section-fold-handle.is-expanded::after,
+  .kplex-section-fold-handle.is-folded::before {
+    left: 3px;
+    right: 3px;
+    top: 5px;
+  }
+  .kplex-section-fold-handle.is-folded::after {
+    top: 3px;
+    bottom: 3px;
+    left: 5px;
+  }
+}
+
+/* Follow-up polish: keep the filename/alias pair visually aligned. */
+.kplex-create-alias-input {
+  box-sizing: border-box;
+  height: 38px;
+  min-height: 38px;
+  padding: 0 12px;
+  line-height: 38px;
+}
+
+/* Obsidian Mobile/iPad can impose large native button metrics inside modals. Keep the
+   relationship actions compact and make their Lucide glyphs explicit so the buttons do not
+   turn into large empty tap targets. */
+.kplex-relation-modal .kplex-relation-actions {
+  flex: 0 0 auto;
+  min-height: 0;
+  height: auto;
+  padding-bottom: 0;
+}
+.kplex-relation-modal .kplex-relation-actions button {
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+  flex: 0 0 34px;
+  width: 34px;
+  min-width: 34px;
+  max-width: 34px;
+  height: 30px;
+  min-height: 30px;
+  max-height: 30px;
+  padding: 0;
+  line-height: 1;
+}
+.kplex-relation-modal .kplex-relation-actions .kplex-lucide,
+.kplex-relation-modal .kplex-relation-actions svg {
+  display: block;
+  width: 17px;
+  height: 17px;
+  min-width: 17px;
+  min-height: 17px;
+  stroke: currentColor;
+  color: inherit;
+}
+@media (pointer: coarse) {
+  .kplex-relation-modal .kplex-relation-actions {
+    position: static;
+    margin-top: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
+  }
+}

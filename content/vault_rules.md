@@ -2,12 +2,13 @@
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-09-17
+modified: 2026-09-23
 id: 01KQQV6TPBSF4Y4E9A2TMC94XT
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
 aliases:
   - Site Rules and Vault System
+  - style
 ---
 
 # Site Rules
@@ -20,6 +21,7 @@ aliases:
 > - My general vault system
 > - Linting rules
 > - how to format
+> - style
 
 > this vault is written as a legacy of mine(?),
 > therefore it should be future-proof.

@@ -1,0 +1,309 @@
+{
+  "compactView": false,
+  "compactingFactor": 2,
+  "minLinkLength": 18,
+  "excalibrainFilepath": "excalibrain.md",
+  "indexUpdateInterval": 60000,
+  "hierarchy": {
+    "exclusions": [
+      "excalidraw-border-color",
+      "excalidraw-css",
+      "excalidraw-default-mode",
+      "excalidraw-export-dark",
+      "excalidraw-export-pngscale",
+      "excalidraw-export-svgpadding",
+      "excalidraw-export-transparent",
+      "excalidraw-font",
+      "excalidraw-font-color",
+      "excalidraw-link-brackets",
+      "excalidraw-link-prefix",
+      "excalidraw-linkbutton-opacity",
+      "excalidraw-onload-script",
+      "excalidraw-plugin",
+      "excalidraw-url-prefix",
+      "kanban-plugin"
+    ],
+    "parents": [
+      "inception",
+      "North",
+      "origin",
+      "Parent",
+      "parent domain",
+      "Parents",
+      "source",
+      "u",
+      "up"
+    ],
+    "children": [
+      "Child",
+      "Children",
+      "contributes to",
+      "d",
+      "down",
+      "leads to",
+      "nurtures",
+      "South"
+    ],
+    "leftFriends": [
+      "advantages",
+      "alternatives",
+      "Friend",
+      "Friends",
+      "j",
+      "Jump",
+      "Jumps",
+      "pros",
+      "similar",
+      "supports"
+    ],
+    "rightFriends": [
+      "Challenger",
+      "cons",
+      "disadvantages",
+      "missing",
+      "opposes"
+    ],
+    "previous": [
+      "Before",
+      "Prev",
+      "Previous",
+      "w",
+      "West"
+    ],
+    "next": [
+      "After",
+      "e",
+      "East",
+      "n",
+      "Next"
+    ],
+    "hidden": [
+      "hidden"
+    ]
+  },
+  "inferAllLinksAsFriends": false,
+  "inverseInfer": false,
+  "inverseArrowDirection": true,
+  "renderAlias": true,
+  "nameFields": "aliases",
+  "nodeTitleScript": "",
+  "backgroundColor": "#0c3e6aff",
+  "excludeFilepaths": [],
+  "autoOpenCentralDocument": false,
+  "toggleEmbedTogglesAutoOpen": true,
+  "showInferredNodes": true,
+  "showAttachments": true,
+  "showURLNodes": false,
+  "showVirtualNodes": true,
+  "showFolderNodes": true,
+  "showTagNodes": true,
+  "showPageNodes": true,
+  "showNeighborCount": true,
+  "showFullTagName": false,
+  "maxItemCount": 100,
+  "renderSiblings": true,
+  "siblingRelativeSize": 85,
+  "crossLinkOpacity": 85,
+  "applyPowerFilter": false,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#00000000",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 30,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#b5b5b5ff",
+    "textColor": "#000000ff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "urlNodeStyle": {
+    "icon": "globe"
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "icon": "paperclip"
+  },
+  "folderNodeStyle": {
+    "icon": "folder",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "icon": "tag",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
+  "baseLinkStyle": {
+    "strokeColor": "#696969ff",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none",
+    "showLabel": false,
+    "fontSize": 10,
+    "fontFamily": 3,
+    "textColor": "#ffffffff"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {},
+  "navigationHistory": [
+    "00-raw/00_00-archive/slash pages.md",
+    "defaults.md",
+    "https://defaults.rknight.me/",
+    "https://slashpages.net/",
+    "slashes.md",
+    "00-raw/inbox/index.md",
+    "vault_rules.md",
+    "folder:00-raw/00_01-zettel",
+    "00-raw/00_01-zettel/backup_rule.md",
+    "00-raw/index.md"
+  ],
+  "allowOntologySuggester": true,
+  "ontologySuggesterParentTrigger": "::p",
+  "ontologySuggesterChildTrigger": "::c",
+  "ontologySuggesterLeftFriendTrigger": "::l",
+  "ontologySuggesterRightFriendTrigger": "::r",
+  "ontologySuggesterPreviousTrigger": "::e",
+  "ontologySuggesterNextTrigger": "::n",
+  "ontologySuggesterTrigger": ":::",
+  "ontologySuggesterMidSentenceTrigger": "(",
+  "boldFields": false,
+  "allowAutozoom": false,
+  "allowAutofocuOnSearch": true,
+  "defaultAlwaysOnTop": false,
+  "embedCentralNode": false,
+  "centerEmbedWidth": 550,
+  "centerEmbedHeight": 700,
+  "showContentPane": false,
+  "followActiveFile": false,
+  "contentPaneWidth": 38,
+  "graphDepth": 1,
+  "connectorStyle": "bezier",
+  "nodeSortOrder": "name-asc",
+  "parentColumns": 2,
+  "childColumns": 5,
+  "friendMaxHeight": 350,
+  "siblingMaxHeight": 250,
+  "parentMaxHeight": 300,
+  "childMaxHeight": 400,
+  "noteTypeField": "Note type",
+  "noteTypeStyles": {},
+  "kplexInitialized": true,
+  "startInPopout": false,
+  "lastActivePath": "00-raw/index.md",
+  "pinnedNodes": [],
+  "layoutProfiles": {
+    "desktop:leaf": {
+      "compactingFactor": 1.9,
+      "parentColumns": 1,
+      "childColumns": 1
+    },
+    "desktop:popout": {
+      "compactingFactor": 2,
+      "parentColumns": 2,
+      "childColumns": 5
+    },
+    "desktop:sidepanel": {
+      "compactingFactor": 2.65,
+      "parentColumns": 1,
+      "childColumns": 2
+    },
+    "tablet:leaf": {
+      "compactingFactor": 2.25,
+      "parentColumns": 2,
+      "childColumns": 4
+    },
+    "tablet:popout": {
+      "compactingFactor": 2.25,
+      "parentColumns": 2,
+      "childColumns": 4
+    },
+    "tablet:sidepanel": {
+      "compactingFactor": 2.7,
+      "parentColumns": 1,
+      "childColumns": 2
+    },
+    "mobile:leaf": {
+      "compactingFactor": 2.55,
+      "parentColumns": 1,
+      "childColumns": 2
+    },
+    "mobile:popout": {
+      "compactingFactor": 2.55,
+      "parentColumns": 1,
+      "childColumns": 2
+    },
+    "mobile:sidepanel": {
+      "compactingFactor": 2.85,
+      "parentColumns": 1,
+      "childColumns": 2
+    }
+  },
+  "mouseInteractionMode": "smart",
+  "toolbarExpanded": false,
+  "sidecarOpen": true,
+  "sidecarPosition": "right",
+  "sidecarMarkdownMode": "source",
+  "sidecarCondensedBreakpoint": 560,
+  "sidecarLastFilePath": "defaults.md",
+  "sidecarLastUrl": "",
+  "relationDefaultFields": {
+    "parent": "Parent",
+    "child": "Child",
+    "left": "Friend",
+    "right": "Challenger",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "documentSyncMode": "pinned",
+  "animationSpeed": 1,
+  "graphLenses": [],
+  "thumbnailProperty": "thumbnail",
+  "nodeImageProperty": "node-image",
+  "attachmentImageDisplay": "thumbnail-label",
+  "editNewNodeAfterCreate": false,
+  "newNodeDefaultType": "markdown",
+  "deletePromptInitialized": false,
+  "confirmFileDelete": true
+}

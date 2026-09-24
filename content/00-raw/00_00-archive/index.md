@@ -3,13 +3,16 @@ unlisted: false
 title: 00.00 Archive
 tags: []
 publish: true
-modified: 2026-09-17
+modified: 2026-09-23
 id: 01KZ9V0Z39H3EXG6EETJW9XA5P
 created: 2026-04-19
-aliases: []
+aliases:
+  - shoebox
 ---
 
 # 00.00 Archive
+
+shoebox of the site
 
 contains 2 folders, 1 is for external archived content, and the other if for personally archived notes i probably will not be touching again
 

@@ -1,7 +1,7 @@
 ---
 title: Project ideas
 publish: true
-modified: 2026-09-19
+modified: 2026-09-24
 id: 01KXR3XGTBRA5WBZBZRRBM1TXT
 created: 2026-07-17
 aliases:
@@ -137,6 +137,8 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 # Game reviews page
 
 [game_list](<../02-digital_garden/game_list.md>)
+
+[Game Reviews · Chris Burnell](https://chrisburnell.com/games/)
 
 ---
 

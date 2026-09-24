@@ -26,6 +26,6 @@ aliases:
 
 # see also
 
-- [testament](<./testament.md>)
+- [testament](<../testament.md>)
 - [PKM_brainstorm](<./inbox/PKM_brainstorm.md>)
 - [commonplacebook](<../commonplacebook.md>)

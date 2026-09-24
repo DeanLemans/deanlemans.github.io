@@ -3,11 +3,11 @@ unlisted: false
 title: 00 Raw
 tags: []
 publish: true
-modified: 2026-09-23
+modified: 2026-09-24
 id: 01KQQV6TS3NP9DSXB4FYR5WGME
 created: 2026-04-11
 aliases:
-  - 00 HIdden
+  - 00 Hidden
   - 00 Raw
 ---
 
