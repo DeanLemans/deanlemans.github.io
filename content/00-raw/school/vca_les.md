@@ -3,7 +3,7 @@ title: VCA (Veiligheid Certificaat Aannemer) les
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-18
+modified: 2026-09-24
 id: 01M2QFNSJAYDM0RCX04MZQJ9KP
 created: 2026-09-17
 aliases:
@@ -44,5 +44,18 @@ voobeeld van toen its is foutgegaan <https://www.dumpert.nl/item/100019885_30966
 - netheid en orde(housekeeping?)
 
 kans risico analyse?
-[VCA samenwerk opdracht week 4](<./static_files/VCA samenwerk opdracht week 4.pdf>)
+[VCA samenwerk opdracht week 4](<./static_files/VCA samenwerk opdracht week 4.pdf>) (TRA: taak risico analyse)
 
+
+---
+LMRA (LAST MINUTE RISICO ANALYSE) is gewoon net voordat je gaat werken een analyse doen vergeleken met TRA
+
+Schone werkplek/goodhousekeeping
+- netjes zijn met je spullen, en organiseeren
+
+Risico lechaamelijke belasting
+- 23 kg max
+- tilhulpmiddelen: 2 personen, pompwagen, zuigknap.
+- maak tilplan
+- juiste houding
+- 

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault_rules.md",
+                "file": "00-raw/school/vca_les.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault_rules"
+              "title": "vca_les"
+            }
+          },
+          {
+            "id": "ab1075aee5a86602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-raw/school/vca_les.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vca_les"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "vault_rules.md",
+            "file": "00-raw/school/vca_les.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,10 +182,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37fa0882d9ebc3bf",
+  "active": "ab1075aee5a86602",
   "lastOpenFiles": [
-    "00-raw/inbox/Backlinks stuff i need to split eventually.md",
+    "00-raw/school/static_files/VCA samenwerk opdracht week 4.pdf",
+    "00-raw/school/vca_les.md",
     "00-raw/index.md",
+    "vault_rules.md",
+    "00-raw/inbox/Backlinks stuff i need to split eventually.md",
     "00-raw/inbox/How to Take Smart Notes. Notes.md",
     "00-raw/FUTURE.md",
     "Price calculation.md",
@@ -195,9 +213,6 @@
     "don't be a hoarder/archavist fallacy",
     "don't be a hoarder",
     "00-raw/00_00-clippings/The Second Brain Delusion Why PKM Systems Don't Work.md",
-    "00-raw/00_00-clippings/The Universal Genre Savvy Guide.md",
-    "00-raw/00_00-clippings/This is an Actual Website.md",
-    "00-raw/00_00-clippings/This is Not My Side Hustle ⁂ starbreaker.org.md",
     "00-raw/00_01-inbox/Untitled",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",
