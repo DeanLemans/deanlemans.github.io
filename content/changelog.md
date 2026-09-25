@@ -1,16 +1,15 @@
 ---
-title: changelog
+title: /changelog
 publish: true
-modified: 2026-09-23
+modified: 2026-09-25
 id: 01M3713ND15K0QZS5TFKBFG2FK
 created: 2026-09-23
 aliases:
-  - /changelog
-  - /log
+  - changelogs
   - log
 ---
 
-# changelog
+# /changelog
 
 see the git changelog here, i often update my old notes with new formatting or new information or better linking
 

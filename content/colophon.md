@@ -1,13 +1,15 @@
 ---
 unlisted: true
-title: Colophon
+title: /colophon
 publish: true
-modified: 2026-09-24
+modified: 2026-09-25
 id: 01KQQV6TQNFNF7TE8MZ7YKAHAZ
 created: 2026-04-30
+aliases:
+  - colophon
 ---
 
-# Colophon
+# /colophon
 
 - notes are created with obsidian
 	- (see [Site Rules and Vault System](<./vault_rules.md>) for style and content information of the site)

@@ -1,14 +1,13 @@
 ---
-title: Slashes
-modified: 2026-09-24
+title: /slashes
+modified: 2026-09-25
 id: 01M3AHZDJEPFQ3BQA61K4FFETB
 created: 2026-09-24
 aliases:
   - Slash
-  - Slashes
 ---
 
-# Slashes
+# /slashes
 
 the slash pages i chose to adopt from [slash pages](https://slashpages.net/)
 

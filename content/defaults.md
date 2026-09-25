@@ -1,15 +1,14 @@
 ---
-title: Defaults
+title: /defaults
 publish: true
-modified: 2026-09-24
+modified: 2026-09-25
 id: 01M3AFDFBYQ5SEW50VGHTEWZSB
 created: 2026-09-24
 aliases:
   - default
-  - defaults
 ---
 
-# Defaults
+# /defaults
 
 - **Mail Client:** betterbird desktop, thunderbird mail
 - **Mail Server:** mailbox

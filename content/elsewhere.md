@@ -1,16 +1,15 @@
 ---
 unlisted: true
-title: Elsewhere
+title: /elsewhere
 publish: true
-modified: 2026-09-24
+modified: 2026-09-25
 id: 01M3AH22W46BJF48S3FS2Q5JCD
 created: 2026-09-24
 aliases:
   - appearances
-  - elsewhere
 ---
 
-# Elsewhere
+# /elsewhere
 
 - [The Sintutierss · GitHub](https://github.com/sintutiers)
 
