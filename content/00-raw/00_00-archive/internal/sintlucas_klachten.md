@@ -3,9 +3,10 @@ title: sintlucas_klachten
 tags:
   - sintlucas
 publish: false
-modified: 2026-05-03
+modified: 2026-09-25
 id: 01KQQV6TSNRNVCN8GYT97Q808Z
 created: 2026-05-03
+category: school
 ---
 
 # sintlucas\_klachten

@@ -1,15 +1,19 @@
 ---
-title: New school notes
-tags: []
-publish: true
-modified: 2026-09-09
+title: Hovenier school notes
+tags:
+  - hovenier
+publish: false
+modified: 2026-09-25
 id: 01KQQV6TRTYCSS44Q8HCPKT1CN
 created: 2026-03-18
+category: school
+aliases:
+  - New school notes
 ---
 
 [pastebin](<../pastebin.md>)
 
-# New school notes
+# Hovenier school notes
 
 veenlees/loos telen(kokos)
 

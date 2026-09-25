@@ -3,9 +3,10 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-23
+modified: 2026-09-25
 id: 01M2MGMVKJ5F1BF8AM149QD6FS
 created: 2026-09-16
+category: school
 aliases:
   - biologie les notities
 ---
@@ -43,6 +44,9 @@ Hoe meer armer/poverty/armoede er is, hoe meer diversiteit er is (niet alleen gr
 Economie gaat omhoog door bijvoorbeeld meer hout kunnen hakken omdat ze sneller groeien door de biodiversiteit.
 Gebied met veel organismen in het water zorgt ervoor dat het sneller schoon gaat.
 
+> [!NOTE]- biodiversiteit mini kringloop
+> ![biodiversitiet opdracht](<./biodiversitiet opdracht.canvas>)
+
 ## Evolutie
 
 ### Klimaat en aanpassing
@@ -71,9 +75,9 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
 > [!example]- Related images
 >
-> ![306](<./static_files/Pasted image 20260916093208.webp>)
-> ![246](<./static_files/Pasted image 20260916093752.webp>)
-> ![138](<./static_files/Pasted image 20260916094332.webp>)
+> ![306](<../../static_files/Pasted image 20260916093208.webp>)
+> ![246](<../../static_files/Pasted image 20260916093752.webp>)
+> ![138](<../../static_files/Pasted image 20260916094332.webp>)
 
 ### Soortvorming en co-evolutie
 

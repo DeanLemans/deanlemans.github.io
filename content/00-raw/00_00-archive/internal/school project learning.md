@@ -2,10 +2,11 @@
 title: Reflection on Project
 tags:
   - sintlucas
-publish: true
-modified: 2026-05-03
+publish: false
+modified: 2026-09-25
 id: 01KQQV6TSQJQYM6M1AMH3XPY0T
 created: 2026-03-17
+category: school
 ---
 
 [](<../../../static_files/software verdieping onderzoek.pdf>)

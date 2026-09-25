@@ -1,0 +1,171 @@
+{
+	"nodes": [
+		{
+			"id": "9c342cf23bcf7f1e",
+			"x": -1083,
+			"y": -506,
+			"width": 1375,
+			"height": 854,
+			"type": "group",
+			"label": "voedselketen"
+		},
+		{
+			"id": "a4fe84ee164b0a0f",
+			"type": "text",
+			"text": "koe",
+			"x": -29,
+			"y": 63,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "9f13961e72f64cff",
+			"type": "text",
+			"text": "konijn",
+			"x": -887,
+			"y": 102,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "676622fa837f8360",
+			"type": "text",
+			"text": "### **BRON: gras**",
+			"x": -432,
+			"y": 82,
+			"width": 250,
+			"height": 67
+		},
+		{
+			"id": "9ab9eb6ea8670918",
+			"type": "text",
+			"text": "mens",
+			"x": -477,
+			"y": -418,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "b13564b402d4a109",
+			"x": -903,
+			"y": -259,
+			"width": 250,
+			"height": 102,
+			"type": "text",
+			"text": "sommige herbivooren eten vlees in nood, dus ze kunnen ook mens eten."
+		},
+		{
+			"id": "ee75deee0a1d93e5",
+			"x": -648,
+			"y": -149,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "muis"
+		},
+		{
+			"id": "a258f0d44200946e",
+			"type": "text",
+			"text": "sprinkhaan",
+			"x": -332,
+			"y": -154,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "d8b2e77f6630b48a",
+			"x": -176,
+			"y": -51,
+			"width": 250,
+			"height": 60,
+			"type": "text",
+			"text": "paard"
+		}
+	],
+	"edges": [
+		{
+			"id": "93abeaddb0d46c9c",
+			"fromNode": "676622fa837f8360",
+			"fromSide": "top",
+			"toNode": "a258f0d44200946e",
+			"toSide": "bottom"
+		},
+		{
+			"id": "9e7f742dfc80b123",
+			"fromNode": "9ab9eb6ea8670918",
+			"fromSide": "bottom",
+			"toNode": "a258f0d44200946e",
+			"toSide": "top"
+		},
+		{
+			"id": "cd4c8bb7af6601ef",
+			"fromNode": "ee75deee0a1d93e5",
+			"fromSide": "bottom",
+			"toNode": "676622fa837f8360",
+			"toSide": "top"
+		},
+		{
+			"id": "a37a70a41fcdc211",
+			"fromNode": "a4fe84ee164b0a0f",
+			"fromSide": "left",
+			"toNode": "676622fa837f8360",
+			"toSide": "right"
+		},
+		{
+			"id": "c1524dfdb4bc2c46",
+			"fromNode": "9f13961e72f64cff",
+			"fromSide": "right",
+			"toNode": "676622fa837f8360",
+			"toSide": "left"
+		},
+		{
+			"id": "49b34559a273ae00",
+			"fromNode": "9ab9eb6ea8670918",
+			"fromSide": "left",
+			"toNode": "ee75deee0a1d93e5",
+			"toSide": "top"
+		},
+		{
+			"id": "d2c74beac277b7f7",
+			"fromNode": "9ab9eb6ea8670918",
+			"fromSide": "left",
+			"toNode": "b13564b402d4a109",
+			"toSide": "top"
+		},
+		{
+			"id": "548e9b7d0143048c",
+			"fromNode": "9f13961e72f64cff",
+			"fromSide": "top",
+			"toNode": "b13564b402d4a109",
+			"toSide": "bottom"
+		},
+		{
+			"id": "c107a945d5a8946c",
+			"fromNode": "ee75deee0a1d93e5",
+			"fromSide": "top",
+			"toNode": "9ab9eb6ea8670918",
+			"toSide": "left"
+		},
+		{
+			"id": "8d00dc3e69b477c1",
+			"fromNode": "9ab9eb6ea8670918",
+			"fromSide": "right",
+			"toNode": "a4fe84ee164b0a0f",
+			"toSide": "top"
+		},
+		{
+			"id": "f0f3ede2c58510b6",
+			"fromNode": "d8b2e77f6630b48a",
+			"fromSide": "bottom",
+			"toNode": "676622fa837f8360",
+			"toSide": "top"
+		},
+		{
+			"id": "da644b9461ee41a0",
+			"fromNode": "9ab9eb6ea8670918",
+			"fromSide": "right",
+			"toNode": "d8b2e77f6630b48a",
+			"toSide": "top"
+		}
+	]
+}

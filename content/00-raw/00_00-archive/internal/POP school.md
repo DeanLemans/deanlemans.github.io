@@ -2,10 +2,11 @@
 title: POP school
 tags:
   - sintlucas
-publish: true
-modified: 2026-09-09
+publish: false
+modified: 2026-09-25
 id: 01KQQV6TSR0GVBX7EH2SDDVJWK
 created: 2025-05-21
+category: school
 ---
 
 # POP school

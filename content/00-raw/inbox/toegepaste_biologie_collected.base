@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category == "school"
+        - '!file.tags.contains("hovenier")'
+        - '!file.tags.contains("sintlucas")'
+    order:
+      - file.name
+      - created
+      - modified
+      - id
+      - file.ext

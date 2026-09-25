@@ -9,11 +9,11 @@ aliases: []
 
 # /now
 
-[ecosysteem_project](<./00-raw/school/ecosysteem_project.md>)
+[ecosysteem_project](<./00-raw/inbox/ecosysteem_project.md>)
 [🪴shed_greenhouse](<./01-garden_of_learning/🪴shed_greenhouse.md>)
 
 - See: [01 projects](<./01-garden_of_learning/index.md>)for my current projects
-- See: [school folder](<./00-raw/school/index.md>) for my school work
+- See: [school folder](<./00-raw/inbox/index 1.md>) for my school work
 
 ---
 

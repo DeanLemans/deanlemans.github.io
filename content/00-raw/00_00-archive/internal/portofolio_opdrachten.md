@@ -3,10 +3,11 @@ title: "Portfolio-opdracht 1: Ik en mijn omgeving"
 tags:
   - hovenier
   - yuverta
-publish: true
-modified: 2026-09-17
+publish: false
+modified: 2026-09-25
 id: 01KQQV6TS9M8B0A0DZ59AT8PAD
 created: 2025-11-14
+category: school
 ---
 
 > [!NOTE] Verwerk alle antwoorden in je profiel.
@@ -18,6 +19,7 @@ created: 2025-11-14
 Deze portfolio-opdracht gaat over het werkproces:
 
 opdracht:
+
 > maak een profiel van jezelf, het profiel is een beschrijving van jouw eigenschappen, kennis, vaardigheden, ambitie en motivatie. je onderzoekt welke eigenschappen die hebt. daarna onderzoek je wat ondernemend gedrag is en wanneer mensen het verwacht dat je het vertoont.
 
 presenteer/vraag feedback dit profiel aan je medestudenten/collegas en stelt het nog bij also dat nodig is.

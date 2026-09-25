@@ -1,8 +1,11 @@
 ---
 title: project lessen
-modified: 2026-09-18
+tags:
+  - toegepaste_biologie
+modified: 2026-09-25
 id: 01M2SSAG0N1XN3X82E6XQ9RE5B
 created: 2026-09-18
+category: school
 ---
 
 # project lessen

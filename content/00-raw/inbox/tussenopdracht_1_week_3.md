@@ -3,9 +3,10 @@ title: Tussenopdracht 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-20
+modified: 2026-09-25
 id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 created: 2026-09-07
+category: school
 aliases:
   - tussenopdracht 1 week3
 ---
@@ -25,15 +26,15 @@ aliases:
 
 # Inhoudsopgave
 
-1. [Inleiding](<#1-inleiding>)
-   - [Mijn leefomgeving](<#mijn-leefomgeving>)
-2. [Method](<#2-method>)
-3. [Resultaten](<#3-resultaten>)
-   - [Mijn eigen afval](<#mijn-eigen-afval>)
-   - [Verbeterpunten](<#verbeterpunten>)
-   - [Wat ik heb gedaan](<#wat-ik-heb-gedaan>)
-4. [Slot/Einde](<#4-sloteinde>)
-5. [Bronnen](<#5-bronnen>)
+1. [Inleiding](<./tussenopdracht_1_week_3.md#1-inleiding>)
+   - [Mijn leefomgeving](<./tussenopdracht_1_week_3.md#mijn-leefomgeving>)
+2. [Method](<./tussenopdracht_1_week_3.md#2-method>)
+3. [Resultaten](<./tussenopdracht_1_week_3.md#3-resultaten>)
+   - [Mijn eigen afval](<./tussenopdracht_1_week_3.md#mijn-eigen-afval>)
+   - [Verbeterpunten](<./tussenopdracht_1_week_3.md#verbeterpunten>)
+   - [Wat ik heb gedaan](<./tussenopdracht_1_week_3.md#wat-ik-heb-gedaan>)
+4. [Slot/Einde](<./tussenopdracht_1_week_3.md#4-sloteinde>)
+5. [Bronnen](<./tussenopdracht_1_week_3.md#5-bronnen>)
 
 ---
 
@@ -176,11 +177,11 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 9. [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>)
 10. [*Verpakkingsglas*](<https://vang-hha.nl/verpakkingsglas/>)
 11. [*Afvalkalender gemeente Maashorst 2026*](<https://vuilnisbakinfo.nl/afvalkalender/gemeente-maashorst/>)
-12. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<./static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
+12. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
 13. [*Afvalstoffenheffing*](<https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/>)
 
 > [!image]- Uitslag afval calculator
-> ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.webp>)
+> ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)
 
 ---
 
@@ -306,4 +307,4 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > - [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
 > 
 > > [!image]- Uitslag afvalcalulator
-> > ![Mijn Afval Score|288](<./static_files/Mijn Afval Score.webp>)
+> > ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)

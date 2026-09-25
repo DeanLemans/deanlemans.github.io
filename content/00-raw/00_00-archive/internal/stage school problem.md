@@ -2,8 +2,8 @@
 unlisted: false
 title: leerbedrijf dingen
 tags: []
-publish: true
-modified: 2026-09-17
+publish: false
+modified: 2026-09-25
 id: 01KQQV6TSMJ17BPY8AJ7QQFHCK
 created: 2026-03-17
 aliases:
