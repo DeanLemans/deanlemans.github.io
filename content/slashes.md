@@ -17,7 +17,7 @@ the slash pages i chose to adopt from [slash pages](https://slashpages.net/)
 - [hat](<./hat.md>)
 - [interests](<./interests.md>)
 - [now](<./now.md>)
-- [elsewhere](<./elsewhere.md>)
+- [verify](<./verify.md>)
 - [changelog](<./changelog.md>)
 
 ## references
