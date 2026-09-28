@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: Inbox
+title: notes folder
 tags: []
 publish: true
 modified: 2026-09-28
@@ -8,14 +8,8 @@ id: 01KQQV6TSTBWTMMN18RJV3M1JN
 created: 2026-04-10
 ---
 
-# Inbox
+# notes folder
 
-fleeting, dump, and too unfinished note for thoughts, that aren't yet filtered
+contains notes and thoughs of mine, need to add a extra maturity system for notes
 
-# School folder
-
-> [!NOTE] Alternative titles
-> - work folder for school
-> - folder i need to integrate into vault
-
-need to transfer bullshit paper notes to this school folder and then integrate it into vault
+see the MOC

@@ -1,3 +1,6 @@
+properties:
+  file.name:
+    displayName: links
 views:
   - type: table
     name: Table
@@ -7,8 +10,9 @@ views:
         - '!file.tags.contains("hovenier")'
         - '!file.tags.contains("sintlucas")'
     order:
+      - title
       - file.name
       - created
       - modified
       - id
-      - file.ext
+      - file.backlinks

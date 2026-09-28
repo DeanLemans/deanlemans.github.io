@@ -89,7 +89,7 @@
   "nodeTitleScript": "",
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
-  "autoOpenCentralDocument": false,
+  "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": true,
@@ -197,7 +197,8 @@
     "vault_rules.md",
     "folder:00-raw/00_01-zettel",
     "00-raw/00_01-zettel/backup_rule.md",
-    "00-raw/index.md"
+    "00-raw/index.md",
+    "folder:00-raw/inbox"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
@@ -216,7 +217,7 @@
   "centerEmbedWidth": 550,
   "centerEmbedHeight": 700,
   "showContentPane": false,
-  "followActiveFile": false,
+  "followActiveFile": true,
   "contentPaneWidth": 38,
   "graphDepth": 1,
   "connectorStyle": "bezier",
@@ -231,7 +232,7 @@
   "noteTypeStyles": {},
   "kplexInitialized": true,
   "startInPopout": false,
-  "lastActivePath": "00-raw/index.md",
+  "lastActivePath": "folder:00-raw/inbox",
   "pinnedNodes": [],
   "layoutProfiles": {
     "desktop:leaf": {

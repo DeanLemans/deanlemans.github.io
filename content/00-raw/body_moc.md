@@ -1,12 +1,16 @@
 ---
 title: Body meta
 publish: true
-modified: 2026-09-17
+modified: 2026-09-28
 id: 01KWYM5WG7NY9WDH4MP6T5QPPW
 created: 2026-07-07
 aliases:
   - Body meta
 ---
+
+> [!NOTE]- Alternative titles
+> - body MOC
+> - body META
 
 # Body meta
 
