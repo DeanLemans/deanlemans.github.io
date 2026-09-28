@@ -18,10 +18,10 @@ category: school
 
 file that links to all my relevant school notes
 
-![toegepaste_biologie_collected](<./inbox/toegepaste_biologie_collected.base>)
-[toegepaste_biologie_collected](<./inbox/toegepaste_biologie_collected.base>)
+![toegepaste_biologie_collected](<./notes/toegepaste_biologie_collected.base>)
+[toegepaste_biologie_collected](<./notes/toegepaste_biologie_collected.base>)
 
 ### school canvas i made
 
-[water in je leefomgeving](<./inbox/water in je leefomgeving.canvas>)
-[biodiversitiet opdracht](<./inbox/biodiversitiet opdracht.canvas>)
+[water in je leefomgeving](<./notes/water in je leefomgeving.canvas>)
+[biodiversitiet opdracht](<./notes/biodiversitiet opdracht.canvas>)

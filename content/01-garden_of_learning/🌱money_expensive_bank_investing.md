@@ -45,7 +45,7 @@ crypto trading
 
 ### principles
 
-[emergency_fund](<../00-raw/inbox/emergency_fund.md>)
+[emergency_fund](<../00-raw/notes/emergency_fund.md>)
 > An emergency fund is like a amount of money set aside in case of:
 > - fuckups
 > - medical
@@ -53,7 +53,7 @@ crypto trading
 > - get fired
 > And is should only draw from it when necary, this is the opposite of a [checking amount]
 
-[building_a_emergency_fund](<../00-raw/inbox/building_a_emergency_fund.md>)
+[building_a_emergency_fund](<../00-raw/notes/building_a_emergency_fund.md>)
 > The absolute minimum of what you should put into a emergency fund is 10% of all income, also directly gives [culminative effect](<../culminative effect.md>) for income if you put in like a savings account.
 >
 > This directly means not splurging your money on useless shit UNTIL YOU HAVE A BIG ENOUGH EMERGENCY FUND!!!!

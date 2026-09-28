@@ -39,8 +39,8 @@ aliases:
 
 [🌿improving_my_sleep](<../01-garden_of_learning/🌿improving_my_sleep.md>)
 
-![body_stuff](<./inbox/body_stuff.base>)
-[body_stuff](<./inbox/body_stuff.base>)
+![body_stuff](<./notes/body_stuff.base>)
+[body_stuff](<./notes/body_stuff.base>)
 
 # Sources
 
@@ -50,5 +50,5 @@ aliases:
 ### see also
 
 - [testament](<../testament.md>)
-- [PKM_brainstorm](<./inbox/PKM_brainstorm.md>)
+- [PKM_brainstorm](<./notes/PKM_brainstorm.md>)
 - [commonplacebook](<../commonplacebook.md>)

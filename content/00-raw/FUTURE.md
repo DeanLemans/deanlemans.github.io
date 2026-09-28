@@ -3,7 +3,7 @@ unlisted: false
 title: FUTURE
 tags: []
 publish: true
-modified: 2026-09-20
+modified: 2026-09-28
 id: 01KQQV6TWSVYT92Q9CVPN6SVB0
 description: things i still/want to do. + planning
 created: 2026-02-02
@@ -20,6 +20,8 @@ aliases:
 
 something that confronts me, changlnese me
 
+hori hori
+
 ## Buy
 
 - [ ] Buy: American bully dog ⏬
@@ -30,9 +32,24 @@ something that confronts me, changlnese me
 - [ ] Buy: Neck training equipment ⏬
 - [ ] Buy: the einzelganger and it own (the ego and its own, max stirner)
 
+- [ ] best weed eater strings
+- [ ] powerblock
+
 ## Watch
 
 - [ ] Watch: American Psycho (Watch) ⏬
+
+- [ ] mad god stop motion
+- [ ] haibane renmei
+- [ ] firewatch
+- [ ] :game
+- [ ] what remains of edith finch
+- [ ] warhammer vermintide 2
+- [ ] fractured blooms game
+- [ ] silly poly beast game
+- [ ] mycopsychosis ga.e
+- [ ] <https://framatube.org/w/g4L4nfHrXjKEVGQYVfaYpm>
+- [ ] <https://m.youtube.com/watch?v=SgnJfyckomo&pp=0gcJCR4Bo7VqN5tD>
 
 ## Research
 
@@ -56,6 +73,38 @@ something that confronts me, changlnese me
 - [ ] Research: [Schulze method - Wikipedia](https://en.wikipedia.org/wiki/Schulze_method)
 - [ ] Research: Improve VO2 max
 
+- [ ] investigete this style:
+- [ ] Grunge, Because it doesn't fit the decor at all. Also, while I'm totally down for trashy-chic,
+- [ ] socratic method
+- [ ] evil hencheman guide
+- [ ] the seventy maxims of maxiimally effective mercenaries
+- [ ] southpaw stance
+- [ ] bynomads . nl
+- [ ] vanlifemagazine . nl
+- [ ] vanlife campgrounds
+- [ ] the art of deception
+- [ ] gmic for gimp
+- [ ] ani weeds stuff:
+- [ ] glyfosaat
+- [ ] roundup
+- [ ] azijn herbicide4
+- [ ] <https://garden.org/learn/articles/view/60/Organic-Fertilizers/>
+- [ ] <https://www.soilmanagementindia.com/plant-nutrients/list-of-16-essential-plant-nutrients-with-their-functions/2604>
+- [ ] how to choose a a license for your own work
+- [ ] quanticfoundry for game information
+- [ ] hydrophonics
+- [ ] <https://www.goodreads.com/list/show/219561.TejoMed_Wellness_Longevity_Reads>
+- [ ] <https://newzapiens.com/>
+- [ ] hypertext garden
+- [ ] a brief history and ethos of the digital garden
+- [ ] database of hobo signs and sources(focus on practical stuff)
+- [ ] collagen health benefit
+- [ ] decision grid for making decisions
+- [ ] mad honey
+- [ ] sisuational awareness
+- [ ] dornsife. usc . edu
+- [ ] ;the writhing program
+
 ## Write
 
 - [ ] Write about Obtainium (usage, experience) ⏬
@@ -64,6 +113,8 @@ something that confronts me, changlnese me
 ## META
 
 - [ ] META: Should I make blog posts? ⏬
+
+- [ ] <https://www.reddit.com/r/ObsidianMD/comments/1n2gwmq/core_insights_for_obsidian_beginners/>
 
 ## Other
 
@@ -90,20 +141,27 @@ something that confronts me, changlnese me
 - [ ] Add site to Webtiles ⏬
 - [ ] Move from Obsidian to Emacs ⏬
 - [ ] Leerbedrijf zoeken en mail maken 🔺
-- [ ] Sort out all IT/tech and plant business ⏬
+- [x] Sort out all IT/tech and plant business ⏬ ✅ 2026-09-28
 - [ ] Trustpilot-site maken
-- [ ] Facebookpagina tuin
+- [x] Facebookpagina tuin ✅ 2026-09-28
 - [ ] Filmpje pc + mama moet helpen Facebookpagina maken
 - [ ] Invest in crypto via Haveno
 - [ ] Invest via eToro
 - [ ] Schoenen invetten
-- [ ] Make tea
-- [ ] Take supplements
+- [x] Make tea ✅ 2026-09-28
+- [x] Take supplements ✅ 2026-09-28
 - [ ] The ego must overcome its own
 - [ ] How to end a conversation ⏬
 - [ ] Filter open tabs (done with 100, 250 to go) ⏬
 - [ ] Filter subscriptions from different accounts into Grayjay ⏬
 - [ ] Add all games from all consoles into my game list ⏬
+
+- [ ] jeremy soller site
+- [x] cant the future just wait. song ✅ 2026-09-28
+- [ ] clam av
+- [ ] indieweb bookclub
+- [ ] hamster cms
+- [x] melons guide to homepage ✅ 2026-09-28
 
 # Related
 
@@ -113,25 +171,3 @@ something that confronts me, changlnese me
 
 ```tasks
 not done
-```
-
----
-
-# done
-
-- [x] Barefoot shoes ✅ 2026-03-26
-- [x] examen buruo, mailen voor nederlands examen, roel in de cc ✅ 2026-03-30
-- [x] mail sturen naar exambua, voor vrijstelling burgerschap. ✅ 2026-03-30
-- [x] mail sturen naar examburou voor waneer ik mijn oud. examen opnieuw moet maken. ✅ 2026-03-30
-- [x] transfer goodreads to <https://www.librarything.com/> > <https://www.bookshelf.town/create> ✅ 2026-01-20
-- [x] Link to CI workflow here ✅ 2025-11-11
-- [x] restructure site 🔺 ✅ 2026-03-26
-- [x] rethink the references folder ✅ 2026-03-30
-- [x] Grip trainer ✅ 2026-03-26
-- [x] archive site via something like waybackmachine ✅ 2026-04-19
-- [x] Sync across devices with Syncthing ✅ 2026-02-17
-- [x] Maintain rolling backups for at least 10 days ✅ 2026-02-17
-- [x] Mirror site on Neocities ✅ 2026-04-19
-- [x] Mirror site on Nekoweb ✅ 2026-02-17
-- [x] Repository mirrored on Codeberg ✅ 2026-02-17
-- [x] Maintain consistent frontmatter (tags and modified date) ✅ 2026-04-19

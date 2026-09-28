@@ -193,10 +193,10 @@
     "https://defaults.rknight.me/",
     "https://slashpages.net/",
     "slashes.md",
-    "00-raw/inbox/index.md",
+    "00-raw/notes/index.md",
     "vault_rules.md",
     "folder:00-raw/00_01-zettel",
-    "00-raw/inbox/backup_rule.md",
+    "00-raw/notes/backup_rule.md",
     "00-raw/index.md",
     "folder:00-raw/inbox"
   ],
