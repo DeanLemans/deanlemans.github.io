@@ -12,14 +12,6 @@ aliases:
 
 # My Suplement Stack
 
-- [ ] need to add more research to build up my choices
-- [ ] need to do several tests(blood, sleep, etc) in order to add or remove suplements.
-- [ ] rework this so it includes normal meals(do i want/need this?)
-- [ ] balsem of peru?
-- [ ] beef tallow? (for hands? feet?)
-- [ ] NAC?
-- [ ] ivermectin?
-
 ---
 
 order:

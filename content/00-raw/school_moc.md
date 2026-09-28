@@ -7,6 +7,7 @@ modified: 2026-09-28
 id: 01M3MAVMW8N779V4VXHGAPM1NW
 created: 2026-07-07
 aliases: []
+category: school
 ---
 
 # school moc
