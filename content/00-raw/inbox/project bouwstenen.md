@@ -2,10 +2,12 @@
 title: project bouwstenen
 tags:
   - toegepaste_biologie
-modified: 2026-09-25
+modified: 2026-09-28
 id: 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
 created: 2026-09-18
 category: school
+aliases:
+  - 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
 ---
 
 # project bouwstenen

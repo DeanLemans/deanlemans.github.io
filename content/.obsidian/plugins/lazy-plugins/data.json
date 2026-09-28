@@ -103,7 +103,7 @@
         "startupType": "disabled"
       },
       "notebook-navigator": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "reverysky-map": {
         "startupType": "disabled"

@@ -3,11 +3,12 @@ title: VCA (Veiligheid Certificaat Aannemer) les
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-25
+modified: 2026-09-28
 id: 01M2QFNSJAYDM0RCX04MZQJ9KP
 created: 2026-09-17
 category: school
 aliases:
+  - 01M2QFNSJAYDM0RCX04MZQJ9KP
   - VCA les
 ---
 

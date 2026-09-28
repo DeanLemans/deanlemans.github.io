@@ -331,7 +331,8 @@
         "depth": 5,
         "fields": [],
         "field_group_labels": [],
-        "direction": "LR"
+        "direction": "LR",
+        "semantic_sides": false
       }
     },
     "edge_audit": {
