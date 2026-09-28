@@ -1,6 +1,8 @@
 ---
+unlisted: true
 title: more pictures of me
-modified: 2026-09-21
+publish: true
+modified: 2026-09-28
 id: 01M32TCVYTB2DSKJGPMNZ421QC
 created: 2026-09-21
 ---

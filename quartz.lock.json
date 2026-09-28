@@ -85,23 +85,11 @@
       "commit": "bf8e93766283caab163fc11bc8b5904790a769bc",
       "installedAt": "2026-09-16T22:54:20.160Z"
     },
-    "favicon": {
-      "source": "github:quartz-community/favicon",
-      "resolved": "https://github.com/quartz-community/favicon.git",
-      "commit": "a135fe23e35cb95b2a6d8a3909e301ef769eb70f",
-      "installedAt": "2026-09-16T22:54:20.117Z"
-    },
     "folder-page": {
       "source": "github:quartz-community/folder-page",
       "resolved": "https://github.com/quartz-community/folder-page.git",
       "commit": "cb98119a788a0524d114345ee052670851e6f021",
       "installedAt": "2026-09-16T22:54:20.073Z"
-    },
-    "fonts": {
-      "source": "github:quartz-community/fonts",
-      "resolved": "https://github.com/quartz-community/fonts.git",
-      "commit": "e7c824b6149f46a50b98a5c1474605385090895d",
-      "installedAt": "2026-09-16T22:54:20.304Z"
     },
     "footer": {
       "source": "github:quartz-community/footer",
@@ -145,12 +133,6 @@
       "commit": "92d3872097d793b29b88b0e94cb46be67357c503",
       "installedAt": "2026-09-16T22:54:20.240Z"
     },
-    "remove-draft": {
-      "source": "github:quartz-community/remove-draft",
-      "resolved": "https://github.com/quartz-community/remove-draft.git",
-      "commit": "fefae3073c8eb5111a1c23284881007ae7bf97a2",
-      "installedAt": "2026-09-16T22:54:20.238Z"
-    },
     "search": {
       "source": "github:quartz-community/search",
       "resolved": "https://github.com/quartz-community/search.git",
@@ -162,12 +144,6 @@
       "resolved": "https://github.com/quartz-community/spacer.git",
       "commit": "c2b07c5724db1933a04765fe675622d94699471d",
       "installedAt": "2026-09-16T22:54:20.423Z"
-    },
-    "table-of-contents": {
-      "source": "github:quartz-community/table-of-contents",
-      "resolved": "https://github.com/quartz-community/table-of-contents.git",
-      "commit": "88526540fc899656ade476a11985359fd812bc8a",
-      "installedAt": "2026-09-16T22:54:21.645Z"
     },
     "tag-list": {
       "source": "github:quartz-community/tag-list",

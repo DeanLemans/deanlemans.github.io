@@ -1,7 +1,7 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-09-22
+modified: 2026-09-28
 id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
 description: Dean's Personal Site
 created: 2025-09-25
@@ -19,7 +19,8 @@ aliases:
 <div style="text-align:center;">
   <img src="./static_files/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
 </div>
-[-->more pictures of me<--](<./00-raw/inbox/more pictures of me.md>)
+
+[-->more pictures of me<--](<./static_files/more_pictures_of_me.md>)
 
 ## About Me
 

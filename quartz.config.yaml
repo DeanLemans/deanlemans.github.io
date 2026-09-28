@@ -15,7 +15,6 @@ configuration:
     - templates
     - .obsidian
     - .trash
-    - static_files/templates
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -59,7 +58,7 @@ plugins:
     options:
       comments: false
       highlight: true
-      wikilinks: false
+      wikilinks: true
       callouts: true
       mermaid: false
       parseTags: true
@@ -73,12 +72,6 @@ plugins:
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
     order: 40
-  - source: github:quartz-community/table-of-contents
-    enabled: true
-    options:
-      collapseByDefault: true
-      minEntries: 2
-    order: 50
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -87,6 +80,7 @@ plugins:
       prettyLinks: false
       openLinksInNewTab: true
       disableBrokenWikilinks: true
+      externalLinkIcon: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
@@ -97,8 +91,6 @@ plugins:
   - source: github:quartz-community/hard-line-breaks
     enabled: true
     order: 90
-  - source: github:quartz-community/remove-draft
-    enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/unlisted-pages
@@ -113,12 +105,15 @@ plugins:
       enableSiteMap: true
       enableRSS: true
       includeEmptyFiles: false
-  - source: github:quartz-community/favicon
-    enabled: true
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      linkResolution: relative
+    order: 50
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
@@ -127,6 +122,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: File Explorer
     layout:
       position: left
       priority: 50
@@ -140,8 +137,6 @@ plugins:
         scale: 1.1
         fontSize: 0.6
         opacityScale: 1
-        removeTags:
-          - exclude-explorer
         showTags: false
         enableRadial: false
       globalGraph:
@@ -154,9 +149,7 @@ plugins:
         centerForce: 0.5
         repelForce: 0.5
         linkDistance: 30
-        removeTags:
-          - exclude-explorer
-        showTags: false
+        showTags: true
         focusOnHover: true
         enableRadial: true
     layout:
@@ -176,7 +169,7 @@ plugins:
       position: afterBody
       priority: 30
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -185,8 +178,10 @@ plugins:
     layout:
       position: left
       priority: 10
-  - source: github:quartz-community/fonts
+  - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header: '"Playfair Display", serif'
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
@@ -226,10 +221,12 @@ plugins:
       includeAll: false
       includedProperties:
         - description
+        - author
         - created
         - modified
-        - id
         - tags
+        - source
+        - id
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

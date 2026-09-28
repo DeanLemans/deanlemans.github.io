@@ -22,5 +22,6 @@
   "attachmentFolderPath": "static_files",
   "readableLineLength": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-raw/inbox"
+  "newFileFolderPath": "00-raw/inbox",
+  "strictLineBreaks": true
 }
