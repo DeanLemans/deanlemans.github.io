@@ -288,7 +288,7 @@ will continue with quotes for now
 
 is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show.
 > I would call that a digital hoarder, a hoarder physical stuff, a hoarder of physical stuff but sorts them(only minimally better then former), and hoarders of the information/digital. (which can also be either be sorted or not)
-> should make note of this, [don't be a hoarder. archavist fallacy. Collector's Fallacy](<../00_01-zettel/don't be a hoarder. archavist fallacy. Collector's Fallacy.md>)
+> should make note of this, [don't be a hoarder. archavist fallacy. Collector's Fallacy](<./don't be a hoarder. archavist fallacy. Collector's Fallacy.md>)
 
 ---
 

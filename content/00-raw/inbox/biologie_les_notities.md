@@ -92,7 +92,7 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 	- soorten ontwikkelen verschillende kenmerken, door zich om verschillende leefomstandigheden aan te passen
 
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-	- (moved to standalone note [history_doesnt_decide_shape_environment_does](<../00_01-zettel/history_doesnt_decide_shape_environment_does.md>))
+	- (moved to standalone note [history_doesnt_decide_shape_environment_does](<./history_doesnt_decide_shape_environment_does.md>))
 
 ---
 
@@ -116,6 +116,12 @@ H3o is zwaar water?
 zuurgraad (een van de dingen waar de kaderrichtlijn naar kijkt)
 - PH schaal is 0 tot 14. 7 is neutraal water.(1 is h+ 14 is OH-)
 - POH
+
+fungi/mushrooms are more related to animals then plants
+
+underground system of fungi boost other plant growthm mycelial network
+
+fungi cant produce their own food, they are a symbiote to the root of plants
 
 ---
 

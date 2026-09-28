@@ -3,7 +3,7 @@ unlisted: false
 title: 00.00 Archive
 tags: []
 publish: true
-modified: 2026-09-23
+modified: 2026-09-28
 id: 01KZ9V0Z39H3EXG6EETJW9XA5P
 created: 2026-04-19
 aliases:
@@ -11,6 +11,10 @@ aliases:
 ---
 
 # 00.00 Archive
+
+> [!NOTE]- Alternative titles
+> - References
+> - clippings
 
 shoebox of the site
 

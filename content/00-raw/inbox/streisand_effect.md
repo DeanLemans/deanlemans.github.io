@@ -1,8 +1,9 @@
 ---
 unlisted: false
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Streisand effect
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KQQV6TRWTSVKA0JA0PHV5MJ5
 created: 2026-03-17
 aliases:

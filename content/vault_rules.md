@@ -84,7 +84,7 @@ aliases:
 
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/00_01-zettel/backup_rule.md>)
+- follow the [backup_rule](<./00-raw/inbox/backup_rule.md>)
 
 ---
 

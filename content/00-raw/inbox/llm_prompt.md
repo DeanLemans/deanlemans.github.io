@@ -1,9 +1,10 @@
 ---
 unlisted: false
+type:
 title: My Prompts
 tags: []
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KQQV6TRJPTZ4FEDBPKQW9D1G
 description: some promps i use for LLM
 created: 2026-03-17

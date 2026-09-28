@@ -1,9 +1,10 @@
 ---
 unlisted: false
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Backup Rule
 tags: []
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KQQV6TWPAXWM09F54Z1QQWJS
 created: 2026-03-17
 ---

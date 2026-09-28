@@ -1,7 +1,8 @@
 ---
-title: "don't be a hoarder. archavist fallacy. Collector's Fallacy"
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+title: don't be a hoarder. archavist fallacy. Collector's Fallacy
 publish: true
-modified: 2026-09-17
+modified: 2026-09-28
 id: 01KXR9PRAVMS17TVJCN85VZFY2
 created: 2026-07-17
 ---

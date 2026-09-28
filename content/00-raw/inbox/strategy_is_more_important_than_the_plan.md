@@ -1,7 +1,8 @@
 ---
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: strategy is more important than then the plan
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KXAH9B7DT5JTEXTJTD43VA6Z
 created: 2026-07-12
 aliases:

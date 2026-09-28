@@ -1,10 +1,14 @@
 ---
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: dont be wikipedia
+tags: []
 publish: true
-modified: 2026-09-17
+modified: 2026-09-28
 id: 01KRW5T4PKDFNP6V0GE0T9NKAJ
 created: 2026-05-17
 ---
+
+[atomic\_permanent\_zettel](<./atomic_permanent_zettel.md>)
 
 # dont be wikipedia
 

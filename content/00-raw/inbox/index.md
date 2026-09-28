@@ -10,6 +10,7 @@ created: 2026-04-10
 
 # notes folder
 
-contains notes and thoughs of mine, need to add a extra maturity system for notes
+contains notes and thoughs and insights of mine of mine,
 
 see the MOC
+

@@ -8,6 +8,7 @@ created: 2026-09-18
 category: school
 aliases:
   - 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
+  - project bouwstenen
 ---
 
 # project bouwstenen

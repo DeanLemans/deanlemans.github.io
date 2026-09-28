@@ -1,7 +1,8 @@
 ---
+type:
 title: a lifesycle of notes
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KXD57NY26D1122GWNA83NWKK
 created: 2026-07-13
 aliases:
@@ -10,8 +11,8 @@ aliases:
 
 # a lifesycle of notes
 
-[How to Take Smart Notes. Notes](<../inbox/How to Take Smart Notes. Notes.md>)
-[PKM_brainstorm](<../inbox/PKM_brainstorm.md>)
+[How to Take Smart Notes. Notes](<./How to Take Smart Notes. Notes.md>)
+[PKM_brainstorm](<./PKM_brainstorm.md>)
 pkm community has a lot of conflicting terminology. I will try to include all for the relevant context.
 
 for book note taking it (in the most optimal condition) like this:
