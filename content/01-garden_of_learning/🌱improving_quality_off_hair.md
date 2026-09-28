@@ -4,9 +4,10 @@ title: hair stuff
 tags:
   - research
 publish: true
-modified: 2026-09-17
+modified: 2026-09-28
 id: 01KQQV6TS6969VS9ER7EFR3JV6
 created: 2026-04-30
+category: body
 ---
 
 # hair stuff

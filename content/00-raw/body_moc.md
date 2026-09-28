@@ -4,6 +4,7 @@ publish: true
 modified: 2026-09-28
 id: 01KWYM5WG7NY9WDH4MP6T5QPPW
 created: 2026-07-07
+category: body
 aliases:
   - Body meta
 ---
@@ -27,6 +28,9 @@ aliases:
 [Longlivity](<../Longlivity.md>)
 
 [🌿improving_my_sleep](<../01-garden_of_learning/🌿improving_my_sleep.md>)
+
+![body_stuff](<./inbox/body_stuff.base>)
+[body_stuff](<./inbox/body_stuff.base>)
 
 # see also
 

@@ -4,9 +4,10 @@ title: Sleep Optimization
 tags:
   - research
 publish: true
-modified: 2026-07-18
+modified: 2026-09-28
 id: 01KQQV6TRFBQWSTH1JAVKPMVGD
 created: 2026-03-21
+category: body
 aliases:
   - sleep_optimization
 ---

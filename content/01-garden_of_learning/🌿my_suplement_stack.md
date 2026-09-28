@@ -2,9 +2,10 @@
 unlisted: false
 title: My Suplement Stack
 publish: true
-modified: 2026-09-17
+modified: 2026-09-28
 id: 01KQQV6TR39CN33B077J3PD1S8
 created: 2026-03-15
+category: body
 aliases:
   - My Suplement Stack
 ---

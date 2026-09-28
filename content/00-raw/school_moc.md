@@ -4,10 +4,9 @@ tags:
   - toegepaste_biologie
 publish: true
 modified: 2026-09-28
-id: 01KWYM5WG7NY9WDH4MP6T5QPPW
+id: 01M3MAVMW8N779V4VXHGAPM1NW
 created: 2026-07-07
-aliases:
-  - Body meta
+aliases: []
 ---
 
 # school moc
