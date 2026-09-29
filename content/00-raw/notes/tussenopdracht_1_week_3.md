@@ -10,6 +10,7 @@ category: school
 aliases:
   - 01M1XS2MXGBS6CGXHJ6SCD3MZ3
   - tussenopdracht 1 week3
+  - tussenopdracht_1_week_3
 ---
 
 # Tussenopdracht 1, week 3 en 4
@@ -27,15 +28,15 @@ aliases:
 
 # Inhoudsopgave
 
-1. [Inleiding](<./tussenopdracht_1_week_3.md#1-inleiding>)
-   - [Mijn leefomgeving](<./tussenopdracht_1_week_3.md#mijn-leefomgeving>)
-2. [Method](<./tussenopdracht_1_week_3.md#2-method>)
-3. [Resultaten](<./tussenopdracht_1_week_3.md#3-resultaten>)
-   - [Mijn eigen afval](<./tussenopdracht_1_week_3.md#mijn-eigen-afval>)
-   - [Verbeterpunten](<./tussenopdracht_1_week_3.md#verbeterpunten>)
-   - [Wat ik heb gedaan](<./tussenopdracht_1_week_3.md#wat-ik-heb-gedaan>)
-4. [Slot/Einde](<./tussenopdracht_1_week_3.md#4-sloteinde>)
-5. [Bronnen](<./tussenopdracht_1_week_3.md#5-bronnen>)
+1. [Inleiding](<#1-inleiding>)
+   - [Mijn leefomgeving](<#mijn-leefomgeving>)
+2. [Method](<#2-method>)
+3. [Resultaten](<#3-resultaten>)
+   - [Mijn eigen afval](<#mijn-eigen-afval>)
+   - [Verbeterpunten](<#verbeterpunten>)
+   - [Wat ik heb gedaan](<#wat-ik-heb-gedaan>)
+4. [Slot/Einde](<#4-sloteinde>)
+5. [Bronnen](<#5-bronnen>)
 
 ---
 
