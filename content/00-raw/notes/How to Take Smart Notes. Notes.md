@@ -1,4 +1,6 @@
 ---
+unlisted:
+type:
 title: How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
 publish: true
 modified: 2026-09-30
@@ -314,7 +316,7 @@ will continue with quotes for now
 is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show.
 
 > I would call that a digital hoarder, a hoarder physical stuff, a hoarder of physical stuff but sorts them(only minimally better then former), and hoarders of the information/digital. (which can also be either be sorted or not)
-> should make note of this, [don't be a hoarder. archavist fallacy. Collector's Fallacy](<./don't be a hoarder. archavist fallacy. Collector's Fallacy.md>)
+> should make note of this, [dont_be_a_hoarder-archivist_fallacy-collectors_fallacy](<./dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)
 
 ---
 

@@ -2,8 +2,8 @@
 unlisted: false
 title: Shed Greenhouse Project
 tags:
-  - green
   - research
+  - green
 publish: true
 modified: 2026-09-30
 id: g6or82heqglosy1r2qoh23xhcdnpvj
@@ -56,32 +56,25 @@ I live in a [zone 8A](https://www.plantmaps.com/interactive-netherlands-plant-ha
 ## Current Tasks
 
 - [ ] Heating pad/heat pipes
-
 - [ ] Misting system
   - [x] Placed a water bucket under it ✅ 2026-03-19
-
 - [ ] Fan
   - [ ] Buy
   - [ ] Install
-
 - [ ] Control system for automatic adjustment
   - [ ] Research
-
 - [ ] Hygrometer
   - [x] Rudimentary hygrometer ✅ 2026-03-19
 	- [x] Buy ✅ 2026-03-19
 	- [x] Install ✅ 2026-03-19
   - [ ] Electric hygrometer
-
 - [ ] Thermometer
   - [ ] Electric thermometer
   - [x] Rudimentary thermometer ✅ 2026-03-19
 	- [x] Buy ✅ 2026-03-17
 	- [x] Install ✅ 2026-03-19
-
 - [x] Grow lamps or LED lamps ✅ 2026-04-22 — [bought these](https://www.123led.nl/Sylvania-LED-Batten-60-cm-incl-lamp-4000K-920-lumen-8W-i18838.html)
   - [x] Weak lamps (insufficient) ✅ 2026-03-19
-
 - [x] Timer for switching off electricity ✅ 2026-04-10
 
 ---

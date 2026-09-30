@@ -10,8 +10,8 @@ id: zcdot2u4ml54zwmk0k9fu6m5r5ihvv
 description: Postmortem instructions for people after me
 created: 2026-09-24
 author:
-  - Maksim Lebedev
   - toby3d@toby3d.me
+  - Maksim Lebedev
 ---
 
 > [!danger] NOT MINE

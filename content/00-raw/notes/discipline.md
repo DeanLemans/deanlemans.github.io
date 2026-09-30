@@ -1,5 +1,5 @@
 ---
-unlisted: false
+unlisted: true
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Discipline
 publish: true

@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: testament ⁂ starbreaker.org
+title: Testament ⁂ starbreaker.org
 tags: []
 source: https://starbreaker.org/testament/index.html
 published: 2020-05-29
@@ -20,7 +20,7 @@ aliases:
 
 ---
 
-# testament ⁂ starbreaker.org
+# Testament ⁂ starbreaker.org
 
 I might be dead when you read this, whether tomorrow, in a decade, or perhaps even a century. I have no intention of going until I'm [killed by death](https://www.youtube.com/watch?v=LZ5fIKmn1ok "Motörhead – Killed By Death (Official Video)"), and if the corporate-owned media reports my demise as a suicide, they're lying. But if [Neil Gaiman](https://starbreaker.org/grimoire/entries/neil-gaiman/index.html "an alleged rapist") is right, Death is a lady, and the lady will do as she pleases and come for me in her own sweet time.
 

@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Site Rules
 tags: []
 publish: true
@@ -7,8 +8,8 @@ id: kk3hvayboqh3zi7m5o0w2e7lg850wo
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
 aliases:
-  - Site Rules and Vault System
   - style
+  - Site Rules and Vault System
 ---
 
 # Site Rules
@@ -26,7 +27,7 @@ aliases:
 > this vault is written as a legacy of mine(?),
 > therefore it should be future-proof.
 
-# to integrate
+# To integrate
 
 ---
 
@@ -81,7 +82,6 @@ aliases:
 - `02-digital_garden`
 - `03-blog`
 - `static_files`
-
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
 - follow the [backup_rule](<./00-raw/notes/backup_rule.md>)
@@ -159,7 +159,7 @@ aliases:
 
 ---
 
-## 9. fallback stuff
+## 9. Fallback stuff
 
 - [ ] Local + external USB backup via BORG BACKUP
 - [ ] Local USB backup via BORG BACKUP

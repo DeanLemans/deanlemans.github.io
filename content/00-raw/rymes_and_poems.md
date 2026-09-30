@@ -34,7 +34,7 @@ I call upon you eternity.
 
 ---
 
-## a poem
+## A poem
 
 The wheel of fate turns and turns.
 Never stopping
@@ -269,7 +269,7 @@ just beyond the mountain. beyond the horizon.
 
 ---
 
-## 3 of all, 3 of none
+## 3 Of all, 3 of none
 
 Kindle the flame. The soul
 Improve the vessel. The body
@@ -287,7 +287,7 @@ tyrant of peace
 
 ---
 
-# purity
+# Purity
 
 like a grinding axe, sandpaper, like a metal filter
 

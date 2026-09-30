@@ -1,9 +1,10 @@
 ---
+unlisted:
 title: "Dean's Manga List"
 publish: true
 modified: 2026-09-30
 id: m5gsetpdvmxz4shempcszge2cj7m3f
-description: Dean's manga tracking  list
+description: "Dean's manga tracking  list"
 created: 2026-03-30
 ---
 

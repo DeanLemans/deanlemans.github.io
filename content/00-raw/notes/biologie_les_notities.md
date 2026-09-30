@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
@@ -8,8 +9,8 @@ id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
 aliases:
-  - 01M2MGMVKJ5F1BF8AM149QD6FS
   - biologie les notities
+  - 01M2MGMVKJ5F1BF8AM149QD6FS
 ---
 
 # Toegepaste Biologie les notities
@@ -58,7 +59,7 @@ Flora en fauna moeten zich aanpassen om niet uit te sterven in een veranderend k
 
 Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
-### mechanismen van evolutie
+### Mechanismen van evolutie
 
 - selectiedruk - [Evolutionary pressure - Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_pressure)
 	- als het klimaat (snel) verandert, dan is er druk op flora en fauna om zich aan te passen. Anders gaan ze dood (door milieufactoren passen soorten zich aan)
@@ -84,21 +85,18 @@ Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
 - adaptieve radiatie - [Adaptive radiation - Wikipedia](https://en.wikipedia.org/wiki/Adaptive_radiation)
 	- een soort splitst zich in meerdere soorten, specialiseren in hun eigen niche
-
 - co-evolutie - [Coevolution - Wikipedia](https://en.wikipedia.org/wiki/Coevolution)
 	- 2 of meer soorten die selectiedruk op elkaar uitoefenen, verandering op het ene soort zorgt op verandering op het andere soort. Moet concurrentie zijn
-
 - divergente evolutie - [Divergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Divergent_evolution)
 	- soorten ontwikkelen verschillende kenmerken, door zich om verschillende leefomstandigheden aan te passen
-
 - convergente evolutie - [Convergent evolution - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
 	- (moved to standalone note [history_doesnt_decide_shape_environment_does](<./history_doesnt_decide_shape_environment_does.md>))
 
 ---
 
-# raw notes to filter
+# Raw notes to filter
 
-### water dingen les
+### Water dingen les
 
 water kringloop
 
@@ -125,7 +123,7 @@ fungi cant produce their own food, they are a symbiote to the root of plants
 
 ---
 
-### lab les
+### Lab les
 
 - families
 	- grassen
@@ -168,7 +166,6 @@ fungi cant produce their own food, they are a symbiote to the root of plants
 	- Anjers
 		- De 5 is heilig
 		- koekoeksbloem
-
 - [Herbarium - Wikipedia](https://en.wikipedia.org/wiki/Herbarium)
 	- wetenschappelijke naam
 	- Nederlandse naam
@@ -181,7 +178,7 @@ fungi cant produce their own food, they are a symbiote to the root of plants
 		- maximaal 2 van iedere familie
 	- [ ] juni 2027 moet het af
 
-[opdracht_naaldbomen_herkennen](<./opdracht_naaldbomen_herkennen.md>)
+[roeland_planten_herkennen](<./roeland_planten_herkennen.md>)
 
 (Roeland les)
 

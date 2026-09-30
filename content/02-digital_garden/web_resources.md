@@ -1,14 +1,15 @@
 ---
+unlisted:
 title: Random Web Resources
 publish: true
 modified: 2026-09-30
 id: ixtta46gfjm11lefqgbgh3qzzm4mxt
 created: 2025-10-10
 aliases:
-  - bookmarks
-  - Cool Web Resources
-  - My Bookmarks
   - nice web resources
+  - My Bookmarks
+  - Cool Web Resources
+  - bookmarks
 alias_sugestion: My Bookmarks
 ---
 
@@ -22,7 +23,7 @@ cool projects or articles or services i like and sometimes use/make use of
 
 ---
 
-## read
+## Read
 
 - [10x Developer Workflow on Windows](https://andresestrella.vercel.app/brain/50-writings/writings/10x-developer-workflow-on-windows/)
  - [Accrescent Blog](https://blog.accrescent.app/)
@@ -74,7 +75,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [personal-domain - IndieWeb](https://indieweb.org/personal-domain)
 - [How to Start Using IndieLogin.com](https://indielogin.com/setup)
 
-## install / download
+## Install / download
 
 - [Download Visual C++ Redistributable Runtimes All-in-One Jul 2025 | TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 - [Godot game engine](https://godotengine.org/)
@@ -96,7 +97,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [GNU Health \| Freedom and Equity in Healthcare](https://www.gnuhealth.org/)
 - [Pixelorama, your free & open source sprite editor. \| Pixelorama](https://pixelorama.org/)
 
-## service / use
+## Service / use
 
 - [Boot.dev](http://boot.dev)
 - [Moon Phase Module](https://www.moonconnection.com/moon_module_2.phtml)
@@ -114,7 +115,6 @@ cool projects or articles or services i like and sometimes use/make use of
 - [fed.brid.gy](https://fed.brid.gy/)
 - [҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌](https://we-b.site)
 - [Chattable](https://iframe.chat/)
-
 - [Marginalia Search](https://marginalia-search.com/)
 - [Home - Protoweb](https://protoweb.org/)
 - [IngredientMD - Your Supplements, Diagnosed. 2,999 Ingredients Scored.](https://ingredientmd.com/)
@@ -124,7 +124,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [learn-anything.xyz](https://learn-anything.xyz/)
 - [Hypothesis | Social Annotation Tool for Higher Education](https://web.hypothes.is/)
 
-## join
+## Join
 
 - [The Wayward Webring](https://waywardweb.org/)
 - [mostr.pub](https://mostr.pub/)
@@ -134,7 +134,7 @@ cool projects or articles or services i like and sometimes use/make use of
 - [xxiivv](https://webring.xxiivv.com/#random)
 - [Eclipse](https://eclipse.pub/)
 
-## buy / trade
+## Buy / trade
 
 - [Monero Marketplace](https://xmrbazaar.com/)
 - [Buy & Sell Monero \| Cash. Crypto. P2P.](https://retoswap.com)

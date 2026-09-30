@@ -125,6 +125,9 @@
       },
       "k-plex": {
         "startupType": "instant"
+      },
+      "note_uid_generator": {
+        "startupType": "instant"
       }
     }
   },

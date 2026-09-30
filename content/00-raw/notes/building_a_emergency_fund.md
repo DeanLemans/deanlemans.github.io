@@ -1,4 +1,5 @@
 ---
+unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Building a emergency fund
 publish: true

@@ -1,6 +1,7 @@
 ---
+unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: strategy is more important than then the plan
+title: Strategy is more important than then the plan
 publish: true
 modified: 2026-09-30
 id: 547v3vyp8uhdspn9f3zt5dimyp581q
@@ -9,13 +10,13 @@ aliases:
   - strategy is more important than then the plan
 ---
 
-# strategy is more important than then the plan
+# Strategy is more important than then the plan
 
 plans are great and all, but how you exercise/do them matters more then the plan itself.
 
 I would say that plans are the outline/cover and the strategies/effectiveness the content.
 
-## example
+## Example
 
 give a random dude a perfectly laid out plan on how and when he needs to play in a band/orchestra, with music notes, exact timestamps of when he needs to play, including who he needs to be playing with. is totally useless if he knows nothing about playing the flute or reading music.
 

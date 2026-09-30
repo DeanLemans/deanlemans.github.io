@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: "Dean's Book Library"
 publish: true
 modified: 2026-09-30
@@ -7,13 +8,13 @@ description: Library of Dean
 created: 2024-10-08
 aliases:
   - Book LIbrary!
-  - Dean's Book Library
-alias_sugestion: Dean's Book Library
+  - "Dean's Book Library"
+alias_sugestion: "Dean's Book Library"
 ---
 
 # Dean's Book Library
 
-### books I have read
+### Books I have read
 
 you can find the books I have read:
 [here on librarything](https://www.librarything.com/catalog/Th3Seeker)

@@ -1,8 +1,7 @@
 ---
 unlisted: true
 title: IT ondernemings plan
-tags:
-  - research
+tags: []
 publish: true
 modified: 2026-09-30
 id: c0f7s6aoukfbix4nt0v9h8mds4uprs
@@ -118,7 +117,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 
 ---
 
-## scale
+## Scale
 
 - Maak een website
 - Vraag tevreden klanten om je aan te raden
@@ -135,8 +134,6 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 
 ---
 
-it type shi bru
-
 <https://remoteok.com/>
 <https://nluug.nl/>
 <https://weworkremotely.com/>
@@ -149,3 +146,5 @@ it type shi bru
 <https://arc.dev/en-nl/remote-jobs>
 <https://www.tech-careers.nl/>
 <https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands>
+
+[price_calculating_garden_maintence](<./price_calculating_garden_maintence.md>)

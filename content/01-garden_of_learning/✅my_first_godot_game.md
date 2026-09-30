@@ -2,16 +2,16 @@
 unlisted: false
 title: My First Godot Game
 tags:
-  - finished
   - gamedev
+  - finished
 publish: true
 modified: 2026-09-30
 id: o547w0upupyuio0gxiihk9rp2pt31t
 description: first game made in godot
 created: 2025-09-25
 aliases:
-  - godot platformer
   - godot-platformer
+  - godot platformer
 ---
 
 # My First Godot Game

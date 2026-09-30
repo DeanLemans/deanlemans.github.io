@@ -7,7 +7,7 @@ published: 2019-02-24
 publish: "true"
 modified: 2026-09-30
 id: wg4mpdtfjg6rk0of9iaf14fd2v7lqf
-description: I'm tired of my friends dying. In dreams, my companions move easily in bodies that have been cared for. They're covered in scrapes and bruis
+description: "I'm tired of my friends dying. In dreams, my companions move easily in bodies that have been cared for. They're covered in scrapes and bruis"
 created: 2026-05-01
 author:
   - PleaseCallMeTall

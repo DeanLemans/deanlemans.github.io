@@ -6,7 +6,7 @@ source: https://turbulencegains.com/second-brain/
 publish: true
 modified: 2026-09-30
 id: dk4549bot0jiade08qp5vl5gnc2w4x
-description: I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think.
+description: "I spent 200+ hours building a 'second brain' in Obsidian that made me dumber. Here's what I learned about the psychology of PKM systems, the collector's fallacy, and how to actually think."
 created: 2025-10-05
 author:
   - "[[Jay]]"

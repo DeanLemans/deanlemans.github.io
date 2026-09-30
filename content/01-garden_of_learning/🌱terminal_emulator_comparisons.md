@@ -1,6 +1,6 @@
 ---
 unlisted: true
-title: terminal emulators stuff
+title: Terminal emulators stuff
 tags:
   - research
 publish: true
@@ -9,7 +9,7 @@ id: bgrw2h33hqg62mrvphsvvnnwe6k444
 created: 2026-05-02
 ---
 
-# terminal emulators stuff
+# Terminal emulators stuff
 
 currently on linux, cachyos
 
@@ -30,12 +30,12 @@ the contenterd (name header WIP)
 - alacritty
 - ghosty
 
-## ghosty
+## Ghosty
 
 not choosing it bc fuck gnome and for idc aoub the multiple platform support. i just use linux
 
-## kitty
+## Kitty
 
-## foot
+## Foot
 
-## alacritty
+## Alacritty

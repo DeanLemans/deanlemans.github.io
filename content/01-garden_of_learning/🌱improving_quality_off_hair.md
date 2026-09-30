@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: hair stuff
+title: Hair stuff
 tags:
   - research
 publish: true
@@ -10,7 +10,7 @@ created: 2026-04-30
 category: body
 ---
 
-# hair stuff
+# Hair stuff
 
 vet ding spull(reuzel), lichte shampoo, plant shampoo, plant based conditioner
 
@@ -24,7 +24,7 @@ most shapoo have have chemicals in them,(probably silicones)
 and they are not good for you
 most shapoo are way to harsh
 
-### references
+### References
 
 [Reddit - Please wait for verification](https://www.reddit.com/r/NoPoo/)
 [Reddit - Please wait for verification](https://www.reddit.com/r/NoPoo/wiki/index/#wiki_welcome_to_the_no-poo.2Fnatural_haircare_wiki.21)

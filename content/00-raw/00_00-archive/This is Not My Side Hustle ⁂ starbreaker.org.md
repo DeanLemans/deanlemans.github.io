@@ -23,7 +23,7 @@ aliases:
 
 I didn't intend for this to become a manifesto, but here you go.
 
-## a public response to an unnamed bozo's sales pitch
+## A public response to an unnamed bozo's sales pitch
 
 So, yeah. I got an email overnight from somebody who visited my site and had important questions like:
 
@@ -45,7 +45,7 @@ I certainly spend a hell of a lot less on this website than I do meeting the ann
 
 Even if I were to monetize, all I would do is make my website shittier for what might, if I'm lucky, amount to enough money per month to take my wife out for pizza. I'd have to report the income, ad revenue is 1099 income and thus taxed differently from wages and salaries from a W2 job, and tax prep for a W2 job is already more complicated than it needs to be thanks to lobbyists working for the likes of Intuit and H&R Block.
 
-## why full-text RSS instead of a newsletter?
+## Why full-text RSS instead of a newsletter?
 
 RSS is "pull technology". It's there if you want it, and when you're ready you pull the feed and get updates. This, in my opinion, is how the Internet *should* work.
 
@@ -65,7 +65,7 @@ I don't want that kind of responsibility. I do this, perversely enough, for *fun
 
 I don't keep secondhand fuel rods from Three Mile Island in my basement, so [why would I want your data](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)? It's just as toxic.
 
-## why have my own website?
+## Why have my own website?
 
 I don't want to be a [digital sharecropper](https://www.roughtype.com/?p=634). I've done it before – I used to have 20,000 followers on Google+ and 1,500 on Twitter in 2014 – and it wasn't worth it.
 
@@ -81,7 +81,7 @@ Does this mean I don't participate on platforms I don't own and operate? No. ~~I
 
 Furthermore, while there are people who seem to do reasonably well tying a domain they've rented to their accounts on Medium or Substack, I suspect that they will regret it if these platforms ever run out of venture capital and must shut down for lack of revenue. Substack supposedly funds itself by taking a 10% cut of subscription fees from paid newsletters, but we'll see if that revenue is enough to satisfy investors ever hungry for an ever-growing return on investment or if Substack faces [enshittification](https://www.wnycstudios.org/podcasts/otm/segments/enshittification-part-1-where-did-it-all-go-wrong-on-the-media) like every other platform seems to do. Also, [Substack is still a Nazi bar](https://onoffense.substack.com/p/the-ethical-dilemma-of-substack-and).
 
-## why give away my fiction?
+## Why give away my fiction?
 
 I already tried selling it. I published [Without Bloodshed](https://starbreaker.org/fiction/novels/without-bloodshed/index.html) over a decade ago, and [Silent Clarion](https://starbreaker.org/fiction/novels/silent-clarion/index.html) a few years after that. For a couple of years my novels sold well enough to complicate my tax prep. I was paid quarterly royalties, received 1099s, and had to report the income. I had to track business expenses: authors' copies, promotions, advertising, conventions, accommodations for conventions, meals, mileage, etc. Every April I'd lay awake at night wondering if this would be the year I faced an IRS audit.
 
@@ -97,7 +97,7 @@ Just like I do as a software developer. Don't give me shit about not having a MF
 
 But my [Starbreaker saga](https://starbreaker.org/fiction/index.html) is off the table. You don't get to publish that, whether I retain copyright or it becomes "work for hire". That is *my* work, done *my* way. I'm writing it to scratch my own itch, because [literature ain’t Burger King](https://starbreaker.org/grimoire/entries/literature-aint-burger-king/index.html) and if I want have it my way I've got to do it myself.
 
-## dude, this is a personal website
+## Dude, this is a personal website
 
 This bozo wasn't the first to ask me why they should take anything I write seriously because I make no attempt to monetize my website. I doubt they'll be the last.
 
@@ -111,7 +111,7 @@ And if this turned out to be a rant, what did you expect? How many times do I ha
 
 This is certainly not my side hustle, and *your* side hustle [can eat a giant bag of dicks](https://starbreaker.org/grimoire/entries/shite-hustle-no-revenue/index.html).
 
-## update for January 2025
+## Update for January 2025
 
 I originally belted this out in 2023, pounding my keyboard in a cold sober rage for about an hour and then uploading it without much proofreading. I meant every word, and I stand by it today.
 

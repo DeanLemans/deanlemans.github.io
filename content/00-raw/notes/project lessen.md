@@ -1,14 +1,16 @@
 ---
-title: project lessen
+unlisted:
+title: Project lessen
 tags:
   - toegepaste_biologie
+publish:
 modified: 2026-09-30
 id: b20gthxu2jh2xg04bl0s6i19exb6hb
 created: 2026-09-18
 category: school
 ---
 
-# project lessen
+# Project lessen
 
 wat maakt volgens jou een goede samenwerking binnen een projectgroep?
 - ligt aan de groote van de groep, maak als ik uitga van een groep van max 6. zijn de

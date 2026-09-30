@@ -1,7 +1,8 @@
 ---
 unlisted: true
-title: zine - personal websites and the law
+title: Zine - personal websites and the law
 source: https://avas.bearblog.dev/zine-law/
+publish:
 modified: 2026-09-30
 id: 9tnic5cfcezsljdq4g728k854tg6tv
 description: turned a submission into a zine.
@@ -17,7 +18,7 @@ aliases:
 
 ---
 
-# zine - personal websites and the law
+# Zine - personal websites and the law
 
 In July, I wrote an article to submit to a project, but didn't hear back. So I decided to publish it as a zine.
 

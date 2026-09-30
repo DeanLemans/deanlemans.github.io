@@ -1,5 +1,5 @@
 ---
-unlisted: false
+unlisted: true
 type:
 title: My Prompts
 tags: []

@@ -9,8 +9,8 @@ id: 4d93op3kcpfif27eodv7uaqzo5vn17
 description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
 created: 2026-03-17
 aliases:
-  - dream
   - Dreams of Mine
+  - dream
 ---
 
 # Dreams of Mine
@@ -64,7 +64,7 @@ it was so beuatifull, i was at peace, BUT NO
 THEY PULLED ME OOUT, MAKE CONTACT TEHY SAY , BE SOCIAL THEY SAY, SO I WEAR MASK, TO HIND WHAT I TRYLY WASNT
 BUT WHAT DO I WANT
 
-# tumor child
+# Tumor child
 
 i had a bump in my leg , it botherd me for avfrw weekks, i tpop pop and and a fetus came out, like 1 xm i tried orbit was likevas bigbas my hand smaller, i tridd to feed it it needed a bath i put it in my slul bowl with lther smaller doll plastic like copu of fetus wateevro deep i was waiting yt it was important no no no n o n o stop why iititir i let it drpwn , it didn't breath for 2 mon,v horror, o blowed on hhim ibtav name david i blowrd it qas alive it qas hungry it qas dykng no nl no ndnriijrj wanted tp buy that molk poedee stuff it was tl bigbviciouw, thick it he was smaller didn't knpe it but now he was 1 fentimrter cm long je jad a he had 1cbif theethvaboce roq whu my dad saud tl nillle feed him me he barelay fjt arrrrlundvmevkorjdkvkr nopllw, jwhh , kaw jamedbopwn, tried a fewvsaus?@days ?? hours times why even a sist i had poped open wjen hr was trying ro feed he chocked, he he he he wha!????!? no we sometim later 1bsay latee winkel centrum ae neexex tl buy powderd bab milk he needed itbdlnt die david it was full no no novno nifjrjdjdjfjfjfjfjfjfjvwhy bough clothees wd had to lwave hin on a cart by. t h e cassa, wevhad t theblopowder butbwheb we beed as an arrt, we xane back to a dries ip deathbdavid rk latebwhybwhat
 

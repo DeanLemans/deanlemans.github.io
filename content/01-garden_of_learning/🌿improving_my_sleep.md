@@ -48,4 +48,4 @@ so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that ho
 - earthing/grounding
 - dream journal
 
-### implementation
+### Implementation

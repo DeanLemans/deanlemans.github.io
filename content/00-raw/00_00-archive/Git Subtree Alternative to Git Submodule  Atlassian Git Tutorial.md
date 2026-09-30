@@ -6,7 +6,7 @@ source: https://www.atlassian.com/git/tutorials/git-subtree
 publish: true
 modified: 2026-09-30
 id: uzp75g2w8r3v7k2rrveopylstml00j
-description: Git Subtree is an extension to Git that allows you to split up large projects into smaller ones. It's like a virtual repository but more powerful.
+description: "Git Subtree is an extension to Git that allows you to split up large projects into smaller ones. It's like a virtual repository but more powerful."
 created: 2025-10-07
 author:
   - "[[Atlassian]]"

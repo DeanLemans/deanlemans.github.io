@@ -1,7 +1,9 @@
 ---
-title: brief Daan LOB / informatie gesprekken
+unlisted:
+title: Brief Daan LOB / informatie gesprekken
 tags:
   - toegepaste_biologie
+publish:
 modified: 2026-09-30
 id: f3x3wn0gn2fcbwwq9itqkarh4sd47n
 created: 2026-09-04
@@ -10,7 +12,7 @@ aliases:
   - brief daan gesprekken
 ---
 
-# brief Daan LOB / informatie gesprekken
+# Brief Daan LOB / informatie gesprekken
 
 ## Over jezelf
 

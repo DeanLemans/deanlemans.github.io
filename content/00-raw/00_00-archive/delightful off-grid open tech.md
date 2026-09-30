@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: delightful off-grid open tech
+title: Delightful off-grid open tech
 tags: []
 source: https://delightful.coding.social/delightful-off-grid-open-tech/
 published:
@@ -19,9 +19,9 @@ aliases:
 
 ---
 
-# delightful off-grid open tech
+# Delightful off-grid open tech
 
-## delightful off grid open tech
+## Delightful off grid open tech
 
 A curated list of technology, Open hardware and Open Source software resources for use off-grid, for power outages and other emergency situations.
 

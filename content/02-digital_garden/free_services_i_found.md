@@ -1,11 +1,13 @@
 ---
-title: free services
+unlisted:
+title: Free (hosting) services
+publish: true
 modified: 2026-09-30
 id: hivv4vwup1mwe29ydx8t9g0tb52f59
 created: 2026-09-19
 ---
 
-# free services
+# Free (hosting) services
 
 <https://tchncs.de/en/>
 <https://trom.tf/>

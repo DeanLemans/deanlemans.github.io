@@ -1,17 +1,19 @@
 ---
-title: project bouwstenen
+unlisted:
+title: Project bouwstenen
 tags:
   - toegepaste_biologie
+publish:
 modified: 2026-09-30
 id: lpl4alxh3l0oewb7x80q23et93lx9k
 created: 2026-09-18
 category: school
 aliases:
-  - 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
   - project bouwstenen
+  - 01M2T2Z4HRBC318QEQ9ZY0Y2Z3
 ---
 
-# project bouwstenen
+# Project bouwstenen
 
 ---
 

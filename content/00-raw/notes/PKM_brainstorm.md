@@ -11,7 +11,7 @@ aliases:
 
 # PKM
 
-## my method
+## My method
 
 process
 
@@ -25,32 +25,32 @@ connection
 
 Zettelkasten and PARA aren't rivals, they answer different questions. Zettelkasten tracks what stage a thought is at (four verbs). PARA tracks where it lives (based on actionability). Trying to pick one to answer both is why this never clicked.
 
-### The process (applies to every note, any folder)
+### Process
 
 CAPTURE -> PROCESS -> CONNECT -> CREATE
-(fleeting) (literature) (permanent) (draft/output)
+(fleeting) (reference) (permanent) (draft, raport, book, ETC)
 
 - Capture: a pointer, half-formed, no polish. Inbox, phone notes, journal entries as written.
-- Process: engaged with a source (book, article, or your own past journal/dream) and wrote down what it says plus your reaction. Where "How to Take Smart Notes. Notes.md" and dream-analysis work sit.
+- Process: engaged with a source and wrote down what it says plus your reaction. Where "How to Take Smart Notes. Notes.md" and dream-analysis work sit.
 - Connect: extracted a standalone claim, passed the three-part test (decontextualized / not-Wikipedia / atomic), linked it to related notes. `00_01-zettel`.
 - Create: permanent notes assembled into something for an audience: `03-blog`, a project writeup, a portfolio page.
 
 Same funnel for every domain: gardening research, philosophy, career notes, dream analysis.
 
-### The folders (PARA, mapped to what you already have)
+### The folders
 
-| PARA concept | Your folder | What goes here |
-|---|---|---|
-| Inbox (pre-PARA) | `00-raw/inbox` | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means it's dead or needs to move. |
-| Reference material | `00-raw/00_00-archive` | Process stage. External clippings (`/external`) plus your own journal/dreams (`/internal`), literature notes about past-you, raw and unedited, a source to mine. |
-| Permanent notes | `00-raw/00_01-zettel` | Connect stage. Only notes that pass the three-part test. |
-| Projects/Areas | `01-garden_of_learning` | Active, actionable work. Your emoji system (🌱🌿🪴✅) is already a maturity layer inside Projects, leave it alone, it works. |
-| Resources | `02-digital_garden` | Curated output for others: book/game/manga lists, blogroll. Public-facing, low-maintenance, no zettel-rigor needed. |
-| Archive/Manuscript | `03-blog` | Create stage. Pulls from zettel notes, doesn't consume them, permanent notes stay put and get reused. |
+| PARA concept       | Your folder             | What goes here                                                                                                                                                   |
+| ------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Inbox (pre-PARA)   | `00-raw/inbox`          | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means it's dead or needs to move.                                    |
+| Reference material | `00-raw/00_00-archive`  | Process stage. External clippings (`/external`) plus your own journal/dreams (`/internal`), literature notes about past-you, raw and unedited, a source to mine. |
+| Permanent notes    | `00-raw/00_01-zettel`   | Connect stage. Only notes that pass the three-part test.                                                                                                         |
+| Projects/Areas     | `01-garden_of_learning` | Active, actionable work. Your emoji system (🌱🌿🪴✅) is already a maturity layer inside Projects, leave it alone, it works.                                      |
+| Resources          | `02-digital_garden`     | Curated output for others: book/game/manga lists, blogroll. Public-facing, low-maintenance, no zettel-rigor needed.                                              |
+| Archive/Manuscript | `03-blog`               | Create stage. Pulls from zettel notes, doesn't consume them, permanent notes stay put and get reused.                                                            |
 
 PARA's four categories map onto your five top-level folders almost exactly. You already built this, you just hadn't named the mapping.
 
-### The missing piece: movement rules
+### Movement rules
 
 1. A note moves folders only when its stage changes:
    - Inbox to Archive: engaged with it (read fully, or it's a finished journal entry).
@@ -68,34 +68,26 @@ i need to find the right system to write notes??
 
 so first off
 
-## definening definitions
+## Definening definitions
 
 - "refined" notes
 - atomic notes
-
 - second brain
-
 - jhonny decibel method
-
 - wittengenstein
-
 - zetelkasten
 	- reference notes
 	- atomic notes
 	- fleeting notes
 	- zettels
-
 - jhonny decibel
 	- numbers 00.00
-
 - linking your thinking
-
 - PARA:
 	- Projects,
 	- Areas,
 	- Resources
 	- Archives
-
 - ACE:
 	- Atlas
 	- Calendar
@@ -103,7 +95,7 @@ so first off
 
 ---
 
-## my method
+## My method
 
 	(only for the 00-raw folder, the rest is site oriented and not PKM focused)
 
@@ -138,7 +130,7 @@ root of my 00-raw/hidden folder is my inbox folder, but what about the dump fold
 
 ---
 
-## inspiration
+## Inspiration
 
 - [“Better note-taking” misses the point; what matters is “better thinking”](<../00_00-archive/“Better note-taking” misses the point; what matters is “better thinking”.md>)
 - [Evergreen notes](<../00_00-archive/Evergreen notes.md>)

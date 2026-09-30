@@ -45,7 +45,7 @@ For me, notes are distinguished from documents in that a note is a markdown file
 
 Figure 1: Comparing a note in edit and preview mode.
 
-Notes are where the majority of my paperless stuff goes. The note in the example above is from my "commonplace" notebook, a collection of notes and highlights from my reading. At its most basic, a note in Obsidian is a file on your file system. The note has title [^1], and it has the same file attributes as any file on your file system: create date, modified date, permissions, etc. I'll have more to say about note titles in Episode 6.
+Notes are where the majority of my paperless stuff goes. The note in the example above is from my "commonplace" notebook, a collection of notes and highlights from my reading. At its most basic, a note in Obsidian is a file on your file system. The note has title ,[^1] and it has the same file attributes as any file on your file system: create date, modified date, permissions, etc. I'll have more to say about note titles in Episode 6.
 
 Obsidian uses the concept of a "vault" to store notes. A vault is nothing more than a folder on your computer. Obsidian controls and monitors the files and folders within that vault folder. This is incredibly useful. It means that you can move notes around within your vault and Obsidian will take care of maintaining the links that notes have to other notes automatically.
 

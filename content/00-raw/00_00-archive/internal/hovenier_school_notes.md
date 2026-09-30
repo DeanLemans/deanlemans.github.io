@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Hovenier school notes
 tags:
   - hovenier
@@ -55,7 +56,7 @@ vague plan long term;
 - learn practical aspects from glastuinbouw opleiding.
 - researcher/professor for plants/ecology(how though?)
 
-## career stuff
+## Career stuff
 
 1. Teelt en techniek(glastuin bouw) BBL/BOL, horst en geldermalsen
 2. bos en natuur beheer: BBL/BOL, velp en roermond
@@ -70,14 +71,14 @@ klusjesman
 
 ---
 
-# elementen
+# Elementen
 
 heermoes == arme grond
 - vloer/open
 
 ---
 
-# kantsteken
+# Kantsteken
 
 - na het maaien
 - also gras lang is
@@ -87,7 +88,7 @@ heermoes == arme grond
  - steker(vorm maken)
  - knipper(netheid)
 
-# verticuleren
+# Verticuleren
 
 see teams for more
 - afharken van afval
@@ -98,7 +99,6 @@ see teams for more
 - bemesten kan in de zomer
 - kale plekken doorzaaien
 - (extra)beluchten, 10 cm diep
-
 - best verhouding NPK: 12/10/18 PH: 6,5/7(kalk strooien kan helpen met PH, maar niet veel.)
 
 # bezanden/dressen
@@ -113,7 +113,7 @@ see teams for more
 
 ---
 
-# machinesonderhoud, + startklaar
+# Machinesonderhoud, + startklaar
 
 ## Welke machine is dit?
 
@@ -159,7 +159,7 @@ Smeering
 
 Plant met veel takken dicht op elkaar.
 
-# hagen
+# Hagen
 
 - afscheiding
 - privacy
@@ -177,11 +177,11 @@ Na het haag knippen het afval laten liggen voor biodiversiteit, egel eet slakken
 
 ---
 
-## period 1
+## Period 1
 
 - - -
 
-# leerdoelen
+# Leerdoelen
 
 1. klantvriendelijkheid/sociaal zijn.
 2. onkruidverdelger
@@ -227,7 +227,7 @@ dakpan
 
 # Period 2
 
-## week 1
+## Week 1
 
 Opbouw bodem
 ![](<../../../static_files/IMG_20251114_143023_609.jpg>)
@@ -239,7 +239,7 @@ Hoe Bodemverbetering:
 - insecten
 - Bacterie
 
-# week 2
+# Week 2
 
 **Bodemvormem** **factoren**
 - topografish(ligging)
@@ -273,7 +273,7 @@ Voedingstoffen in de bodem
 - verwening(minerale deeltjes)
 - wortels
 
-# week 3
+# Week 3
 
 Mest
 - organisch
@@ -301,7 +301,7 @@ Boompaal 1/3 de grond in
 
 Dungking.eu
 
-# week 4
+# Week 4
 
 - cunet = ruimte voor al het straatwerk
 
@@ -316,7 +316,7 @@ Formaat knlinkers
 
 ---
 
-# dump for resuslts i did for school tests
+# Dump for resuslts i did for school tests
 
 Geen beroepsopleiding:
 Medewerker afvalbeheer

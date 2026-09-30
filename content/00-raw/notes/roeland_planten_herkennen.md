@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Opdracht planten herkennen Roeland
 tags:
   - toegepaste_biologie
@@ -8,14 +9,14 @@ id: d7bfmuqte52u7q4sqtq1vtyn14fbg0
 created: 2026-09-23
 category: school
 aliases:
-  - 01M36KKBQZE6R8BKG3H5T1Y1V6
-  - Opdracht naaldbomen herkennen
   - opdracht_naaldbomen_herkennen
+  - Opdracht naaldbomen herkennen
+  - 01M36KKBQZE6R8BKG3H5T1Y1V6
 ---
 
 # Opdracht planten herkennen Roeland
 
-## herkennen naaldbomen
+## Herkennen naaldbomen
 
 Larix en Lork zijn hetzelfde
 vraag: waarom zijn sommige wikipedia paginas in het engels en nederlands verschillende soorten?
@@ -57,7 +58,7 @@ Van iedere boom verzamel je:
 4. Minimaal één karakteristieke eigenschap waarmee je de boom kunt
 	herkennen.
 
-## **Te onderzoeken boomsoorten**
+## **Te Onderzoeken boomsoorten**
 
 ### **Eiken (4 soorten)**
 

@@ -1,5 +1,7 @@
 ---
+unlisted: true
 title: "Guide for future blog i haven't even written yet"
+publish: true
 modified: 2026-09-30
 id: 0yxistix74o7bsdgp2zv4tp6lu3qec
 created: 2026-07-10

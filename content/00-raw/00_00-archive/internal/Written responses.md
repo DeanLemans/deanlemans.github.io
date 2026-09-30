@@ -1,5 +1,6 @@
 ---
-title: leerbedrijf mail
+unlisted:
+title: Leerbedrijf mail
 tags: []
 publish: false
 modified: 2026-09-30
@@ -9,7 +10,7 @@ created: 2026-07-07
 
 ---
 
-## finished mail i can tweak for specific sender
+## Finished mail i can tweak for specific sender
 
 Beste (REDACTED),
 
@@ -171,11 +172,11 @@ Dean Lemans
 
 ---
 
-# leerbedrijf mail
+# Leerbedrijf mail
 
 ---
 
-## begin of writing mail
+## Begin of writing mail
 
 Beste (REDACTED),
 
@@ -202,7 +203,7 @@ Dean Lemans
 
 ---
 
-## middle of writing mail
+## Middle of writing mail
 
 Beste (REDACTED),
 
@@ -222,4 +223,3 @@ Ik hoor graag van u.
 Met vriendelijke groet,
 Dean Lemans
 06-45477170
-

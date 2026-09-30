@@ -1,16 +1,19 @@
 ---
+unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: dont be wikipedia
+title: Dont be wikipedia
 tags: []
 publish: true
 modified: 2026-09-30
 id: k395dlncviospwqkpau7o6mzxwn6wj
 created: 2026-05-17
+aliases:
+  - dont be wikipedia
 ---
 
 [atomic\_permanent\_zettel](<./atomic_permanent_zettel.md>)
 
-# dont be wikipedia
+# Dont be wikipedia
 
 > [!tip] Don't be Wikipedia
 > In a PKM, it's easy to end up duplicating public knowledge that already exists elsewhere or is otherwise widely known.
@@ -27,4 +30,4 @@ created: 2026-05-17
 
 ## Related
 
-[don't be a hoarder. archavist fallacy. Collector's Fallacy](<./don't be a hoarder. archavist fallacy. Collector's Fallacy.md>)
+[dont_be_a_hoarder-archivist_fallacy-collectors_fallacy](<./dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)

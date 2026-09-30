@@ -2,17 +2,17 @@
 unlisted: false
 title: My First Javascript Game
 tags:
-  - finished
   - gamedev
+  - finished
 publish: true
 modified: 2026-09-30
 id: qoa6m8i3s6fvw7b1bclseoq3lkdl3d
 description: first game made in JavaScript
 created: 2025-09-25
 aliases:
-  - My First Javascript Game
-  - web Point and Click
   - web_PointNClick
+  - web Point and Click
+  - My First Javascript Game
 ---
 
 # My First Javascript Game

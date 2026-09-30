@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: VCA (Veiligheid Certificaat Aannemer) les
 tags:
   - toegepaste_biologie
@@ -8,8 +9,8 @@ id: 3va1670n1a5gvf3mhj4cqtdm3l1365
 created: 2026-09-17
 category: school
 aliases:
-  - 01M2QFNSJAYDM0RCX04MZQJ9KP
   - VCA les
+  - 01M2QFNSJAYDM0RCX04MZQJ9KP
 ---
 
 # VCA (Veiligheid Certificaat Aannemer) les
@@ -36,7 +37,7 @@ werkvergunningen is een groot belangrijk onderdeel
 
 voobeeld van toen its is foutgegaan <https://www.dumpert.nl/item/100019885_30966a83>
 
-## veilig werken en gedrag
+## Veilig werken en gedrag
 
 (betekent jezelf en anderen niet in gevaar brengt)
 - veiligheidregels houden

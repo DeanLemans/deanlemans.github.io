@@ -1,15 +1,15 @@
 ---
 unlisted: false
-title: money expensive bank investing
+title: Money expensive bank investing
 publish: true
 modified: 2026-09-30
 id: 2y7j5ymr2f70oq0ma2v47rlfn47xjg
 created: 2026-05-08
 ---
 
-# money expensive bank investing
+# Money expensive bank investing
 
-### what?
+### What?
 
 - trade
 	- dropshipping
@@ -18,7 +18,6 @@ created: 2026-05-08
 		- games
 		- crafts and such
 		- selling mini terrariums[🌱plant_terrarium_project](<./🌱plant_terrarium_project.md>)
-
 - investing
 	- stocks and such(contact bank or whatnot)
 	- crypto trading or reselling
@@ -26,7 +25,6 @@ created: 2026-05-08
 	- methods?
 		- fire
 		- leanfire
-
 - how to budget
 	- track my spending
 		- how? via FOSS budgeting or investing or money app(look in my github)
@@ -43,7 +41,7 @@ crypto trading
 	- but low sell high, start with a few stable ish coins (btc, eth, sol, xrp, ada, xmr, ltc)
 		- buy the easiest one, and then via trocador exchange the the lowest one
 
-### principles
+### Principles
 
 [emergency_fund](<../00-raw/notes/emergency_fund.md>)
 
@@ -67,7 +65,7 @@ investing vs pension
 dont let money stay still.
 money must move?
 
-## inspiration / references
+## Inspiration / references
 
 [The Psychology of Money](https://www.librarything.com/work/25251668)
 [aarnphm| Expenses](https://aarnphm.xyz/thoughts/Expenses)

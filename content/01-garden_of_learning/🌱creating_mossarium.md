@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: creating_mossarium
 tags: []
 publish: true
@@ -10,4 +11,3 @@ created: 2026-05-19
 # creating\_mossarium
 
 [Mossariums’ How To Guide](<../00-raw/00_00-archive/Mossariums’ How To Guide.md>)
-

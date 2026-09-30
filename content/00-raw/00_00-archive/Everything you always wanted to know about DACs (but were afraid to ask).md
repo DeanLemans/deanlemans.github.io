@@ -9,8 +9,8 @@ id: m3jktiqiclq9n89dz47zqqthmyfxjl
 description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
 created: 2025-09-29
 author:
-  - "[[Becky Roberts]]"
   - "[[Verity Burns]]"
+  - "[[Becky Roberts]]"
 aliases:
   - 01KQQV6TVKVNR5FNB8NN4ERW1H
 ---

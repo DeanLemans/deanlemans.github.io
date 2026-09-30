@@ -1,15 +1,16 @@
 ---
+unlisted:
 title: Cool Personal sites
 publish: true
 modified: 2026-09-30
 id: 6i16to3endkm2xocypk5zo7o6a8u0v
 created: 2026-03-17
 aliases:
-  - 01KQQV6TQVF7DAXWWYPE5HPQ7K
-  - blogroll
-  - Cool Personal sites
-  - Cool Personal sites!
   - external_sites
+  - Cool Personal sites!
+  - Cool Personal sites
+  - blogroll
+  - 01KQQV6TQVF7DAXWWYPE5HPQ7K
 alias_sugestion: Cool Personal sites
 ---
 

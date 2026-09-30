@@ -1,14 +1,14 @@
 ---
 unlisted: false
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: pomodoro technique
+title: Pomodoro technique
 publish: true
 modified: 2026-09-30
 id: 43is08xgzw6m10pclz1hr5q4gwbzjn
 created: 2026-03-17
 ---
 
-# pomodoro technique
+# Pomodoro technique
 
 setting a timer for at least 10-20 minutes and in that time, only focus on working. (could be longer or shorter depending on your focus)
 

@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Ecosysteem Project
 tags:
   - toegepaste_biologie
@@ -8,8 +9,8 @@ id: 5jsyrhgb2k54di3mepd2jm5wjtjk2g
 created: 2026-09-07
 category: school
 aliases:
-  - 01M1XWHCFDRGGJXBWZQRBS1279
   - ecosysteem project
+  - 01M1XWHCFDRGGJXBWZQRBS1279
 ---
 
 # Ecosysteem Project

@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: about nownownow.com
+title: About nownownow.com
 tags: []
 source: https://nownownow.com/about
 publish: true
@@ -14,7 +14,7 @@ aliases:
   - 01KQQV6TTCH9B6K3SXMN7CWWVA
 ---
 
-# about nownownow.com
+# About nownownow.com
 
 > [!danger] NOT MINE
 > This is just a reference/bookmarked article from the internet i found interesting!

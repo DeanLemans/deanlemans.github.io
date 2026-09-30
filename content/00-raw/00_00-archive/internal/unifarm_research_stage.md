@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: unifarm_research_stage
 tags:
   - hovenier
@@ -16,7 +17,6 @@ category: school
 		- hoe gewassen groeien
 	- klimaatruimten
 		- hoe klimaat beheren zodat specifieke planten goed groeien
-
 - Speuren ontwikkelingswerk op het gebied van landbouw en visserij (niet biotechnologisch)
 	- op vis gefocused?
 	- onderzoekend gefocust\

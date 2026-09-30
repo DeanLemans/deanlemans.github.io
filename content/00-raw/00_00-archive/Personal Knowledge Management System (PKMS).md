@@ -19,9 +19,9 @@ author:
 
 # Personal Knowledge Management System (PKMS)
 
-## file organization systems
+## File organization systems
 
-## my personal solution
+## My personal solution
 
 [https://www.youtube.com/watch?v=7iq6H1Tmu1I](https://www.youtube.com/watch?v=7iq6H1Tmu1I)
 this guy mixes PARA folder structure with Johnny Decimals numbering and keeps the root folder small.

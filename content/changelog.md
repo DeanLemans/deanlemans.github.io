@@ -1,12 +1,13 @@
 ---
+unlisted:
 title: /changelog
 publish: true
 modified: 2026-09-30
 id: qfbel2nwd2sm256nzdo35zg6kt8112
 created: 2026-09-23
 aliases:
-  - changelogs
   - log
+  - changelogs
 ---
 
 # /changelog

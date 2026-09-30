@@ -1,15 +1,16 @@
 ---
+unlisted:
 title: Creating Plant terrarium
 tags:
-  - green
   - research
+  - green
 publish: true
 modified: 2026-09-30
 id: 8wv4cjualppr0badv89odi3m9kymcv
 created: 2026-03-12
 aliases:
-  - create_plant_terrarium
   - Creating Plant terrarium
+  - create_plant_terrarium
 ---
 
 # Creating Plant terrarium
@@ -22,7 +23,7 @@ springtails
 
 ---
 
-## mix for terrarium substrate
+## Mix for terrarium substrate
 
 [general_substrate_mix](<../00-raw/notes/general_substrate_mix.md>)
 

@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: "Dean's Game Collection"
 publish: true
 modified: 2026-09-30
@@ -6,7 +7,7 @@ id: hyxgkrdmhd2b4h7nibm1kd7xmn4sjr
 description: my collection of games
 created: 2024-10-08
 aliases:
-  - Dean's Game Collection
+  - "Dean's Game Collection"
 ---
 
 # Dean's Game Collection

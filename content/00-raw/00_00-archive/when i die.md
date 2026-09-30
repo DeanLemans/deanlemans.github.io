@@ -1,9 +1,10 @@
 ---
 unlisted: false
-title: when i die
+title: When i die
 tags: []
 source: https://avas.bearblog.dev/when-i-die/
 published: 2024-12-09
+publish:
 modified: 2026-09-30
 id: hsad8le222g43wmvbm1cqivzzcfdw8
 description: contingency plan and clarifications for when i die.
@@ -19,7 +20,7 @@ aliases:
 
 ---
 
-# when i die
+# When i die
 
 When you read this, I might be dead. Hopefully not! But we never know when we might die. Random accidents, surgery complications, new viruses, cancer, old age, suicide...
 

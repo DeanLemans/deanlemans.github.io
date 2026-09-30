@@ -1,4 +1,5 @@
 ---
+unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Emergency fund
 publish: true
@@ -20,7 +21,7 @@ An emergency fund is like a amount of money set aside in case of:
 
 And is should only draw from it when necary, this is the opposite of a [checking amount]
 
-# MISC
+# RELATED
 
 [building_a_emergency_fund](<./building_a_emergency_fund.md>)
 

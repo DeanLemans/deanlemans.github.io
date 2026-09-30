@@ -9,5 +9,4 @@ created: 2026-07-13
 
 # Using rationality to align thinking
 
-[Using Pragmatism to increase effecifeness of being](<./Using Pragmatism to increase effecifeness of beinv.md>)
-
+[Using Pragmatism to increase effecifeness of being](<./Using Pragmatism to increase effecifeness of being.md>)

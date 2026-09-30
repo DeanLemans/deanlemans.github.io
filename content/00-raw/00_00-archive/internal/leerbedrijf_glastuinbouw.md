@@ -1,5 +1,6 @@
 ---
-title: leerbedrijf glastuinbouw
+unlisted:
+title: Leerbedrijf glastuinbouw
 tags:
   - hovenier
 publish: false
@@ -9,7 +10,7 @@ created: 2026-04-11
 category: school
 ---
 
-# leerbedrijf glastuinbouw
+# Leerbedrijf glastuinbouw
 
 moet gefocused zijn op:
 vereedeling, en vermeerderen.
@@ -17,9 +18,9 @@ vereedeling, en vermeerderen.
 soorten leerbedrijven:
 proefcentrums
 
-### leerbedrijven
+### Leerbedrijven
 
-##### up = best fit
+##### Up = best fit
 
 1. [unifarm](https://www.wur.nl/nl/onderzoek/faciliteiten/unifarm) [unifarm_research_stage](<./unifarm_research_stage.md>) 1 uur rijzen
 2. [Novisem](https://www.novisem.nl/) 1 uur rijzen
@@ -38,7 +39,7 @@ tried:
 
 ---
 
-# gesprek
+# Gesprek
 
 Eigen kas gebouwed
 Leerbedrijf zoeken

@@ -3,6 +3,7 @@ unlisted: false
 title: The Schooling system is shit
 tags: []
 source: https://digdeeper.club/articles/school.xhtml
+publish:
 modified: 2026-09-30
 id: oo44f93tmedi8dbdtl9mf1vk9gv2ry
 description:

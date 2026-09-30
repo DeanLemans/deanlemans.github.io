@@ -1,5 +1,7 @@
 ---
-title: school moc
+unlisted:
+type: MOC
+title: School MOC
 tags:
   - toegepaste_biologie
 publish: true
@@ -10,7 +12,7 @@ category: school
 aliases: []
 ---
 
-# school moc
+# School MOC
 
 > [!NOTE]- Alternative titles
 > - school MOC
@@ -18,10 +20,10 @@ aliases: []
 
 file that links to all my relevant school notes
 
-![toegepaste_biologie_collected](<./notes/toegepaste_biologie_collected.base>)
-[toegepaste_biologie_collected](<./notes/toegepaste_biologie_collected.base>)
+![toegepaste_biologie_collected](<./toegepaste_biologie_collected.base>)
+[toegepaste_biologie_collected](<./toegepaste_biologie_collected.base>)
 
-### school canvas i made
+### School canvas i made
 
 [water in je leefomgeving](<./notes/water in je leefomgeving.canvas>)
 [biodiversitiet opdracht](<./notes/biodiversitiet opdracht.canvas>)

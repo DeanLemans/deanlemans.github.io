@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: leerbedrijf dingen
+title: Leerbedrijf dingen
 tags: []
 publish: false
 modified: 2026-09-30
@@ -10,7 +10,7 @@ aliases:
   - leerbedrijf dingen
 ---
 
-# leerbedrijf dingen
+# Leerbedrijf dingen
 
 ---
 

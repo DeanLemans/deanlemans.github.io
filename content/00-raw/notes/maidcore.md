@@ -1,13 +1,13 @@
 ---
 unlisted: true
-title: maidcore
+title: Maidcore
 publish: true
 modified: 2026-09-30
 id: 2e23918d8zxp0oey0z5014ab5vcps3
 created: 2026-06-05
 ---
 
-# maidcore
+# Maidcore
 
 with maidcore i mean the music genre.
 

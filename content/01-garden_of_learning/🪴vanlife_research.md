@@ -2,15 +2,15 @@
 unlisted: false
 title: "Dean's Vanlife Research"
 tags:
-  - research
   - vanlilfe
+  - research
 publish: true
 modified: 2026-09-30
 id: rorbr1w94ekdmmegk7s5q6edit9qvv
 draft: "true"
 created: 2026-03-17
 aliases:
-  - Dean's Vanlife Research
+  - "Dean's Vanlife Research"
 ---
 
 # Dean's Vanlife Research
@@ -31,7 +31,7 @@ Keep in contact with friends, if possible visit them with van.
 There is a certain possibility that people dont want to be friends with you anymore because you do sometings they consider weird,
 if friends abandon you because of vanlife then they wernt real friends in the first place.
 
-## design
+## Design
 
 need to link some example here.
 <https://vanlifecustoms.com/models>
@@ -62,9 +62,7 @@ core issue could possibly be solved with how uber works, they can use personal v
 For help and double checking if my findings are correct.
 
 + van should be self sustaining? at least long term (water catcher, sun panel, plans?, sun panel)
-
 + Ensure the van is safe, so: ventilation, fire safety, electricity management, tool insurance.
-
 + Make the van sustainable, less suspisous, and more efficient, so:(depends large on what type im going to build though)
 + sunpannel + backup generator, wifi, water storage + disposal,
 + some paint/stickers on outside, (better) insulation, water proof, secure storage, camera,
@@ -75,11 +73,8 @@ Instead of still officially living with my parents, should probb instead conside
 <https://www.postnl.nl/>
 
 + Continue registering as living with your parents if it works, but prepare documentation (idk what though)
-
 + Build an emergency fund [🌱money_expensive_bank_investing](<./🌱money_expensive_bank_investing.md>)
-
 + Build a online presence (via this site, i still need to restructure this)
-
 + Legal:
 	watch out for legal bullshit from the government, keep up to date with relevant laws.
 	get legal advice, cunsult lawyer or smth

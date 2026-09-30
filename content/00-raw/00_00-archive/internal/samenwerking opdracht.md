@@ -1,5 +1,6 @@
 ---
-title: samenwerking
+unlisted:
+title: Samenwerking
 tags:
   - toegepaste_biologie
 publish: false
@@ -9,11 +10,11 @@ created: 2026-08-31
 category: school
 ---
 
-# samenwerking
+# Samenwerking
 
 ---
 
-### wat is je leefomgeving
+### Wat is je leefomgeving
 
 huis bij me moeder
 huis bij me vader

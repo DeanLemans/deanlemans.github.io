@@ -3,6 +3,7 @@ unlisted: false
 title: Evergreen notes
 tags: []
 source: https://notes.andymatuschak.org/Evergreen_notes
+publish:
 modified: 2026-09-30
 id: gtfvhwgicxcjjw66ta3bus79j79op0
 description:

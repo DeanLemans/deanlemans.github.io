@@ -1,11 +1,13 @@
 ---
-title: note on scientific method
+unlisted:
+title: Note on scientific method
+publish:
 modified: 2026-09-30
 id: u473ssdxpt9w84tzca4sowi8sg9052
 created: 2026-09-16
 ---
 
-# note on scientific method
+# Note on scientific method
 
 > [!NOTE]
 > should eventually be split into multiple pieces

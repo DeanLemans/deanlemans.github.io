@@ -1,4 +1,5 @@
 ---
+unlisted:
 title: Project ideas
 publish: true
 modified: 2026-09-30

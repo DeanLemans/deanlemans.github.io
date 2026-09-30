@@ -77,7 +77,7 @@ Similar to [/uses](https://slashpages.net/#uses)
 
 ---
 
-## /changelog or /log
+## /changelog Or /log
 
 > a summary of changes to your website
 
@@ -148,7 +148,7 @@ May also be covered with [/uses](https://slashpages.net/#uses)
 
 ---
 
-## /elsewhere or /appearances
+## /elsewhere Or /appearances
 
 > a list of output or writings on sites other than one's own
 
@@ -156,7 +156,7 @@ May also be covered with [/uses](https://slashpages.net/#uses)
 
 ---
 
-## /follow or /subscribe or /feeds
+## /follow Or /subscribe or /feeds
 
 > a page listing your RSS/Atom/JSON feeds and other way to subscribe to your posts
 
@@ -172,7 +172,7 @@ May also be covered with [/uses](https://slashpages.net/#uses)
 
 ---
 
-## /guy or /girl or /bloke or /gal or /your-pronoun-here
+## /guy Or /girl or /bloke or /gal or /your-pronoun-here
 
 > "I'm an insert interest here guy!"
 
@@ -199,7 +199,7 @@ Similar to [/contact](https://slashpages.net/#contact)
 
 ---
 
-## /hills or /hill
+## /hills Or /hill
 
 > a list of stupid hills you're willing to die on
 
@@ -226,7 +226,7 @@ Similar to [/contact](https://slashpages.net/#contact)
 
 ---
 
-## /junk or /sale or /buy
+## /junk Or /sale or /buy
 
 > host an indie-web yardsale
 
@@ -236,7 +236,7 @@ Related to [/wish](https://slashpages.net/#wish)
 
 ---
 
-## /links or /bookmarks
+## /links Or /bookmarks
 
 > a list of links to sites you want link to, share, or bookmark for future reference
 
@@ -341,7 +341,7 @@ Similar to [/tip](https://slashpages.net/#tip), but for products/services.
 
 ---
 
-## /self-hosting or /self-hosted or /hosted
+## /self-hosting Or /self-hosted or /hosted
 
 > a page listing the services your hosting or managing yourself
 
@@ -387,7 +387,7 @@ Similar to [/next](https://slashpages.net/#next)
 
 ---
 
-## /til or /ways
+## /til Or /ways
 
 > A collection of concise write-ups on small things you've learnt day to day
 
@@ -397,7 +397,7 @@ These are typically developer-focused but they don't have to be. [/ways](https:/
 
 ---
 
-## /tip or /pay or /coffee
+## /tip Or /pay or /coffee
 
 > a page so those that enjoy your work can tip you or buy you a coffee
 

@@ -1,5 +1,5 @@
 ---
-unlisted: true
+unlisted: false
 title: /colophon
 publish: true
 modified: 2026-09-30
@@ -20,7 +20,7 @@ aliases:
 	- [deanlemans.github.io/quartz/styles/custom.scss at v5 · DeanLemans/deanlemans.github.io · GitHub](https://github.com/DeanLemans/deanlemans.github.io/blob/v5/quartz/styles/custom.scss)
 - Liscense is available here: [GitHub - DeanLemans/deanlemans.github.io: My new Site · GitHub](https://github.com/DeanLemans/deanlemans.github.io?tab=License-1-ov-file) (basically, code is MIT, notes/content under the CC BY 4.0 unless otherwise noted)
 
-### why create (this) site
+### Why create (this) site
 
 - the inter-web has become a pool of utter hate and attention grabbing shorts nonsense, i didn't want that and would rather be reading, learning, and taking notes.
 	- and then i decided to publish it.

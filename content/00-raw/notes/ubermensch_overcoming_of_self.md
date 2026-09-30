@@ -1,6 +1,7 @@
 ---
+unlisted: true
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: ubermensch
+title: Ubermensch
 publish: true
 modified: 2026-09-30
 id: gq3jl7jlbssc6gsgchkfmt6jvesy5b
@@ -9,7 +10,7 @@ aliases:
   - Ubermensch, overcoming of self
 ---
 
-# ubermensch
+# Ubermensch
 
 [One] who climbs through suffering and loniness to achieve value creation
 
@@ -19,7 +20,7 @@ XOR
 
 ---
 
-# icarus
+# Icarus
 
 The embodyment of the human [spirit] to exceed their own limit
 

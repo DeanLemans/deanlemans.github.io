@@ -44,7 +44,6 @@ aliases:
 - Eruditas, the pursuit of knowledge and intellectual clarity. Knowledge isn't static, it's the process of constantly refining and learning more.
  - Vitalis, the balance of physical health and strength. (overcome)
  - Dominatus, the quiet strength of superiority through understatement and strategic restraint
-
 - embrace paradox, accept that multiple things are true, that I can change opinions. woe to those who deem me a hypocrite then. woe to those that are mad that I'm not a fucking saint.
 - reflection/confrontation/testing;
 	to have other people, to let them test it, ask them to point out what is weak, what can be improved and what they disagree with?
@@ -82,7 +81,7 @@ aliases:
 
 ---
 
-### solution
+### Solution
 
 - the ego must be better than the ego,
 - the ego must master the self,

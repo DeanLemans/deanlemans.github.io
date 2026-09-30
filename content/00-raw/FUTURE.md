@@ -31,14 +31,12 @@ hori hori
 - [ ] Buy: Air filter ⏬
 - [ ] Buy: Neck training equipment ⏬
 - [ ] Buy: the einzelganger and it own (the ego and its own, max stirner)
-
 - [ ] best weed eater strings
 - [ ] powerblock
 
 ## Watch
 
 - [ ] Watch: American Psycho (Watch) ⏬
-
 - [ ] mad god stop motion
 - [ ] haibane renmei
 - [ ] firewatch
@@ -72,7 +70,6 @@ hori hori
 - [ ] Research: Terrarium
 - [ ] Research: [Schulze method - Wikipedia](https://en.wikipedia.org/wiki/Schulze_method)
 - [ ] Research: Improve VO2 max
-
 - [ ] investigete this style:
 - [ ] Grunge, Because it doesn't fit the decor at all. Also, while I'm totally down for trashy-chic,
 - [ ] socratic method
@@ -113,7 +110,6 @@ hori hori
 ## META
 
 - [ ] META: Should I make blog posts? ⏬
-
 - [ ] <https://www.reddit.com/r/ObsidianMD/comments/1n2gwmq/core_insights_for_obsidian_beginners/>
 
 ## Other
@@ -155,7 +151,6 @@ hori hori
 - [ ] Filter open tabs (done with 100, 250 to go) ⏬
 - [ ] Filter subscriptions from different accounts into Grayjay ⏬
 - [ ] Add all games from all consoles into my game list ⏬
-
 - [ ] jeremy soller site
 - [x] cant the future just wait. song ✅ 2026-09-28
 - [ ] clam av
@@ -167,7 +162,7 @@ hori hori
 
 [FUTURE](<./FUTURE.md>)
 
-### list with all todo things autograbbed from all my notes
+### List with all todo things autograbbed from all my notes
 
 ```tasks
 not done

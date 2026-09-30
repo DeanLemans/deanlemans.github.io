@@ -28,7 +28,7 @@ author:
 - implement kanban for my todos workflow
 - research how to add note collaboration, which Notion does great. Relay extension
 
-## capture
+## Capture
 
 for web use [Obsidian Web Clipper](https://andresestrella.vercel.app/404)
 
@@ -46,13 +46,13 @@ readwise is prob the best solution but it is very expensive.
 - import for everywhere
 - bookmark manager (reader app)
 
-## zettelkasten
+## Zettelkasten
 
 Is another system that I haven't tried to implement in my system.
 more on it [here](https://andresestrella.vercel.app/404) and [here](https://www.youtube.com/watch?v=wvAZ9-hmWQU&t=1226s)
 I think it would be more beneficial if in the future I need to do more research or studying.
 
-## file tagging
+## File tagging
 
 I haven't gotten used to tagging notes all that much. Maybe I haven't found it's benefits personally.
 
@@ -60,17 +60,17 @@ I haven't gotten used to tagging notes all that much. Maybe I haven't found it's
 
 (based on my [00-09 System/05 Templates/Daily](https://andresestrella.vercel.app/404) note template)
 
-## file organization
+## File organization
 
 I organized my vault with the PARA structure with some additions of my own.
 [Personal Knowledge Management System (PKMS)](https://andresestrella.vercel.app/brain/20-areas/26-productivity/personal-knowledge-management-system-pkms/)
 
-## granularity
+## Granularity
 
 atomic notes: like programming functions, it can be a good idea to atomize notes.
 so If im writing about water I should write different separated/atomic notes on water: what is water? | what are the benefits? | why is it necessary? | etc... instead of writing one big note on the topic
 
-## up / parent
+## Up / parent
 
 (I don't really do this)
 think about what other note is directly related "above" the note relates to.
@@ -114,7 +114,7 @@ Link to relevant info. can be other notes, can be any link to whatever. I can li
 
 Obsidian is a markdown editor and visualizer. see [learning markdown](https://andresestrella.vercel.app/brain/20-areas/22-software-engineering/learning-markdown/)
 
-## hyperlinks
+## Hyperlinks
 
 - link another note: `[[]]`
 - to name hyperlink: `NoteName`
@@ -134,7 +134,7 @@ Ctrl+Shift+L bullet point
 works for multiple highlighted lines.
 I probably changed some keymap settings to have it this way
 
-## tasks/todos and time
+## tasks/todos And time
 
 I've been using Google Tasks a lot recently bc of how well it works in my phone with Gemini, Google Calendar, etc..
 
@@ -143,7 +143,7 @@ I've been using Google Tasks a lot recently bc of how well it works in my phone 
 All templates are in the templates dir in this vault.
 I have the templater plugin to autocomplete values in the templates and move cursor around faster while filling out the templates (cmd + J jumpts to next cursor position)
 
-## automatic MOCs
+## Automatic MOCs
 
 Automatic Maps of Content so I don't have to link every note to their MOC.
 This note views all unlinked notes in my vault [Diagnostics - orphan - unlinked notes](https://andresestrella.vercel.app/404). Use it to organize my vault

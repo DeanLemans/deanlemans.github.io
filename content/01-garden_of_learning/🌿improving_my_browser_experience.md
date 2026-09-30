@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: imrpove browser experience
+title: Imrpove browser experience
 tags:
   - research
 publish: true
@@ -9,7 +9,7 @@ id: b0260j2mskow89mkgp76il0hrneb2i
 created: 2026-04-30
 ---
 
-# imrpove browser experience
+# Imrpove browser experience
 
 The browser:
 use a fork or use betterfox(or similar)
@@ -19,7 +19,7 @@ so i was considering 2 plugins to fix the issue:
 - sideberry
 - treestyetabs
 
-## how to link browser context
+## How to link browser context
 
 promnesia
 sideberry
