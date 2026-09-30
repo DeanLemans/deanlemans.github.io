@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: '"Better note-taking" misses the point; what matters is "better thinking"'
-tags:
+tags: []
 source: https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TT1SEQME3W462MC0ZAZ
+modified: 2026-09-30
+id: fpmv2e2e55o6a2qoch0hw7p45p0p2d
 description:
 created: 2025-10-24
 author:

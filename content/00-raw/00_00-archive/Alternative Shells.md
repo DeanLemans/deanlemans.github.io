@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Alternative Shells
-tags:
+tags: []
 source: https://purarue.xyz/x/notes/programming/languages/shell/alternative_shells/
 published:
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TWFPNPRRFGKPFGQVG06
+modified: 2026-09-30
+id: ejigxkt7xpo1oz2bj0a7b40jzjkyxm
 description: Alternative Shells
 created: 2026-04-19
 author:

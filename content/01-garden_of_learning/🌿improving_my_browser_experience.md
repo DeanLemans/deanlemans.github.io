@@ -4,8 +4,8 @@ title: imrpove browser experience
 tags:
   - research
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TS6CVQ6ER2YD9YTBB63
+modified: 2026-09-30
+id: b0260j2mskow89mkgp76il0hrneb2i
 created: 2026-04-30
 ---
 

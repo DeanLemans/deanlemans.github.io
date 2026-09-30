@@ -1,11 +1,11 @@
 ---
 unlisted: false
-title: Don't ask to ask, just ask
-tags:
+title: "Don't ask to ask, just ask"
+tags: []
 source: https://dontasktoask.com/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TVRVEJ9KSAFPY2040EE
+modified: 2026-09-30
+id: rfng75m1qy98nx2thlsj6gevifv9xh
 description:
 created: 2025-11-15
 author:

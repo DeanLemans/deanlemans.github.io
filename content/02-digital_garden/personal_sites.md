@@ -1,8 +1,8 @@
 ---
 title: Cool Personal sites
 publish: true
-modified: 2026-05-26
-id: 01KQQV6TQVF7DAXWWYPE5HPQ7K
+modified: 2026-09-30
+id: 6i16to3endkm2xocypk5zo7o6a8u0v
 created: 2026-03-17
 aliases:
   - 01KQQV6TQVF7DAXWWYPE5HPQ7K

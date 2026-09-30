@@ -2,8 +2,8 @@
 title: 01 Garden of Learning
 tags: []
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TR5ZFGP9X15HDC26M0Z
+modified: 2026-09-30
+id: 1juda4gq5jun6tkit25k5ocaf033rv
 description: Dean's very cool projects
 created: 2026-03-17
 aliases:

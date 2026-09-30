@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: "Building a Second Brain: The Definitive Introductory Guide"
-tags:
+tags: []
 source: https://fortelabs.com/blog/basboverview/
 published: 2023-05-01
 publish: true
-modified: 2026-07-18
-id: 01KR4Y6KSWP1EH0GD7D8860CBC
+modified: 2026-09-30
+id: otlsuqqvhtqrkz8nwjc0bv3b1b9wwh
 description: This is an introduction to Building a Second Brain, the proven method to organize your digital life and unlock your creative potential
 created: 2026-05-09
 author:

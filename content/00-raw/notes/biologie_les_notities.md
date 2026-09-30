@@ -3,8 +3,8 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-28
-id: 01M2MGMVKJ5F1BF8AM149QD6FS
+modified: 2026-09-30
+id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
 aliases:
@@ -182,3 +182,26 @@ fungi cant produce their own food, they are a symbiote to the root of plants
 	- [ ] juni 2027 moet het af
 
 [opdracht_naaldbomen_herkennen](<./opdracht_naaldbomen_herkennen.md>)
+
+(Roeland les)
+
+- loofbossen zijn door own aangeplant, wij hebben geen oerbos.
+- groot gedeelte van Nederlandse bossen bestaat uit loofbomen.
+- 60 % van biodiversiteit komt van/door/in de bodem
+
+herbivoren in 3 groepen
+1. browsers
+	1. eland
+	2. ree
+2. intermediate feeders
+	1. hert
+3. grazers
+	1. steenbok
+	2. rund
+	3. paard
+
+[Zwarte specht \| Vogelbescherming](https://www.vogelbescherming.nl/ontdek-vogels/kennis-over-vogels/vogelgids/vogel/zwarte-specht) zijn vaak te bevinden in oude bossen
+
+- bron voor vogels:[Samen voor vogels en natuur \| Vogelbescherming](https://www.vogelbescherming.nl/)
+
+bijna geen inheemse soorten in nederland worden rood in de herfst

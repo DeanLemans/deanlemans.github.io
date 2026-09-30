@@ -1,8 +1,8 @@
 ---
 title: Random Web Resources
 publish: true
-modified: 2026-05-25
-id: 01KQQV6TQTNAHAFC5DTAQWV7Q4
+modified: 2026-09-30
+id: ixtta46gfjm11lefqgbgh3qzzm4mxt
 created: 2025-10-10
 aliases:
   - bookmarks

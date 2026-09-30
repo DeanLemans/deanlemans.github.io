@@ -5,8 +5,8 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-09-09
-id: 01KQQV6TRKM0ZKTFQRZBN191NR
+modified: 2026-09-30
+id: b6iflneywiuxf76uz0di0wibr0y4xc
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence

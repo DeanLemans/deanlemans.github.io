@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: about nownownow.com
-tags:
+tags: []
 source: https://nownownow.com/about
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTCH9B6K3SXMN7CWWVA
+modified: 2026-09-30
+id: 1oa4h9r0z889klbxf9hf7br3k7vncp
 description: "nownownow.com: personal websites with a /now page"
 created: 2025-10-26
 author:

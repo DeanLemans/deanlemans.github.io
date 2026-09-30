@@ -3,8 +3,8 @@ title: "Portfolio-opdracht 1: Ik en mijn omgeving"
 tags:
   - hovenier
 publish: false
-modified: 2026-09-28
-id: 01KQQV6TS9M8B0A0DZ59AT8PAD
+modified: 2026-09-30
+id: op84331qf2n9kopw66bvpx85593k7b
 created: 2025-11-14
 category: school
 ---

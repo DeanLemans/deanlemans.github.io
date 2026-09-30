@@ -4,8 +4,8 @@ title: Sleep Optimization
 tags:
   - research
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TRFBQWSTH1JAVKPMVGD
+modified: 2026-09-30
+id: 6758tclukvg98b0vgw1uf9i0mj8mlk
 created: 2026-03-21
 category: body
 aliases:

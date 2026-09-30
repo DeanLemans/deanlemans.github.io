@@ -4,8 +4,8 @@ tags:
   - green
   - research
 publish: true
-modified: 2026-09-17
-id: 01KQQV6TR8FWNVR2CWDNEDF5MG
+modified: 2026-09-30
+id: 8wv4cjualppr0badv89odi3m9kymcv
 created: 2026-03-12
 aliases:
   - create_plant_terrarium

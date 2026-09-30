@@ -1,11 +1,11 @@
 ---
 unlisted: false
-title: The psychology of "second brains" curious about your real struggles
-tags:
+title: 'The psychology of "second brains" curious about your real struggles'
+tags: []
 source: https://reddit.nerdvpn.de/r/ObsidianMD/comments/1n9urpz/the_psychology_of_second_brains_curious_about/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTRCVRHHVA6CJNRE48J
+modified: 2026-09-30
+id: hyylaliav4mjmw5yo6vh9fzc2tfp0c
 description: View on Redlib, an alternative private front-end to Reddit.
 created: 2025-09-29
 author:

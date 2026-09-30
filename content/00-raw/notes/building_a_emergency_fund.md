@@ -2,8 +2,8 @@
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Building a emergency fund
 publish: true
-modified: 2026-09-28
-id: 01KWSTKWVXRGTJRSVZP47SHC66
+modified: 2026-09-30
+id: u71rmdn8nduh9o75xmjxwee97nioiw
 created: 2026-07-05
 aliases:
   - Building a emergency fund

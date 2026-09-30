@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: noKYC Only
-tags:
+tags: []
 source: https://bitcoiner.guide/nokyconly/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TT8YFYMAVXTPHS5S0MW
+modified: 2026-09-30
+id: 9r8tjf10459mhrmhc9ajv0xaxquv6v
 description: Avoid the creep
 created: 2025-10-31
 author:

@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: "Practically Paperless with Obsidian, Episode 1: The Basics: Notes and Documents"
-tags:
+tags: []
 source: https://jamierubin.net/2021/10/05/practically-paperless-with-obsidian-episode-1-the-basics-notes-and-documents/
 published: 2021-10-05
 publish: true
-modified: 2026-07-20
-id: 01KRXRQK3ETHVAFZBMP327CGHX
+modified: 2026-09-30
+id: 2zqzdpsy94dg4dp560j2qn4d7qyxlb
 description: "Photo by Pixabay on Pexels.com Welcome to my blog series, “Practically Paperless with Obsidian.” Foran overview of this series, please see Episode 0: Series Overview. Nearly 10 years ag…"
 created: 2026-05-18
 author:

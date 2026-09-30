@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: testament ⁂ starbreaker.org
-tags:
+tags: []
 source: https://starbreaker.org/testament/index.html
 published: 2020-05-29
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TT5RX47Q69KE2MFTFJ0
+modified: 2026-09-30
+id: gmrd01zo512x0l36s16ra01lzrkyb8
 description: it might not be legally binding, but this is what I want done with my website after I die
 created: 2026-04-29
 author:

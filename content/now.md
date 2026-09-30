@@ -1,8 +1,8 @@
 ---
 title: /now
 publish: true
-modified: 2026-09-18
-id: 01KQQV6TQ3TK7QG0G1759NQZDR
+modified: 2026-09-30
+id: f4r9ctuvy1wqcixhkzvfe1ah4i9uso
 created: 2026-03-17
 aliases: []
 ---

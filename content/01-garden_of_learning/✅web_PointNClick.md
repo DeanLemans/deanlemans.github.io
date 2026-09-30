@@ -5,8 +5,8 @@ tags:
   - finished
   - gamedev
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TSH0GZEGV8NQJVRSF7J
+modified: 2026-09-30
+id: qoa6m8i3s6fvw7b1bclseoq3lkdl3d
 description: first game made in JavaScript
 created: 2025-09-25
 aliases:

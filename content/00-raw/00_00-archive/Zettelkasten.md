@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Zettelkasten
-tags:
+tags: []
 source: https://idiomdrottning.org/zettelkasten
 published:
 publish: true
-modified: 2026-07-18
-id: 01KR5073DQVXTWYR1TAZEVP6F3
+modified: 2026-09-30
+id: ymjyrhc451fc3u6ic6ge8bofrya9xl
 description:
 created: 2026-05-09
 author:

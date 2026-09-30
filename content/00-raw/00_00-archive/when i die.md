@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: when i die
-tags:
+tags: []
 source: https://avas.bearblog.dev/when-i-die/
 published: 2024-12-09
-modified: 2026-07-18
-id: 01KQQV6TT3JZJ6WXC82NPADMXP
+modified: 2026-09-30
+id: hsad8le222g43wmvbm1cqivzzcfdw8
 description: contingency plan and clarifications for when i die.
 created: 2026-04-29
 author:

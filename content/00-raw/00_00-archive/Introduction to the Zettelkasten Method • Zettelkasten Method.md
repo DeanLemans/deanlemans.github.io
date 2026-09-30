@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Introduction to the Zettelkasten Method • Zettelkasten Method
-tags:
+tags: []
 source: https://zettelkasten.de/introduction/
 published: 2020-10-27
 publish: true
-modified: 2026-07-18
-id: 01KR50DY605X01AS5XGXKQSC55
+modified: 2026-09-30
+id: 64w55xsfa2y7ftocvvc9182kvmf3zn
 description: Learn how the Zettelkasten works as a system, what a Zettel is made of, and how to grow an organic web of knowledge.
 created: 2026-05-09
 author:

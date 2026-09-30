@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: The Bear Manifesto
-tags:
+tags: []
 source: https://herman.bearblog.dev/manifesto/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTYE8AECYEE7T4WYZ5Q
+modified: 2026-09-30
+id: p9fgubtd3ngjroj89po6z21z1skgah
 description: An outline of my philosophy and direction for the platform
 created: 2025-10-31
 author:

@@ -1,8 +1,8 @@
 ---
 title: "Dean's Manga List"
 publish: true
-modified: 2026-05-03
-id: 01KQQV6TQWQ34SKZ5SFSMH5VAA
+modified: 2026-09-30
+id: m5gsetpdvmxz4shempcszge2cj7m3f
 description: Dean's manga tracking  list
 created: 2026-03-30
 ---

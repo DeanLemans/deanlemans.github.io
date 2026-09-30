@@ -4,8 +4,8 @@ type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Backup Rule
 tags: []
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TWPAXWM09F54Z1QQWJS
+modified: 2026-09-30
+id: z2d1l4t2f7p7gzilrsjezg6kxo57ej
 created: 2026-03-17
 ---
 

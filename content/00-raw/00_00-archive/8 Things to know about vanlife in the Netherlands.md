@@ -5,8 +5,8 @@ tags:
   - vanlilfe
 source: https://neldatraveldiaries.com/8-things-to-know-about-vanlife-in-the-netherlands/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TWKVP0EEWD5YPWX7EW2
+modified: 2026-09-30
+id: ue22bxaky8eqxzzry4k6wyfc58pkw6
 description: 8 Things to know about vanlife in the Netherlands. A blog about travel and life on the road. Nelda Travel Diaries
 created: 2025-10-03
 author:

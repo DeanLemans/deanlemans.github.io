@@ -3,8 +3,8 @@ unlisted: false
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Discipline
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TRZDCMHQJT980V84CMF
+modified: 2026-09-30
+id: uyx0nic3jrqz71zx25try7dfgu5o8x
 created: 2026-03-17
 aliases:
   - Discipline

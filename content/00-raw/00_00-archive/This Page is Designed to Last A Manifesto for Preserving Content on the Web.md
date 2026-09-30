@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: This Page is Designed to Last A Manifesto for Preserving Content on the Web
-tags:
+tags: []
 source: https://jeffhuang.com/designed_to_last/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTMEEVPZ0Z6B66XQ3RQ
+modified: 2026-09-30
+id: 5n48wwaflwwbiorq7r8aucf6rmwd9a
 description:
 created: 2025-10-31
 author:

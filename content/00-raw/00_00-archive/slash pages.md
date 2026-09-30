@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Slash Pages
-tags:
+tags: []
 source: https://slashpages.net/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TT68C4RAZKD3ADP5HH0
+modified: 2026-09-30
+id: jaqso2ob4tnjuu2kreh2wq495roklj
 description: A guide to common pages you can add to your website
 created: 2025-10-26
 author:

@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: The proper design process in web development
-tags:
+tags: []
 source: https://unixdigest.com/articles/the-proper-design-process-in-web-development.html
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTT4T9WA45NXECEF7W9
+modified: 2026-09-30
+id: ujvex8k6nbh504g95w4rwwyfplinqj
 description:
 created: 2025-11-04
 author:

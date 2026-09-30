@@ -3,8 +3,8 @@ unlisted: false
 title: FUTURE
 tags: []
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TWSVYT92Q9CVPN6SVB0
+modified: 2026-09-30
+id: 5xvypyk7hs8r4gp48y4u9z3z8yml54
 description: things i still/want to do. + planning
 created: 2026-02-02
 aliases:

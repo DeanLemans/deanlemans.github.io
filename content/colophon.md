@@ -2,8 +2,8 @@
 unlisted: true
 title: /colophon
 publish: true
-modified: 2026-09-25
-id: 01KQQV6TQNFNF7TE8MZ7YKAHAZ
+modified: 2026-09-30
+id: gin5is7xobvzwbsnycdn8lzoncttr6
 created: 2026-04-30
 aliases:
   - colophon

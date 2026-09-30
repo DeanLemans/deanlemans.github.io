@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Evil Overlord List
-tags:
+tags: []
 source: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TVEYHMQZDB65VH1X8RA
+modified: 2026-09-30
+id: zpwqx2o0zgqtjfnw5251fxjjrcqidp
 description: "A page for describing Main: Evil Overlord List. The infamous lists of \"Things I'll do if I ever become an Evil Overlord\". Read them, and you'll be Genre …"
 created: 2025-11-11
 author:

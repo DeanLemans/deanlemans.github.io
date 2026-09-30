@@ -3,8 +3,8 @@ unlisted: false
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: picture walk
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TSRXZ64RJEJH519AV0G
+modified: 2026-09-30
+id: g1pi7dgyvf5xvjr3ajv9vnxbw81t5a
 created: 2026-05-03
 ---
 

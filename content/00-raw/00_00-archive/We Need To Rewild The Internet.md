@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: We Need To Rewild The Internet
-tags:
+tags: []
 source: https://www.noemamag.com/we-need-to-rewild-the-internet/
 published: 2024-04-16
 publish: true
-modified: 2026-07-18
-id: 01KR4ZF4Y7D8FCPMQ9EXM6DZG5
+modified: 2026-09-30
+id: pbalryxhe9a53pytze71289ekuqisa
 description: The internet has become an extractive and fragile monoculture. But we can revitalize it using lessons learned by ecologists.
 created: 2026-05-09
 author:

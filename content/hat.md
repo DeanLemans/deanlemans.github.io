@@ -2,8 +2,8 @@
 unlisted: true
 title: /hats
 publish: true
-modified: 2026-09-25
-id: 01M3AHASS7EJZTX6D7PEJCY0K2
+modified: 2026-09-30
+id: l9hkpm23z0324xfm2sn2eq6z520vw7
 created: 2026-09-24
 aliases:
   - hats

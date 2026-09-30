@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Superbloom
-tags:
+tags: []
 source: https://www.nicholascarr.com/?page_id=664
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TV07HGRKNEM8T5Y1BCB
+modified: 2026-09-30
+id: r53ealz8cvr9vtst6pfhcqka3ntpnh
 description: "The acclaimed new book from the author of The Shallows, Superbloom: How Technologies of Connection Tear Us Apart is a searching, searing exploration of the way social media has warped our sense of …"
 created: 2025-10-26
 author:

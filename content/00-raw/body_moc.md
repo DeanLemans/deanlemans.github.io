@@ -1,8 +1,8 @@
 ---
 title: Body meta
 publish: true
-modified: 2026-09-28
-id: 01KWYM5WG7NY9WDH4MP6T5QPPW
+modified: 2026-09-30
+id: r9qmpxsvmy182f2wt614j9vhwfmos3
 created: 2026-07-07
 category: body
 aliases:

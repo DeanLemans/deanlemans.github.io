@@ -3,8 +3,8 @@ unlisted: false
 title: Quotes
 tags: []
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TRHT7R8PQ1Q70MSZ3FZ
+modified: 2026-09-30
+id: paeo5cnewzvv6jjgnvul1zcdozis1x
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
 aliases:

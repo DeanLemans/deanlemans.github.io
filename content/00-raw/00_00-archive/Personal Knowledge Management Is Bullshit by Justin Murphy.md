@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Personal Knowledge Management Is Bullshit by Justin Murphy
-tags:
+tags: []
 source: https://lite.evernote.com/note/d69cf793-1f14-48f4-bd48-43f41bd88678
 published:
 publish: "true"
-modified: 2026-07-18
-id: 01KR4YKBDJSSEY26HJQW73WFWE
+modified: 2026-09-30
+id: 66j5pgxmluo4iprbxxdu3bbhsa4sna
 description:
 created: 2026-05-09
 author:

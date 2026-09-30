@@ -2,8 +2,8 @@
 unlisted: true
 title: PKM
 publish: true
-modified: 2026-09-09
-id: 01KQQV6TWQ7D2TDP1S3HXNVNGB
+modified: 2026-09-30
+id: 9w7nr3og30sj36cob7zl1njz1ljjxd
 created: 2026-05-02
 aliases:
   - my_PKM

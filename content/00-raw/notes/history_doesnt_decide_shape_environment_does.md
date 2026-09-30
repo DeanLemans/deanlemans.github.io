@@ -1,9 +1,9 @@
 ---
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: history/ancestry doesn't decide shape, environment does
+title: "history/ancestry doesn't decide shape, environment does"
 publish: true
-modified: 2026-09-28
-id: 01M2P53MSE3RHREWRH2XBXR97C
+modified: 2026-09-30
+id: tpd367akcr0hj4md4qx0tflvq6tnxq
 created: 2026-09-16
 aliases:
   - history doesnt decide shape, environment does

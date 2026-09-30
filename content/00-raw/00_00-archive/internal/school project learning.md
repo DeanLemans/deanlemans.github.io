@@ -3,8 +3,8 @@ title: Reflection on Project
 tags:
   - sintlucas
 publish: false
-modified: 2026-09-25
-id: 01KQQV6TSQJQYM6M1AMH3XPY0T
+modified: 2026-09-30
+id: 15n3bay5sj211uxjl90o8hinouto4h
 created: 2026-03-17
 category: school
 ---

@@ -5,8 +5,8 @@ tags:
   - research
   - vanlilfe
 publish: true
-modified: 2026-09-17
-id: 01KQQV6TR1CV98PYDWNJD6RJPQ
+modified: 2026-09-30
+id: rorbr1w94ekdmmegk7s5q6edit9qvv
 draft: "true"
 created: 2026-03-17
 aliases:

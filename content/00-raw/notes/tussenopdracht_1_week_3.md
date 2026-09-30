@@ -3,14 +3,15 @@ title: Tussenopdracht 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-28
-id: 01M1XS2MXGBS6CGXHJ6SCD3MZ3
+modified: 2026-09-30
+id: 326pi4i1ddomxw44tickixquuok0z1
 created: 2026-09-07
 category: school
 aliases:
   - 01M1XS2MXGBS6CGXHJ6SCD3MZ3
   - tussenopdracht 1 week3
   - tussenopdracht_1_week_3
+  - 326pi4i1ddomxw44tickixquuok0z1
 ---
 
 # Tussenopdracht 1, week 3 en 4
@@ -310,3 +311,37 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > 
 > > [!image]- Uitslag afvalcalulator
 > > ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)
+
+---
+
+# zelfbeoordeling
+
+**Doel:** Je staat still bij jouw eigen ontwikkeling en gedrag binnen de period mijn leefomgeving. Je beoordeelt jezelf aan de hand van drie leerdoelen.
+
+*Wat weet en kan ik al?*
+
+Via het invullen van deze zelfbeoordeling ga je zichtbaar maken wat je al weet en wat je al kan. Daarna bepaal je (samen met de docent) vervolgstappen die nodig zijn om de leerdoelen die bij dit thema horen te behalen.
+
+Hieronder zie je een overzicht van de succescriteria die voor dit thema zijn vastgesteld. Bekijk deze even vluchtig maar nog niet te uitgebreid. In de volgende stap ga je namelijk voor elk succescriterium jouw niveau beoordelen. Vervolgens beschrijf je jouw persoonlijke (ontwikkel)punten.
+
+Stap voor stap
+1. Klik helemaal onderaan op de groene button "opdracht beantwoorden"
+2. In het antwoordveld beantwoord je de onderstaande vragen kort en eerlijk. Je hoeft niet uitgebreid te schrijven – een paar zinnen per vraag is voldoende. Denk daarbij aan: welke ondersteuning je verwacht, wat je nodig hebt om jezelf verder te ontwikkelen of wat jouw persoonlijke leerdoel is.
+
+**Wat weet je van je leefomgeving?**
+
+Denk aan ecologische, sociale en economische waarden.
+*Bijvoorbeeld: Hoe denk je nu na over de natuurlijke leefomgeving? Weet je dat een park meer is dan alleen een ontmoetingsplek? Hoe denk je na over geld en spullen?*
+
+**Hoe heb jij samengewerkt in dit project, wat weet je van projectmanagment?**
+
+*Bijvoorbeeld: Heb je initiatief genomen? Heb je goed afgestemd met anderen? Begrijp je waar projectmanagment over gaat?* 
+
+**Hoe heb jij gecommuniceerd?**
+*Bijvoorbeeld: Durf je je vragen te stellen? Lukt het om een verslag te schrijven?*
+
+3. Klik als je klaar bent op de groene button 'Inleveren'
+4. Klik vervolgens op de groen-witte button 'Beoordeel uzelf'
+5. Geef per succescriteria aan (door erop te klikken) wat jouw huidige niveau is en noteer in het opmerkingenveld jouw persoonlijke ontwikkelpunten.
+6. Omschrijf in het veld 'reflectie' een samenvatting. Wat kan en weet je al, wat zijn aandachtspunten, wat heb je nodig?
+7. Klik als je klaar bent op de groen-witte button 'opslaan'

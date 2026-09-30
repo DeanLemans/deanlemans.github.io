@@ -2,8 +2,8 @@
 unlisted: false
 title: money expensive bank investing
 publish: true
-modified: 2026-07-28
-id: 01KR50GG7DBYMQH38HJPD175NZ
+modified: 2026-09-30
+id: 2y7j5ymr2f70oq0ma2v47rlfn47xjg
 created: 2026-05-08
 ---
 
@@ -46,6 +46,7 @@ crypto trading
 ### principles
 
 [emergency_fund](<../00-raw/notes/emergency_fund.md>)
+
 > An emergency fund is like a amount of money set aside in case of:
 > - fuckups
 > - medical
@@ -54,12 +55,13 @@ crypto trading
 > And is should only draw from it when necary, this is the opposite of a [checking amount]
 
 [building_a_emergency_fund](<../00-raw/notes/building_a_emergency_fund.md>)
+
 > The absolute minimum of what you should put into a emergency fund is 10% of all income, also directly gives [culminative effect](<../culminative effect.md>) for income if you put in like a savings account.
 >
 > This directly means not splurging your money on useless shit UNTIL YOU HAVE A BIG ENOUGH EMERGENCY FUND!!!!
->
 
 investing vs pension
+
 > pension is the safer option but less reward
 
 dont let money stay still.

@@ -1,12 +1,12 @@
 ---
 unlisted: false
-title: This time it's personal
-tags:
+title: "This time it's personal"
+tags: []
 source: https://sadgrl.online/posts/its-personal/
 published:
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTF16ZWKJJKX1PXB2GD
+modified: 2026-09-30
+id: 3ggxkymmoeyae8m45jve09t4dd291x
 description:
 created: 2026-04-06
 author:

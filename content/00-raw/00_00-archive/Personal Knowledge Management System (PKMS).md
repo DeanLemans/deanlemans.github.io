@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Personal Knowledge Management System (PKMS)
-tags:
+tags: []
 source: https://andresestrella.vercel.app/brain/20-areas/26-productivity/personal-knowledge-management-system-pkms/
 published:
 publish: "true"
-modified: 2026-07-18
-id: 01KR6MFXCB7JAPBRF70D5BFDZB
+modified: 2026-09-30
+id: nfiap330dt1luqmj9adom7avbvwx84
 description:
 created: 2026-05-09
 author:

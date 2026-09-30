@@ -1,8 +1,8 @@
 ---
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-05-24
-id: 01KQQV6TQZQ0E7PF415EEHYT4K
+modified: 2026-09-30
+id: hyxgkrdmhd2b4h7nibm1kd7xmn4sjr
 description: my collection of games
 created: 2024-10-08
 aliases:

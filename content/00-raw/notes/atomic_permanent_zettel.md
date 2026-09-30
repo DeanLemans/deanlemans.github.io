@@ -1,8 +1,8 @@
 ---
-title: atomic_permanent_zettel
+title: atomic_permanent_zettel type note
 publish: true
-modified: 2026-09-28
-id: 01M3MKK92RAWYKAF98HRQ053EQ
+modified: 2026-09-30
+id: t2v2xwewkflxjstnvk643vuz456d7u
 created: 2026-09-28
 ---
 

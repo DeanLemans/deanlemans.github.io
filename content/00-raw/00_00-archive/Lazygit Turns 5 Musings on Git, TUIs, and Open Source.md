@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Lazygit Turns 5 Musings on Git, TUIs, and Open Source
-tags:
+tags: []
 source: https://jesseduffield.com/Lazygit-5-Years-On/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TVAG4BVNYTT1P9GT3M0
+modified: 2026-09-30
+id: j0m8fbm9k58j649n5g440g5rojckbh
 description:
 created: 2025-09-29
 author:

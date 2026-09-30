@@ -2,8 +2,8 @@
 title: brief Daan LOB / informatie gesprekken
 tags:
   - toegepaste_biologie
-modified: 2026-09-25
-id: 01M1P0YW11V5P1G3STCSV2NDFB
+modified: 2026-09-30
+id: f3x3wn0gn2fcbwwq9itqkarh4sd47n
 created: 2026-09-04
 category: school
 aliases:

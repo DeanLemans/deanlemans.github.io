@@ -5,8 +5,8 @@ tags: []
 source: https://superorganizers.substack.com/p/how-to-build-a-learning-machine###
 published: 2022-09-17
 publish: true
-modified: 2026-09-17
-id: 01KSDXRJHEBE7K6V1RREN2X86F
+modified: 2026-09-30
+id: j1dyg5ledqqivm8uedrs5v2hnalff8
 description: "Imagine this:"
 created: 2026-05-24
 author:

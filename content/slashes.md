@@ -1,7 +1,7 @@
 ---
 title: /slashes
-modified: 2026-09-25
-id: 01M3AHZDJEPFQ3BQA61K4FFETB
+modified: 2026-09-30
+id: t0h4bgktfflmzqkwczmsdwb6mg0wwz
 created: 2026-09-24
 aliases:
   - Slash

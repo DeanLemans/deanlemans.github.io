@@ -3,8 +3,8 @@ unlisted: true
 title: Death of Me
 tags: []
 publish: true
-modified: 2026-09-25
-id: 01KQQV6TT017S85V89JPEQQNWX
+modified: 2026-09-30
+id: x5i0dqwm5ipb5cn2dwc6d4uu872cuv
 description: what will happen to this site when I die?
 created: 2026-04-29
 aliases:

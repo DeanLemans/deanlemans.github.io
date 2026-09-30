@@ -3,8 +3,8 @@ unlisted: false
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: pomodoro technique
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TRX2NAZYCZPTPGQH34N
+modified: 2026-09-30
+id: 43is08xgzw6m10pclz1hr5q4gwbzjn
 created: 2026-03-17
 ---
 

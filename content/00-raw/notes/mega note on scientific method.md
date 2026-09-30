@@ -1,7 +1,7 @@
 ---
 title: note on scientific method
-modified: 2026-09-17
-id: 01M2N5NR4G3J4RV5Q1V30W6Y9B
+modified: 2026-09-30
+id: u473ssdxpt9w84tzca4sowi8sg9052
 created: 2026-09-16
 ---
 

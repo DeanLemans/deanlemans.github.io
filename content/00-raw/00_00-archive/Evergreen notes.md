@@ -1,10 +1,10 @@
 ---
 unlisted: false
 title: Evergreen notes
-tags:
+tags: []
 source: https://notes.andymatuschak.org/Evergreen_notes
-modified: 2026-07-18
-id: 01KQQV6TVPZ2Z4DB8SAPP80P0F
+modified: 2026-09-30
+id: gtfvhwgicxcjjw66ta3bus79j79op0
 description:
 created: 2025-10-24
 author:

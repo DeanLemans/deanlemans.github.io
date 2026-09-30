@@ -4,8 +4,8 @@ title: There Are Stars Inside Me
 tags:
   - dreamy
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TRBR4NXPM3MAN98PXPC
+modified: 2026-09-30
+id: sezd7oyj5ji0oyyrt5devl1yg4bp9i
 created: 2026-03-17
 aliases:
   - there_are_stars_inside_me

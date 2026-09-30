@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: On the Capacity, Performance, and Reliability of microSD Cards
-tags:
+tags: []
 source: https://www.bahjeez.com/the-great-microsd-card-survey/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TV4M3EFXM75RTP7WAPR
+modified: 2026-09-30
+id: 5xxn9a0tecfcsidf8m0msifdpxxj06
 description: "Or: What are the best microSD cards you can get for under $15 in 2024 2025? Before you get in: Support me on Patreon! If you just want to see my (current) top picks, click here. If you want to see details on the cards I'm testing, click here. If you want..."
 created: 2025-11-08
 author:

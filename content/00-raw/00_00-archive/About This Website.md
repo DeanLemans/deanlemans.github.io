@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: About This Website
-tags:
+tags: []
 source: https://gwern.net/about#confidence-tags
 published:
 publish: "true"
-modified: 2026-07-18
-id: 01KR50CJX69285CG26F7X01BXX
+modified: 2026-09-30
+id: ntxbjar9xrzon9u7ig4jltlfy6auk1
 description: Meta page describing Gwern.net site ideals of stable long-term essays which improve over time; idea sources and writing methodology; metadata deﬁnitions; site statistics; copyright license.
 created: 2026-05-09
 author:
@@ -126,7 +126,9 @@ Besides that, I think after a while writing/research can be a virtuous circle or
 - I learn more tools
 	eg. I learned basic [meta-analysis⁠](https://en.wikipedia.org/wiki/Meta-analysis) in R to answer what all the positive & negative [n-back studies⁠](https://gwern.net/dnb-faq) [summed to⁠](https://gwern.net/dnb-meta-analysis), but then I was able to use it for [⁠iodine⁠](https://gwern.net/iodine#meta-analysis); I learned linear models for [analyzing *MoR* reviews⁠](https://gwern.net/hpmor) but now I can use them anywhere I want to, like in my [Touhou draft material⁠](https://gwern.net/touhou).
 	The "Feynman method" has been facetiously described as "find a problem; think very hard; write down the answer", but [⁠Gian-Carlo Rota⁠](https://gwern.net/doc/math/1996-04-20-rota-tenlessonsiwishihadbeentaught.html) gives the real one:
+
 	> Richard Feynman was fond of giving the following advice on how to be a genius. You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say: "How did he do it? He must be a genius!"
+
 - I internalize a habit of noticing interesting questions that flit across my brain
 	eg. in March 2013 while meditating: "I wonder if more doujin music gets released when unemployment goes up and people may have more spare time or fail to find jobs? Hey! That giant Touhou music torrent I downloaded, with its 45000 songs all tagged with release year, could probably answer that!" (One could argue that these questions probably *should* be ignored and not investigated in depth—Teller again—nevertheless, this is how things work for me.)
 - if you aren't writing, you'll ignore useful links or quotes; but if you stick them in small asides or footnotes as you notice them, eventually you'll have something bigger.

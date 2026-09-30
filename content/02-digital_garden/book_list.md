@@ -1,8 +1,8 @@
 ---
 title: "Dean's Book Library"
 publish: true
-modified: 2026-05-14
-id: 01KQQV6TR0MPTXVCZSS8CR3YSY
+modified: 2026-09-30
+id: fdgterezgdiic4aooro2kyjv3bb87x
 description: Library of Dean
 created: 2024-10-08
 aliases:

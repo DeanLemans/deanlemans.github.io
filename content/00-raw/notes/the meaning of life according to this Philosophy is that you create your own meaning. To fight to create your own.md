@@ -1,8 +1,8 @@
 ---
 type: fleeting
 title: the meaning of life according to this Philosophy is that you create your own meaning. To fight to create your own
-modified: 2026-09-28
-id: 01M3MR7SZC52N3BCYE4DAV2M51
+modified: 2026-09-30
+id: gcqrya4i4f4ymn063ew15nykvgjcgo
 created: 2026-09-28
 ---
 

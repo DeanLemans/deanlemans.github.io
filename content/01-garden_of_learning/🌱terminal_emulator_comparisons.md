@@ -4,8 +4,8 @@ title: terminal emulators stuff
 tags:
   - research
 publish: true
-modified: 2026-05-09
-id: 01KQQV6TRCB7ZE6HPXHBNYKZ5X
+modified: 2026-09-30
+id: bgrw2h33hqg62mrvphsvvnnwe6k444
 created: 2026-05-02
 ---
 

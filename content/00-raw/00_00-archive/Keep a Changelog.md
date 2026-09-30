@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Keep a Changelog
-tags:
+tags: []
 source: https://keepachangelog.com/en/1.1.0/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TVB3NPADVZP26JQJJVG
+modified: 2026-09-30
+id: 7vy99f7c3ujr7iiubqef2dl2yl9019
 description: Don’t let your friends dump git logs into changelogs.
 created: 2025-09-29
 author:

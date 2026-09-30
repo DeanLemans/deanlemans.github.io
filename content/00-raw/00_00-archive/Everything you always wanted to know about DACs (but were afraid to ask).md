@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Everything you always wanted to know about DACs (but were afraid to ask)
-tags:
+tags: []
 source: https://www.whathifi.com/advice/dacs-what-is-a-dac-and-do-you-need-one
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TVKVNR5FNB8NN4ERW1H
+modified: 2026-09-30
+id: m3jktiqiclq9n89dz47zqqthmyfxjl
 description: Got digital music? You should probably learn about digital-to-analogue converters and what they bring to the digital audio party.
 created: 2025-09-29
 author:

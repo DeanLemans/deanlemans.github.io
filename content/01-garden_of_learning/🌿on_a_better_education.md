@@ -4,8 +4,8 @@ title: On a better education
 tags:
   - research
 publish: true
-modified: 2026-05-25
-id: 01KQQV6TR9FM796RXXR04P5NGJ
+modified: 2026-09-30
+id: 5skd9j4mudhx2vved540can2vwi97e
 description: education problem research
 created: 2026-02-02
 aliases:

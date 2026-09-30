@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: Make your own website
-tags:
+tags: []
 source: https://jsrn.net/make-your-own-website
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TV9H92WPM11ZEM964EB
+modified: 2026-09-30
+id: cg7yrlmysjf72yj36ukbltljr8c246
 description: I’ve been maintaining websites in some form for a long time now, and here’s why maybe you should at least think about it.
 created: 2025-10-26
 author:

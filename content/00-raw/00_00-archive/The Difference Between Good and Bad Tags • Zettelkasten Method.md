@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: The Difference Between Good and Bad Tags • Zettelkasten Method
-tags:
+tags: []
 source: https://zettelkasten.de/posts/object-tags-vs-topic-tags/
 published: 2018-09-24
 publish: true
-modified: 2026-07-18
-id: 01KR4Y4SQNCA3MTDV9R1E6DGEC
+modified: 2026-09-30
+id: gzrdmes6q4dh9ixy5w5dfp3r4sqe6u
 description: "When I search in my archive for the tag #diet I get really annoying results. I don’t only get notes on diet. I get notes on carbohydrates, insulin sensitivity and many other. “Why is that a problem?”, you might ask. “All the above topics are relevant for diet, aren’t they?” No, and here is why."
 created: 2026-05-09
 author:

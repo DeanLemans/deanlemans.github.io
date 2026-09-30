@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: Ideas for my note-taking workflow ¶
-tags:
+tags: []
 source: https://www.edwinwenink.xyz/zettelkasten/notetaking_ideas/
 published:
 publish: true
-modified: 2026-07-18
-id: 01KR5028RBE56YXBY1A7THFPB4
+modified: 2026-09-30
+id: ce00gps0uj5n3g5wq69qjpifbji0rg
 description:
 created: 2026-05-09
 author:

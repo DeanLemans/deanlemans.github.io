@@ -2,8 +2,8 @@
 type:
 title: a lifesycle of notes
 publish: true
-modified: 2026-09-28
-id: 01KXD57NY26D1122GWNA83NWKK
+modified: 2026-09-30
+id: iei1okfsst3zpm31rd8g5lax30l9g3
 created: 2026-07-13
 aliases:
   - a possible lifesycle of notes

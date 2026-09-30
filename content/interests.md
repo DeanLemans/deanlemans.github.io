@@ -2,8 +2,8 @@
 unlisted: false
 title: /interests
 publish: true
-modified: 2026-09-25
-id: 01M3AH22W46BJF48S3FS2Q5JCD
+modified: 2026-09-30
+id: dfh0cy91rejdh36j9mjbhy7myv60do
 created: 2026-09-24
 aliases:
   - interest

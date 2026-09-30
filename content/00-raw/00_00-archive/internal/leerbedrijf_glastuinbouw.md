@@ -3,8 +3,8 @@ title: leerbedrijf glastuinbouw
 tags:
   - hovenier
 publish: false
-modified: 2026-09-25
-id: 01KQQV6TRQGDH03H4CVJD99KZ8
+modified: 2026-09-30
+id: knuo08ixsbkcmz224anrzz943ypa62
 created: 2026-04-11
 category: school
 ---

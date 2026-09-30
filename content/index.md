@@ -1,8 +1,8 @@
 ---
 title: Dean Lemans
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TQ8R4ZVK6TYNV9DMA78
+modified: 2026-09-30
+id: 7nk2hwne4xsrx09fh2mk1lnsqs5hab
 description: Dean's Personal Site
 created: 2025-09-25
 aliases:

@@ -1,12 +1,12 @@
 ---
 unlisted: false
 title: My Zettelkasten workflow from start to finish
-tags:
+tags: []
 source: https://wilde-at-heart.garden/pages/my-zettelkasten-workflow-from-start-to-finish/
 published: 2022-07-16
 publish: true
-modified: 2026-07-18
-id: 01KR4ZWABQ572DCN7KF24MEH70
+modified: 2026-09-30
+id: qm56rannb7wk61jcpap01i8gvdhhob
 description: Two things are very important to me:Documenting my workflows. Sharing my knowledge with others as freely as possible. As of time of writing, I’m participating in some “learning sprints” for queries in Logseq. I actually don’t consider myself a Logseq power user or anything, at least compared to the folks who build these complicated dashboards and workflows for every aspect of their lives. I mainly use Logseq for my Zettelkasten; therefore, my needs aren’t too complicated.
 created: 2026-05-09
 author:

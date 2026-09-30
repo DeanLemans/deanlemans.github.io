@@ -5,8 +5,8 @@ tags: []
 source: https://toby3d.me/en/death/
 published:
 publish: "true"
-modified: 2026-09-24
-id: 01M3AHG7R8RGCN28HPSQYZXAZK
+modified: 2026-09-30
+id: zcdot2u4ml54zwmk0k9fu6m5r5ihvv
 description: Postmortem instructions for people after me
 created: 2026-09-24
 author:

@@ -2,8 +2,8 @@
 unlisted: true
 title: zine - personal websites and the law
 source: https://avas.bearblog.dev/zine-law/
-modified: 2026-05-04
-id: 01KQQV6TT2M1TGTRQFTC61BFXF
+modified: 2026-09-30
+id: 9tnic5cfcezsljdq4g728k854tg6tv
 description: turned a submission into a zine.
 created: 2025-10-31
 author:

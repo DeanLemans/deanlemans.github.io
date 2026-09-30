@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: This is an Actual Website
-tags:
+tags: []
 source: https://actualwebsite.org/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTHH4QKV5BHB0NM6H7R
+modified: 2026-09-30
+id: jn7s7rh63ymswom2rzlef7bcj4jb56
 description: A less profane and non-Oedipal manifesto for a better World Wide Web
 created: 2025-10-26
 author:

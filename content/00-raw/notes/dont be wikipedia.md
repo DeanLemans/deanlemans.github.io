@@ -3,8 +3,8 @@ type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: dont be wikipedia
 tags: []
 publish: true
-modified: 2026-09-28
-id: 01KRW5T4PKDFNP6V0GE0T9NKAJ
+modified: 2026-09-30
+id: k395dlncviospwqkpau7o6mzxwn6wj
 created: 2026-05-17
 ---
 

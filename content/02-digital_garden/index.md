@@ -1,8 +1,8 @@
 ---
 title: 02 Digital Garden
 publish: true
-modified: 2026-09-25
-id: 01KQQV6TQX37Y8XNF68E6BSR7D
+modified: 2026-09-30
+id: cr4ftmssx9deqb0dxnli5o8w7dlx2j
 created: 2026-03-17
 aliases:
   - bookmark

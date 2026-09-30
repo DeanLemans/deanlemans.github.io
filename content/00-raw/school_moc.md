@@ -3,11 +3,11 @@ title: school moc
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-28
-id: 01M3MAVMW8N779V4VXHGAPM1NW
+modified: 2026-09-30
+id: eo59a8xvz5dljrvuu7ughdipyziyug
 created: 2026-07-07
-aliases: []
 category: school
+aliases: []
 ---
 
 # school moc

@@ -4,8 +4,8 @@ title: Dreams of Mine
 tags:
   - dreamy
 publish: true
-modified: 2026-09-17
-id: 01KQQV6TSZ2VQXZAWTBZR28V5M
+modified: 2026-09-30
+id: 4d93op3kcpfif27eodv7uaqzo5vn17
 description: a dream i had, i wrote it down half aspleep, daydreaming, halucinating or what not
 created: 2026-03-17
 aliases:

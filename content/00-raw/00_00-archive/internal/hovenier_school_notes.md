@@ -3,8 +3,8 @@ title: Hovenier school notes
 tags:
   - hovenier
 publish: false
-modified: 2026-09-25
-id: 01KQQV6TRTYCSS44Q8HCPKT1CN
+modified: 2026-09-30
+id: 71bfbdvj522a82g391a9cdhb7sbr0x
 created: 2026-03-18
 category: school
 aliases:

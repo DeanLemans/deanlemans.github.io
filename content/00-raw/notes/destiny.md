@@ -3,8 +3,8 @@ unlisted: false
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Destiny
 publish: true
-modified: 2026-09-28
-id: 01KQQV6TS09X7B6AG9VPF3XY3V
+modified: 2026-09-30
+id: labfe925imrvqu4pli740jmgyan26h
 created: 2026-03-17
 ---
 

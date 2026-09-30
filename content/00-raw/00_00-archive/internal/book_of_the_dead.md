@@ -1,7 +1,7 @@
 ---
 title: Book of the Dead
-modified: 2026-06-22
-id: 01KT7CE83VYCPMZ3SN77YGAS2F
+modified: 2026-09-30
+id: dkfvcxjwurvlv52akqgr52rrmlg63c
 created: 2026-06-03
 ---
 

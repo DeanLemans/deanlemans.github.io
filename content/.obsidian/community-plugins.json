@@ -9,7 +9,6 @@
   "nldates-obsidian",
   "obsidian42-strange-new-worlds",
   "obsidian-auto-link-title",
-  "guid-front-matter",
   "remember-cursor-position",
   "advanced-rename-and-delete-handler",
   "breadcrumbs",
@@ -17,5 +16,6 @@
   "better-markdown-links",
   "obsidian-tasks-plugin",
   "k-plex",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "note_uid_generator"
 ]

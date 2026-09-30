@@ -5,8 +5,8 @@ tags:
   - finished
   - gamedev
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TSV7CA97NVMGRMST1XA
+modified: 2026-09-30
+id: o547w0upupyuio0gxiihk9rp2pt31t
 description: first game made in godot
 created: 2025-09-25
 aliases:

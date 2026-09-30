@@ -1,8 +1,8 @@
 ---
 title: Languages
 publish: true
-modified: 2026-09-24
-id: 01M3AHT7E7H6BY06DDWDWEA54Q
+modified: 2026-09-30
+id: e6ic6cc1nq5tju7gwzyfd8pnubp86d
 created: 2026-09-24
 aliases:
   - language

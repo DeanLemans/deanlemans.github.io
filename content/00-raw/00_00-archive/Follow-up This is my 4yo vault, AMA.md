@@ -1,12 +1,12 @@
 ---
 unlisted: "false"
 title: 'Follow-up: "This is my 4yo vault, AMA'
-tags:
+tags: []
 source: https://www.reddit.com/r/ObsidianMD/comments/1ugk4ph/followup_this_is_my_4yo_vault_ama/
 published: 2026-06-26
 publish: "true"
-modified: 2026-07-18
-id: 01KWBY5C344H6C6QQE081XVAJX
+modified: 2026-09-30
+id: g45t6yjn1kpxvl5gfnipxgyc6wj59x
 description: I was absolutely blown away by the response to my spur-of-the-moment post yesterday, so here is a more detailed follow-up! Including a quick
 created: 2026-06-30
 author:
@@ -72,7 +72,7 @@ I was absolutely blown away by the response to my spur-of-the-moment [post yeste
 > > > > **Magical\_cat\_girl** · [2026-06-27](https://reddit.com/r/ObsidianMD/comments/1ugk4ph/comment/ou24na9/) · 4 points
 > > > >
 > > > > You have to add a group-- the group can be e.g. a file path, then you assign the group a color
-> >
+> > >
 > > > **niloproject** · [2026-06-28](https://reddit.com/r/ObsidianMD/comments/1ugk4ph/comment/ou8o106/) · 3 points
 > > >
 > > > You can change this in the Obsidian Sync settings, and sync the filters between devices :)

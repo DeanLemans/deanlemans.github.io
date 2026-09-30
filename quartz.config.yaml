@@ -99,6 +99,8 @@ plugins:
     order: 45
   - source: "@quartz-community/alias-redirects"
     enabled: true
+    options:
+        enableCaseRedirects: true
   - source: "@quartz-community/content-index"
     enabled: true
     options:

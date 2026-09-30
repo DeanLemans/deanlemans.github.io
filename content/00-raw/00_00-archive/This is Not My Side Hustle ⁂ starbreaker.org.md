@@ -1,11 +1,11 @@
 ---
 unlisted: false
 title: This is Not My Side Hustle ⁂ starbreaker.org
-tags:
+tags: []
 source: https://starbreaker.org/grimoire/entries/not-my-side-hustle/
 publish: true
-modified: 2026-07-18
-id: 01KQQV6TTJ7PPY40QFZRRH35KR
+modified: 2026-09-30
+id: 1mx3ffvt8bigrghibxufnedx9nnao7
 description: I got an email from a guy who doesn’t understand why I’d run a website without trying to monetize it. My response became a manifesto. Oops.
 created: 2025-10-26
 author:
