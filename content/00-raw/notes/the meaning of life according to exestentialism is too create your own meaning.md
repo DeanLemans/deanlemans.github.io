@@ -1,9 +1,9 @@
 ---
-unlisted:
+unlisted: true
 type: fleeting
 title: The meaning of life according to this Philosophy is that you create your own meaning
-publish:
-modified: 2026-09-30
+publish: true
+modified: 2026-10-01
 id: gcqrya4i4f4ymn063ew15nykvgjcgo
 created: 2026-09-28
 ---

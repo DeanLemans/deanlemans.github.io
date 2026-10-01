@@ -1,14 +1,16 @@
 ---
 unlisted:
 type:
-title: How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
+title: How to Take Smart Notes. my notes
 publish: true
-modified: 2026-09-30
+modified: 2026-10-01
 id: xuur6ozcm5b2lxhsztpnpym2wlrcyb
 created: 2026-07-09
 ---
 
-# How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking
+# How to Take Smart Notes. my notes
+
+One Simple Technique to Boost Writing, Learning and Thinking
 
 2 edition, 2022
 
