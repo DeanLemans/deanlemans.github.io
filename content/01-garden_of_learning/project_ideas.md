@@ -17,16 +17,16 @@ A list of chapters I like, I lost a lot of them on my old phone
 
 - [ ] need a way to track all of this and consolidate such as my (formal) books in [book_list](<../02-digital_garden/book_list.md>)
 
-* [Chapter 702: Blackgard's Blackguard - Jackal Among Snakes | Royal Road](https://www.royalroad.com/fiction/48969/jackal-among-snakes/chapter/1958938/chapter-702-blackgards-blackguard)
-* [Chapter 8: The Truth Beartrap - Somebody Stop Him [A Progression Fantasy Epic] | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1972574/chapter-8-the-truth-beartrap)
-* [royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity](https://www.royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity)
-* [Twitch](https://www.fimfiction.net/story/354591/twitch)
-* [Chapter 32: Invasion of Privacy - Magical Girl Ghostslayer [Cyberpunk Post-Magic Apocalypse] | Royal Road](https://www.royalroad.com/fiction/120649/magical-girl-ghostslayer-cyberpunk-post-magic/chapter/2467359/chapter-32-invasion-of-privacy)
-* [34-20 The Guard-Captain (I) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/2222675/34-20-the-guard-captain-i)
-* Return Of The Shattered Constellation chapter 92. Good chapter.
-* [Chapter 24: Winged Interrogator [II] - Somebody Stop Him (A Progression Fantasy Epic) | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1985060/chapter-24-winged-interrogator-ii)
-* [32-9 Warfare (II) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/1988381/32-9-warfare-ii)
-* [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
+- [Chapter 702: Blackgard's Blackguard - Jackal Among Snakes | Royal Road](https://www.royalroad.com/fiction/48969/jackal-among-snakes/chapter/1958938/chapter-702-blackgards-blackguard)
+- [Chapter 8: The Truth Beartrap - Somebody Stop Him [A Progression Fantasy Epic] | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1972574/chapter-8-the-truth-beartrap)
+- [royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity](https://www.royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity)
+- [Twitch](https://www.fimfiction.net/story/354591/twitch)
+- [Chapter 32: Invasion of Privacy - Magical Girl Ghostslayer [Cyberpunk Post-Magic Apocalypse] | Royal Road](https://www.royalroad.com/fiction/120649/magical-girl-ghostslayer-cyberpunk-post-magic/chapter/2467359/chapter-32-invasion-of-privacy)
+- [34-20 The Guard-Captain (I) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/2222675/34-20-the-guard-captain-i)
+- Return Of The Shattered Constellation chapter 92. Good chapter.
+- [Chapter 24: Winged Interrogator [II] - Somebody Stop Him (A Progression Fantasy Epic) | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1985060/chapter-24-winged-interrogator-ii)
+- [32-9 Warfare (II) - Godclads | Royal Road](https://www.royalroad.com/fiction/59663/godclads/chapter/1988381/32-9-warfare-ii)
+- [Our Unending Journey](https://mangadex.org/title/922dedaa-26d8-467c-8189-09e84f9a1af1/our-unending-journey)
 
 ---
 
@@ -46,7 +46,7 @@ Decided to go for Strawberry, as Clementine is still recommending a 10 year old 
 
 It wrecked my entire playlist, and I don't really like the UI.
 
-* [DeaDBeeF](https://deadbeef.sourceforge.io/)
+- [DeaDBeeF](https://deadbeef.sourceforge.io/)
 
 ---
 
@@ -54,13 +54,13 @@ It wrecked my entire playlist, and I don't really like the UI.
 
 ## RSS
 
-* RSS/Atom readers are cool
-* PowerRSS
-* RSS aggregator
+- RSS/Atom readers are cool
+- PowerRSS
+- RSS aggregator
 
 ## News sites/aggregators
 
-* Grounded
+- Grounded
 
 <https://github.com/miniflux/v2>
 <https://susam.net/from-rss-to-atom.html>
@@ -72,8 +72,8 @@ It wrecked my entire playlist, and I don't really like the UI.
 # Best video editors for me
 
 Criteria:
-* Preferably open source
-* MUST be native Linux
+- Preferably open source
+- MUST be native Linux
 
 ## Longform
 
@@ -95,9 +95,9 @@ Criteria:
 # In search of a better mouse
 
 Specifics:
-* Laptop
-* Linux
-* Features
+- Laptop
+- Linux
+- Features
 
 I have been using a silent mouse for 3 years now, it works fine, but I want something better.
 
@@ -114,11 +114,11 @@ Or maybe replace it entirely with a drawing tablet, would be more versatile.
 # State of Android open source keyboards
 
 I will list the most popular / with good potential.
-* FlorisBoard
-* Android Keyboard
-* FUTO Keyboard
-* Unexpected Keyboard
-* Fossil Keyboard
+- FlorisBoard
+- Android Keyboard
+- FUTO Keyboard
+- Unexpected Keyboard
+- Fossil Keyboard
 
 ## FlorisBoard
 
@@ -130,8 +130,8 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 
 ## Android official keyboard
 
-* Largely superseded by Google Keyboard
-* Barely receives updates
+- Largely superseded by Google Keyboard
+- Barely receives updates
 
 ---
 
@@ -147,8 +147,8 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 
 ## References
 
-* [Book Reviews · Gwern.net](https://gwern.net/review/book)
-* [book_list](<../02-digital_garden/book_list.md>)
+- [Book Reviews · Gwern.net](https://gwern.net/review/book)
+- [book_list](<../02-digital_garden/book_list.md>)
 
 ---
 
@@ -156,7 +156,7 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 
 ## References
 
-* [Anime Reviews · Gwern.net](https://gwern.net/review/anime)
+- [Anime Reviews · Gwern.net](https://gwern.net/review/anime)
 
 ---
 
@@ -164,11 +164,11 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 
 [Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/pages/blueprint-protocol) is a data-driven anti-aging routine.
 
-* Diet: very strict, nutrient-dense meals and precise calorie and timing rules.
-* Exercise & sleep: regular, structured workouts and disciplined sleep habits.
-* Supplements: a large daily stack to target metabolism, inflammation, hormones, and cellular repair.
-* (Medical) monitoring: a ton of tests, blood tests, scans and more.
-* The general goal of the Bryan Johnson Blueprint protocol is to reduce your biological age and improve your biomarkers.
+- Diet: very strict, nutrient-dense meals and precise calorie and timing rules.
+- Exercise & sleep: regular, structured workouts and disciplined sleep habits.
+- Supplements: a large daily stack to target metabolism, inflammation, hormones, and cellular repair.
+- (Medical) monitoring: a ton of tests, blood tests, scans and more.
+- The general goal of the Bryan Johnson Blueprint protocol is to reduce your biological age and improve your biomarkers.
 
 ---
 

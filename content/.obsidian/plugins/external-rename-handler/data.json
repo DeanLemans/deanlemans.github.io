@@ -1,0 +1,6 @@
+{
+  "deletionRenameDetectionTimeoutInMilliseconds": 500,
+  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
+  "pollingIntervalInMilliseconds": 2000,
+  "proposedShouldHandleRenames": null
+}

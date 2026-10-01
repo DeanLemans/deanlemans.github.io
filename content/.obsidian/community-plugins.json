@@ -3,7 +3,6 @@
   "lazy-plugins",
   "obsidian-linter",
   "obsidian-style-settings",
-  "backlink-cache",
   "external-rename-handler",
   "smart-rename",
   "nldates-obsidian",
@@ -17,5 +16,7 @@
   "obsidian-tasks-plugin",
   "k-plex",
   "consistent-attachments-and-links",
-  "note_uid_generator"
+  "note_uid_generator",
+  "obsidian-custom-attachment-location",
+  "advanced-metadata-cache"
 ]

@@ -1,0 +1,11 @@
+{
+  "isBacklinksModuleEnabled": true,
+  "isNamesModuleEnabled": false,
+  "isTitlesModuleEnabled": false,
+  "shouldAutomaticallyRefreshBacklinkPanels": false,
+  "shouldOfferTitlesInLinkSuggestions": false,
+  "shouldShowProgressBarOnLoad": true,
+  "titlePropertyNames": [
+    "title"
+  ]
+}

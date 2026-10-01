@@ -1,6 +1,7 @@
 {
   "invalidCharacterAction": "Error",
   "replacementCharacter": "_",
+  "shouldAddOldTitleAsAlias": true,
   "shouldPreservePreviousDisplayTextInFrontmatterLinks": false,
   "shouldPreservePreviousDisplayTextInNoteLinks": false,
   "shouldStoreInvalidTitle": true,

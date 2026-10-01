@@ -125,7 +125,7 @@
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": true
+      "enabled": false
     },
     "default-language-for-code-fences": {
       "enabled": false,
@@ -140,7 +140,7 @@
       "no-bare-uris": true
     },
     "ordered-list-style": {
-      "enabled": true,
+      "enabled": false,
       "number-style": "ascending",
       "list-end-style": "."
     },
@@ -176,7 +176,7 @@
     },
     "unordered-list-style": {
       "enabled": true,
-      "list-style": "consistent"
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": true,
@@ -237,7 +237,7 @@
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": true
+      "enabled": false
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false,

@@ -14,10 +14,10 @@ aliases:
 
 An emergency fund is like a amount of money set aside in case of:
 
-* fuckups
-* medical
-* need smth important
-* get fired
+- fuckups
+- medical
+- need smth important
+- get fired
 
 And is should only draw from it when necary, this is the opposite of a [checking amount]
 
