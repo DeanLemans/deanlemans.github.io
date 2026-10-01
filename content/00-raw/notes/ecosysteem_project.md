@@ -4,7 +4,7 @@ title: Ecosysteem Project
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-30
+modified: 2026-10-01
 id: 5jsyrhgb2k54di3mepd2jm5wjtjk2g
 created: 2026-09-07
 category: school
@@ -34,6 +34,8 @@ materiaalen die ik nodig heb.
 - mos
 - garnaalen
 - springtails
+
+[general_substrate_mix](<./general_substrate_mix.md>)
 
 ---
 
@@ -79,3 +81,8 @@ materiaalen die ik nodig heb.
 - Vicuspumia
 - Meulenmekia
 - Asperages (alleen in hoge terrarium)
+
+### Related
+
+[🪴shed_greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
+[🌱plant_terrarium_project](<../../01-garden_of_learning/🌱plant_terrarium_project.md>)

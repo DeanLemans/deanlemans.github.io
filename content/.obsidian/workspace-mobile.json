@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-raw/school/vca_les.md",
+                "file": "00-raw/dreams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vca_les"
+              "title": "dreams"
             }
           }
         ],
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-raw/school/vca_les.md",
+            "file": "00-raw/dreams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,12 +165,23 @@
           "icon": "lucide-ghost",
           "title": "reminder-list"
         }
+      },
+      {
+        "id": "3308e7e361ae078f",
+        "type": "leaf",
+        "state": {
+          "type": "k-plex-sidepanel-view",
+          "state": {},
+          "icon": "brain-circuit",
+          "title": "K-Plex"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "k-plex:Open K-Plex": false,
       "notebook-navigator:Notebook Navigator": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -182,11 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab1075aee5a86602",
+  "active": "3308e7e361ae078f",
   "lastOpenFiles": [
-    "00-raw/school/static_files/VCA samenwerk opdracht week 4.pdf",
-    "00-raw/school/vca_les.md",
     "00-raw/index.md",
+    "00-raw/school/vca_les.md",
+    "00-raw/school/static_files/VCA samenwerk opdracht week 4.pdf",
     "vault_rules.md",
     "00-raw/inbox/Backlinks stuff i need to split eventually.md",
     "00-raw/inbox/How to Take Smart Notes. Notes.md",

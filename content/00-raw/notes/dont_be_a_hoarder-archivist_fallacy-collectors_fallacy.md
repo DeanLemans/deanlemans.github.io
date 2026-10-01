@@ -1,16 +1,16 @@
 ---
 unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-title: "Don't be a hoarder. archivist fallacy. Collector's Fallacy"
+title: "Don't be a hoarder. archivist fallacy"
 publish: true
-modified: 2026-09-30
+modified: 2026-10-01
 id: kxnyqsz4coe99ogfy8djvzxen837ug
 created: 2026-07-17
 aliases:
   - "don't be a hoarder. archavist fallacy. Collector's Fallacy"
 ---
 
-# Don't be a hoarder. archivist fallacy. Collector's Fallacy
+# Don't be a hoarder. archivist fallacy
 
 I refer here to the tendency of people to hoard and keep stuff and to not throw stuff away or delete or filter it.
 

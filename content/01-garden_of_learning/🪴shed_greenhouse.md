@@ -5,7 +5,7 @@ tags:
   - research
   - green
 publish: true
-modified: 2026-09-30
+modified: 2026-10-01
 id: g6or82heqglosy1r2qoh23xhcdnpvj
 created: 2026-03-15
 aliases:
@@ -87,7 +87,7 @@ Finally got the LED lights I wanted (need to paste link here).
 
 ### Entry
 
-Had a very nice talk with a coworker of mine who is (and was?) really into growing specific rare plants. He knows how to build a terrarium. Apparently I was researching in the wrong way — I was researching greenhouses and reverse engineering, when I should have looked at the paludarium side of things: knowing how to build it and what techniques go in there.
+Had a very nice talk with a coworker of mine who is (and was?) really into growing specific rare plants. He knows how to build a terrarium. Apparently I was researching in the wrong way I was researching greenhouses and reverse engineering, when I should have looked at the paludarium side of things: knowing how to build it and what techniques go in there.
 
 ### Entry
 
