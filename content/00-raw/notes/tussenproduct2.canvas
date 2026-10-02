@@ -1,6 +1,41 @@
 {
 	"nodes":[
-		{"id":"994d93fa3492ab3e","x":-242,"y":-148,"width":320,"height":65,"type":"text","text":"De Deanste Deans leefomgeving"}
+		{"id":"994d93fa3492ab3e","type":"text","text":"# De Deanste Deans leefomgeving\n- uden","x":-271,"y":-120,"width":320,"height":154},
+		{"id":"7f5815c70cd26cfe","type":"file","file":"static_files/file-20261002111804450.png","x":-965,"y":-264,"width":400,"height":225},
+		{"id":"eabfbcfafbe256eb","type":"file","file":"static_files/file-20261002111809513.png","x":-942,"y":-23,"width":400,"height":225},
+		{"id":"952b9c38d01e7294","type":"file","file":"static_files/file-20261002111757839.png","x":-850,"y":-745,"width":225,"height":400},
+		{"id":"1820d99dda929f11","type":"text","text":"sociaal/welzijn","x":-439,"y":-342,"width":250,"height":60},
+		{"id":"e0dff239a3826faa","type":"text","text":"udenscollege, mensen gaan naar school","x":-1463,"y":-77,"width":250,"height":117},
+		{"id":"0fe9ffbe73bc3278","type":"text","text":"de grootste kerk en mensen gaan hierheen om te bidden en hun doden te verwerken","x":-1226,"y":-610,"width":250,"height":160},
+		{"id":"602957cbe1b2402b","x":-356,"y":-1197,"width":461,"height":819,"type":"text","text":"Ik woon in Uden en ik loop vaak met mijn hond in het kleine park. Dat park is natuur (ecologisch). Ik kom daar andere mensen tegen en ik kan er gewoon lopen (sociaal). Tegenover het park ligt de Jumbo waar ik mijn eten koop (economisch). Mensen die naar het park gaan, gaan vaak ook even naar de Jumbo. De Jumbo geeft wel afval, en dat is niet goed voor de natuur.\n\nOp het Udens College gaan mensen naar school (sociaal). Daar leren ze wat, zodat ze later werk hebben en geld verdienen (economisch). In de grote kerk gaan mensen bidden en hun doden verwerken (sociaal). Dat gebouw kost geld om te onderhouden (economisch).\n\nAlles hangt dus aan elkaar. Het park zorgt voor een fijne buurt, een fijne buurt zorgt voor winkels en werk, en met dat geld kan de natuur schoon blijven. Als er 1 ding weg gaat, merken de andere ook dat.\n\nals de school ontploft(economisch) kunnen ze geen mensen opleiding voor een baan, waardoor men geen geld kunnen maken, waardoor ze niks kunnen kopen, waardoor de supermarkten minder geld verdienen, waardoor ze minder personeel nodig hebben en mensen hun baan kunnen kwijtraken, waardoor nog meer mensen geen geld hebben en minder uitgaan en elkaar minder zien (sociaal), waardoor de gemeente ook minder belastinggeld krijgt en er minder geld is om het park schoon te houden (ecologisch), waardoor het park vies wordt en mensen er minder heen gaan, waardoor de buurt minder fijn wordt. Zo is alles slechter geworden door 1 ding."},
+		{"id":"43040b9d22113d3e","type":"file","file":"static_files/file-20261002111814801.png","x":-482,"y":297,"width":400,"height":225},
+		{"id":"2d6f9958aff85fdf","type":"text","text":"economisch/welvaart","x":-236,"y":112,"width":252,"height":60},
+		{"id":"a9e5db113e49da5e","type":"text","text":"mijn dichtstbijzijnde jumbo waar ik altijd mijn eten koop, licht tegenover het park","x":-268,"y":751,"width":250,"height":134},
+		{"id":"982610eff711875b","type":"file","file":"static_files/file-20261002111852875.png","x":-27,"y":295,"width":225,"height":400},
+		{"id":"72d8a5a815dcd668","type":"text","text":"ecologisch/natuur","x":-34,"y":-246,"width":250,"height":60},
+		{"id":"f88a4f19970befa2","type":"file","file":"static_files/file-20261002111821099.png","x":234,"y":-555,"width":400,"height":225},
+		{"id":"b42cc60230bc4e92","type":"file","file":"static_files/file-20261002112214416.png","x":291,"y":-208,"width":225,"height":400},
+		{"id":"2134b8d239b6bb84","type":"text","text":"bij mijn leefomgeving is een klein park, daar loop ik vaak met mijn hond","x":699,"y":-229,"width":250,"height":100},
+		{"id":"1325420d741efd81","type":"file","file":"static_files/file-20261002114057231.png","x":710,"y":91,"width":225,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1071a2c83d0c3c36","fromNode":"994d93fa3492ab3e","fromSide":"bottom","toNode":"2d6f9958aff85fdf","toSide":"top"},
+		{"id":"7b177b5a375d1fb5","fromNode":"2d6f9958aff85fdf","fromSide":"bottom","toNode":"982610eff711875b","toSide":"top"},
+		{"id":"4fc989ae7e476d37","fromNode":"2d6f9958aff85fdf","fromSide":"bottom","toNode":"43040b9d22113d3e","toSide":"top"},
+		{"id":"5fedb80c0a1035ca","fromNode":"994d93fa3492ab3e","fromSide":"top","toNode":"1820d99dda929f11","toSide":"right"},
+		{"id":"a6029ecdf4ec9994","fromNode":"1820d99dda929f11","fromSide":"left","toNode":"7f5815c70cd26cfe","toSide":"right"},
+		{"id":"4b1651447bb5f4fd","fromNode":"1820d99dda929f11","fromSide":"left","toNode":"eabfbcfafbe256eb","toSide":"right"},
+		{"id":"e9d98843085c0bbf","fromNode":"994d93fa3492ab3e","fromSide":"right","toNode":"72d8a5a815dcd668","toSide":"bottom"},
+		{"id":"9daf27162e452897","fromNode":"72d8a5a815dcd668","fromSide":"right","toNode":"f88a4f19970befa2","toSide":"left"},
+		{"id":"104685d5a9a0cd81","fromNode":"72d8a5a815dcd668","fromSide":"right","toNode":"b42cc60230bc4e92","toSide":"left"},
+		{"id":"c6d78ec2be29e232","fromNode":"1820d99dda929f11","fromSide":"left","toNode":"952b9c38d01e7294","toSide":"right"},
+		{"id":"4697438094415a3e","fromNode":"a9e5db113e49da5e","fromSide":"top","toNode":"43040b9d22113d3e","toSide":"bottom"},
+		{"id":"f183ea22a5178354","fromNode":"a9e5db113e49da5e","fromSide":"top","toNode":"982610eff711875b","toSide":"bottom"},
+		{"id":"ff28fab0c9fb2168","fromNode":"e0dff239a3826faa","fromSide":"right","toNode":"7f5815c70cd26cfe","toSide":"left"},
+		{"id":"1c98d46d95366da6","fromNode":"e0dff239a3826faa","fromSide":"right","toNode":"eabfbcfafbe256eb","toSide":"left"},
+		{"id":"105ba0b7b1262d55","fromNode":"2134b8d239b6bb84","fromSide":"top","toNode":"f88a4f19970befa2","toSide":"right"},
+		{"id":"32b6e1efc4bbf82c","fromNode":"2134b8d239b6bb84","fromSide":"left","toNode":"b42cc60230bc4e92","toSide":"right"},
+		{"id":"33e2846da658515b","fromNode":"2134b8d239b6bb84","fromSide":"bottom","toNode":"1325420d741efd81","toSide":"top"},
+		{"id":"a2f534f23ee9146a","fromNode":"0fe9ffbe73bc3278","fromSide":"right","toNode":"952b9c38d01e7294","toSide":"left"}
+	]
 }

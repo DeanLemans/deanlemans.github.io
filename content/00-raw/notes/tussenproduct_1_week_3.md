@@ -4,7 +4,7 @@ title: TussenProduct 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-30
+modified: 2026-10-02
 id: 326pi4i1ddomxw44tickixquuok0z1
 created: 2026-09-07
 category: school
@@ -15,7 +15,7 @@ aliases:
   - 01M1XS2MXGBS6CGXHJ6SCD3MZ3
 ---
 
-# TussenProduct 1, week 3 en 4
+# Tussen Product 1, week 3 en 4
 
 > [!NOTE] klein voorwoord van Dean voor docenten die dit lezen.
 > - ik heb geen idee wat APA richtlijnen zijn, dus die zitten er niet in. ik denk dat het gewoon bronvermeldingen zijn? dus ik heb gewoon markdown links naar de bron erin gezet.
@@ -314,5 +314,3 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > > ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)
 
 ---
-
-# Zelfbeoordeling
