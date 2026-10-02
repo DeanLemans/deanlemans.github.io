@@ -85,10 +85,7 @@ created: 2026-09-30
 > - de nieuwe waarde beschrijft
 > - de relatie tussen drie waarden 'uitlegt'
 > 
-> ## Bronnen/tools
->
-> [www.piktochart.com](https://www.piktochart.com/)
->
-> [www.canva.com](https://www.canva.com/)
->
-> [https://thinkbigactnow.org/](https://thinkbigactnow.org/)
+> Ik woon in Uden en ik loop vaak met mijn hond in het kleine park. Dat park is natuur (ecologisch). Ik kom daar andere mensen tegen en ik kan er gewoon lopen (sociaal). Tegenover het park ligt de Jumbo waar ik mijn eten koop (economisch). Mensen die naar het park gaan, gaan vaak ook even naar de Jumbo. De Jumbo geeft well afval, en dat is niet goed voor de natuur.
+> Op het Udens College gaan mensen naar school (sociaal). Daar leren ze wat, zodat ze later werk hebben en geld verdienen (economisch). In de grote kerk gaan mensen bidden en hun doden verwerken (sociaal). Dat gebouw kost geld om te onderhouden (economisch).
+> Alles hangt dus aan elkaar. Het park zorgt voor een fijne buurt, een fijne buurt zorgt voor winkels en werk, en met dat geld kan de natuur schoon blijven. Als er 1 ding weg gaat, merken de andere ook dat.=
+> als de school ontploft(economisch) kunnen ze geen mensen opleiding voor een baan, waardoor men geen geld kunnen maken, waardoor ze niks kunnen kopen, waardoor de supermarkten minder geld verdienen, waardoor ze minder personeel nodig hebben en mensen hun baan kunnen kwijtraken, waardoor nog meer mensen geen geld hebben en minder uitgaan en elkaar minder zien (sociaal), waardoor de gemeente ook minder belastinggeld krijgt en er minder geld is om het park schoon te houden (ecologisch), waardoor het park vies wordt en mensen er minder heen gaan, waardoor de buurt minder fijn wordt. Zo is alles slechter geworden door 1 ding.
