@@ -7,6 +7,8 @@ publish: true
 modified: 2026-10-02
 id: 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 created: 2026-09-30
+aliases:
+  - 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 ---
 
 # Tussenproduct 2 Week 5
