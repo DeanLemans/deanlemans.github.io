@@ -76,8 +76,8 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: relative
-      lazyload: true
-      prettyLinks: false
+      lazyload: false
+      prettyLinks: true
       openLinksInNewTab: true
       disableBrokenWikilinks: true
       externalLinkIcon: true
