@@ -559,59 +559,167 @@ class RememberCursorPosition extends obsidian.Plugin {
         });
     }
 }
+class PathSuggest extends obsidian.AbstractInputSuggest {
+    constructor(app, inputEl) {
+        super(app, inputEl);
+        this.limit = 50;
+    }
+    getSuggestions(query) {
+        const q = query.trim().toLowerCase();
+        if (!q)
+            return [];
+        const out = [];
+        for (const file of this.app.vault.getAllLoadedFiles()) {
+            const path = file instanceof obsidian.TFolder ? `${file.path}/` : file.path;
+            if (path.toLowerCase().includes(q))
+                out.push(path);
+        }
+        return out.slice(0, this.limit || 50);
+    }
+    renderSuggestion(value, el) {
+        el.setText(value);
+    }
+}
+class AddExclusionModal extends obsidian.Modal {
+    constructor(app, onAdd) {
+        super(app);
+        this.onAdd = onAdd;
+        this.inputEl = null;
+        this.suggest = null;
+        this.errorTimer = 0;
+        this.errorInput = null;
+        this.errorTooltip = null;
+        this.errorScrollContainer = null;
+        this.onErrorScroll = () => {
+            const input = this.errorInput;
+            const container = this.errorScrollContainer;
+            if (!input || !container)
+                return;
+            const rect = input.getBoundingClientRect();
+            const cRect = container.getBoundingClientRect();
+            const visible = rect.bottom >= cRect.top &&
+                rect.top <= cRect.bottom &&
+                rect.right >= cRect.left &&
+                rect.left <= cRect.right;
+            if (!visible)
+                this.clearError();
+        };
+    }
+    onOpen() {
+        const { contentEl } = this;
+        contentEl.createEl('h3', { text: 'Add exclusion' });
+        contentEl.createEl('p', {
+            cls: 'rcp-modal-desc',
+            text: 'Select a file or folder from the vault, or type a path or glob pattern. Patterns ending with "/" match a folder and everything inside it.',
+        });
+        const inputWrap = contentEl.createDiv({ cls: 'rcp-modal-input-wrap' });
+        const input = new obsidian.TextComponent(inputWrap);
+        input.setPlaceholder('e.g. dashboards/ or **/templates/*.md');
+        input.inputEl.addClass('rcp-modal-input');
+        this.inputEl = input.inputEl;
+        this.suggest = new PathSuggest(this.app, input.inputEl);
+        this.suggest.onSelect((value) => {
+            input.setValue(value);
+            input.inputEl.focus();
+        });
+        input.inputEl.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                this.submit();
+            }
+        });
+        const buttons = contentEl.createDiv({ cls: 'modal-button-container' });
+        new obsidian.ButtonComponent(buttons)
+            .setButtonText('Cancel')
+            .onClick(() => this.close());
+        new obsidian.ButtonComponent(buttons)
+            .setButtonText('Add')
+            .setCta()
+            .onClick(() => this.submit());
+    }
+    onClose() {
+        var _a;
+        this.clearError();
+        (_a = this.suggest) === null || _a === void 0 ? void 0 : _a.close();
+        this.contentEl.empty();
+    }
+    submit() {
+        const input = this.inputEl;
+        if (!input)
+            return;
+        const value = input.value.trim();
+        if (!value) {
+            this.showRequiredError(input, 'Path is required.');
+            return;
+        }
+        this.onAdd(value);
+        this.close();
+    }
+    getScrollContainer(el) {
+        let node = el;
+        while (node) {
+            const overflowY = window.getComputedStyle(node).overflowY;
+            if (overflowY === 'auto' || overflowY === 'scroll')
+                return node;
+            node = node.parentElement;
+        }
+        return null;
+    }
+    showRequiredError(input, message) {
+        var _a;
+        this.clearError();
+        const parent = input.parentElement;
+        if (!parent)
+            return;
+        parent.addClass('rcp-validation-relative');
+        input.addClass('rcp-input-error');
+        const tooltip = parent.createDiv({ cls: 'rcp-validation-tooltip' });
+        tooltip.setText(message);
+        const container = this.getScrollContainer(input);
+        if (container) {
+            this.errorScrollContainer = container;
+            container.addEventListener('scroll', this.onErrorScroll);
+            const cRect = container.getBoundingClientRect();
+            const tRect = tooltip.getBoundingClientRect();
+            let left = input.offsetLeft;
+            let top = ((_a = parent.clientHeight) !== null && _a !== void 0 ? _a : 0) + 4;
+            if (tRect.left < cRect.left)
+                left += cRect.left - tRect.left;
+            if (tRect.right > cRect.right)
+                left -= tRect.right - cRect.right;
+            if (tRect.bottom > cRect.bottom)
+                top -= tRect.bottom - cRect.bottom;
+            tooltip.setCssProps({
+                '--rcp-vt-left': `${left}px`,
+                '--rcp-vt-top': `${top}px`,
+            });
+        }
+        this.errorInput = input;
+        this.errorTooltip = tooltip;
+        this.errorTimer = window.setTimeout(() => this.clearError(), 3000);
+        input.addEventListener('input', () => this.clearError(), { once: true });
+        input.addEventListener('blur', () => this.clearError(), { once: true });
+    }
+    clearError() {
+        window.clearTimeout(this.errorTimer);
+        if (this.errorInput) {
+            this.errorInput.removeClass('rcp-input-error');
+            this.errorInput = null;
+        }
+        if (this.errorTooltip && this.errorTooltip.parentElement) {
+            this.errorTooltip.parentElement.removeChild(this.errorTooltip);
+        }
+        this.errorTooltip = null;
+        if (this.errorScrollContainer) {
+            this.errorScrollContainer.removeEventListener('scroll', this.onErrorScroll);
+            this.errorScrollContainer = null;
+        }
+    }
+}
 class SettingTab extends obsidian.PluginSettingTab {
     constructor(app, plugin) {
         super(app, plugin);
-        this.requiredErrorTimer = 0;
-        this.requiredErrorInput = null;
-        this.requiredErrorTooltip = null;
-        this.requiredErrorParent = null;
         this.plugin = plugin;
-    }
-    showRequiredError(input, message) {
-        this.clearRequiredError();
-        const inputEl = input.inputEl;
-        inputEl.addClass('rcp-input-error');
-        const tooltip = document.createElement('div');
-        tooltip.addClass('rcp-validation-tooltip');
-        tooltip.setText(message);
-        const parent = inputEl.parentElement;
-        if (parent) {
-            parent.style.position = 'relative';
-            tooltip.style.left = inputEl.offsetLeft + 'px';
-            parent.appendChild(tooltip);
-        }
-        this.requiredErrorInput = inputEl;
-        this.requiredErrorTooltip = tooltip;
-        this.requiredErrorParent = parent;
-        this.requiredErrorTimer = window.setTimeout(() => this.clearRequiredError(), 3000);
-        inputEl.addEventListener('input', () => this.clearRequiredError(), { once: true });
-        inputEl.addEventListener('blur', () => this.clearRequiredError(), { once: true });
-    }
-    clearRequiredError() {
-        window.clearTimeout(this.requiredErrorTimer);
-        if (this.requiredErrorInput) {
-            this.requiredErrorInput.removeClass('rcp-input-error');
-            this.requiredErrorInput = null;
-        }
-        if (this.requiredErrorTooltip && this.requiredErrorTooltip.parentElement) {
-            this.requiredErrorTooltip.parentElement.removeChild(this.requiredErrorTooltip);
-        }
-        this.requiredErrorTooltip = null;
-        if (this.requiredErrorParent) {
-            this.requiredErrorParent.style.position = '';
-            this.requiredErrorParent = null;
-        }
-    }
-    addExclusion(addText) {
-        const value = addText ? addText.getValue().trim() : '';
-        if (!value) {
-            if (addText)
-                this.showRequiredError(addText, 'Path is required.');
-            return;
-        }
-        this.plugin.settings.excludedFiles.push(value);
-        this.plugin.saveSettings().then(() => this.display());
     }
     getScrollContainer() {
         let node = this.containerEl;
@@ -631,7 +739,6 @@ class SettingTab extends obsidian.PluginSettingTab {
         const scrollContainer = this.getScrollContainer();
         const scrollTop = scrollContainer ? scrollContainer.scrollTop : 0;
         containerEl.empty();
-        this.clearRequiredError();
         new obsidian.SettingGroup(containerEl)
             .addSetting((setting) => setting
             .setName('Default cursor position')
@@ -701,53 +808,45 @@ class SettingTab extends obsidian.PluginSettingTab {
             this.plugin.saveTimerIntervalId = this.plugin.registerInterval(window.setInterval(() => this.plugin.writeDb(this.plugin.db), value));
         }))));
         const exclusionsGroup = new obsidian.SettingGroup(containerEl)
-            .setHeading('Exclusions');
-        exclusionsGroup.listEl.addClass('rcp-exclusion-list');
-        exclusionsGroup.addSetting((setting) => setting
-            .setName('Exclude files and folders from tracking')
-            .setDesc('Files and folders matching these paths or glob patterns are never saved or restored. ' +
-            'Patterns ending with "/" match a folder and everything inside it. ' +
-            'Examples: "dashboard.md", "dashboards/", "**/templates/*.md".'));
-        let addText = null;
-        exclusionsGroup.addSetting((setting) => setting
-            .setName('Add exclusion')
-            .setDesc('Add a path or glob pattern for a file or folder to exclude.')
-            .addText((text) => {
-            addText = text;
-            text.setPlaceholder('e.g. dashboards/ or **/templates/*.md');
-            text.inputEl.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter') {
-                    e.preventDefault();
-                    this.addExclusion(addText);
-                }
-            });
-        })
-            .addButton((btn) => btn
-            .setButtonText('Add')
-            .setCta()
-            .onClick(() => {
-            this.addExclusion(addText);
-        })));
-        const excludedFiles = this.plugin.settings.excludedFiles || [];
-        const tagsContainer = exclusionsGroup.listEl.createDiv({ cls: 'rcp-exclusion-tags' });
-        if (excludedFiles.length === 0) {
-            tagsContainer.createSpan({ cls: 'rcp-exclusion-empty', text: 'No excluded files or folders.' });
-        }
-        else {
-            excludedFiles.forEach((pattern, index) => {
-                const tag = tagsContainer.createSpan({ cls: 'rcp-exclusion-tag' });
-                tag.createSpan({ cls: 'rcp-exclusion-tag-text', text: pattern });
-                const removeBtn = tag.createEl('button', {
-                    cls: 'rcp-exclusion-tag-remove',
-                    text: '×',
-                    attr: { type: 'button', 'aria-label': 'Remove exclusion' },
-                });
-                removeBtn.addEventListener('click', () => {
-                    this.plugin.settings.excludedFiles.splice(index, 1);
+            .setHeading('Exclusions')
+            .addClass('rcp-exclusion-group');
+        exclusionsGroup.addSetting((setting) => {
+            setting.settingEl.addClass('rcp-exclusion-setting');
+            setting
+                .setName('Excluded files and folders')
+                .setDesc('Files and folders matching these paths or glob patterns are never saved or restored. ' +
+                'Patterns ending with "/" match a folder and everything inside it. ' +
+                'Examples: "dashboard.md", "dashboards/", "**/templates/*.md".')
+                .addButton((btn) => btn
+                .setButtonText('Add exclusion')
+                .setCta()
+                .onClick(() => {
+                new AddExclusionModal(this.app, (pattern) => {
+                    this.plugin.settings.excludedFiles.push(pattern);
                     this.plugin.saveSettings().then(() => this.display());
+                }).open();
+            }));
+            const excludedFiles = this.plugin.settings.excludedFiles || [];
+            const tagsContainer = setting.settingEl.createDiv({ cls: 'rcp-exclusion-tags' });
+            if (excludedFiles.length === 0) {
+                tagsContainer.createSpan({ cls: 'rcp-exclusion-empty', text: 'No excluded files or folders.' });
+            }
+            else {
+                excludedFiles.forEach((pattern, index) => {
+                    const tag = tagsContainer.createSpan({ cls: 'rcp-exclusion-tag' });
+                    tag.createSpan({ cls: 'rcp-exclusion-tag-text', text: pattern });
+                    const removeBtn = tag.createEl('button', {
+                        cls: 'rcp-exclusion-tag-remove',
+                        text: '×',
+                        attr: { type: 'button', 'aria-label': 'Remove exclusion' },
+                    });
+                    removeBtn.addEventListener('click', () => {
+                        this.plugin.settings.excludedFiles.splice(index, 1);
+                        this.plugin.saveSettings().then(() => this.display());
+                    });
                 });
-            });
-        }
+            }
+        });
         const { pruneOrphans, maxAgeDays, maxCount } = this.plugin.settings;
         const pruningEnabled = pruneOrphans || maxAgeDays > 0 || maxCount > 0;
         const entryCount = Object.keys(this.plugin.db).length;

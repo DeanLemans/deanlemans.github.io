@@ -1,5 +1,6 @@
 {
   "isBacklinksModuleEnabled": true,
+  "isHeadingsModuleEnabled": false,
   "isNamesModuleEnabled": false,
   "isTitlesModuleEnabled": false,
   "shouldAutomaticallyRefreshBacklinkPanels": false,
