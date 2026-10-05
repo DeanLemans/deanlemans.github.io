@@ -4,7 +4,7 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-30
+modified: 2026-10-05
 id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
@@ -202,3 +202,65 @@ herbivoren in 3 groepen
 - bron voor vogels:[Samen voor vogels en natuur \| Vogelbescherming](https://www.vogelbescherming.nl/)
 
 bijna geen inheemse soorten in nederland worden rood in de herfst
+
+---
+
+moet ik onderzoeken:
+- successie
+- pioneersoorten
+- climaxvegetatie
+
+---
+
+**les daan ecosysteemdiensten**
+
+biotisch: alles wat levend is
+
+abiotisch: alles van geen leven heeft/wat niet organisch is. NIET ODE BIOTISCHE DINGEN
+
+sardientrek zui afrika, grootste predatoren conceentratie (bijna ter wereld?)
+- gezond ecosysteem is in balans
+- organismen en hun omgeving wisselen stoffen en engergie
+
+ecosysteem : de functionele eenheid binnen d een gebied van natuur
+
+actie is reactie (LOOP)
+
+- producenten
+	- planten en algen, ze vormen de basis van de voedselketen
+- consumenten: vreten andere organismen, (omnivooren, herbivooren, en carnivooren)
+	- dieren
+- reducenten/resyclers: zorgen dat voedingstoffen weer beschikbaar komen in het ecosysteem
+	- schimmels
+	- bacterien
+
+autroof: als organisme zijn eigen voedel maakt
+- planten
+- bacterien(cyanbacterien, grootste gedeelte van dit maakt de zuurstof)
+- rood en bruinwieren
+
+heterotroof: alles wat niet autotroof is
+
+70% zee
+30% land
+
+mosselen doen liters water filteren
+
+eukaria zijn meercellige
+
+noordhollandse duingebied, categorie: reguleerent
+1. beschrijf hoe het ecosysteem deze dienst levert
+	1. (pompen water uit het ijselmeer hiernaartoe) zand van de duin filtert het water
+	2. ook recreatie(expand on this)
+2. waarom is deze dienst belangrijk voor de mens
+	1. het is wetenschappelijk bewezen dat in de natuur zijn goed voor de mens is
+	2. beter/gezonder/schoner water is gewoon beter voor de mens
+3. waarom is deze dienst belangrijk voor het milieu
+	1. mensen gaan minder fabrieken maken omdat het water al natuurlijk gefiltert woord
+	2. het duin staat onder minder risico van verandering omdat het teruglevert aan de mens
+- het zand filtert het water, en zorg voor beter water, en bespaart geld
+
+natuurbeher:
+- natuur bijhouden
+- nederlandse natuur kan zichzelf niet in gang houden omdat nederland houd om alle bij te houden
+- zonder actief beheer gaan ecosysteem hun functies verliezen(more generally: functions lose their functions when not being/in use)

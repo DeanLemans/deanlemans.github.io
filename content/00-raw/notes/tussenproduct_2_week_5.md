@@ -4,9 +4,10 @@ title: Tussenproduct 2 Week 5
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-02
+modified: 2026-10-05
 id: 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 created: 2026-09-30
+category: school
 aliases:
   - 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 ---
