@@ -1,8 +1,9 @@
 ---
 unlisted: true
+type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Knowledge is a form of awareness or familiarity
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: 6xra5q1rm7jnolznmuii81z4r9m8fj
 created: 2026-09-28
 ---

@@ -4,7 +4,7 @@ title: Tussenproduct 2 Week 5
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-05
+modified: 2026-10-07
 id: 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 created: 2026-09-30
 category: school
@@ -92,3 +92,8 @@ aliases:
 > Op het Udens College gaan mensen naar school (sociaal). Daar leren ze wat, zodat ze later werk hebben en geld verdienen (economisch). In de grote kerk gaan mensen bidden en hun doden verwerken (sociaal). Dat gebouw kost geld om te onderhouden (economisch).
 > Alles hangt dus aan elkaar. Het park zorgt voor een fijne buurt, een fijne buurt zorgt voor winkels en werk, en met dat geld kan de natuur schoon blijven. Als er 1 ding weg gaat, merken de andere ook dat.=
 > als de school ontploft(economisch) kunnen ze geen mensen opleiding voor een baan, waardoor men geen geld kunnen maken, waardoor ze niks kunnen kopen, waardoor de supermarkten minder geld verdienen, waardoor ze minder personeel nodig hebben en mensen hun baan kunnen kwijtraken, waardoor nog meer mensen geen geld hebben en minder uitgaan en elkaar minder zien (sociaal), waardoor de gemeente ook minder belastinggeld krijgt en er minder geld is om het park schoon te houden (ecologisch), waardoor het park vies wordt en mensen er minder heen gaan, waardoor de buurt minder fijn wordt. Zo is alles slechter geworden door 1 ding.
+
+## Related
+
+[tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)
+[tussenproduct_3_week_7](<./tussenproduct_3_week_7.md>)

@@ -2,7 +2,7 @@
 unlisted:
 title: /slashes
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: t0h4bgktfflmzqkwczmsdwb6mg0wwz
 created: 2026-09-24
 aliases:
@@ -21,6 +21,7 @@ the slash pages i chose to adopt from [slash pages](https://slashpages.net/)
 - [now](<./now.md>)
 - [verify](<./verify.md>)
 - [changelog](<./changelog.md>)
+- [language](<./languages.md>)
 
 ## References
 

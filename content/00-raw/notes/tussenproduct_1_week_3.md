@@ -1,10 +1,10 @@
 ---
 unlisted:
-title: TussenProduct 1, week 3 en 4
+title: Tussen Product 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-02
+modified: 2026-10-07
 id: 326pi4i1ddomxw44tickixquuok0z1
 created: 2026-09-07
 category: school
@@ -314,3 +314,8 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > > ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)
 
 ---
+
+## Related
+
+- [tussenproduct_2_week_5](<./tussenproduct_2_week_5.md>)
+- [tussenproduct_3_week_7](<./tussenproduct_3_week_7.md>)

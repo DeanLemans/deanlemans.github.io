@@ -2,7 +2,7 @@
 unlisted:
 title: Project ideas
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: 0wmlg5vmfh7no3evzgs1qcaa62d3m1
 created: 2026-07-17
 aliases:
@@ -47,6 +47,10 @@ Decided to go for Strawberry, as Clementine is still recommending a 10 year old 
 It wrecked my entire playlist, and I don't really like the UI.
 
 - [DeaDBeeF](https://deadbeef.sourceforge.io/)
+
+2026-10-07
+
+bought a eros music player and set rockbox on it
 
 ---
 

@@ -2,7 +2,7 @@
 unlisted:
 title: Languages
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: e6ic6cc1nq5tju7gwzyfd8pnubp86d
 created: 2026-09-24
 aliases:
@@ -14,7 +14,7 @@ aliases:
 # Languages
 
 - i speak native dutch
-- i speak almost fluent english
+- i speak english on B2, with cambridge diploma
 
 (my reading and writhing are about the same level, i can type better in english though)
 

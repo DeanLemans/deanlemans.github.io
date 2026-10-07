@@ -2,7 +2,7 @@
 unlisted: true
 title: /verify
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: mm8gq08hogzr98gqx1ozxdf36rbotc
 created: 2026-09-24
 aliases:
@@ -18,6 +18,7 @@ aliases:
 - [ ] sign/verify my identity via SSH signatures ⏫ ➕ 2026-09-26
 - [ ] sign/verify my identity via PGP ⏫ ➕ 2026-09-26
 - [ ] sign/verify my identity via signify ⏫ ➕ 2026-09-26
+- [ ] Verification shi <https://starbreaker.org/verify/index.html> ⏬
 
 - [The Sintutierss · GitHub](https://github.com/sintutiers)
 - [DeanLemans - Codeberg.org](https://codeberg.org/DeanLemans)

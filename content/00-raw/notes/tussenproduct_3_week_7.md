@@ -4,7 +4,7 @@ title: Tussenproduct 3 week 7
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-05
+modified: 2026-10-07
 id: jssrkf1jv3391sra6yu3pvegw90qee
 created: 2026-10-05
 category: school
@@ -312,3 +312,8 @@ Net als bij het park, de Jumbo en het Udens College hangt alles aan elkaar. Als 
 <https://thinkbigactnow.org/>
 
 Bronnen van TP-1 (gemeente Maashorst, CBS, LangMee).
+
+## Related
+
+- [tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)
+- [tussenproduct_2_week_5](<./tussenproduct_2_week_5.md>)

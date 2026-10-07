@@ -198,7 +198,13 @@
     "folder:00-raw/00_01-zettel",
     "00-raw/notes/backup_rule.md",
     "00-raw/index.md",
-    "folder:00-raw/inbox"
+    "folder:00-raw/inbox",
+    "tag:toegepaste_biologie",
+    "00-raw/notes/biologie_les_notities.md",
+    "00-raw/notes/history_doesnt_decide_shape_environment_does.md",
+    "00-raw/notes/atomic_permanent_zettel.md",
+    "../../A Mind For Numbers",
+    "00-raw/notes/picture_walk.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
@@ -232,7 +238,7 @@
   "noteTypeStyles": {},
   "kplexInitialized": true,
   "startInPopout": false,
-  "lastActivePath": "00-raw/notes/biologie_les_notities.md",
+  "lastActivePath": "00-raw/notes/picture_walk.md",
   "pinnedNodes": [],
   "layoutProfiles": {
     "desktop:leaf": {

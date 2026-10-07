@@ -3,7 +3,7 @@ unlisted: false
 title: FUTURE
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: 5xvypyk7hs8r4gp48y4u9z3z8yml54
 description: things i still/want to do. + planning
 created: 2026-02-02
@@ -130,13 +130,12 @@ hori hori
 - [ ] Connect with Keyoxide or IndieAuth (or not?) ⏬
 - [ ] Web host? <https://ichi.city/> ⏬
 - [ ] Build shi <https://32bit.cafe/cyowebsite/> ⏬
-- [ ] Verification shi <https://starbreaker.org/verify/index.html> ⏬
 - [ ] Link sharing <https://shareopenly.org/add/> ⏬
 - [ ] IDK man <https://basementcommunity.com/> <https://tilde.club/> ⏬
 - [ ] Seems cool man <https://ysap.sh/> ⏬
 - [ ] Add site to Webtiles ⏬
 - [ ] Move from Obsidian to Emacs ⏬
-- [ ] Leerbedrijf zoeken en mail maken 🔺
+- [x] Leerbedrijf zoeken en mail maken 🔺 ✅ 2026-10-07
 - [x] Sort out all IT/tech and plant business ⏬ ✅ 2026-09-28
 - [ ] Trustpilot-site maken
 - [x] Facebookpagina tuin ✅ 2026-09-28
@@ -148,7 +147,7 @@ hori hori
 - [x] Take supplements ✅ 2026-09-28
 - [ ] The ego must overcome its own
 - [ ] How to end a conversation ⏬
-- [ ] Filter open tabs (done with 100, 250 to go) ⏬
+- [x] Filter open tabs (done with 100, 250 to go) ⏬ ✅ 2026-10-07
 - [ ] Filter subscriptions from different accounts into Grayjay ⏬
 - [ ] Add all games from all consoles into my game list ⏬
 - [ ] jeremy soller site
@@ -160,7 +159,8 @@ hori hori
 
 # Related
 
-[FUTURE](<./FUTURE.md>)
+[trajectory](<./00_00-archive/internal/trajectory.md>)
+[now](<../now.md>)
 
 ### List with all todo things autograbbed from all my notes
 

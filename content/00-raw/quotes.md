@@ -1,9 +1,10 @@
 ---
 unlisted: false
 title: Quotes
-tags: []
+tags:
+  - dreamy
 publish: true
-modified: 2026-09-30
+modified: 2026-10-07
 id: paeo5cnewzvv6jjgnvul1zcdozis1x
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02

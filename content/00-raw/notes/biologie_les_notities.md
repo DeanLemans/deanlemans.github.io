@@ -4,7 +4,7 @@ title: Toegepaste Biologie les notities
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-05
+modified: 2026-10-07
 id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
@@ -108,8 +108,8 @@ water is H2o en vloeistof, levelsmiddel, condens,
 
 H3o is zwaar water?
 
-> [!NOTE] mijn waterkringloop/omgeving
-> ![water in je leefomgeving](<./water in je leefomgeving.canvas>)
+> [!NOTE] mijn [waterkringloop/omgeving](<./water in je leefomgeving.canvas>)
+> [water in je leefomgeving](<./water in je leefomgeving.canvas>)
 
 zuurgraad (een van de dingen waar de kaderrichtlijn naar kijkt)
 - PH schaal is 0 tot 14. 7 is neutraal water.(1 is h+ 14 is OH-)
@@ -241,7 +241,36 @@ autroof: als organisme zijn eigen voedel maakt
 
 heterotroof: alles wat niet autotroof is
 
-70% zee
+71% van de aarde is water, grootste gedeelte is oceaan
+- we weten mind van onze oceaan dan de maan
+- zee is minder diep dan de oceaan
+- zoutgewoute van de zee nen oceaan is gemiddled 35 gram per liter(5 theelepels?)
+- gemiddle zuurtegraad van de oceanen was gemiddeld 8.2 maaar door de oceaanverzuring is dit gedaalt naar 8,1
+- FUNCTIES
+	- biodiversiteit
+		- level begon in de zee
+	- koolstofopslag
+		- net zoals bossen, kan de oceaan hoeveelheid koostof opslaan
+	- nutrientencycli
+		- plankton zorgt voor de grooteste? productie
+	- economie
+		- vissen vange verkopen
+
+permafrost
+- vrost dat blijft
+- is nu helaas aan het smelten en methaan aan het vrijlaten
+	- door de opwarming van de aarde
+
+zones
+- low tide
+	- kelp forest
+- mid tide
+	- mossels
+- high tide
+	- barnacles
+- splash zone
+	- limpets? tf is da
+
 30% land
 
 mosselen doen liters water filteren
@@ -264,3 +293,56 @@ natuurbeher:
 - natuur bijhouden
 - nederlandse natuur kan zichzelf niet in gang houden omdat nederland houd om alle bij te houden
 - zonder actief beheer gaan ecosysteem hun functies verliezen(more generally: functions lose their functions when not being/in use)
+
+---
+
+eb en vloed
+- kreden: aantrekkingskracht van de zon en maan
+- zon, maan, aarde op 1 lijn, super vloed/blue moon vloed
+
+zand word onder andere aangevoerd door de zee
+
+zonder plantten(meestal soorten gras) gaan de duinen lopen, de planten houden namelijk het zand tegen
+- PIONEERSOORTEN/PLANTEN VAN DUINEN
+- ammophila arenaria (helmgras)
+- elymus farctus spp (biestarwegras)
+
+VRAAG ROELAND:
+- [ ] mag ik zelf grond of water testen meenemen van school? zo niet, waar kan ik ze het best zelf kopen
+- welke dingen zijn handig om mee te nemen?(shoenen, handschoenen)
+
+TODO:
+- KOOP HERBARIUM BOEK, STAAT IN TABS
+
+duinbos
+- hogebiodiversiteit
+- veel soorten die goed tegen zanderige en droge omgeving kunnen( zomereik en elzen)
+
+om de duinwind/verplaating tegen te gaan plaaten wij(nederland)
+- basaltstenen
+- beton
+- graniet
+	- dit 'nieuw' gebied zorgt dat er planten groeien die goed tegen zout kunnen
+
+Estuaria
+- zoet rivierwater en zout zeewater hebben een botsing (de menging van zoet en zout water noemen we brak water)
+- mengt en maakt brak water
+- 10 doornig stekelbaarsje(kan tegen zoet en zout water)
+	- transformeert zijn lichaam om tegen zoet of zout water tegen gaan
+
+kwelders
+- schorren of slikker of zoutmoeras
+- veel pioneersoorten
+- vogelparadijs?
+	- kluut(recurvirostra avosatta)
+	- tureluur(tringa totanus)
+- hoge biodiversiteit
+- veel zouttolerante plantne (kruiden, grassen, en soms struiken?)
+- puccinellia martima (gewoon kweldergras)
+- limonium vulgare (lamsoor)
+
+slikken
+- veel ongewervelden
+- zuurstofarm?
+
+---

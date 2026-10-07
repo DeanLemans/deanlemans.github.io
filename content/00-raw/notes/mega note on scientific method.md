@@ -2,7 +2,7 @@
 unlisted: true
 title: Note on scientific method
 publish: true
-modified: 2026-10-01
+modified: 2026-10-07
 id: u473ssdxpt9w84tzca4sowi8sg9052
 created: 2026-09-16
 ---
