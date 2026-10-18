@@ -1,9 +1,224 @@
 {
+  "internalHotkeys": {
+    "moveUp": {
+      "key": "ArrowUp",
+      "modifiers": []
+    },
+    "moveDown": {
+      "key": "ArrowDown",
+      "modifiers": []
+    },
+    "moveLeft": {
+      "key": "ArrowLeft",
+      "modifiers": []
+    },
+    "moveRight": {
+      "key": "ArrowRight",
+      "modifiers": []
+    },
+    "sectionUp": {
+      "key": "ArrowUp",
+      "modifiers": [
+        "alt"
+      ]
+    },
+    "sectionDown": {
+      "key": "ArrowDown",
+      "modifiers": [
+        "alt"
+      ]
+    },
+    "sectionLeft": {
+      "key": "ArrowLeft",
+      "modifiers": [
+        "alt"
+      ]
+    },
+    "sectionRight": {
+      "key": "ArrowRight",
+      "modifiers": [
+        "alt"
+      ]
+    },
+    "activate": {
+      "key": "Enter",
+      "modifiers": []
+    },
+    "focusSearch": {
+      "key": "F4",
+      "modifiers": []
+    },
+    "focusFind": {
+      "key": "f",
+      "modifiers": [
+        "mod"
+      ]
+    },
+    "addParent": {
+      "key": "ArrowUp",
+      "modifiers": [
+        "mod"
+      ]
+    },
+    "addChild": {
+      "key": "ArrowDown",
+      "modifiers": [
+        "mod"
+      ]
+    },
+    "addFriend": {
+      "key": "ArrowLeft",
+      "modifiers": [
+        "mod"
+      ]
+    },
+    "addChallenger": {
+      "key": "ArrowRight",
+      "modifiers": [
+        "mod"
+      ]
+    }
+  },
+  "actionPreferences": {
+    "version": 1,
+    "defaultBindingsVersion": 1,
+    "localBindings": {
+      "selection.move.up": [
+        {
+          "match": "key",
+          "value": "ArrowUp",
+          "modifiers": []
+        }
+      ],
+      "selection.move.down": [
+        {
+          "match": "key",
+          "value": "ArrowDown",
+          "modifiers": []
+        }
+      ],
+      "selection.move.left": [
+        {
+          "match": "key",
+          "value": "ArrowLeft",
+          "modifiers": []
+        }
+      ],
+      "selection.move.right": [
+        {
+          "match": "key",
+          "value": "ArrowRight",
+          "modifiers": []
+        }
+      ],
+      "selection.section.up": [
+        {
+          "match": "key",
+          "value": "ArrowUp",
+          "modifiers": [
+            "alt"
+          ]
+        }
+      ],
+      "selection.section.down": [
+        {
+          "match": "key",
+          "value": "ArrowDown",
+          "modifiers": [
+            "alt"
+          ]
+        }
+      ],
+      "selection.section.left": [
+        {
+          "match": "key",
+          "value": "ArrowLeft",
+          "modifiers": [
+            "alt"
+          ]
+        }
+      ],
+      "selection.section.right": [
+        {
+          "match": "key",
+          "value": "ArrowRight",
+          "modifiers": [
+            "alt"
+          ]
+        }
+      ],
+      "node.activate": [
+        {
+          "match": "key",
+          "value": "Enter",
+          "modifiers": []
+        }
+      ],
+      "search.focus": [
+        {
+          "match": "key",
+          "value": "F4",
+          "modifiers": []
+        }
+      ],
+      "find.focus": [
+        {
+          "match": "code",
+          "value": "KeyF",
+          "modifiers": [
+            "mod"
+          ]
+        }
+      ],
+      "relationship.create-center.parent": [
+        {
+          "match": "key",
+          "value": "ArrowUp",
+          "modifiers": [
+            "mod"
+          ]
+        }
+      ],
+      "relationship.create-center.child": [
+        {
+          "match": "key",
+          "value": "ArrowDown",
+          "modifiers": [
+            "mod"
+          ]
+        }
+      ],
+      "relationship.create-center.left": [
+        {
+          "match": "key",
+          "value": "ArrowLeft",
+          "modifiers": [
+            "mod"
+          ]
+        }
+      ],
+      "relationship.create-center.right": [
+        {
+          "match": "key",
+          "value": "ArrowRight",
+          "modifiers": [
+            "mod"
+          ]
+        }
+      ]
+    },
+    "publishedCommands": {},
+    "characterShortcutsEnabled": true,
+    "crossSectionAtBoundary": false
+  },
   "compactView": false,
   "compactingFactor": 2,
+  "horizontalCompactingFactor": 2,
   "minLinkLength": 18,
-  "excalibrainFilepath": "excalibrain.md",
   "indexUpdateInterval": 60000,
+  "indexingMode": "on-demand",
+  "urlIndexingMode": "background",
+  "indexingThrottle": "responsive",
   "hierarchy": {
     "exclusions": [
       "excalidraw-border-color",
@@ -81,8 +296,9 @@
       "hidden"
     ]
   },
-  "inferAllLinksAsFriends": false,
+  "inferAllLinksAsFriends": true,
   "inverseInfer": false,
+  "datePropertyRelations": "parent",
   "inverseArrowDirection": true,
   "renderAlias": true,
   "nameFields": "aliases",
@@ -92,16 +308,20 @@
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "showURLNodes": false,
   "showVirtualNodes": true,
   "showFolderNodes": true,
   "showTagNodes": true,
   "showPageNodes": true,
   "showNeighborCount": true,
+  "wrapNodeLabels": false,
+  "typographyProfiles": {},
+  "baseFontSize": 12.4,
   "showFullTagName": false,
   "maxItemCount": 100,
   "renderSiblings": true,
+  "showCrossLinks": true,
   "siblingRelativeSize": 85,
   "crossLinkOpacity": 85,
   "applyPowerFilter": false,
@@ -114,6 +334,7 @@
     "fontSize": 20,
     "fontFamily": 3,
     "maxLabelLength": 30,
+    "maxWidth": 286,
     "roughness": 0,
     "strokeShaprness": "round",
     "strokeWidth": 1,
@@ -127,6 +348,7 @@
   },
   "centralNodeStyle": {
     "fontSize": 30,
+    "maxWidth": 370,
     "backgroundColor": "#b5b5b5ff",
     "textColor": "#000000ff"
   },
@@ -202,9 +424,12 @@
     "tag:toegepaste_biologie",
     "00-raw/notes/biologie_les_notities.md",
     "00-raw/notes/history_doesnt_decide_shape_environment_does.md",
-    "00-raw/notes/atomic_permanent_zettel.md",
     "../../A Mind For Numbers",
-    "00-raw/notes/picture_walk.md"
+    "00-raw/notes/picture_walk.md",
+    "00-raw/notes/atomic_permanent_zettel.md",
+    "00-raw/00_00-archive/Zettelkasten.md",
+    "00-raw/notes/PKM_brainstorm.md",
+    "./00_00-clippings/Wittgenstein"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
@@ -216,10 +441,13 @@
   "ontologySuggesterTrigger": ":::",
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
-  "allowAutozoom": false,
+  "allowAutozoom": true,
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
   "embedCentralNode": false,
+  "excalidrawFitOnNodeOpen": true,
+  "centralNodeMarkdownMode": "preview",
+  "centralNodeMarkdownZoomModes": {},
   "centerEmbedWidth": 550,
   "centerEmbedHeight": 700,
   "showContentPane": false,
@@ -238,51 +466,60 @@
   "noteTypeStyles": {},
   "kplexInitialized": true,
   "startInPopout": false,
-  "lastActivePath": "00-raw/notes/picture_walk.md",
+  "lastActivePath": "00-raw/notes/tussenproduct_3_week_7.md",
   "pinnedNodes": [],
   "layoutProfiles": {
     "desktop:leaf": {
       "compactingFactor": 1.9,
+      "horizontalCompactingFactor": 1.9,
       "parentColumns": 1,
       "childColumns": 1
     },
     "desktop:popout": {
       "compactingFactor": 2,
+      "horizontalCompactingFactor": 2,
       "parentColumns": 2,
       "childColumns": 5
     },
     "desktop:sidepanel": {
       "compactingFactor": 2.65,
+      "horizontalCompactingFactor": 2.65,
       "parentColumns": 1,
       "childColumns": 2
     },
     "tablet:leaf": {
       "compactingFactor": 2.25,
+      "horizontalCompactingFactor": 2.25,
       "parentColumns": 2,
       "childColumns": 4
     },
     "tablet:popout": {
       "compactingFactor": 2.25,
+      "horizontalCompactingFactor": 2.25,
       "parentColumns": 2,
       "childColumns": 4
     },
     "tablet:sidepanel": {
       "compactingFactor": 2.7,
+      "horizontalCompactingFactor": 2.7,
       "parentColumns": 1,
       "childColumns": 2
     },
     "mobile:leaf": {
       "compactingFactor": 2.55,
+      "horizontalCompactingFactor": 2.55,
       "parentColumns": 1,
       "childColumns": 2
     },
     "mobile:popout": {
       "compactingFactor": 2.55,
+      "horizontalCompactingFactor": 2.55,
       "parentColumns": 1,
       "childColumns": 2
     },
     "mobile:sidepanel": {
       "compactingFactor": 2.85,
+      "horizontalCompactingFactor": 2.85,
       "parentColumns": 1,
       "childColumns": 2
     }
@@ -311,6 +548,7 @@
   "attachmentImageDisplay": "thumbnail-label",
   "editNewNodeAfterCreate": false,
   "newNodeDefaultType": "markdown",
+  "startupIndexInfoBubbleSeen": true,
   "deletePromptInitialized": false,
   "confirmFileDelete": true
 }

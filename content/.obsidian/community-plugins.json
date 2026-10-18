@@ -9,7 +9,6 @@
   "obsidian42-strange-new-worlds",
   "obsidian-auto-link-title",
   "remember-cursor-position",
-  "advanced-rename-and-delete-handler",
   "breadcrumbs",
   "obsidian-reminder-plugin",
   "better-markdown-links",
@@ -18,5 +17,7 @@
   "consistent-attachments-and-links",
   "note_uid_generator",
   "obsidian-custom-attachment-location",
-  "advanced-metadata-cache"
+  "advanced-metadata-cache",
+  "slides-extended",
+  "advanced-rename-and-delete-handler"
 ]

@@ -134,6 +134,12 @@
       },
       "obsidian-custom-attachment-location": {
         "startupType": "instant"
+      },
+      "ultimate-slides": {
+        "startupType": "instant"
+      },
+      "slides-extended": {
+        "startupType": "instant"
       }
     }
   },
