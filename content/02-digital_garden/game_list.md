@@ -2,7 +2,7 @@
 unlisted:
 title: "Dean's Game Collection"
 publish: true
-modified: 2026-09-30
+modified: 2026-10-18
 id: hyxgkrdmhd2b4h7nibm1kd7xmn4sjr
 description: my collection of games
 created: 2024-10-08
@@ -27,40 +27,23 @@ aliases:
 - [Alan wake 2](https://www.alanwake.com)
 - [Nine Sols](https://store.steampowered.com/app/1809540/Nine_Sols)
 - [ENA: Dream BBQ](https://joelgc.com)
-<details>
-	<summary>
-		<a href="https://memoriesoffear.jcink.net/index.php?showtopic=68">Purgatory 1</a> + <a href="https://store.steampowered.com/app/2851770/NARAKU">Remake</a>
-	</summary>
-	<article>
-		<ul>
-			<li><a href="https://memoriesoffear.jcink.net/index.php?showtopic=85">Purgatory 2</a></li>
-		</ul>
-	</article>
-</details>
+
+> [!note]- [Purgatory 1](https://memoriesoffear.jcink.net/index.php?showtopic=68) + [Remake](https://store.steampowered.com/app/2851770/NARAKU)
+> - [Purgatory 2](https://memoriesoffear.jcink.net/index.php?showtopic=85)
 
 - [Undertale](https://undertale.com)
 - [Little Big Planet 2 + 3](https://www.lbpunion.com)
 - [Control](https://www.remedygames.com/games/control)
 - [Deltarune](https://deltarune.com)
-<details>
-	<summary>
-		<a href="https://store.steampowered.com/app/1675830/1000xRESIST/">1000xRESIST</a>
-	</summary>
-	<article>
-		<p>Absolute amazing story and mechanics, but utter dogshit optimization</p>
-	</article>
-</details>
+
+> [!note]- [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
+> Absolute amazing story and mechanics, but utter dogshit optimization
 
 - [Grimm’s Hollow](https://ghosthum.itch.io/grimms-hollow)
 - [Rayman 3](https://raymanpc.com/wiki/en/Rayman_3)
-<details>
-	<summary>
-		<a href="https://svavelstickan.com/">Star Fetchers</a>
-	</summary>
-	<article>
-		<p>still need to play the DLC</p>
-	</article>
-</details>
+
+> [!note]- [Star Fetchers](https://svavelstickan.com/)
+> still need to play the DLC
 
 - [VOIN](https://store.steampowered.com/app/2464530/VOIN)
 - [Cogmind](https://www.gridsagegames.com/cogmind/)
@@ -69,17 +52,10 @@ aliases:
 - [Cult of the Lamb](https://www.cultofthelamb.com)
 - [Hades 1 + 2](https://www.supergiantgames.com/games/hades-ii)
 - [Illusion Carnaval](https://kiz-qi.itch.io/illusion-carnival)
-<details>
-	<summary>
-		<a href="https://www.orithegame.com/">Ori and</a>
-	</summary>
-	<article>
-		<ul>
-			<li><a href="https://www.orithegame.com/blind-forest">The Blind Forest</a></li>
-			<li><a href="https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps">The Will of the Wisps</a></li>
-		</ul>
-	</article>
-</details>
+
+> [!note]- [Ori and](https://www.orithegame.com/)
+> - [The Blind Forest](https://www.orithegame.com/blind-forest)
+> - [The Will of the Wisps](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps)
 
 - [psychopomp: GOLD](https://store.steampowered.com/app/3243190/Psychopomp_GOLD/) + [original](https://karbonic.itch.io/psychopomp)
 - [YUKI](https://visualmemoryunit.itch.io/yuki)
@@ -87,14 +63,9 @@ aliases:
 - [Milya(broken)](https://lol-rust.itch.io/milyabroken)
 - [neva](https://neva.game)
 - [Super Mario Bros. Wii](https://www.mariowiki.com/New_Super_Mario_Bros._Wii)
-<details>
-	<summary>
-		<a href="https://katanazero.com">Katana ZERO + DLC</a>
-	</summary>
-	<article>
-		<p>Where is the dlc?</p>
-	</article>
-</details>
+
+> [!note]- [Katana ZERO + DLC](https://katanazero.com)
+> Where is the dlc?
 
 - [Citizen Sleeper 1](https://www.citizensleeper.com)
 
@@ -124,22 +95,12 @@ aliases:
 ### Interesting Games
 
 - [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme)
-<details>
-	<summary>
-		<a href="https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/">7 Days to End with You</a>
-	</summary>
-	<article>
-		<p>Interesting concept, but to rough and not for everyone</p>
-	</article>
-</details>
-<details>
-	<summary>
-		<a href="https://devildaggers.com">Devil Daggers</a>
-	</summary>
-	<article>
-		<p>Very pretty but so much lost potential because its so short</p>
-	</article>
-</details>
+
+> [!note]- [7 Days to End with You](https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/)
+> Interesting concept, but to rough and not for everyone
+
+> [!note]- [Devil Daggers](https://devildaggers.com)
+> Very pretty but so much lost potential because its so short
 
 [Haste](https://store.steampowered.com/app/1796470/Haste/)
 [Advent NEON](https://store.steampowered.com/app/1528260/Advent_NEON)
@@ -148,33 +109,25 @@ aliases:
 
 ## Game Backlog
 
-<details>
-	<summary>
-		<a href="https://www.omori-game.com">Omori</a>
-	</summary>
-	<article>
-		<p><a href="https://mods.one/mod/nemuri">NEMURI</a> + <a href="https://mods.one/mod/cep">CEP</a> for base game</p>
-		<p><a href="https://mods.one/mod/ambien">Ambient</a></p>
-		<p><a href="https://mods.one/mod/reverie">reverie</a></p>
-		<p><a href="https://mods.one/mod/autumnbreak">Autumn break</a></p>
-		<p><a href="https://www.mods.one/mod/brokendreams">BROKEN DREAMS</a></p>
-		<p><a href="https://mods.one/mod/thedreamer">THE DREAMER</a></p>
-	</article>
-</details>
-<details>
-	<summary>
-		<a href="https://www.yume.wiki/yume/Yume_Nikki">Yume Nikki</a>
-	</summary>
-	<article>
-		<ul>
-			<li><a href="https://yume.wiki/2kki/Yume_2kki_Wiki">Yume 2 kki</a></li>
-			<li><a href="https://yume.wiki/flow/Downloads">. flow</a></li>
-			<li><a href="https://yumenikkifg.fandom.com/wiki/Fleshchild">fleshchild</a></li>
-			<li><a href="https://guilvector.itch.io/lcddem">LcdDem</a></li>
-			<li><a href="https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY">Yume Nikki -DREAM DIARY-</a></li>
-		</ul>
-	</article>
-</details>
+> [!note]- [Omori](https://www.omori-game.com)
+> [NEMURI](https://mods.one/mod/nemuri) + [CEP](https://mods.one/mod/cep) for base game
+>
+> [Ambient](https://mods.one/mod/ambien)
+>
+> [reverie](https://mods.one/mod/reverie)
+>
+> [Autumn break](https://mods.one/mod/autumnbreak)
+>
+> [BROKEN DREAMS](https://www.mods.one/mod/brokendreams)
+>
+> [THE DREAMER](https://mods.one/mod/thedreamer)
+
+> [!note]- [Yume Nikki](https://www.yume.wiki/yume/Yume_Nikki)
+> - [Yume 2 kki](https://yume.wiki/2kki/Yume_2kki_Wiki)
+> - [. flow](https://yume.wiki/flow/Downloads)
+> - [fleshchild](https://yumenikkifg.fandom.com/wiki/Fleshchild)
+> - [LcdDem](https://guilvector.itch.io/lcddem)
+> - [Yume Nikki -DREAM DIARY-](https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY)
 
 - [Anthology of the killer](https://thecatamites.itch.io/anthology-of-the-killer)
 - [The Thousand-Year Door](https://www.mariowiki.com/Paper_Mario:_The_Thousand-Year_Door)
@@ -252,16 +205,11 @@ aliases:
 - [Cairn](https://store.steampowered.com/app/1588550/Cairn)
 - [Lacey's Flash Games](https://laceysflashgames.itch.io/laceys-flash-games)
 - [REPLACED](https://playreplaced.com/)
-<details>
-	<summary>
-		<a href="https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/">Milk inside a bag of milk inside a bag of milk</a>
-	</summary>
-	<article>
-		<ul>
-			<li><a href="https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/">Milk outside a bag of milk outside a bag of milk</a></li>
-		</ul>
-	</article>
-</details>
+
+> [!note]- [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
+> - [Milk outside a bag of milk outside a bag of milk](https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/)
+
+[CONTROL Resonant - Remedy Entertaiment](https://www.remedygames.com/games/control-2)
 
 - [Margin of the Strange](https://marginofthestrange.com/)
 - [Sword of the Sea](https://swordoftheseagame.com)
@@ -281,26 +229,14 @@ aliases:
 - [hylics](https://mason-lindroth.itch.io/hylics)
 - [Swallow the Sea](https://itsthetalia.itch.io/swallow-the-sea)
 - [Bad Parenting](https://badparentingame.com/)
-<details>
-	<summary>
-		<a href="https://etherane.itch.io">Hello charlotte</a>
-	</summary>
-	<article>
-		<p>(all chapter + spinoffs)</p>
-	</article>
-</details>
-<details>
-	<summary>
-		<a href="https://futurecat.itch.io/">Oneshot</a>
-	</summary>
-	<article>
-		<ul>
-			<li>mods/fangames + bonus chapter(Solstice)</li>
-			<li><a href="https://kittehcreations.com/?a=1#mods">Equinox</a></li>
-			<li><a href="https://astrabit.itch.io/oneshot-fading-memory">fading memory</a></li>
-		</ul>
-	</article>
-</details>
+
+> [!note]- [Hello charlotte](https://etherane.itch.io)
+> (all chapter + spinoffs)
+
+> [!note]- [Oneshot](https://futurecat.itch.io/)
+> - mods/fangames + bonus chapter(Solstice)
+> - [Equinox](https://kittehcreations.com/?a=1#mods)
+> - [fading memory](https://astrabit.itch.io/oneshot-fading-memory)
 
 - [The Big Catch](https://thebigcatchgame.com)
 - [Slayers X: Terminal Aftermath](https://store.steampowered.com/app/1931020/Slayers_X_Terminal_Aftermath_Vengance_of_the_Slayer)
@@ -318,14 +254,9 @@ aliases:
 - [Corn Kidz 64](https://store.steampowered.com/app/2575900/Corn_Kidz_64)
 - [MINDWAVE](https://holohammer.com/mindwave)
 - [Silent hill](https://www.konami.com/games/silenthill/gate) all
-<details>
-	<summary>
-		<a href="https://store.steampowered.com/app/3339880/OFF/">OFF</a>
-	</summary>
-	<article>
-		<p>Play the remaster with mods</p>
-	</article>
-</details>
+
+> [!note]- [OFF](https://store.steampowered.com/app/3339880/OFF/)
+> Play the remaster with mods
 
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
 - [Earthbound/mother 1 + 2 + 3 + original](https://earthbound.fandom.com/wiki/Mother_series)

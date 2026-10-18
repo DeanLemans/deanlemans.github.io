@@ -3,7 +3,7 @@ unlisted:
 type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: "history/ancestry Doesn't decide shape, environment does"
 publish: true
-modified: 2026-09-30
+modified: 2026-10-18
 id: tpd367akcr0hj4md4qx0tflvq6tnxq
 created: 2026-09-16
 aliases:
@@ -12,9 +12,11 @@ aliases:
 
 # history/ancestry Doesn't decide shape, environment does
 
-for now only contains biological stuff, should add social stuff to this higher concept
+Voor nu bevat dit alleen biologische dingen. Sociale dingen moeten nog toegevoegd worden aan dit hogere concept.
 
-- niet verwante soorten ontwikkelen vergelijkbare kenmerken, door zich op dezelfde leefomstandigheden aan te passen
+**Convergente evolutie**
+- Niet-verwante soorten ontwikkelen vergelijkbare kenmerken
+- Dit gebeurt doordat ze zich aanpassen aan dezelfde leefomstandigheden
 - voorbeelden:
 
 > [!example]- [Echte krokodillen - Wikipedia](https://nl.wikipedia.org/wiki/Echte_krokodillen) vs [Mekosuchinae - Wikipedia](https://en.wikipedia.org/wiki/Mekosuchinae)
