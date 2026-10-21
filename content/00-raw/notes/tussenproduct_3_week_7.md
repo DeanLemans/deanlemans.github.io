@@ -4,7 +4,7 @@ title: Inzicht als cadeau aan mezelf (Versie 2)
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-18
+modified: 2026-10-21
 id: jssrkf1jv3391sra6yu3pvegw90qee
 created: 2026-10-05
 category: school
@@ -14,7 +14,7 @@ category: school
 
 ## Titelblad
 
-**Titel:** Inzicht als cadeau aan mezelf (Versie 2)
+**Title:** Inzicht als cadeau aan mezelf (Versie 2)
 **Auteur:** Dean Lemans
 **Plaats:** Uden (gemeente Maashorst)
 **Onderzoeksperiode:** Nederland, Uden, 2026-10-05 tot 2026-10-12
@@ -60,18 +60,18 @@ In dit onderzoek is gekeken naar de afvalstroom van mijn huishouden (Dean Lemans
 
 ### 1.1 Leefomgeving die ik heb onderzocht
 
-Mijn leefomgeving is Uden, in de gemeente Maashorst. Ik woon met 3 mensen en 1 hond in een huurwoning met tuin, in een dorp. In het dorp Uden is 1 centrum (sommige dorpen hebben meerdere centra). In een stad wonen veel mensen dicht bij elkaar. Op het platteland is meer ruimte, maar liggen winkels en voorzieningen verder weg.
+Mijn leefomgeving is Uden, in de gemeente Maashorst. Ik woon met 3 mensen en 1 hond in een huurwoning met tuin, in een drop. In het drop Uden is 1 centrum (sommige dorpen hebben meerdere centra). In een stad wonen veel mensen dicht bij elkaar. Op het platteland is meer ruimte, maar liggen winkels en voorzieningen verder weg.
 
 Verschillende leefomgevingen hebben verschillende kenmerken:
 - stad heeft veel mensen, veel voorzieningen en is druk
 - platteland heeft veel ruimte, weinig voorzieningen en is rustig
-- dorp heeft één centrum, is overzichtelijk en heeft minder voorzieningen dan een stad.
+- drop heeft één centrum, is overzichtelijk en heeft minder voorzieningen dan een stad.
 
 ### 1.2 Ecologische waarden (natuur en milieu)
 
 - Het kleine park in mijn buurt, waar ik vaak met mijn hond loop.
 - Afval scheiden en recyclen (rest, GFT, papier, plastic, glas).
-- Ons huishouden maakt ongeveer 1257 kg afval per jaar.
+- Owns huishouden maakt ongeveer 1257 kg afval per jaar.
 
 ### 1.3 Sociale waarden (welzijn)
 
@@ -106,18 +106,18 @@ Voorbeeld: als het Udens College wegvalt (economisch), kunnen mensen geen opleid
 > Economisch (herhaling: fijne buurt = (meer?) winkels en werk)
 > ```
 
-## 2. Methode
+## 2. Method
 
 ### 2.1 Onderzoekssituatie
 
 Bedenk een situatie waarbij de balans tussen de drie waarden beter kan.
 
-**Situatie:** het afval bij ons thuis. Een groot deel van het groenafval ging bij het restafval, omdat we geen zin hadden om naar de kliko te lopen.
+**Situatie:** het afval bij owns thuis. Een groot deel van het groenafval ging bij het restafval, omdat we geen zin hadden om naar de kliko te lopen.
 
 - **Welke waarde is sterk aanwezig?**
   Sociaal en ecologisch. Er is een park, mensen komen elkaar tegen, en de gemeente heeft een goed scheidingssysteem.
 - **Welke waarde kan worden versterkt?**
-  Economisch en ecologisch bij ons thuis. Groen in het restafval kost geld en is slecht voor het milieu.
+  Economisch en ecologisch bij owns thuis. Groen in het restafval kost geld en is slecht voor het milieu.
 - **Waar zie ik kansen voor verbetering?**
   Groenafval apart houden, zelf compost maken en spullen hergebruiken.
 - **Hoe kan 1 actie bijdragen aan meerdere waarden tegelijk?**
@@ -128,7 +128,7 @@ Bedenk een situatie waarbij de balans tussen de drie waarden beter kan.
 Ik heb mijn afvalstroom thuis verbeterd met de 3 R (Reduce, Reuse, Recycle).
 
 1. **Extra prullenbak binnen voor groenafval** (Reduce en Recycle)
-	1. Waarom dit werkt: we deden eerst ons groenafval grotendeels bij het restafval gooien, omdat we binnenshuis geen prullenbak hadden voor groenafval.
+	1. Waarom dit werkt: we deden eerst owns groenafval grotendeels bij het restafval gooien, omdat we binnenshuis geen prullenbak hadden voor groenafval.
 2. **Eigen compost maken** van groenafval in een bak buiten, met zand erbij (Recycle)
 	1. Waarom dit werkt: soms, als de kliko vol zit of we zitten buiten groen te eten, doen we het daarin gooien.
 3. **Klein groenafval** (thee, koffieresten) in de grond van de binnenplanten begraven of in de gieter doen (Reuse)
@@ -169,7 +169,7 @@ Ik heb mijn afvalstroom thuis verbeterd met de 3 R (Reduce, Reuse, Recycle).
 
 #### 2.6.2 Wat zou ik verbeteren?
 
-- Compost maken in een goede compostbak, want mijn methode is niet efficiënt.
+- Compost maken in een goede compostbak, want mijn method is niet efficiënt.
 - Bijhouden hoeveel restafval we weggooien, zodat ik kan zien hoeveel geld het scheelt.
 
 ## 3. Resultaten
@@ -217,7 +217,7 @@ Bijvoorbeeld:
 - De compostmethode met een bak en zand is niet efficiënt. Een echte compostbak zou beter werken.
 - Ik heb niet precies bijgehouden hoeveel restafval we voor en na de actie hadden. Daardoor is het effect op kosten niet met cijfers onderbouwd.
 - Het onderzoek gaat maar over één huishouden. De resultaten zijn niet algemeen geldig.
-- De actie is klein, maar laat wel zien dat je met weinig moeite en kosten de drie waarden tegelijk kunt versterken.
+- De actie is klein, maar laat well zien dat je met weinig moeite en kosten de drie waarden tegelijk kunt versterken.
 - Voor een vervolg zou ik willen meten hoeveel kilogram restafval per maand overblijft, en of de compost echt voedingsstoffen aan de tuin geeft.
 
 ## 6. Bronnen
@@ -512,10 +512,14 @@ Bronnen van [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 > > Benoemt eigen gedrag. Beschrijft gevolgen van dit gedrag voor de leefomgeving. Verbindt gedrag aan ecologische, sociale of economische waarden. Reflecteert op mogelijke verbeteringen.
 > >
 > > **Weging:** 1
->
+> >
 > ---
 >
 > ## Related
 >
 > - [tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)
 > - [tussenproduct_2_week_5](<./tussenproduct_2_week_5.md>)
+
+### Related
+
+[tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)

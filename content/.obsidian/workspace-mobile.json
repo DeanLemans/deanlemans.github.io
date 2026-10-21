@@ -11,14 +11,10 @@
             "id": "37fa0882d9ebc3bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-raw/school/vca_les.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vca_les"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -35,8 +31,7 @@
               "title": "dreams"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +114,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-raw/dreams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,21 +175,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "note_uid_generator:Create id if missing": false,
+      "note_uid_generator:Scan for duplicate ids": false,
       "k-plex:Open K-Plex": false,
       "notebook-navigator:Notebook Navigator": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3308e7e361ae078f",
+  "active": "37fa0882d9ebc3bf",
   "lastOpenFiles": [
     "00-raw/index.md",
+    "00-raw/notes/How to Take Smart Notes. Notes.md",
+    "00-raw/00_00-archive/Zettelkasten.md",
+    "00-raw/all_atomic_notes.base",
     "00-raw/school/vca_les.md",
     "00-raw/school/static_files/VCA samenwerk opdracht week 4.pdf",
     "vault_rules.md",
@@ -223,7 +219,6 @@
     "don't be a hoarder/archavist fallacy/Collector's Fallacy 1.md",
     "don't be a hoarder/archavist fallacy",
     "don't be a hoarder",
-    "00-raw/00_00-clippings/The Second Brain Delusion Why PKM Systems Don't Work.md",
     "00-raw/00_01-inbox/Untitled",
     "static_files/Pasted image 20260506183702.png",
     "static_files/Pasted image 20260506153106.png",
