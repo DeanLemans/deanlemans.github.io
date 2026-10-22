@@ -4,15 +4,13 @@ title: Inzicht als cadeau aan mezelf (Versie 2)
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-21
+modified: 2026-10-22
 id: jssrkf1jv3391sra6yu3pvegw90qee
 created: 2026-10-05
 category: school
 ---
 
 # Inzicht als cadeau aan mezelf (Versie 2)
-
-## Titelblad
 
 **Title:** Inzicht als cadeau aan mezelf (Versie 2)
 **Auteur:** Dean Lemans
@@ -24,7 +22,7 @@ category: school
 > [!NOTE] Voorwoord
 > Dit is Inzicht als cadeau aan mezelf (tussenproduct 3 van week 7 en 8). Ik ben Dean Lemans en ik maak dit voor Yuverta Tilburg leerjaar 1. Mijn opdracht liep van 10 tot 18 september 2026. Ik heb mijn eigen afvalstroom in Uden, gemeente Maashorst, onderzocht. Mijn vraag was hoeveel afval wij thuis produceren en wat ik zelf kan verbeteren. De drie R'en (Reduce, Reuse, Recycle) komen ook terug. Ik heb informatie van de gemeente Maashorst, het CBS en LangMee gebruikt. Het doel van school is om inzicht te krijgen in mijn eigen afvalstroom en om te kijken hoe ik met de drie R'en minder afval kan maken. Mijn persoonlijke doel is om te kijken wat wij thuis beter kunnen doen.
 
-## Inhoudsopgave
+## Inhoud
 
 - [Samenvatting](<#Samenvatting>)
 - [1. Inleiding](<#1. Inleiding>)
@@ -523,3 +521,4 @@ Bronnen van [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 ### Related
 
 [tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)
+[tussenproduct_2_week_5](<./tussenproduct_2_week_5.md>)
