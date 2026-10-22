@@ -1,5 +1,5 @@
 ---
-unlisted: true
+unlisted: false
 title: Inzicht als cadeau aan mezelf (Versie 2)
 tags:
   - toegepaste_biologie
