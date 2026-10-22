@@ -1,4 +1,14 @@
 {
+  "standardStyleDefaults": "native",
+  "colorPreferences": {
+    "version": 1,
+    "palette": [],
+    "semantic": {},
+    "compass": {
+      "enabled": false,
+      "fills": {}
+    }
+  },
   "internalHotkeys": {
     "moveUp": {
       "key": "ArrowUp",
@@ -216,6 +226,12 @@
   "horizontalCompactingFactor": 2,
   "minLinkLength": 18,
   "indexUpdateInterval": 60000,
+  "indexBeforeViewDesktop": true,
+  "indexBeforeViewTablet": false,
+  "indexBeforeViewMobile": false,
+  "indexingModeDesktop": "eager",
+  "indexingModeTablet": "on-demand",
+  "indexingModeMobile": "on-demand",
   "indexingMode": "on-demand",
   "urlIndexingMode": "background",
   "indexingThrottle": "responsive",
@@ -296,6 +312,7 @@
       "hidden"
     ]
   },
+  "ontologyPairingVersion": 1,
   "inferAllLinksAsFriends": true,
   "inverseInfer": false,
   "datePropertyRelations": "parent",
@@ -303,7 +320,6 @@
   "renderAlias": true,
   "nameFields": "aliases",
   "nodeTitleScript": "",
-  "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
@@ -327,10 +343,7 @@
   "applyPowerFilter": false,
   "baseNodeStyle": {
     "prefix": "",
-    "backgroundColor": "#00000066",
     "fillStyle": "solid",
-    "textColor": "#ffffffff",
-    "borderColor": "#00000000",
     "fontSize": 20,
     "fontFamily": 3,
     "maxLabelLength": 30,
@@ -342,27 +355,18 @@
     "padding": 10,
     "gateRadius": 5,
     "gateOffset": 15,
-    "gateStrokeColor": "#ffffffff",
-    "gateBackgroundColor": "#ffffffff",
     "gateFillStyle": "solid"
   },
   "centralNodeStyle": {
     "fontSize": 30,
-    "maxWidth": 370,
-    "backgroundColor": "#b5b5b5ff",
-    "textColor": "#000000ff"
+    "maxWidth": 370
   },
-  "inferredNodeStyle": {
-    "backgroundColor": "#000005b3",
-    "textColor": "#95c7f3ff"
-  },
+  "inferredNodeStyle": {},
   "urlNodeStyle": {
     "icon": "globe"
   },
   "virtualNodeStyle": {
-    "backgroundColor": "#ff000066",
-    "fillStyle": "hachure",
-    "textColor": "#ffffffff"
+    "fillStyle": "hachure"
   },
   "siblingNodeStyle": {
     "fontSize": 15
@@ -372,15 +376,11 @@
   },
   "folderNodeStyle": {
     "icon": "folder",
-    "strokeShaprness": "sharp",
-    "borderColor": "#ffd700ff",
-    "textColor": "#ffd700ff"
+    "strokeShaprness": "sharp"
   },
   "tagNodeStyle": {
     "icon": "tag",
-    "strokeShaprness": "sharp",
-    "borderColor": "#4682b4ff",
-    "textColor": "#4682b4ff"
+    "strokeShaprness": "sharp"
   },
   "tagNodeStyles": {},
   "tagStyleList": [],
@@ -388,7 +388,6 @@
   "primaryTagFieldLowerCase": "note-type",
   "displayAllStylePrefixes": true,
   "baseLinkStyle": {
-    "strokeColor": "#696969ff",
     "strokeWidth": 1,
     "strokeStyle": "solid",
     "roughness": 0,
@@ -396,18 +395,13 @@
     "endArrowHead": "none",
     "showLabel": false,
     "fontSize": 10,
-    "fontFamily": 3,
-    "textColor": "#ffffffff"
+    "fontFamily": 3
   },
   "inferredLinkStyle": {
     "strokeStyle": "dashed"
   },
-  "folderLinkStyle": {
-    "strokeColor": "#ffd700ff"
-  },
-  "tagLinkStyle": {
-    "strokeColor": "#4682b4ff"
-  },
+  "folderLinkStyle": {},
+  "tagLinkStyle": {},
   "hierarchyLinkStyles": {},
   "navigationHistory": [
     "00-raw/00_00-archive/slash pages.md",
@@ -454,6 +448,7 @@
   "followActiveFile": true,
   "contentPaneWidth": 38,
   "graphDepth": 1,
+  "groupRelations": false,
   "connectorStyle": "bezier",
   "nodeSortOrder": "name-asc",
   "parentColumns": 2,
@@ -525,6 +520,9 @@
     }
   },
   "mouseInteractionMode": "smart",
+  "hoverHighlightRequiresAlt": true,
+  "areaOutlineRequiresAlt": true,
+  "gateTooltipRequiresAlt": true,
   "toolbarExpanded": false,
   "sidecarOpen": true,
   "sidecarPosition": "right",
@@ -546,9 +544,286 @@
   "thumbnailProperty": "thumbnail",
   "nodeImageProperty": "node-image",
   "attachmentImageDisplay": "thumbnail-label",
+  "allowRemoteNodeImages": false,
   "editNewNodeAfterCreate": false,
   "newNodeDefaultType": "markdown",
   "startupIndexInfoBubbleSeen": true,
   "deletePromptInitialized": false,
-  "confirmFileDelete": true
+  "confirmFileDelete": true,
+  "removeOntologyLinksOnDelete": true,
+  "appearanceThemes": {
+    "version": 1,
+    "migrationComplete": true,
+    "selectedId": "native-base",
+    "migrationNotice": false,
+    "themes": [
+      {
+        "id": "user",
+        "name": "User theme",
+        "appearance": {
+          "base": {
+            "baseNodeStyle": {
+              "prefix": "",
+              "backgroundColor": "#00000066",
+              "fillStyle": "solid",
+              "textColor": "#ffffffff",
+              "borderColor": "#00000000",
+              "fontSize": 20,
+              "fontFamily": 3,
+              "maxLabelLength": 30,
+              "maxWidth": 286,
+              "roughness": 0,
+              "strokeShaprness": "round",
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "padding": 10,
+              "gateRadius": 5,
+              "gateOffset": 15,
+              "gateStrokeColor": "#ffffffff",
+              "gateBackgroundColor": "#ffffffff",
+              "gateFillStyle": "solid"
+            },
+            "centralNodeStyle": {
+              "fontSize": 30,
+              "maxWidth": 370,
+              "backgroundColor": "#b5b5b5ff",
+              "textColor": "#000000ff"
+            },
+            "inferredNodeStyle": {
+              "backgroundColor": "#000005b3",
+              "textColor": "#95c7f3ff"
+            },
+            "virtualNodeStyle": {
+              "backgroundColor": "#ff000066",
+              "fillStyle": "hachure",
+              "textColor": "#ffffffff"
+            },
+            "siblingNodeStyle": {
+              "fontSize": 15
+            },
+            "urlNodeStyle": {
+              "icon": "globe"
+            },
+            "attachmentNodeStyle": {
+              "icon": "paperclip"
+            },
+            "folderNodeStyle": {
+              "icon": "folder",
+              "strokeShaprness": "sharp",
+              "borderColor": "#ffd700ff",
+              "textColor": "#ffd700ff"
+            },
+            "tagNodeStyle": {
+              "icon": "tag",
+              "strokeShaprness": "sharp",
+              "borderColor": "#4682b4ff",
+              "textColor": "#4682b4ff"
+            },
+            "baseLinkStyle": {
+              "strokeColor": "#696969ff",
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "roughness": 0,
+              "startArrowHead": "none",
+              "endArrowHead": "none",
+              "showLabel": false,
+              "fontSize": 10,
+              "fontFamily": 3,
+              "textColor": "#ffffffff"
+            },
+            "inferredLinkStyle": {
+              "strokeStyle": "dashed"
+            },
+            "folderLinkStyle": {
+              "strokeColor": "#ffd700ff"
+            },
+            "tagLinkStyle": {
+              "strokeColor": "#4682b4ff"
+            },
+            "standardStyleDefaults": "legacy",
+            "backgroundColor": "#0c3e6aff"
+          },
+          "semantic": {
+            "noteTypeStyles": {},
+            "tagNodeStyles": {},
+            "tagStyleList": [],
+            "hierarchyLinkStyles": {},
+            "colorPreferences": {
+              "version": 1,
+              "palette": [],
+              "semantic": {},
+              "compass": {
+                "enabled": false,
+                "fills": {}
+              }
+            },
+            "lensColors": {}
+          }
+        }
+      },
+      {
+        "id": "native-base",
+        "name": "Default base + my semantic colors",
+        "appearance": {
+          "base": {
+            "baseNodeStyle": {
+              "prefix": "",
+              "fillStyle": "solid",
+              "fontSize": 20,
+              "fontFamily": 3,
+              "maxLabelLength": 30,
+              "maxWidth": 286,
+              "roughness": 0,
+              "strokeShaprness": "round",
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "padding": 10,
+              "gateRadius": 5,
+              "gateOffset": 15,
+              "gateFillStyle": "solid"
+            },
+            "centralNodeStyle": {
+              "fontSize": 30,
+              "maxWidth": 370
+            },
+            "inferredNodeStyle": {},
+            "virtualNodeStyle": {
+              "fillStyle": "hachure"
+            },
+            "siblingNodeStyle": {
+              "fontSize": 15
+            },
+            "urlNodeStyle": {
+              "icon": "globe"
+            },
+            "attachmentNodeStyle": {
+              "icon": "paperclip"
+            },
+            "folderNodeStyle": {
+              "icon": "folder",
+              "strokeShaprness": "sharp"
+            },
+            "tagNodeStyle": {
+              "icon": "tag",
+              "strokeShaprness": "sharp"
+            },
+            "baseLinkStyle": {
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "roughness": 0,
+              "startArrowHead": "none",
+              "endArrowHead": "none",
+              "showLabel": false,
+              "fontSize": 10,
+              "fontFamily": 3
+            },
+            "inferredLinkStyle": {
+              "strokeStyle": "dashed"
+            },
+            "folderLinkStyle": {},
+            "tagLinkStyle": {},
+            "standardStyleDefaults": "native"
+          },
+          "semantic": {
+            "noteTypeStyles": {},
+            "tagNodeStyles": {},
+            "tagStyleList": [],
+            "hierarchyLinkStyles": {},
+            "colorPreferences": {
+              "version": 1,
+              "palette": [],
+              "semantic": {},
+              "compass": {
+                "enabled": false,
+                "fills": {}
+              }
+            },
+            "lensColors": {}
+          }
+        }
+      },
+      {
+        "id": "default",
+        "name": "Default theme",
+        "appearance": {
+          "base": {
+            "baseNodeStyle": {
+              "prefix": "",
+              "fillStyle": "solid",
+              "fontSize": 20,
+              "fontFamily": 3,
+              "maxLabelLength": 30,
+              "maxWidth": 286,
+              "roughness": 0,
+              "strokeShaprness": "round",
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "padding": 10,
+              "gateRadius": 5,
+              "gateOffset": 15,
+              "gateFillStyle": "solid"
+            },
+            "centralNodeStyle": {
+              "fontSize": 30,
+              "maxWidth": 370
+            },
+            "inferredNodeStyle": {},
+            "virtualNodeStyle": {
+              "fillStyle": "hachure"
+            },
+            "siblingNodeStyle": {
+              "fontSize": 15
+            },
+            "urlNodeStyle": {
+              "icon": "globe"
+            },
+            "attachmentNodeStyle": {
+              "icon": "paperclip"
+            },
+            "folderNodeStyle": {
+              "icon": "folder",
+              "strokeShaprness": "sharp"
+            },
+            "tagNodeStyle": {
+              "icon": "tag",
+              "strokeShaprness": "sharp"
+            },
+            "baseLinkStyle": {
+              "strokeWidth": 1,
+              "strokeStyle": "solid",
+              "roughness": 0,
+              "startArrowHead": "none",
+              "endArrowHead": "none",
+              "showLabel": false,
+              "fontSize": 10,
+              "fontFamily": 3
+            },
+            "inferredLinkStyle": {
+              "strokeStyle": "dashed"
+            },
+            "folderLinkStyle": {},
+            "tagLinkStyle": {},
+            "standardStyleDefaults": "native"
+          },
+          "semantic": {
+            "noteTypeStyles": {},
+            "tagNodeStyles": {},
+            "tagStyleList": [],
+            "hierarchyLinkStyles": {},
+            "colorPreferences": {
+              "version": 1,
+              "palette": [],
+              "semantic": {},
+              "compass": {
+                "enabled": false,
+                "fills": {}
+              }
+            },
+            "lensColors": {}
+          }
+        }
+      }
+    ],
+    "nativeBaseMigration": 1
+  }
 }
