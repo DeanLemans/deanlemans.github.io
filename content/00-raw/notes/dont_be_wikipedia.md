@@ -4,7 +4,7 @@ type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: Dont be wikipedia
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-10-25
 id: k395dlncviospwqkpau7o6mzxwn6wj
 created: 2026-05-17
 aliases:
@@ -20,12 +20,12 @@ aliases:
 >
 > **Example**
 > - A water bottle is made of water and a container.
-> 
+>
 > There is little value in recreating that information. The value comes from adding your own thoughts, connections, tasks, or links to a concept.
 >
 > **Example**
 > - Don't just create a note for a book or movie. Include a short review, key takeaways, insights, or how it connects to other notes. A note that adds almost nothing beyond publicly available information is usually not worth keeping.
-> 
+>
 > Recreating public knowledge is inefficient. Spend that time capturing original thinking, decisions, observations, and relationships instead.
 
 ## Related

@@ -4,7 +4,7 @@ title: Inzicht als cadeau aan mezelf (Versie 2)
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-22
+modified: 2026-10-25
 id: jssrkf1jv3391sra6yu3pvegw90qee
 created: 2026-10-05
 category: school
@@ -512,7 +512,7 @@ Bronnen van [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 > > Benoemt eigen gedrag. Beschrijft gevolgen van dit gedrag voor de leefomgeving. Verbindt gedrag aan ecologische, sociale of economische waarden. Reflecteert op mogelijke verbeteringen.
 > >
 > > **Weging:** 1
->
+> >
 > ---
 >
 > ## Related

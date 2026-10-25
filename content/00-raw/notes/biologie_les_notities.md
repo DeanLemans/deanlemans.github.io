@@ -4,7 +4,7 @@ title: "De Deanste Dean's geweldige notities over Toegepaste Biologie les"
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-18
+modified: 2026-10-25
 id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
@@ -81,7 +81,7 @@ Biodiversiteit is goed voor de economie. Een biodivers bos of gebied met veel so
 
 > [!info] Referenties: [Evolution - Wikipedia](https://en.wikipedia.org/wiki/Evolution)
 
-Klimaat is het weer over een periode van 30 jaar. Flora en fauna moeten zich aanpassen om niet uit te sterven in een veranderend klimaat (een andere optie is migreren naar een ander gebied). Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
+Klimaat is het weer over een period van 30 jaar. Flora en fauna moeten zich aanpassen om niet uit te sterven in een veranderend klimaat (een andere optie is migreren naar een ander gebied). Klimaatverandering zorgt dat soorten zich aanpassen aan het klimaat.
 
 ### Mechanismen van evolutie
 
@@ -316,8 +316,8 @@ Als je 1 deel van een water-ecosysteem weghaalt, moet het opgevangen worden door
 
 [Voedingsstoffen - Wikipedia](https://nl.wikipedia.org/wiki/Voedingsstof)
 - Macro: nitraat (NO₃⁻), fosfaat (PO₄³⁻) en kalium (K⁺) (de N, P en K op kunstmestzakken)
-- Micro's: voedingsstoffen die de plant maar in kleine hoeveelheden nodig heeft, zoals ijzer en zink (waarom exact, nog even terugzoeken)
-- Opgeloste zuurstof (O₂) is geen voedingsstof, maar wel belangrijk voor de waterkwaliteit
+- Micro's: voedingsstoffen die de plant maar in kleine hoeveelheden nodig heeft, zoals ijzer en zinc (waarom exact, nog even terugzoeken)
+- Opgeloste zuurstof (O₂) is geen voedingsstof, maar well belangrijk voor de waterkwaliteit
 - Door stikstof groeien brandnetels, bramen en distels (stikstofminnende planten)
 
 [Chloor - Wikipedia](https://en.wikipedia.org/wiki/Chlorine)
@@ -367,7 +367,7 @@ Zand wordt onder andere aangevoerd door de zee. Zonder planten, meestal soorten 
   - Transformeert zijn lichaamsfuncties om zoet of zout water aan te kunnen
 
 **Kwelders**
-- Ook wel schorren of zoutmoeras
+- Ook well schorren of zoutmoeras
 - Veel pioniersoorten
 - Hoge biodiversiteit
 - Vogelparadijs?
@@ -499,7 +499,7 @@ een combinatie van abiotische en biotische kenmerken op een bepaald gebied
 - 78% van Nederland is grasland?
 - Meeste graslanden worden gebruikt voor agrarische doelen (koeien en nog meer, idk specifiek)
 - Zonder onderhoud veranderen cultuurgraslanden in bos
-  - Dit proces van pioniersoorten naar bos heet successie
+  - Dit process van pioniersoorten naar bos heet successie
 
 **Voorbeelden van beheer**
 - Maaien
@@ -665,6 +665,7 @@ grassen
 - [Home \| Ecopedia](https://www.ecopedia.be/) for ecobegrip
 - [Home - Vlinderstichting](https://vlinderstichting.nl/) voor vlinders en insecten
 - [Samen voor vogels en natuur \| Vogelbescherming](https://www.vogelbescherming.nl/) voor vogels
+- waarneming.nl
 
 ## TODO/VRAGEN
 

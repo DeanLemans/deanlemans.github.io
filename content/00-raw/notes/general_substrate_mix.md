@@ -4,7 +4,7 @@ type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
 title: General Substrate Mix
 tags: []
 publish: true
-modified: 2026-10-01
+modified: 2026-10-25
 id: ac441mljrkwc908z62iq1d4y8dd9sc
 created: 2026-03-27
 ---

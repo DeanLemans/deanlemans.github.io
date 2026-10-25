@@ -5,7 +5,7 @@ tags:
   - vanlilfe
   - research
 publish: true
-modified: 2026-10-06
+modified: 2026-10-25
 id: rorbr1w94ekdmmegk7s5q6edit9qvv
 draft: "true"
 created: 2026-03-17
@@ -21,8 +21,7 @@ aliases:
 Context (up to change)
 I want to live in a van, and also use it for work
 
-
-## my van
+## My van
 
 - opel 2005
 - 120000 KM
@@ -31,7 +30,6 @@ whats still needed?
 - ventilation
 - sunpannel
 - smaller matres/replaceable ground
-
 
 ### Social Concerns
 

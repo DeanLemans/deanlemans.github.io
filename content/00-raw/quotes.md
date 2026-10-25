@@ -4,7 +4,7 @@ title: Quotes
 tags:
   - dreamy
 publish: true
-modified: 2026-10-07
+modified: 2026-10-25
 id: paeo5cnewzvv6jjgnvul1zcdozis1x
 description: stuff from novels i read, quotes, i found them somewhere and i put them here
 created: 2026-02-02
@@ -393,7 +393,7 @@ The lion had spent its entire life training to fight against men, but it was not
 > - Family Boarding House in the Garden
 > - Hotel of Strangers
 > - Wild Street
-> 
+>
 > And the swimming pool on the Street of Little Girls. And the police station on Rendezvous Street. The medical-surgical clinic and the free placement center on the Quai des Orfevres. The artificial flowers on Sun Street. The Castle Cellars Hotel, the Ocean Bar and the Coming and Going Cafe. The Hotel of the Epoch.
 >
 > And the strange statue of Dr. Philippe Pinel, benefactor of the insane, in the last evenings of summer. To explore Paris.

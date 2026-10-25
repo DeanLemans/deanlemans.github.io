@@ -3,7 +3,7 @@ unlisted: false
 title: FUTURE
 tags: []
 publish: true
-modified: 2026-10-07
+modified: 2026-10-25
 id: 5xvypyk7hs8r4gp48y4u9z3z8yml54
 description: things i still/want to do. + planning
 created: 2026-02-02
@@ -33,6 +33,7 @@ hori hori
 - [ ] Buy: the einzelganger and it own (the ego and its own, max stirner)
 - [ ] best weed eater strings
 - [ ] powerblock
+- [ ] [Best Sellers \| Nalgene](https://nalgene.com/best-sellers/)
 
 ## Watch
 

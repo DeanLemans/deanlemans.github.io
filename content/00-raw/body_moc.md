@@ -3,7 +3,7 @@ unlisted:
 type: MOC
 title: Body MOC
 publish: true
-modified: 2026-09-30
+modified: 2026-10-25
 id: r9qmpxsvmy182f2wt614j9vhwfmos3
 created: 2026-07-07
 category: body
@@ -26,6 +26,9 @@ aliases:
 - [ ] NAC?
 - [ ] ivermectin?
 - [ ] natural toothpaste
+
+skincare:
+- water + vitamin C + spf in the morning and cleanser + retinol + moisturiser in the evening
 
 ---
 

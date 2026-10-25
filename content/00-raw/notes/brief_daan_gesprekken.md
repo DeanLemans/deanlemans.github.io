@@ -4,7 +4,7 @@ title: Brief Daan LOB / informatie gesprekken
 tags:
   - toegepaste_biologie
 publish:
-modified: 2026-10-15
+modified: 2026-10-25
 id: f3x3wn0gn2fcbwwq9itqkarh4sd47n
 created: 2026-09-04
 category: school
@@ -19,7 +19,7 @@ aliases:
 - Wie ben je? vertel over jezelf.
 	- **ik ben De Deanste Dean**, ik hou van dingen doen en leren waar mijn intresses in lliggen
 - Hoe zouden je vrienden jou omschrijven?
-	- **huub: eerlijk, zelfbehoude, zecht waar het op aankomt. Rens: jij bent dean, je word rijk en doet tuinen. bram: weigert labels, Duke: staadsmogool, Mink: heeft geen filter, Azriel: de Deaste Dean, Jaina: jij bent de Deanste Dean, Chiel: egoistische fuck, Lucas: klein kanker gremlin, eirin: mijn groote kleine aardige dikke stiefbroer, Cassie: mijn broer, David: stil raar kind, Kay: indo**
+	- **huub: eerlijk, zelfbehoude, zecht waar het op aankomt. Rens: jij bent dean, je word rijk en doet tuinen. bram: weigert labels, Duke: staadsmogool, Mink: heeft geen filter, Azriel: de Deaste Dean, Jaina: jij bent de Deanste Dean, Chiel: egoistische fuck, Lucas: klein kanker gremlin, eirin: mijn groote kleine aardige dikke stiefbroer, Cassie: mijn broer, David: still raar kind, Kay: indo**
 - Wat doe je graag in je vrije tijd?
 	- **projecten werken, tuinieren, gamen, tv/youtube kijken, lezen**
 - Waar ben je trots op?
@@ -36,7 +36,7 @@ aliases:
 - Wat lijkt je het leukst aan deze opleiding?
 	- **leren onderzoeken en connecties/vrienden**
 - Waar zie je tegenop of wat vind je spannend?
-	- **dingen die ik moeilijk vind: 
+	- **dingen die ik moeilijk vind:
 		- dingen optijd doen, optijd zijn, actie nemen op mijn plannen en projecten**
 - Wat hoop je dit schooljaar te leren?
 	- **onderzoeken en documenteren dat daar bij hoord. over biologie en de dingen die daar bij horen(kringloop, evolutie, planten, ETC)**
@@ -77,7 +77,7 @@ aliases:
 	- **mijn pa heeft zware slaap Apneu en Astma, dus daar moet ik hem soms mee helpen, mijn tante/buurvrouw heeft een hersen hernia gehad dit jaar en kan op het moment niet super veel, dus haar moet ik ook soms helpen**
 - Wat kan ik doen als SLB om jou te helpen succesvol te zijn?
 	- **mij motiveren en uitleggen wat het nut is van sommige dingen die we op school leren. als ik het nut niet ergens van inzie ga ik er niet opletten/leren.
-	- **dus iets meer uitleg van waarom we dingen leren en waarom deze methode zou fijn zijn**
+	- **dus iets meer uitleg van waarom we dingen leren en waarom deze method zou fijn zijn**
 - Waar zou je graag eens over willen praten tijdens een coachgesprek?
 	- **hoe dingen better zouden kunnen gaan op school en dingen relevant daaraan**
 

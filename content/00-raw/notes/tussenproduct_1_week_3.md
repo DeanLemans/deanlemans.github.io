@@ -4,7 +4,7 @@ title: Tussen Product 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-07
+modified: 2026-10-25
 id: 326pi4i1ddomxw44tickixquuok0z1
 created: 2026-09-07
 category: school
@@ -205,7 +205,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > - Geef per categorie een schatting of meting van de hoeveelheid afval.
 >    - **50% rest, 20% papier, 20% plastic, 10% overig.**
 >    - **GFT/groen: 20%, glas: 10%
-> 
+>
 > ### 2. Afvalverwerking in jouw gemeente
 >
 > Onderzoek hoe jouw gemeente omgaat met afvalverwerking.
@@ -223,7 +223,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Kliko's worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
 > - Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
 >    - **Gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
-> 
+>
 > ### 3. Onderzoek naar jouw eigen afvalstroom
 >
 > Verzamel thuis informatie over jouw afvalproductie.
@@ -238,7 +238,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Ja, minder eten weggooien scheelt al veel.**
 > - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
 >    - **Niet echt hergebruiken, het wordt verbrand voor energie.**
-> 
+>
 > Papier
 >
 > - Waar het afval vandaan komt.
@@ -249,7 +249,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Ja, minder losse pakketjes bestellen zou schelen.**
 > - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
 >    - **Ja, papier en karton worden gerecycled tot nieuw papier.**
-> 
+>
 > Groen
 >
 > - Waar het afval vandaan komt.
@@ -260,7 +260,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Ja, minder eten laten bederven scheelt.**
 > - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
 >    - **Ja, kan gecomposteerd worden.**
-> 
+>
 > Plastic
 >
 > - Waar het afval vandaan komt.
@@ -271,7 +271,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Ja, statiegeldflessen gebruiken in plaats van wegwerpflessen.**
 > - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
 >    - **Ja, wordt gesorteerd en verwerkt tot nieuwe plastic producten.**
-> 
+>
 > Glas
 >
 > - Waar het afval vandaan komt.
@@ -282,7 +282,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >    - **Ja, statiegeldflessen gebruiken en vaker herbruikbare verpakkingen kiezen en glazen poten herbruiken voor projecten.**
 > - Of het afval hergebruikt, gerepareerd of verwerkt kan worden.
 >    - **Ja, sommig glas wordt gescheiden en omgesmolten tot nieuw glas.**
-> 
+>
 > ### 4. Verbetermogelijkheden
 >
 > Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
@@ -304,12 +304,12 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > 1. Voeg eventueel foto's of kaarten toe.
 > 2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
 > 3. Controleer of je document voldoet aan de voorwaarden van een verslag.
-> 
+>
 > ## Bronnen
 >
 > - [Huishoudelijk afval per gemeente per inwoner | CBS](https://www.cbs.nl/nl-nl/cijfers/detail/83452NED)
 > - [Interactieve Huishoudelijke Afvalcalculator - LangMee](https://www.langmee.nl/afval/)
-> 
+>
 > > [!image]- Uitslag afvalcalulator
 > > ![Mijn Afval Score|288](<../../static_files/Mijn Afval Score.webp>)
 
