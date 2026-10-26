@@ -31,6 +31,7 @@ hori hori
 - [ ] Buy: Air filter ⏬
 - [ ] Buy: Neck training equipment ⏬
 - [ ] Buy: the einzelganger and it own (the ego and its own, max stirner)
+- [ ] the ultimate guide to rebuilding civilization
 - [ ] best weed eater strings
 - [ ] powerblock
 - [ ] [Best Sellers \| Nalgene](https://nalgene.com/best-sellers/)
@@ -135,6 +136,7 @@ hori hori
 - [ ] IDK man <https://basementcommunity.com/> <https://tilde.club/> ⏬
 - [ ] Seems cool man <https://ysap.sh/> ⏬
 - [ ] Add site to Webtiles ⏬
+- [ ] grow winged beans in garde
 - [ ] Move from Obsidian to Emacs ⏬
 - [x] Leerbedrijf zoeken en mail maken 🔺 ✅ 2026-10-07
 - [x] Sort out all IT/tech and plant business ⏬ ✅ 2026-09-28

@@ -44,8 +44,8 @@ skincare:
 
 [🌿improving_my_sleep](<../01-garden_of_learning/🌿improving_my_sleep.md>)
 
-![body_stuff](<./body_stuff.base>)
-[body_stuff](<./body_stuff.base>)
+![body_stuff](<./00_00-archive/MOC/body_stuff.base>)
+[body_stuff](<./00_00-archive/MOC/body_stuff.base>)
 
 # Sources
 

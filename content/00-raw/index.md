@@ -3,7 +3,7 @@ unlisted: false
 title: 00 Raw
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-10-25
 id: rk7wgp898ae6eyfcft97kubl5huq2k
 created: 2026-04-11
 aliases:
@@ -24,7 +24,7 @@ Also know as the true part of my site, I don't want to maintain 2 site (normal a
 
 this is the true site/side of my site, the normal portion is filtered for normal, and is to be treated as a public folder
 
-- [ ] add bunch of indie/small web badges here bc its cool
+- [ ] add bunch of indie/small web badges here bc its cool (example badges: [web-badges-world](https://web.badges.world/))
 - [ ] need a central place to render all checkboxes
 
 [Bali Research link](https://dean.nekoweb.org/)

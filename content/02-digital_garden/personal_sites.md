@@ -2,7 +2,7 @@
 unlisted:
 title: Cool Personal sites
 publish: true
-modified: 2026-09-30
+modified: 2026-10-25
 id: 6i16to3endkm2xocypk5zo7o6a8u0v
 created: 2026-03-17
 aliases:
@@ -26,6 +26,8 @@ alias_sugestion: Cool Personal sites
 
 ---
 
+- [Brennan's Weblog · brennan.day](https://brennan.day/)
+- [P1xel Garden](https://p1xelgarden.com/)
 - [Dig Deeper](https://digdeeper.neocities.org/)
 - [>>SLIME-NET](https://skumsoft.ltd/slimenet/indexx.html)
 - [The Living Philosophy](https://www.thelivingphilosophy.com/)

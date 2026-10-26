@@ -2,7 +2,7 @@
 unlisted: false
 title: Money expensive bank investing
 publish: true
-modified: 2026-10-01
+modified: 2026-10-25
 id: 2y7j5ymr2f70oq0ma2v47rlfn47xjg
 created: 2026-05-08
 ---
@@ -70,3 +70,4 @@ money must move? at least saving your money in the bank is not worth it anymore,
 [FIRE Europe - Financial Independence Retire Early for Europeans](https://fireeurope.com/)
 [How to Invest in Stocks for Beginners (Europe) - YouTube](https://www.youtube.com/watch?v=4anzhMnJYJA)
 [Reddit](https://www.reddit.com/r/Monero/comments/1wotziy/how_do_yall_make_monero/)
+[Groene beleggingen \| Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/beleggen_met_belastingvoordeel/groene_beleggingen)

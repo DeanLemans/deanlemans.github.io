@@ -15,8 +15,8 @@ when something is this type of note, doesn't mean its the final form, the final 
 
 [my_lifesycle_of_notes](<./my_lifesycle_of_notes.md>)
 
-![all_atomic_notes](<../all_atomic_notes.base>)
-[all_atomic_notes](<../all_atomic_notes.base>)
+![all_atomic_notes](<../00_00-archive/MOC/all_atomic_notes.base>)
+[all_atomic_notes](<../00_00-archive/MOC/all_atomic_notes.base>)
 
 ### References
 

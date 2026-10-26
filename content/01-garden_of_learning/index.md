@@ -19,6 +19,8 @@ my garden of learning, the status is signified to the user via the emojies.
 kinda like my project folder? but different.
 like a PARA
 
+> see also: [project_ideas](<../00-raw/project_ideas.md>)
+
 ---
 
 some of the projects are moved to the [Sintutiers Amazing Site!](https://sintutiers.github.io/nexus/) bc they are projects multiple people are working on

@@ -14,4 +14,4 @@ contains notes and thoughs and insights of mine of mine,
 
 see the MOC
 
-![moc_collector](<../moc_collector.base>)
+![moc_collector](<../00_00-archive/MOC/moc_collector.base>)
