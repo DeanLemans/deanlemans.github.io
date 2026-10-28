@@ -4,7 +4,7 @@ title: Ecosysteem Project
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-26
+modified: 2026-10-28
 id: 5jsyrhgb2k54di3mepd2jm5wjtjk2g
 created: 2026-09-07
 category: school
@@ -15,21 +15,28 @@ aliases:
 
 # Ecosysteem Project
 
-> [!info] Status
-> Stap 1 bezig, rest nog leeg. Alles hieronder is nog ruw.
-
 ## Reqq for making the logboek
 
 - kinda create it like a sientific paper
   - dus: doel, onderzoek, ontwerp, bouwen, monitoren, analyse, conclusie, reflectie
-- UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1
+- [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf)
   - [ ] checklist doorlopen voor ik inlever
 - mega note on scientific method
   - [ ] nog schrijven, hypothese en meetbare dingen niet vergeten
 
-> [!todo] raw to filter
+# raw to filter
 > kast word watervast gemaakt door mate van spullen van [Bison | Powerful adhesives!](https://www.bison.net/), zodat ik er planten in kan doen
-> - [ ] nog uitzoeken welke kit precies, moet veilig zijn voor planten en garnalen
+> [Bison Rubber Seal coating noir 750ml](https://www.praxis.nl/bouwmaterialen/waterdichting-vochtbarriere/voegkitten/andere-afdichtingskitten/bison-rubber-seal-coating-noir-750ml/5376013)
+> [Bison siliconenkit super silicone sanitair wit 150ml](https://www.praxis.nl/bouwmaterialen/waterdichting-vochtbarriere/voegkitten/siliconenkitten/bison-siliconenkit-super-silicone-sanitair-wit-150ml/5473816)
+
+afmetingen CM
+- 156 length
+- 40 breed
+- 35 hoog
+
+> *logboek*
+> heb op marktplaats een tweedehands kast gekocht, moet hem nu waterdicht maken
+> kan de kast niet 100% waterdicht maken, dus geen aquarium aan de rand van de glazen
 
 ## Stap 1 onderzoek
 
