@@ -1,8 +1,15 @@
 {
+  "datePropertyNames": [
+    "date",
+    "*Date"
+  ],
+  "defaultTimeZone": "",
   "isBacklinksModuleEnabled": true,
   "isHeadingsModuleEnabled": false,
   "isNamesModuleEnabled": false,
+  "isPropertiesModuleEnabled": true,
   "isTitlesModuleEnabled": false,
+  "isUnlinkedMentionsModuleEnabled": false,
   "shouldAutomaticallyRefreshBacklinkPanels": false,
   "shouldOfferTitlesInLinkSuggestions": false,
   "shouldShowProgressBarOnLoad": true,
