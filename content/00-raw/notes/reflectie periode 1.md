@@ -1,7 +1,7 @@
 ---
 unlisted:
 title: Reflectie voor period 1 leerjaar 1
-publish:
+publish: true
 modified: 2026-11-06
 id: rza2i0de1bsnv10gyiznoliy2rrz7s
 created: 2026-11-03
@@ -152,7 +152,7 @@ Datum: 06-11-2026
 > - Wat dit zegt over mijn kwaliteiten: *ik kan leren van feedback en dat zelf toepassen*
 
 > [!success] Trots op mijn notities van de lessen [biologie_les_notities](<./biologie_les_notities.md>)
-> - Wat ik heb gedaan: *ik heb goede notities gemaakt* [biologie_les_notities](biologie_les_notities.md)
+> - Wat ik heb gedaan: *ik heb goede notities gemaakt* [biologie_les_notities](<./biologie_les_notities.md>)
 > - Gekoppeld aan succescriterium: IDK man
 > - Waarom ik hier trots op ben: *ik gebruikt ze vaak en verbeter ze ook als er nieuwe informatie is*
 > - Wat dit zegt over mijn kwaliteiten: *ik kan goed notities maken? goed leren bij dingen die ik interesant vind*
