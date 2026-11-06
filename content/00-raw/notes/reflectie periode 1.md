@@ -19,6 +19,9 @@ Datum: 06-11-2026
 
 > 0 = onvoldoende, 1 = voldoende, 2 = goed
 
+> [!NOTE] voorwoord voor docenten
+> ik had eigenlijk bij bewijs meer speciek in moeten zetten hoe ik het heb gedaan, maar eigenlijk staat alle info in het projectplan. en ik heb eigenlijk geen zin meer in om het over te typen van het projectplan
+
 > [!note] Foto inspiratieavond
 > <img src="../../static_files/file-20261106112946399.png" width="500">
 
@@ -127,14 +130,14 @@ Datum: 06-11-2026
 > verschillende betrokkenen herkennen, rekening houden met hun behoeften en verwachtingen, taalgebruik aanpassen aan de doelgroep, controleren of de boodschap begrepen wordt.
 >
 > - Wat ik heb gedaan: *mijn gedrag aangepast aan de groep aan wie ik het uitlegde*
-> - Bewijs: *rondvragen hoe ik mij heb gedragen op de inspiratieavond. Volgens mij had Stein dit gedaan*
+> - Bewijs: *rondvragen hoe ik mij heb gedragen op de inspiratieavond. Volgens mij had Stijn dit gedaan*
 > - Niveau en waarom: *1, ik vond dat ik niet genoeg met de groep had gecommuniceerd over wat ik precies ging presenteren. Dit kwam vooral doordat ik de laatste week ziek was*
 
 > [!example] 3.2 Communicatievorm afstemmen op het doel van het project (harde eis)
 > een passende communicatievorm kiezen en toelichten, de vorm afstemmen op doelgroep en doel, de gekozen vorm effectief gebruiken.
 >
-> - Wat ik heb gedaan: *wij hebben per tweetal gepresenteerd*
-> - Bewijs: *rondvragen hoe ik mij heb gedragen op de inspiratieavond. Volgens mij had Stein dit gedaan*
+> 	- Wat ik heb gedaan: *wij hebben per tweetal gepresenteerd, en hadden specifiek afgesproken wie wat gaat vertellen en waneer we mochten wisselen*
+> - Bewijs: *rondvragen hoe ik mij heb gedragen op de inspiratieavond. Volgens mij had Stijn dit gedaan*
 > - Niveau en waarom: *2, wij hebben goed samen gepresenteerd*
 
 ---
@@ -155,7 +158,6 @@ Datum: 06-11-2026
 
 > [!success] Trots op mijn notities van de lessen [biologie_les_notities](<./biologie_les_notities.md>)
 > - Wat ik heb gedaan: *ik heb goede notities gemaakt* [biologie_les_notities](<./biologie_les_notities.md>)
-> - Gekoppeld aan succescriterium: IDK man
 > - Waarom ik hier trots op ben: *ik gebruikt ze vaak en verbeter ze ook als er nieuwe informatie is*
 > - Wat dit zegt over mijn kwaliteiten: *ik kan goed notities maken? goed leren bij dingen die ik interesant vind*
 
@@ -176,7 +178,7 @@ Datum: 06-11-2026
 ## 4. Algemeene reflectie
 
 > [!question] Hoe kijk ik terug op deze period?
-> *Ik vond er eigenlijk niet veel aan, ik vond well dat ik en mijn groepje het goed hadden gedaan*
+> *Ik vond er eigenlijk niet veel aan, ik vond well dat ik en mijn groepje het goed hadden gedaan, ik vond er niet veel aan omdat ik meer geintereseert ben in groen onderzoek, en niet zoveel sociaal en die dingne, we hebben maar 1 keer wateronderzoek gehad bijvoorbeeld*
 
 > [!question] Welk cijfer geef ik mezelf voor mijn ontwikkeling?
 > *7/10, ik heb redelijk veel geleerd, maar de dingen die ik het leukst vond zijn niet terug gekomen op de inspiratieavond*
