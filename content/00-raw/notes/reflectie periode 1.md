@@ -5,6 +5,8 @@ publish: true
 modified: 2026-11-06
 id: rza2i0de1bsnv10gyiznoliy2rrz7s
 created: 2026-11-03
+aliases:
+  - rza2i0de1bsnv10gyiznoliy2rrz7s
 ---
 
 # Reflectie voor period 1 leerjaar 1
@@ -18,7 +20,7 @@ Datum: 06-11-2026
 > 0 = onvoldoende, 1 = voldoende, 2 = goed
 
 > [!note] Foto inspiratieavond
-> <img src="../../static_files/file-20261106112946399.png" width="400">
+> <img src="../../static_files/file-20261106112946399.png" width="500">
 
 ---
 
