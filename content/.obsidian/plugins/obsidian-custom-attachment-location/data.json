@@ -15,6 +15,7 @@
   "excludePathsFromAttachmentCollecting": [],
   "excludePathsFromMultipleNotesCheck": [],
   "generatedAttachmentFileName": "file-{{date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}}",
+  "insertedLinkText": "",
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
@@ -22,6 +23,7 @@
   "orphanAttachmentScanMode": "None",
   "orphanAttachmentScanPaths": [],
   "otherPluginIdsForAttachmentRename": [],
+  "pluginDataFolder": "@Plugin sync data (DO NOT REMOVE)",
   "proposedRenameDeleteSettings": null,
   "renameAttachmentsCreatedByOtherPluginsMode": "None",
   "renamedAttachmentFileName": "",
@@ -33,17 +35,25 @@
     "/^\\/tmp\\//",
     "/^\\/var\\/folders\\//"
   ],
+  "shouldAllowHiddenPluginDataFolder": false,
   "shouldCollectAttachmentsAutomatically": false,
+  "shouldCommitBulkOperations": false,
   "shouldDeduplicateIdenticalAttachments": false,
   "shouldFollowObsidianAttachmentLocation": true,
   "shouldKeepNamesOfPastedNonScreenshotFiles": false,
   "shouldPreserveImageMetadata": false,
   "shouldRenameCollectedAttachments": false,
-  "shouldSetLinkDisplayTextToAttachmentFileName": false,
   "shouldSkipCollectingAttachmentsReferencedByRawPath": false,
   "shouldWarnWhenOriginalAttachmentNameIsUnknown": true,
+  "sidecarExtensions": [
+    "p7s",
+    "sig",
+    "asc",
+    "srt",
+    "vtt"
+  ],
   "specialCharacters": "#^[]|*\\<>:?/",
   "specialCharactersReplacement": "-",
   "timeoutInSeconds": 5,
-  "version": "17.0.0"
+  "version": "17.2.0"
 }

@@ -17,6 +17,8 @@
   "shouldRescueSharedAttachments": false,
   "shouldShowLinkUpdateNotice": true,
   "shouldUpdateFileNameAliases": true,
+  "shouldUpdateHtmlLinks": false,
+  "shouldWarnAboutPathsInSettings": false,
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ]

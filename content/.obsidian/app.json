@@ -23,5 +23,9 @@
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "00-raw/inbox",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "userIgnoreFilters": [
+    "Plugin data/",
+    "@Plugin sync data (DO NOT REMOVE)/"
+  ]
 }

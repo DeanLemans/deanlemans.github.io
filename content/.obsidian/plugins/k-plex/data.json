@@ -91,7 +91,7 @@
   },
   "actionPreferences": {
     "version": 1,
-    "defaultBindingsVersion": 1,
+    "defaultBindingsVersion": 3,
     "localBindings": {
       "selection.move.up": [
         {
@@ -313,6 +313,7 @@
     ]
   },
   "ontologyPairingVersion": 1,
+  "ontologyDescriptions": {},
   "inferAllLinksAsFriends": true,
   "inverseInfer": false,
   "datePropertyRelations": "parent",
@@ -412,7 +413,6 @@
     "00-raw/notes/index.md",
     "vault_rules.md",
     "folder:00-raw/00_01-zettel",
-    "00-raw/notes/backup_rule.md",
     "00-raw/index.md",
     "folder:00-raw/inbox",
     "tag:toegepaste_biologie",
@@ -420,10 +420,11 @@
     "00-raw/notes/history_doesnt_decide_shape_environment_does.md",
     "../../A Mind For Numbers",
     "00-raw/notes/picture_walk.md",
-    "00-raw/notes/atomic_permanent_zettel.md",
     "00-raw/00_00-archive/Zettelkasten.md",
     "00-raw/notes/PKM_brainstorm.md",
-    "./00_00-clippings/Wittgenstein"
+    "./00_00-clippings/Wittgenstein",
+    "00-raw/notes/backup_rule.md",
+    "00-raw/notes/atomic_permanent_zettel.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
@@ -436,6 +437,7 @@
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
   "allowAutozoom": true,
+  "trackpadNavigation": false,
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
   "embedCentralNode": false,
@@ -461,8 +463,28 @@
   "noteTypeStyles": {},
   "kplexInitialized": true,
   "startInPopout": false,
-  "lastActivePath": "00-raw/notes/tussenproduct_3_week_7.md",
+  "lastActivePath": "00-raw/notes/atomic_permanent_zettel.md",
   "pinnedNodes": [],
+  "periodicPinSettings": {
+    "day": {
+      "folder": "",
+      "format": "YYYY-MM-DD",
+      "useDailyNotes": true,
+      "weekStart": "iso"
+    },
+    "week": {
+      "folder": "",
+      "format": "GGGG-[W]WW",
+      "useDailyNotes": false,
+      "weekStart": "iso"
+    },
+    "month": {
+      "folder": "",
+      "format": "YYYY-MM",
+      "useDailyNotes": false,
+      "weekStart": "iso"
+    }
+  },
   "layoutProfiles": {
     "desktop:leaf": {
       "compactingFactor": 1.9,
@@ -519,6 +541,7 @@
       "childColumns": 2
     }
   },
+  "canvasViewSettings": {},
   "mouseInteractionMode": "smart",
   "hoverHighlightRequiresAlt": true,
   "areaOutlineRequiresAlt": true,
@@ -546,7 +569,12 @@
   "attachmentImageDisplay": "thumbnail-label",
   "allowRemoteNodeImages": false,
   "editNewNodeAfterCreate": false,
+  "newNodeAfterSaving": "return",
+  "periodicNoteAfterSaving": "sidecar",
+  "folderCreationTab": "note",
+  "linkAfterSaving": "return",
   "newNodeDefaultType": "markdown",
+  "lastDrawingTemplatePath": null,
   "startupIndexInfoBubbleSeen": true,
   "deletePromptInitialized": false,
   "confirmFileDelete": true,

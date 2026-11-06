@@ -3,7 +3,7 @@ unlisted:
 type: MOC
 title: Body MOC
 publish: true
-modified: 2026-10-25
+modified: 2026-11-01
 id: r9qmpxsvmy182f2wt614j9vhwfmos3
 created: 2026-07-07
 category: body
@@ -57,3 +57,4 @@ skincare:
 - [testament](<../testament.md>)
 - [PKM_brainstorm](<./notes/PKM_brainstorm.md>)
 - [commonplacebook](<../commonplacebook.md>)
+- [mind stuff?](<./mind stuff?.md>)

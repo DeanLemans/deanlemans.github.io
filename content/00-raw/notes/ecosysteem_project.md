@@ -19,12 +19,13 @@ aliases:
 
 - kinda create it like a sientific paper
   - dus: doel, onderzoek, ontwerp, bouwen, monitoren, analyse, conclusie, reflectie
-- [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf)
+- [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](<../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
   - [ ] checklist doorlopen voor ik inlever
 - mega note on scientific method
   - [ ] nog schrijven, hypothese en meetbare dingen niet vergeten
 
-# raw to filter
+# Raw to filter
+
 > kast word watervast gemaakt door mate van spullen van [Bison | Powerful adhesives!](https://www.bison.net/), zodat ik er planten in kan doen
 > [Bison Rubber Seal coating noir 750ml](https://www.praxis.nl/bouwmaterialen/waterdichting-vochtbarriere/voegkitten/andere-afdichtingskitten/bison-rubber-seal-coating-noir-750ml/5376013)
 > [Bison siliconenkit super silicone sanitair wit 150ml](https://www.praxis.nl/bouwmaterialen/waterdichting-vochtbarriere/voegkitten/siliconenkitten/bison-siliconenkit-super-silicone-sanitair-wit-150ml/5473816)
@@ -153,4 +154,6 @@ bioactiviteit
 
 ## Related
 
-🪴shed_greenhouse 🌱plant_terrarium_project
+[🪴shed_greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
+
+[🌱plant_terrarium_project](<../../01-garden_of_learning/🌱plant_terrarium_project.md>)

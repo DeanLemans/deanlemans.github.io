@@ -1,11 +1,14 @@
 {
+  "codeBlockLinkLanguages": [],
   "datePropertyNames": [
     "date",
     "*Date"
   ],
   "defaultTimeZone": "",
   "isBacklinksModuleEnabled": true,
+  "isCodeBlockLinksModuleEnabled": true,
   "isHeadingsModuleEnabled": false,
+  "isLinkTextsModuleEnabled": true,
   "isNamesModuleEnabled": false,
   "isPropertiesModuleEnabled": true,
   "isTitlesModuleEnabled": false,
@@ -13,6 +16,7 @@
   "shouldAutomaticallyRefreshBacklinkPanels": false,
   "shouldOfferTitlesInLinkSuggestions": false,
   "shouldShowProgressBarOnLoad": true,
+  "titleNamePatterns": [],
   "titlePropertyNames": [
     "title"
   ]

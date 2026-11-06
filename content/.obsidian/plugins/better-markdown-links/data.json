@@ -1,4 +1,5 @@
 {
+  "excludeLinkTargetPaths": [],
   "excludePaths": [
     "/.+\\.excalidraw\\.md$/",
     "/.+\\.tldraw\\.md$/"
@@ -11,6 +12,7 @@
   "proposedShouldHandleRenames": null,
   "shouldAllowEmptyEmbedAlias": true,
   "shouldAppendFileNameWhenDemotingEmbeds": false,
+  "shouldCommitBulkOperations": false,
   "shouldConvertFrontmatterWikilinksToMarkdown": false,
   "shouldCreateMissingNotes": true,
   "shouldIncludeAttachmentExtensionToEmbedAlias": true,

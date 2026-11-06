@@ -1,9 +1,12 @@
 {
   "invalidCharacterAction": "Error",
+  "lastRenameIntent": "SyncTitleAndHeading",
   "replacementCharacter": "_",
   "shouldAddOldTitleAsAlias": true,
+  "shouldAskRenameIntent": true,
   "shouldPreservePreviousDisplayTextInFrontmatterLinks": false,
   "shouldPreservePreviousDisplayTextInNoteLinks": false,
+  "shouldSaveLastRenameIntent": false,
   "shouldStoreInvalidTitle": true,
   "shouldSupportNonMarkdownFiles": true,
   "shouldUpdateFirstHeader": false,
