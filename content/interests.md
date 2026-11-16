@@ -1,11 +1,13 @@
 ---
 unlisted: false
 title: /interests
+tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: dfh0cy91rejdh36j9mjbhy7myv60do
 created: 2026-09-24
 aliases:
+  - Interests
   - interest
 ---
 

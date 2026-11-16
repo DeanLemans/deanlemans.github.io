@@ -1,11 +1,13 @@
 ---
-unlisted:
+unlisted: false
 title: work_time
 tags: []
 publish: false
-modified: 2026-09-30
+modified: 2026-11-16
 id: jctup1uns0ba1pxa46kjw92h82rllg
 created: 2026-04-22
+aliases:
+  - Work time
 ---
 
 # work\_time

@@ -11,7 +11,7 @@ aliases:
 
 # Trajectory
 
-- [ ] implement the other plans i made in bali [things_i_learned_in_bali](<./things_i_learned_in_bali.md>)
+- [ ] implement the other plans i made in bali [Things i learned in bali](things_i_learned_in_bali.md)
 - [ ] need to rework ts bc i changed educations
 
 > [!NOTE] Alternative titles

@@ -1,13 +1,15 @@
 ---
 unlisted: true
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: Ubermensch
+tags: []
 publish: true
 modified: 2026-09-30
 id: gq3jl7jlbssc6gsgchkfmt6jvesy5b
 created: 2026-07-08
 aliases:
   - Ubermensch, overcoming of self
+  - Ubermensch overcoming of self
 ---
 
 # Ubermensch

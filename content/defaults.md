@@ -1,11 +1,13 @@
 ---
-unlisted:
+unlisted: false
 title: /defaults
+tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: 3k100zejvkwvlqsyyut0yyi97nbvmr
 created: 2026-09-24
 aliases:
+  - Defaults
   - default
 ---
 

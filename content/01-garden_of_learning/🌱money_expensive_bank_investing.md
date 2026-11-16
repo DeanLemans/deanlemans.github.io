@@ -1,10 +1,13 @@
 ---
 unlisted: false
 title: Money expensive bank investing
+tags: []
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: 2y7j5ymr2f70oq0ma2v47rlfn47xjg
 created: 2026-05-08
+aliases:
+  - Money expensive bank investing
 ---
 
 # Money expensive bank investing
@@ -18,10 +21,10 @@ info:
 - trade
 	- dropshipping
 	- selling shit (that i can reasonably do?)
-		- plants[Shed Greenhouse Project](<./🪴shed_greenhouse.md>)
+		- plants[Shed Greenhouse Project](🪴shed_greenhouse.md)
 		- games
 		- crafts and such
-		- selling mini terrariums[🌱plant_terrarium_project](<./🌱plant_terrarium_project.md>)
+		- selling mini terrariums[Plant terrarium project](🌱plant_terrarium_project.md)
 - investing
 	- stocks and such(contact bank or whatnot)
 	- crypto trading or reselling
@@ -50,9 +53,9 @@ crypto trading
 
 ### Principles
 
-[emergency_fund](<../00-raw/notes/emergency_fund.md>)
+[Emergency fund](../00-raw/notes/emergency_fund.md)
 
-[building_a_emergency_fund](<../00-raw/notes/building_a_emergency_fund.md>)
+[Building a emergency fund](../00-raw/notes/building_a_emergency_fund.md)
 
 investing vs pension
 

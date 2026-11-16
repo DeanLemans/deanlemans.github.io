@@ -5,7 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: 4t4ec0sf4sn9vhe1htp054cxqcyv23
-draft: "true"
+draft: true
 description: No Gods, No Masters, No Idols
 created: 2024-05-09
 aliases:
@@ -91,7 +91,7 @@ aliases:
 
 ---
 
-[Evil Overlord List](<./00_00-archive/Evil Overlord List.md>)
+[Evil Overlord List](00_00-archive/Evil_Overlord_List.md)
 48 rules of power
-[The Universal Genre Savvy Guide](<./00_00-archive/The Universal Genre Savvy Guide.md>)
+[The Universal Genre Savvy Guide](00_00-archive/The_Universal_Genre_Savvy_Guide.md)
 how to win friends and influence people

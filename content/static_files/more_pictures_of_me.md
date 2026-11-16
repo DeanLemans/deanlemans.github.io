@@ -5,6 +5,8 @@ publish: true
 modified: 2026-09-30
 id: 5oot5qqgyot43ddfolx7npnud9dgpo
 created: 2026-09-21
+aliases:
+  - More pictures of me
 ---
 
 # More pictures of me

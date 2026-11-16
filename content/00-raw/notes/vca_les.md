@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 title: VCA (Veiligheid Certificaat Aannemer) les
 tags:
   - toegepaste_biologie

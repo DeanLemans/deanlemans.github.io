@@ -9,6 +9,7 @@ id: sezd7oyj5ji0oyyrt5devl1yg4bp9i
 created: 2026-03-17
 aliases:
   - there_are_stars_inside_me
+  - There are stars inside me
 ---
 
 # There Are Stars Inside Me

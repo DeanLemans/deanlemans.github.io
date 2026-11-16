@@ -1,6 +1,6 @@
 ---
-unlisted:
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+unlisted: false
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: Dont be wikipedia
 tags: []
 publish: true
@@ -11,7 +11,7 @@ aliases:
   - dont be wikipedia
 ---
 
-[atomic\_permanent\_zettel](<./atomic_permanent_zettel.md>)
+[Atomic permanent zettel](atomic_permanent_zettel.md)
 
 # Dont be wikipedia
 
@@ -30,4 +30,4 @@ aliases:
 
 ## Related
 
-[dont_be_a_hoarder-archivist_fallacy-collectors_fallacy](<./dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)
+[Dont be a hoarder-archivist fallacy-collectors fallacy](dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md)

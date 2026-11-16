@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 title: "Portfolio-opdracht 1: Ik en mijn omgeving"
 tags:
   - hovenier
@@ -8,6 +8,8 @@ modified: 2026-09-30
 id: op84331qf2n9kopw66bvpx85593k7b
 created: 2025-11-14
 category: school
+aliases:
+  - Portofolio opdrachten
 ---
 
 > [!NOTE] Verwerk alle antwoorden in je profiel.

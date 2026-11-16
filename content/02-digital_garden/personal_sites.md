@@ -1,11 +1,13 @@
 ---
-unlisted:
+unlisted: false
 title: Cool Personal sites
+tags: []
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: 6i16to3endkm2xocypk5zo7o6a8u0v
 created: 2026-03-17
 aliases:
+  - Personal sites
   - external_sites
   - Cool Personal sites!
   - Cool Personal sites

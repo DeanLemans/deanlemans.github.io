@@ -1,13 +1,15 @@
 ---
-unlisted:
+unlisted: false
 type: MOC
 title: Body MOC
+tags: []
 publish: true
-modified: 2026-11-01
+modified: 2026-11-16
 id: r9qmpxsvmy182f2wt614j9vhwfmos3
 created: 2026-07-07
 category: body
 aliases:
+  - Body moc
   - Body meta
 ---
 
@@ -32,17 +34,17 @@ skincare:
 
 ---
 
-[🌱improving_quality_off_hair](<../01-garden_of_learning/🌱improving_quality_off_hair.md>)
+[Improving quality off hair](../01-garden_of_learning/🌱improving_quality_off_hair.md)
 
-[Wetshaving](<../Wetshaving.md>)
+[Wetshaving](../Wetshaving.md)
 
-[🌿my_suplement_stack](<../01-garden_of_learning/🌿my_suplement_stack.md>)
+[My suplement stack](../01-garden_of_learning/🌿my_suplement_stack.md)
 
 [Workout research](<../Workout research.md>)
 
-[Longlivity](<../Longlivity.md>)
+[Longlivity](../Longlivity.md)
 
-[🌿improving_my_sleep](<../01-garden_of_learning/🌿improving_my_sleep.md>)
+[Improving my sleep](../01-garden_of_learning/🌿improving_my_sleep.md)
 
 ![body_stuff](<./00_00-archive/MOC/body_stuff.base>)
 [body_stuff](<./00_00-archive/MOC/body_stuff.base>)
@@ -54,7 +56,7 @@ skincare:
 
 ### See also
 
-- [testament](<../testament.md>)
-- [PKM_brainstorm](<./notes/PKM_brainstorm.md>)
-- [commonplacebook](<../commonplacebook.md>)
-- [mind stuff?](<./mind stuff?.md>)
+- [Testament](../testament.md)
+- [PKM brainstorm](notes/PKM_brainstorm.md)
+- [Commonplacebook](../commonplacebook.md)
+- [mind stuff?](mind_stuff?.md)

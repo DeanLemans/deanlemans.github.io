@@ -1,12 +1,14 @@
 ---
-unlisted:
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+unlisted: false
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: "Don't be a hoarder. archivist fallacy"
+tags: []
 publish: true
-modified: 2026-10-01
+modified: 2026-11-16
 id: kxnyqsz4coe99ogfy8djvzxen837ug
 created: 2026-07-17
 aliases:
+  - Dont be a hoarder-archivist fallacy-collectors fallacy
   - "don't be a hoarder. archavist fallacy. Collector's Fallacy"
 ---
 
@@ -21,4 +23,4 @@ you don't need
 
 ## Related
 
-[[dont_be_wikipedia](<./dont_be_wikipedia.md>)]
+[Dont be wikipedia](dont_be_wikipedia.md)]

@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 title: Zelfbeoordeling period 1 2026
 tags:
   - toegepaste_biologie
@@ -9,6 +9,7 @@ id: dx4xm5rh3ooh7wixc2lkkje0e9jgbh
 created: 2026-09-30
 category: school
 aliases:
+  - Zelfbeoordeling periode1 2026
   - dx4xm5rh3ooh7wixc2lkkje0e9jgbh
 ---
 
@@ -81,3 +82,8 @@ Denk aan ecologische, sociale en economische waarden.
 - **3.2** Je kunt je communicatievorm afstemmen op het doel van het project. (Harde eis - Passende communicatievorm)
   - Kiest een passende communicatievorm. Licht de keuze toe. Stemt vorm af op doelgroep en doel. Gebruikt de gekozen vorm effectief.
 	  - **onvoldoende: ik kan de communicatievorm afstemmen op doel van de groep, niet het doel. het doel was vaag en we konden niet vooruit kijken.**
+
+### See also
+
+- [Reflectie periode 1](reflectie_periode_1.md)
+- [Zelfbeoordeeling P2 De Leefbare Toekomst](Zelfbeoordeeling_P2_De_Leefbare_Toekomst.md)

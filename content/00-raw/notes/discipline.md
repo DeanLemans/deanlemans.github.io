@@ -1,7 +1,8 @@
 ---
 unlisted: true
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: Discipline
+tags: []
 publish: true
 modified: 2026-09-30
 id: uyx0nic3jrqz71zx25try7dfgu5o8x

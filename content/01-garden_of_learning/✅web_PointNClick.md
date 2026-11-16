@@ -5,12 +5,13 @@ tags:
   - gamedev
   - finished
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: qoa6m8i3s6fvw7b1bclseoq3lkdl3d
 description: first game made in JavaScript
 created: 2025-09-25
 aliases:
   - web_PointNClick
+  - Web PointNClick
   - web Point and Click
   - My First Javascript Game
 ---

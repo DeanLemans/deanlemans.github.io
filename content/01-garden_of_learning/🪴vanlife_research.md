@@ -5,11 +5,12 @@ tags:
   - vanlilfe
   - research
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: rorbr1w94ekdmmegk7s5q6edit9qvv
-draft: "true"
+draft: true
 created: 2026-03-17
 aliases:
+  - Vanlife research
   - "Dean's Vanlife Research"
 ---
 
@@ -83,7 +84,7 @@ Instead of still officially living with my parents, should probb instead conside
 <https://www.postnl.nl/>
 
 - Continue registering as living with your parents if it works, but prepare documentation (idk what though)
-- Build an emergency fund [🌱money_expensive_bank_investing](<./🌱money_expensive_bank_investing.md>)
+- Build an emergency fund [Money expensive bank investing](🌱money_expensive_bank_investing.md)
 - Build a online presence (via this site, i still need to restructure this)
 - Legal:
 	watch out for legal bullshit from the government, keep up to date with relevant laws.

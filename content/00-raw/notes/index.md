@@ -15,3 +15,8 @@ contains notes and thoughs and insights of mine of mine,
 see the MOC
 
 ![moc_collector](<../00_00-archive/MOC/moc_collector.base>)
+
+### See also
+
+- [School moc](../school_moc.md)
+- [Body moc](../body_moc.md)

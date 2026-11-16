@@ -1,11 +1,13 @@
 ---
-unlisted:
+unlisted: false
 title: Random Web Resources
+tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: ixtta46gfjm11lefqgbgh3qzzm4mxt
 created: 2025-10-10
 aliases:
+  - Web resources
   - nice web resources
   - My Bookmarks
   - Cool Web Resources
@@ -15,7 +17,7 @@ alias_sugestion: My Bookmarks
 
 # Random Web Resources
 
-for featured personal sites [click here: Blogroll](<./personal_sites.md>)
+for featured personal sites [click here: Blogroll](personal_sites.md)
 
 cool projects or articles or services i like and sometimes use/make use of
 
@@ -146,7 +148,7 @@ cool projects or articles or services i like and sometimes use/make use of
 ## Games
 
 > [!info]
-> for games see my [Game List](<./game_list.md>)
+> for games see my [Game List](game_list.md)
 
 ### references/inspiration
 

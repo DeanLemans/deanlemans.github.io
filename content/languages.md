@@ -1,6 +1,7 @@
 ---
-unlisted:
+unlisted: false
 title: Languages
+tags: []
 publish: true
 modified: 2026-10-07
 id: e6ic6cc1nq5tju7gwzyfd8pnubp86d

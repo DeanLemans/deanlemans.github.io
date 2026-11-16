@@ -1,12 +1,14 @@
 ---
-unlisted:
+unlisted: false
 title: "Dean's Game Collection"
+tags: []
 publish: true
-modified: 2026-10-18
+modified: 2026-11-16
 id: hyxgkrdmhd2b4h7nibm1kd7xmn4sjr
 description: my collection of games
 created: 2024-10-08
 aliases:
+  - Game list
   - "Dean's Game Collection"
 ---
 
@@ -294,4 +296,4 @@ aliases:
 - [Utopia Must Fall](https://store.steampowered.com/app/2849680/Utopia_Must_Fall/)
 
 > [!info]
-> also check out my [book_list](<./book_list.md>)
+> also check out my [Book list](book_list.md)

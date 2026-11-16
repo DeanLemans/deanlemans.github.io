@@ -1,12 +1,14 @@
 ---
-unlisted:
+unlisted: false
 title: "Dean's Book Library"
+tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: fdgterezgdiic4aooro2kyjv3bb87x
 description: Library of Dean
 created: 2024-10-08
 aliases:
+  - Book list
   - Book LIbrary!
   - "Dean's Book Library"
 alias_sugestion: "Dean's Book Library"

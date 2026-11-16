@@ -1,13 +1,14 @@
 ---
-unlisted:
+unlisted: false
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: kk3hvayboqh3zi7m5o0w2e7lg850wo
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
 aliases:
+  - Vault rules
   - style
   - Site Rules and Vault System
 ---
@@ -84,7 +85,7 @@ aliases:
 - `static_files`
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [backup_rule](<./00-raw/notes/backup_rule.md>)
+- follow the [Backup rule](00-raw/notes/backup_rule.md)
 
 ---
 
@@ -92,8 +93,8 @@ aliases:
 
 - A folder of files. A vault. A portfolio. A digital garden. A memex.
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault
-- Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
-- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_00-archive/This Page is Designed to Last A Manifesto for Preserving Content on the Web.md>).
+- Public site contains polished work; [00-raw](00-raw/index.md) contains drafts and experimental notes
+- Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](00-raw/00_00-archive/This_Page_is_Designed_to_Last_A_Manifesto_for_Preserving_Content_on_the_Web.md).
 - Store files in open and readable formats.
 - Use consistent naming and metadata for search-ability and discoverability. (proper YAML data, good tags, etc)
 

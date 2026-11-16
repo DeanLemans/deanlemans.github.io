@@ -1,6 +1,7 @@
 ---
-unlisted:
+unlisted: false
 title: Dean Lemans
+tags: []
 publish: true
 modified: 2026-09-30
 id: 7nk2hwne4xsrx09fh2mk1lnsqs5hab
@@ -21,7 +22,7 @@ aliases:
   <img src="./static_files/deanpfp.jpg" alt="picture of Dean" style="width:325px;max-width:200;height:auto;">
 </div>
 
-[-->more pictures of me<--](<./static_files/more_pictures_of_me.md>)
+[-->more pictures of me<--](static_files/more_pictures_of_me.md)
 
 ## About Me
 
@@ -50,14 +51,14 @@ aliases:
 - Indie Web
 
 > [!info] Current main Project
-> - [Greenhouse Project](<./01-garden_of_learning/🪴shed_greenhouse.md>)
+> - [Greenhouse Project](01-garden_of_learning/🪴shed_greenhouse.md)
 
 > [!info] Collections
-> - [Book Library](<./02-digital_garden/book_list.md>)
-> - [Game Library](<./02-digital_garden/game_list.md>)
-> - [Vault Rules](<./vault_rules.md>)
-> - [Manga List](<./02-digital_garden/manga_list.md>)
-> - [web resources](<./02-digital_garden/web_resources.md>)
+> - [Book Library](02-digital_garden/book_list.md)
+> - [Game Library](02-digital_garden/game_list.md)
+> - [Vault Rules](vault_rules.md)
+> - [Manga List](02-digital_garden/manga_list.md)
+> - [web resources](02-digital_garden/web_resources.md)
 
 > [!info] Contact me
 > - See my **[Contact Links](https://linksta.cc/@Dean)**

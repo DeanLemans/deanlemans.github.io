@@ -1,14 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: Opdracht planten herkennen Roeland
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-09-30
+modified: 2026-11-16
 id: d7bfmuqte52u7q4sqtq1vtyn14fbg0
 created: 2026-09-23
 category: school
 aliases:
+  - Roeland planten herkennen
   - opdracht_naaldbomen_herkennen
   - Opdracht naaldbomen herkennen
   - 01M36KKBQZE6R8BKG3H5T1Y1V6

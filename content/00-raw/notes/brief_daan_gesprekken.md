@@ -1,10 +1,10 @@
 ---
-unlisted:
+unlisted: false
 title: Brief Daan LOB / informatie gesprekken
 tags:
   - toegepaste_biologie
-publish:
-modified: 2026-10-25
+publish: false
+modified: 2026-11-16
 id: f3x3wn0gn2fcbwwq9itqkarh4sd47n
 created: 2026-09-04
 category: school
@@ -87,3 +87,7 @@ aliases:
 	 - **dat ik Dean ben. (en hoe ik onderzoek moet doen, als we dat leren)**
 - Stel dat ik je over een jaar spreek en alles is heel goed gegaan. wat is er dan gebeurt?
 	- **eigen bus, teraruims aan het verkopen, geleerd hoe je moet onderzoeken, onderzoek hebben geleerd(praktisch en theoretisch), beter leren hoe ik kleine zeldzame planten kan groeien**
+
+### See also
+
+- [Les daan motivatie week 7 p1](les_daan_motivatie_week_7_p1.md)

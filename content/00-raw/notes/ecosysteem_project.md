@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 title: Ecosysteem Project
 tags:
   - toegepaste_biologie
@@ -154,6 +154,11 @@ bioactiviteit
 
 ## Related
 
-[🪴shed_greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
+[Shed greenhouse](../../01-garden_of_learning/🪴shed_greenhouse.md)
 
-[🌱plant_terrarium_project](<../../01-garden_of_learning/🌱plant_terrarium_project.md>)
+[Plant terrarium project](../../01-garden_of_learning/🌱plant_terrarium_project.md)
+
+### See also
+
+- [Biologie les notities](biologie_les_notities.md)
+- [Roeland planten herkennen](roeland_planten_herkennen.md)

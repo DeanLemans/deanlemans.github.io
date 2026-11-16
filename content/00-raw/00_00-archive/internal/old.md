@@ -32,7 +32,7 @@ I quite like it because its a tree
 ---
 
 darknet
-you can access the darknet via [The Onion Routing](<./The Onion Routing.md>), [Freenet](<../../Freenet.md>), and [Invisible Internet Project](<./Invisible Internet Project.md>)
+you can access the darknet via [The Onion Routing](<The Onion Routing.md>), [Freenet](../../Freenet.md), and [Invisible Internet Project](<Invisible Internet Project.md>)
 
 Some sites:
 <https://darknetlive.com>

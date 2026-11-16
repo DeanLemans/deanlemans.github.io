@@ -1,14 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: Tussenproduct 2 Week 5
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-12
+modified: 2026-11-16
 id: 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 created: 2026-09-30
 category: school
 aliases:
+  - Tussenproduct 2 week 5
   - 6lm51qgfq2r2y14o4hs6xe1yer2m1z
 ---
 
@@ -99,5 +100,5 @@ aliases:
 
 ## Related
 
-[tussenproduct_1_week_3](<./tussenproduct_1_week_3.md>)
-[tussenproduct_3_week_7](<./tussenproduct_3_week_7.md>)
+[Tussenproduct 1 week 3](tussenproduct_1_week_3.md)
+[Tussenproduct 3 week 7](tussenproduct_3_week_7.md)

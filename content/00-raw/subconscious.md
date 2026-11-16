@@ -9,6 +9,8 @@ id: p1aynhmijkkhz49rd0tq445f4h7jll
 enableToc: false
 description: this does not exist
 created: 2024-07-17
+aliases:
+  - Subconscious
 ---
 
 # Subconsious
@@ -242,9 +244,9 @@ will i really reatrict myself like this, because of resentment.
 
 lies on lies on lies,
 didn't have energy to go to school today because of the stupid fucking work, im already searching for a new company.
-i love gardening, but do i love everything green? no, i need to find the specifics [now](<../now.md>)
+i love gardening, but do i love everything green? no, i need to find the specifics [Now](../now.md)
 
-so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<./00_00-archive/internal/trajectory.md>) for it. capture it.
+so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](00_00-archive/internal/trajectory.md) for it. capture it.
 
 im currently trying to integrate a [planner](https://github.com/ivan-lednev/obsidian-day-planner) and [tasker](https://github.com/obsidian-tasks-group/obsidian-tasks) into my vault.(i also hope somebody is going to integrate the dataview plugin into quartz)
 
@@ -986,7 +988,7 @@ Small problem:
 
 Conclusie:
 4. Tot nu toe is de sint lucas nog teleurstelend omdat we te weinig tijd besteden aan software development, en dat owns SD prac docent moet onze voor onze creativity invallen waardoor we nog minder tijd hebben voor onze lessen in sd.
-[School klachten](<./inbox/School klachten.md>)
+[School klachten](<inbox/School klachten.md>)
 
 ---
 

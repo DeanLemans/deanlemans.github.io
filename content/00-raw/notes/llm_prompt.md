@@ -10,6 +10,7 @@ description: some promps i use for LLM
 created: 2026-03-17
 aliases:
   - My Prompt
+  - Llm prompt
 ---
 
 # My Prompts

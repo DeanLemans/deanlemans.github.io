@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 type: MOC
 title: School MOC
 tags:
@@ -9,7 +9,8 @@ modified: 2026-09-30
 id: eo59a8xvz5dljrvuu7ughdipyziyug
 created: 2026-07-07
 category: school
-aliases: []
+aliases:
+  - School moc
 ---
 
 # School MOC

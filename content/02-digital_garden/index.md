@@ -1,6 +1,7 @@
 ---
-unlisted:
+unlisted: false
 title: 02 Digital Garden
+tags: []
 publish: true
 modified: 2026-09-30
 id: cr4ftmssx9deqb0dxnli5o8w7dlx2j
@@ -15,3 +16,12 @@ aliases:
 eg: digital lists
 
 bunch of cool stuff i gathered, feel free to share
+
+---
+
+- [Book list](book_list.md)
+- [Game list](game_list.md)
+- [Manga list](manga_list.md)
+- [Personal sites](personal_sites.md)
+- [Web resources](web_resources.md)
+- [Free services i found](free_services_i_found.md)

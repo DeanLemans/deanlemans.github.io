@@ -1,14 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: "De Deanste Dean's geweldige notities over Toegepaste Biologie les"
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: t937fxwo4owk4pghp5vhilvn60n8ym
 created: 2026-09-16
 category: school
 aliases:
+  - t937fxwo4owk4pghp5vhilvn60n8ym
   - biologie les notities
   - 01M2MGMVKJ5F1BF8AM149QD6FS
 ---
@@ -19,8 +20,8 @@ aliases:
 > de bronnen die ik link zijn meestal in het engels omdat die wikipedia begrippen meestal uigebrijden en hogere qualiteit zijn
 
 > [!NOTE] extracted notes from this source note
-> - [history_doesnt_decide_shape_environment_does](<./history_doesnt_decide_shape_environment_does.md>)
-> - [Ecosystems compensate for removed components but not indefinitely](<./Ecosystems compensate for removed components but not indefinitely.md>)
+> - [History doesnt decide shape environment does](history_doesnt_decide_shape_environment_does.md)
+> - [Ecosystems compensate for removed components but not indefinitely](Ecosystems_compensate_for_removed_components_but_not_indefinitely.md)
 
 ## Biodiversiteit
 
@@ -142,7 +143,7 @@ Klimaat is het weer over een period van 30 jaar. Flora en fauna moeten zich aanp
 - Dit gebeurt doordat ze zich aanpassen aan verschillende leefomstandigheden
 
 [Convergente evolutie - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-- (moved to standalone note [history doesnt decide shape, environment does](<./history_doesnt_decide_shape_environment_does.md>))
+- (moved to standalone note [history doesnt decide shape, environment does](history_doesnt_decide_shape_environment_does.md))
 
 ## Ecosystemen en ecosysteemdiensten
 
@@ -577,7 +578,7 @@ grassen
   - Drosera rotundifolia
   - Molinia caerulea
 
-[roeland_planten_herkennen](<./roeland_planten_herkennen.md>)
+[Roeland planten herkennen](roeland_planten_herkennen.md)
 
 ### Plantenfamilies
 
@@ -674,5 +675,5 @@ grassen
 - [ ] successie
 - [ ] pioniersoorten
 - [ ] climaxvegetatie
-- [ ] [mega note on scientific method](<./mega note on scientific method.md>)
+- [ ] [mega note on scientific method](mega_note_on_scientific_method.md)
 - [ ] wat is de eerste heide die genoemd werd?

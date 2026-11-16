@@ -10,13 +10,14 @@ created: 2026-03-21
 category: body
 aliases:
   - sleep_optimization
+  - Improving my sleep
 ---
 
 # Sleep Optimization
 
 now below here, i made some very nifty priorities, but im probb not going to follow them, they serve more as guidelines.
 
-[sleep helps improve the following](<../00-raw/00_01-inbox/sleep helps improve the following.md>)
+[Sleep helps improve the following](<../00-raw/00_01-inbox/sleep helps improve the following.md>)
 [😴 /sleep/](https://rentry.co/sleepguide)
 
 so 2 main concern, i travel/move houses 1 time a week and stay 1 week in that house, my parrents are divorced.

@@ -1,13 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: unifarm_research_stage
 tags:
   - hovenier
 publish: false
-modified: 2026-09-30
+modified: 2026-11-16
 id: xazqlu6l3gjd99cw3ojejwv5dr08sc
 created: 2026-05-19
 category: school
+aliases:
+  - Unifarm research stage
 ---
 
 # unifarm_research_stage

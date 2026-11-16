@@ -10,6 +10,7 @@ id: b6iflneywiuxf76uz0di0wibr0y4xc
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence
+  - Price calculating garden maintence
 ---
 
 # Price calculating garden maintence
@@ -44,3 +45,7 @@ later on i can always sytemize it more
 
 2026-09-30
 so now im asking 15 euro per hour, and for simple gardens i will just ask a variable/set amount.
+
+### See also
+
+- [IT stuff](IT_stuff.md)

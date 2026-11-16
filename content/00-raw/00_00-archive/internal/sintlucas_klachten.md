@@ -1,13 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: sintlucas_klachten
 tags:
   - sintlucas
 publish: false
-modified: 2026-09-30
+modified: 2026-11-16
 id: yygphx80q9y56v3vxnp2lo87ki7cn5
 created: 2026-05-03
 category: school
+aliases:
+  - Sintlucas klachten
 ---
 
 # sintlucas\_klachten

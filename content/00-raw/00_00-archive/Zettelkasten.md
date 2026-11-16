@@ -10,6 +10,8 @@ id: ymjyrhc451fc3u6ic6ge8bofrya9xl
 description:
 created: 2026-05-09
 author:
+aliases:
+  - Zettelkasten
 ---
 
 > [!danger] NOT MINE

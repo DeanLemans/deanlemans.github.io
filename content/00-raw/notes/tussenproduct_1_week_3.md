@@ -1,14 +1,15 @@
 ---
-unlisted:
+unlisted: false
 title: Tussen Product 1, week 3 en 4
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: 326pi4i1ddomxw44tickixquuok0z1
 created: 2026-09-07
 category: school
 aliases:
+  - Tussenproduct 1 week 3
   - tussenopdracht_1_week_3
   - tussenopdracht 1 week3
   - 326pi4i1ddomxw44tickixquuok0z1
@@ -317,5 +318,5 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 
 ## Related
 
-- [tussenproduct_2_week_5](<./tussenproduct_2_week_5.md>)
-- [tussenproduct_3_week_7](<./tussenproduct_3_week_7.md>)
+- [Tussenproduct 2 week 5](tussenproduct_2_week_5.md)
+- [Tussenproduct 3 week 7](tussenproduct_3_week_7.md)

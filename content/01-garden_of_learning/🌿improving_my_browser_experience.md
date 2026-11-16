@@ -7,6 +7,8 @@ publish: true
 modified: 2026-09-30
 id: b0260j2mskow89mkgp76il0hrneb2i
 created: 2026-04-30
+aliases:
+  - Improving my browser experience
 ---
 
 # Imrpove browser experience

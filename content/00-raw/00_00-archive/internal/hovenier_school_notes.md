@@ -1,18 +1,19 @@
 ---
-unlisted:
+unlisted: false
 title: Hovenier school notes
 tags:
   - hovenier
 publish: false
-modified: 2026-09-30
+modified: 2026-11-16
 id: 71bfbdvj522a82g391a9cdhb7sbr0x
 created: 2026-03-18
 category: school
 aliases:
   - New school notes
+  - Hovenier school notes
 ---
 
-[pastebin](<../pastebin.md>)
+[Pastebin](../pastebin.md)
 
 # Hovenier school notes
 
@@ -33,9 +34,9 @@ teveel refocused op open teelt
 oneven indeling
 
 judith ruhe
-j.ruhe@yuverta.nl
+<j.ruhe@yuverta.nl>
 
-g.de.keijzer@yuverta.nl
+<g.de.keijzer@yuverta.nl>
 
 aquaphinics
 misc onderzoek:

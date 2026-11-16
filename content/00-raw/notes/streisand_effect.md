@@ -1,7 +1,8 @@
 ---
 unlisted: false
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: Streisand effect
+tags: []
 publish: true
 modified: 2026-09-30
 id: zch5n6qsx1jvhdx6bacvymcbfrr2k0

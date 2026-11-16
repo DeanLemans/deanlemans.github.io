@@ -1,5 +1,5 @@
 ---
-unlisted:
+unlisted: false
 title: Leerbedrijf glastuinbouw
 tags:
   - hovenier
@@ -8,6 +8,8 @@ modified: 2026-09-30
 id: knuo08ixsbkcmz224anrzz943ypa62
 created: 2026-04-11
 category: school
+aliases:
+  - Leerbedrijf glastuinbouw
 ---
 
 # Leerbedrijf glastuinbouw
@@ -22,7 +24,7 @@ proefcentrums
 
 ##### Up = best fit
 
-1. [unifarm](https://www.wur.nl/nl/onderzoek/faciliteiten/unifarm) [unifarm_research_stage](<./unifarm_research_stage.md>) 1 uur rijzen
+1. [unifarm](https://www.wur.nl/nl/onderzoek/faciliteiten/unifarm) [Unifarm research stage](unifarm_research_stage.md) 1 uur rijzen
 2. [Novisem](https://www.novisem.nl/) 1 uur rijzen
 3. [interplant roses](https://interplant.com/)
 4. [agroeproeftuin](https://www.de-agroproeftuin.nl/)(akkerbouw, niet echt wat nodig heb) (farm of the future)

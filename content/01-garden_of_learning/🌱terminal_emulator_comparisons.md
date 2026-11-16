@@ -7,6 +7,8 @@ publish: true
 modified: 2026-09-30
 id: bgrw2h33hqg62mrvphsvvnnwe6k444
 created: 2026-05-02
+aliases:
+  - Terminal emulator comparisons
 ---
 
 # Terminal emulators stuff

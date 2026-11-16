@@ -8,6 +8,7 @@ id: z8hshizmar05kquzux3vnvd6p9k87o
 created: 2026-02-02
 aliases:
   - rymes_and_poems
+  - Rymes and poems
 ---
 
 # Rymes and Poems

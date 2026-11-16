@@ -1,11 +1,14 @@
 ---
 unlisted: false
-type: "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
+type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
 title: Pomodoro technique
+tags: []
 publish: true
 modified: 2026-09-30
 id: 43is08xgzw6m10pclz1hr5q4gwbzjn
 created: 2026-03-17
+aliases:
+  - Pomodoro technique
 ---
 
 # Pomodoro technique

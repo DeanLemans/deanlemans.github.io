@@ -30,3 +30,13 @@ this is the true site/side of my site, the normal portion is filtered for normal
 [Bali Research link](https://dean.nekoweb.org/)
 
 ![1098](<../static_files/Pasted image 20260919233940.webp>)
+
+### See also
+
+- [notes](notes/index.md)
+- [School moc](school_moc.md)
+- [Body moc](body_moc.md)
+- [Project ideas](project_ideas.md)
+- [01 Garden of Learning](../01-garden_of_learning/index.md)
+- [02 Digital Garden](../02-digital_garden/index.md)
+- [Site Rules](../vault_rules.md)
