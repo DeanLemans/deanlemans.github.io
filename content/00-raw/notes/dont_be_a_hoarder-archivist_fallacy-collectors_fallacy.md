@@ -26,3 +26,17 @@ you don't need
 ## Related
 
 [Dont be wikipedia](<./dont_be_wikipedia.md>)]
+
+## From my vault
+
+click for origin ["I would call that a digital hoarder"](<./How_to_Take_Smart_Notes._Notes.md>)
+
+click for origin ["Obsession with retaining every little idea you've ever had is a kind of digital hoarding."](<../00_00-archive/Personal_Knowledge_Management_Is_Bullshit_by_Justin_Murphy.md>)
+
+click for origin ["many people fall into the collector fallacy: they save and hoard everything in the hope that accumulation equals insight."](<../00_00-archive/The_psychology_of_“second_brains”_curious_about_your_real_struggles_-_rObsidianMD.md>)
+
+click for origin ["Just storing information doesn't create understanding"](<../00_00-archive/The_psychology_of_“second_brains”_curious_about_your_real_struggles_-_rObsidianMD.md>)
+
+click for origin ["Don't go hoard buying. Use what you have first."](<../quotes.md>)
+
+[Note-taking MOC](<../MOC/note_taking_moc.md>)

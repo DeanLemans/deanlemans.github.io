@@ -3,5 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - type == "[atomic_permanent_zettel](<./atomic_permanent_zettel.md>)"
-    sort: []
+        - type.containsAny("[Atomic permanent zettel](<./atomic_permanent_zettel.md>)")
+    sort:
+      - property: file.name
+        direction: ASC

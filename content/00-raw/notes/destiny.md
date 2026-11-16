@@ -29,3 +29,13 @@ the belief that everything is predestined by [Fate](Fate.md).
 
 - [Ubermensch overcoming of self](<./ubermensch_overcoming_of_self.md>)
 - [the meaning of life](<./the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md>)
+
+## From my vault
+
+click for origin ["We shall resist the dead of fate."](<../rymes_and_poems.md>)
+
+click for origin ["The wheel of fate turns and turns."](<../rymes_and_poems.md>)
+
+click for origin ["Gnostic apocrypha (defiance of demiurgic fate)"](<../../02-digital_garden/book_list.md>)
+
+[Philosophy MOC](<../MOC/philosophy_moc.md>)

@@ -39,3 +39,17 @@ Voor nu bevat dit alleen biologische dingen. Sociale dingen moeten nog toegevoeg
 >
 > ![260](<../../static_files/Pasted image 20260916102230.webp>)
 > ![262](<../../static_files/Pasted image 20260916102241.webp>)
+
+
+## Divergent evolution and adaptive radiation
+
+The mirror cases, from [biologie_les_notities](<./biologie_les_notities.md>):
+
+- Divergente evolutie: soorten ontwikkelen verschillende kenmerken. Dit gebeurt doordat ze zich aanpassen aan verschillende leefomstandigheden
+- Adaptieve radiatie: een soort splitst zich in meerdere soorten. Die specialiseren zich in hun eigen niche
+
+## Related
+
+- Source: [biologie_les_notities](<./biologie_les_notities.md>)
+- [Ecosystems compensate for removed components but not indefinitely](<./Ecosystems_compensate_for_removed_components_but_not_indefinitely.md>)
+- [ecosysteem_project](<./ecosysteem_project.md>)

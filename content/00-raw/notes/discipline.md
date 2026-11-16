@@ -22,3 +22,13 @@ Discipline is the long term version of motivation
 
 A reason for doing or acting a certain way.
 Motivation is the starting point (shortterm) for doing something, and if you want to do something long term you need
+
+## From my vault
+
+click for origin ["Motivation is what gets you started. Habit is what keeps you going."](<../quotes.md>)
+
+## Related
+
+- [strategy_is_more_important_than_the_plan](<./strategy_is_more_important_than_the_plan.md>)
+- [pomodoro_technique](<./pomodoro_technique.md>)
+- [Philosophy MOC](<../MOC/philosophy_moc.md>)

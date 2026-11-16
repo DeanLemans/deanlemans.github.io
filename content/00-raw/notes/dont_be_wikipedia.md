@@ -5,15 +5,13 @@ title: Dont be wikipedia
 tags:
   - note-taking
 publish: true
-modified: 2026-10-25
+modified: 2026-11-16
 id: k395dlncviospwqkpau7o6mzxwn6wj
 description: write your own thinking, dont copy wikipedia
 created: 2026-05-17
 aliases:
   - dont be wikipedia
 ---
-
-[Atomic permanent zettel](<./atomic_permanent_zettel.md>)
 
 # Dont be wikipedia
 
