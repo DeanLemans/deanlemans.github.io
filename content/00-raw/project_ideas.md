@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-10-07
 id: 0wmlg5vmfh7no3evzgs1qcaa62d3m1
+description: "bunch of project ideas i want to do, software, music players, etc"
 created: 2026-07-17
 aliases:
   - Project ideas

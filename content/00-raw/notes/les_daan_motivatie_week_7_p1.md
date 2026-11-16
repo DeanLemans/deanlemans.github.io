@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: catcq5wptfori1su3eo0k0rchurld5
+description: "mijn doelen voor school en voor de deanste dean binnen 1 jaar"
 created: 2026-10-06
 category: school
 aliases:

@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: djmikmboys5y0dfnxrew7y2fy2auma
+description: "making a mossarium"
 created: 2026-05-19
 aliases:
   - Creating mossarium

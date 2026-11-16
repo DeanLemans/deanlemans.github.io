@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: c0f7s6aoukfbix4nt0v9h8mds4uprs
+description: "plan for selling it help and huiservice, rates and how to advertise"
 created: 2026-03-17
 aliases:
   - IT stuff

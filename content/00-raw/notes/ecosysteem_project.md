@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-10-28
 id: 5jsyrhgb2k54di3mepd2jm5wjtjk2g
+description: "ecosysteem project, notities en planning"
 created: 2026-09-07
 category: school
 aliases:

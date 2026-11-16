@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: ksine4jffep3pzph8ku88arevlli9w
+description: "why linking notes with backlinks helps navigation and memory"
 created: 2026-09-23
 aliases:
   - Backlinks stuff i need to split eventually

@@ -5,6 +5,7 @@ tags: []
 publish: false
 modified: 2026-11-06
 id: 6j13nzzf6imwito7bbxhry52t9qaiq
+description: "how to link a note by its id"
 created: 2026-11-06
 aliases:
   - Klik op de links

@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: ixtta46gfjm11lefqgbgh3qzzm4mxt
+description: "random web stuff worth keeping"
 created: 2025-10-10
 aliases:
   - Web resources

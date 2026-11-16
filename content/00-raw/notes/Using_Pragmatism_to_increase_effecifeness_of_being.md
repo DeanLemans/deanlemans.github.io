@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: tdas0grq8cl6kz8myo1zsviyupirle
+description: "using pragmatism to be more effective, stub"
 created: 2026-07-18
 aliases:
   - Using Pragmatism to increase effecifeness of being

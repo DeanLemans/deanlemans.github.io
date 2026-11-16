@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-09-30
 id: sezd7oyj5ji0oyyrt5devl1yg4bp9i
+description: "dreamy piece, there are stars inside me"
 created: 2026-03-17
 aliases:
   - there_are_stars_inside_me

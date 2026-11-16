@@ -7,6 +7,7 @@ tags:
 publish: true
 modified: 2026-10-25
 id: g6or82heqglosy1r2qoh23xhcdnpvj
+description: "turning a shed into a greenhouse, lights, heat, etc"
 created: 2026-03-15
 aliases:
   - Shed Greenhouse Project

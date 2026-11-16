@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: 326pi4i1ddomxw44tickixquuok0z1
+description: "tussenproduct 1, afval onderzoek thuis"
 created: 2026-09-07
 category: school
 aliases:

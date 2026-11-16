@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: jssrkf1jv3391sra6yu3pvegw90qee
+description: "tussenproduct 3, inzicht als cadeau aan mezelf"
 created: 2026-10-05
 category: school
 aliases:

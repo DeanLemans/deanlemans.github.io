@@ -6,6 +6,7 @@ tags:
 publish:
 modified: 2026-11-16
 id: g4na4d6iz3h2hny3bhbxkadn5y7bbe
+description: "zelfbeoordeling periode 2, de leefbare toekomst"
 created: 2026-11-16
 category: school
 aliases:

@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: zch5n6qsx1jvhdx6bacvymcbfrr2k0
+description: "the streisand effect"
 created: 2026-03-17
 aliases:
   - streisand_effect

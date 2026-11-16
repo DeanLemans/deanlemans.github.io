@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-10-18
 id: u473ssdxpt9w84tzca4sowi8sg9052
+description: "the steps of the scientific method"
 created: 2026-09-16
 aliases:
   - Mega note on scientific method

@@ -6,6 +6,7 @@ tags:
 publish: false
 modified: 2026-11-16
 id: f3x3wn0gn2fcbwwq9itqkarh4sd47n
+description: "brief en notities voor de lob gesprekken met daan"
 created: 2026-09-04
 category: school
 aliases:

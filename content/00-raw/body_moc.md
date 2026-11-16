@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: r9qmpxsvmy182f2wt614j9vhwfmos3
+description: "body stuff i research: skincare, supplements, sleep, hair, training"
 created: 2026-07-07
 category: body
 aliases:

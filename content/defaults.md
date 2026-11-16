@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: 3k100zejvkwvlqsyyut0yyi97nbvmr
+description: "apps i use by default"
 created: 2026-09-24
 aliases:
   - Defaults

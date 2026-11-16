@@ -7,6 +7,7 @@ tags:
 publish: true
 modified: 2026-09-30
 id: eo59a8xvz5dljrvuu7ughdipyziyug
+description: "links to all my school notes"
 created: 2026-07-07
 category: school
 aliases:

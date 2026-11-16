@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: ziqafbew6n5u2g1wm5j8vhii018voi
+description: "using rationality to align my thinking, stub"
 created: 2026-07-13
 aliases:
   - Using rationality to align thinking

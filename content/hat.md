@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: l9hkpm23z0324xfm2sn2eq6z520vw7
+description: "my hats"
 created: 2026-09-24
 aliases:
   - hats

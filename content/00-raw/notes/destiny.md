@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: labfe925imrvqu4pli740jmgyan26h
+description: "destiny, fate and fatalism"
 created: 2026-03-17
 aliases:
   - Destiny

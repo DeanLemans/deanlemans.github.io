@@ -5,6 +5,7 @@ tags: []
 publish: false
 modified: 2026-09-30
 id: mmlzdecfixb5ke24t48mlcxm46g5vc
+description: "yes i act childish on purpose"
 created: 2026-09-23
 aliases:
   - On childishness

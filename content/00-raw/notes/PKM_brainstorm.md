@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: 9w7nr3og30sj36cob7zl1njz1ljjxd
+description: "brainstorm on my pkm, zettelkasten vs para, capture -> process -> connect -> create"
 created: 2026-05-02
 aliases:
   - PKM brainstorm

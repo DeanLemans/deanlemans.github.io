@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: dx4xm5rh3ooh7wixc2lkkje0e9jgbh
+description: "zelfbeoordeling periode 1 2026"
 created: 2026-09-30
 category: school
 aliases:

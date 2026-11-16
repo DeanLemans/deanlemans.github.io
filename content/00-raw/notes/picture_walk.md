@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: g1pi7dgyvf5xvjr3ajv9vnxbw81t5a
+description: "the picture walk learning trick"
 created: 2026-05-03
 aliases:
   - Picture walk

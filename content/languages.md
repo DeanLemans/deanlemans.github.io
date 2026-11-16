@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-10-07
 id: e6ic6cc1nq5tju7gwzyfd8pnubp86d
+description: "languages i speak"
 created: 2026-09-24
 aliases:
   - taal

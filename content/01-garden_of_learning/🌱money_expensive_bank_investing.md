@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: 2y7j5ymr2f70oq0ma2v47rlfn47xjg
+description: "banks, savings and investing research"
 created: 2026-05-08
 aliases:
   - Money expensive bank investing

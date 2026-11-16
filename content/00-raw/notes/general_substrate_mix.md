@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-10-25
 id: ac441mljrkwc908z62iq1d4y8dd9sc
+description: "general substrate mix for terrariums and plants"
 created: 2026-03-27
 aliases:
   - General substrate mix

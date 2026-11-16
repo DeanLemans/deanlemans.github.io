@@ -9,6 +9,7 @@ slideNumber: true
 publish: true
 modified: 2026-10-09
 id: lpl4alxh3l0oewb7x80q23et93lx9k
+description: "project met de 10 bouwstenen van mezelf"
 created: 2026-09-18
 category: school
 aliases:

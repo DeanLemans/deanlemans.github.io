@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: dfh0cy91rejdh36j9mjbhy7myv60do
+description: "stuff im interested in"
 created: 2026-09-24
 aliases:
   - Interests

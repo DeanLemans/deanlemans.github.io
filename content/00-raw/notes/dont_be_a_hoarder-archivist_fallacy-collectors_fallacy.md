@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: kxnyqsz4coe99ogfy8djvzxen837ug
+description: "collecting stuff is not the same as learning it"
 created: 2026-07-17
 aliases:
   - Dont be a hoarder-archivist fallacy-collectors fallacy

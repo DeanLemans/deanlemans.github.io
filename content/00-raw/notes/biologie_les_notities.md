@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: t937fxwo4owk4pghp5vhilvn60n8ym
+description: "mijn notities van de toegepaste biologie lessen"
 created: 2026-09-16
 category: school
 aliases:

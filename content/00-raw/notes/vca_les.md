@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-09-30
 id: 3va1670n1a5gvf3mhj4cqtdm3l1365
+description: "notities van de vca les"
 created: 2026-09-17
 category: school
 aliases:

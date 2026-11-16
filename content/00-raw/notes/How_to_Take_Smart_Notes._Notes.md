@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-10-01
 id: xuur6ozcm5b2lxhsztpnpym2wlrcyb
+description: "my notes on how to take smart notes, system > willpower"
 created: 2026-07-09
 aliases:
   - How to Take Smart Notes. Notes

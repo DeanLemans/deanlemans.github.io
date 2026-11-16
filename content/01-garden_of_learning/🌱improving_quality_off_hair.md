@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-09-30
 id: 08vauxo7ou7eicf2stnuyu5lbbv79o
+description: "trying to get better hair"
 created: 2026-04-30
 category: body
 aliases:

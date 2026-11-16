@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: mskoneebiaiipnpsz4hckk1gh2kdil
+description: "what an emergency fund is and why you want one"
 created: 2026-07-05
 aliases:
   - emergency fund

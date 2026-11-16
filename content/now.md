@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: f4r9ctuvy1wqcixhkzvfe1ah4i9uso
+description: "what im doing now"
 created: 2026-03-17
 aliases:
   - Now

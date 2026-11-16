@@ -6,6 +6,7 @@ tags:
 publish: false
 modified: 2026-09-30
 id: b20gthxu2jh2xg04bl0s6i19exb6hb
+description: "antwoorden over samenwerken en plantengroei"
 created: 2026-09-18
 category: school
 aliases:

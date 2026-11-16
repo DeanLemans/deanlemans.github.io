@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: t2v2xwewkflxjstnvk643vuz456d7u
+description: "what a permanent zettel is in my vault"
 created: 2026-09-28
 aliases:
   - Atomic permanent zettel

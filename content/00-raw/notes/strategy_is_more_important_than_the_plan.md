@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: 547v3vyp8uhdspn9f3zt5dimyp581q
+description: "strategy matters more than the plan"
 created: 2026-07-12
 aliases:
   - strategy is more important than then the plan

@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: 6lm51qgfq2r2y14o4hs6xe1yer2m1z
+description: "tussenproduct 2, week 5"
 created: 2026-09-30
 category: school
 aliases:

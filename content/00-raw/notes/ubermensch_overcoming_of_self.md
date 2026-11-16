@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: gq3jl7jlbssc6gsgchkfmt6jvesy5b
+description: "ubermensch and overcoming yourself"
 created: 2026-07-08
 aliases:
   - Ubermensch, overcoming of self

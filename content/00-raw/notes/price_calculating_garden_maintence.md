@@ -7,6 +7,7 @@ tags:
 publish: true
 modified: 2026-09-30
 id: b6iflneywiuxf76uz0di0wibr0y4xc
+description: "what i charge per hour for garden work and extras"
 created: 2026-03-04
 aliases:
   - price_calculating_garden_maintence

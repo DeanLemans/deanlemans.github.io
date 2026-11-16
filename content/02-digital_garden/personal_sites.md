@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: 6i16to3endkm2xocypk5zo7o6a8u0v
+description: "cool personal sites i found"
 created: 2026-03-17
 aliases:
   - Personal sites

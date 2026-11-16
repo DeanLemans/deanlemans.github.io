@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: d7bfmuqte52u7q4sqtq1vtyn14fbg0
+description: "opdracht loofbomen en naaldbomen herkennen"
 created: 2026-09-23
 category: school
 aliases:

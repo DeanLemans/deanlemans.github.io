@@ -2,11 +2,12 @@
 unlisted: false
 title: "Dean's Vanlife Research"
 tags:
-  - vanlilfe
+  - vanlife
   - research
 publish: true
 modified: 2026-11-16
 id: rorbr1w94ekdmmegk7s5q6edit9qvv
+description: "vanlife research"
 draft: true
 created: 2026-03-17
 aliases:

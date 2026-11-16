@@ -7,6 +7,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: 8wv4cjualppr0badv89odi3m9kymcv
+description: "building a plant terrarium"
 created: 2026-03-12
 aliases:
   - Plant terrarium project

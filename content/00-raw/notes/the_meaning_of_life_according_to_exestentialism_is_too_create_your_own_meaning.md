@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-10-01
 id: gcqrya4i4f4ymn063ew15nykvgjcgo
+description: "existentialism: the meaning of life is what you make of it"
 created: 2026-09-28
 aliases:
   - The meaning of life according to exestentialism is too create your own meaning

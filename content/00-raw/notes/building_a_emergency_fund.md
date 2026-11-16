@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: u71rmdn8nduh9o75xmjxwee97nioiw
+description: "how i build an emergency fund, step by step"
 created: 2026-07-05
 aliases:
   - Building a emergency fund

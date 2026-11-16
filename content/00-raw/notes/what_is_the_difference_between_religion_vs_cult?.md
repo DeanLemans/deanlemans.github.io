@@ -6,6 +6,7 @@ tags: []
 publish: false
 modified: 2026-09-30
 id: dtgi7jd4xnd6puzf1bi62uyfpl9h32
+description: "whats the difference between a religion and a cult?"
 created: 2026-09-28
 aliases:
   - What is the difference between religion vs cult?

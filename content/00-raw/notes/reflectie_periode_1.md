@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-11-16
 id: rza2i0de1bsnv10gyiznoliy2rrz7s
+description: "reflectie op periode 1 aan de hand van de leerdoelen"
 created: 2026-11-03
 category: school
 aliases:

@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: 2e23918d8zxp0oey0z5014ab5vcps3
+description: "maidcore, the music genre, need to compile a list"
 created: 2026-06-05
 aliases:
   - Maidcore

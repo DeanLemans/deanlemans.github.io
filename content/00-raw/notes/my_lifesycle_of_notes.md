@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: iei1okfsst3zpm31rd8g5lax30l9g3
+description: "how a note grows in my vault"
 created: 2026-07-13
 aliases:
   - My lifesycle of notes

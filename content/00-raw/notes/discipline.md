@@ -6,6 +6,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: uyx0nic3jrqz71zx25try7dfgu5o8x
+description: "my take on discipline"
 created: 2026-03-17
 aliases:
   - Discipline

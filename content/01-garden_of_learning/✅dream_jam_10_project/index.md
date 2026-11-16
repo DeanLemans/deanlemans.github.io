@@ -6,6 +6,7 @@ tags:
 publish: true
 modified: 2026-10-21
 id: uwrecpdqcli9ruiu3hwjh8ew71hvny
+description: "my dream jam 10 game jam project"
 created: 2026-05-18
 aliases:
   - uwrecpdqcli9ruiu3hwjh8ew71hvny

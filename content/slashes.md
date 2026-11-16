@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-16
 id: t0h4bgktfflmzqkwczmsdwb6mg0wwz
+description: "slash pages i adopted"
 created: 2026-09-24
 aliases:
   - Slashes

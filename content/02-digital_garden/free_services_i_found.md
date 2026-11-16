@@ -5,6 +5,7 @@ tags: []
 publish: true
 modified: 2026-09-30
 id: hivv4vwup1mwe29ydx8t9g0tb52f59
+description: "free (hosting) services i found"
 created: 2026-09-19
 aliases:
   - Free services i found
