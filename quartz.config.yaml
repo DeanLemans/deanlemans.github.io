@@ -4,6 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
+  prefetch: viewport
   analytics:
     provider: umami
     host: https://cloud.umami.is
@@ -43,6 +44,17 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+  links:
+    markdownLinkResolution: relative
+    lazyLoad: false
+    prettyLinks: true
+    openLinksInNewTab: true
+    disableBrokenWikilinks: true
+    externalLinkIcon: true
+  contentIndex:
+    enableSiteMap: true
+    enableRSS: true
+    includeEmptyFiles: false
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -53,69 +65,54 @@ plugins:
         - git
         - filesystem
     order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 30
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
-      comments: false
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: false
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
-    order: 30
-  - source: "@quartz-community/github-flavored-markdown"
-    enabled: true
     order: 40
-  - source: "@quartz-community/crawl-links"
+  - source: "@quartz-community/table-of-contents"
     enabled: true
-    options:
-      markdownLinkResolution: relative
-      lazyload: false
-      prettyLinks: true
-      openLinksInNewTab: true
-      disableBrokenWikilinks: true
-      externalLinkIcon: true
-    order: 60
+    order: 50
+    layout:
+      position: right
+      priority: 30
   - source: "@quartz-community/description"
     enabled: true
     order: 70
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
-  - source: "@quartz-community/hard-line-breaks"
+  - source: "@quartz-community/ox-hugo"
+    enabled: false
+    order: 91
+  - source: "@quartz-community/roam"
+    enabled: false
+    order: 92
+  - source: "@quartz-community/quartz-fonts"
     enabled: true
     order: 90
   - source: "@quartz-community/explicit-publish"
-    enabled: true
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
+    enabled: false
   - source: "@quartz-community/alias-redirects"
     enabled: true
     options:
-        enableCaseRedirects: true
-  - source: "@quartz-community/content-index"
-    enabled: true
-    options:
-      enableSiteMap: true
-      enableRSS: true
-      includeEmptyFiles: false
+      enableCaseRedirects: true
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
     enabled: true
-  - source: "@quartz-community/bases-page"
-    enabled: true
-    options:
-      linkResolution: relative
-    order: 50
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
@@ -131,29 +128,6 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
-    options:
-      localGraph:
-        drag: true
-        zoom: true
-        depth: 1
-        scale: 1.1
-        fontSize: 0.6
-        opacityScale: 1
-        showTags: false
-        enableRadial: false
-      globalGraph:
-        drag: true
-        zoom: true
-        depth: -1
-        scale: 1
-        fontSize: 0.6
-        opacityScale: 1
-        centerForce: 0.5
-        repelForce: 0.5
-        linkDistance: 30
-        showTags: true
-        focusOnHover: true
-        enableRadial: true
     layout:
       position: afterBody
       priority: 10
@@ -168,10 +142,20 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: afterBody
-      priority: 30
-  - source: "@quartz-community/tag-list"
+      position: right
+      priority: 50
+  - source: "@quartz-community/article-title"
     enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: "@quartz-community/tag-list"
+    enabled: false
     layout:
       position: beforeBody
       priority: 30
@@ -180,10 +164,6 @@ plugins:
     layout:
       position: left
       priority: 10
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
-    options:
-      header: '"Playfair Display", serif'
   - source: "@quartz-community/darkmode"
     enabled: true
     layout:
@@ -209,6 +189,9 @@ plugins:
         Analytics: https://cloud.umami.is/share/cQibaMjOX3vvklQG
         RSS: index.xml
         SiteMap: sitemap.xml
+    layout:
+      position: footer
+      priority: 50
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -217,6 +200,10 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    options: {}
+    order: 50
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
@@ -231,13 +218,16 @@ plugins:
         - id
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: ---
       quartz-properties-collapse: true
     order: 5
     layout:
       position: beforeBody
       priority: 15
       display: all
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
 layout:
   groups:
     toolbar:

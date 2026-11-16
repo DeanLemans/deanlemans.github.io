@@ -2,5 +2,6 @@
   "cssTheme": "Willemstad",
   "accentColor": "#67cb85",
   "theme": "system",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }

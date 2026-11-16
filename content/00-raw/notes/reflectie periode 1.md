@@ -1,10 +1,13 @@
 ---
 unlisted:
 title: Reflectie voor period 1 leerjaar 1
+tags:
+  - toegepaste_biologie
 publish: true
-modified: 2026-11-06
+modified: 2026-11-16
 id: rza2i0de1bsnv10gyiznoliy2rrz7s
 created: 2026-11-03
+category: school
 aliases:
   - rza2i0de1bsnv10gyiznoliy2rrz7s
 ---
