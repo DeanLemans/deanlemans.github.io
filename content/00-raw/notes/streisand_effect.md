@@ -1,12 +1,13 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Streisand effect
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: zch5n6qsx1jvhdx6bacvymcbfrr2k0
-description: "the streisand effect"
+description: the streisand effect
 created: 2026-03-17
 aliases:
   - streisand_effect

@@ -21,8 +21,8 @@ aliases:
 > de bronnen die ik link zijn meestal in het engels omdat die wikipedia begrippen meestal uigebrijden en hogere qualiteit zijn
 
 > [!NOTE] extracted notes from this source note
-> - [History doesnt decide shape environment does](history_doesnt_decide_shape_environment_does.md)
-> - [Ecosystems compensate for removed components but not indefinitely](Ecosystems_compensate_for_removed_components_but_not_indefinitely.md)
+> - [History doesnt decide shape environment does](<./history_doesnt_decide_shape_environment_does.md>)
+> - [Ecosystems compensate for removed components but not indefinitely](<./Ecosystems_compensate_for_removed_components_but_not_indefinitely.md>)
 
 ## Biodiversiteit
 
@@ -144,7 +144,7 @@ Klimaat is het weer over een period van 30 jaar. Flora en fauna moeten zich aanp
 - Dit gebeurt doordat ze zich aanpassen aan verschillende leefomstandigheden
 
 [Convergente evolutie - Wikipedia](https://en.wikipedia.org/wiki/Convergent_evolution)
-- (moved to standalone note [history doesnt decide shape, environment does](history_doesnt_decide_shape_environment_does.md))
+- (moved to standalone note [history doesnt decide shape, environment does](<./history_doesnt_decide_shape_environment_does.md>))
 
 ## Ecosystemen en ecosysteemdiensten
 
@@ -579,7 +579,7 @@ grassen
   - Drosera rotundifolia
   - Molinia caerulea
 
-[Roeland planten herkennen](roeland_planten_herkennen.md)
+[Roeland planten herkennen](<./roeland_planten_herkennen.md>)
 
 ### Plantenfamilies
 
@@ -676,5 +676,5 @@ grassen
 - [ ] successie
 - [ ] pioniersoorten
 - [ ] climaxvegetatie
-- [ ] [mega note on scientific method](mega_note_on_scientific_method.md)
+- [ ] [mega note on scientific method](<./mega_note_on_scientific_method.md>)
 - [ ] wat is de eerste heide die genoemd werd?

@@ -1,12 +1,12 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
-title: "history/ancestry Doesn't decide shape, environment does"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
+title: history/ancestry Doesn't decide shape, environment does
 tags: []
 publish: true
 modified: 2026-10-18
 id: tpd367akcr0hj4md4qx0tflvq6tnxq
-description: "ancestry doesnt decide shape, environment does"
+description: ancestry doesnt decide shape, environment does
 created: 2026-09-16
 aliases:
   - history doesnt decide shape, environment does

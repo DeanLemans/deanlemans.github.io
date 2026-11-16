@@ -134,6 +134,6 @@ Hieronder zie je een overzicht van de succescriteria die voor dit thema zijn vas
 
 ### See also
 
-- [Zelfbeoordeling periode1 2026](Zelfbeoordeling_periode1_2026.md)
-- [Samenwerking opdracht P2 2627](samenwerking_opdracht_P2_2627.md)
-- [Ecosysteem project](ecosysteem_project.md)
+- [Zelfbeoordeling periode1 2026](<./Zelfbeoordeling_periode1_2026.md>)
+- [Samenwerking opdracht P2 2627](<./samenwerking_opdracht_P2_2627.md>)
+- [Ecosysteem project](<./ecosysteem_project.md>)

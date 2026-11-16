@@ -155,11 +155,11 @@ bioactiviteit
 
 ## Related
 
-[Shed greenhouse](../../01-garden_of_learning/🪴shed_greenhouse.md)
+[Shed greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
 
-[Plant terrarium project](../../01-garden_of_learning/🌱plant_terrarium_project.md)
+[Plant terrarium project](<../../01-garden_of_learning/🌱plant_terrarium_project.md>)
 
 ### See also
 
-- [Biologie les notities](biologie_les_notities.md)
-- [Roeland planten herkennen](roeland_planten_herkennen.md)
+- [Biologie les notities](<./biologie_les_notities.md>)
+- [Roeland planten herkennen](<./roeland_planten_herkennen.md>)

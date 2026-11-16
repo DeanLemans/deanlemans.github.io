@@ -1,7 +1,8 @@
 ---
 unlisted: false
 title: "On: childishness"
-tags: []
+tags:
+  - philosophy
 publish: false
 modified: 2026-09-30
 id: mmlzdecfixb5ke24t48mlcxm46g5vc

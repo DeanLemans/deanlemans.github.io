@@ -18,8 +18,8 @@ aliases:
 
 ## References
 
-- [Plant terrarium project](🌱plant_terrarium_project.md)
-- [How to grow moss](🌱how_to_grow_moss.md)
+- [Plant terrarium project](<./🌱plant_terrarium_project.md>)
+- [How to grow moss](<./🌱how_to_grow_moss.md>)
 - [Fans and Air Circulation \| Dendroboard](https://www.dendroboard.com/threads/fans-and-air-circulation.371824/?post_id=3196692&nested_view=1#post-3196692)
 - [Megekko.nl - Bekijk alle Koeling - Case fans](https://www.megekko.nl/Computer/Componenten/Koeling/Case-fans?f=f_vrrd-3_s-populair_pp-50_p-1_d-list_cf-)
 

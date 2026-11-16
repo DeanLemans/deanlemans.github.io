@@ -19,9 +19,9 @@ bunch of cool stuff i gathered, feel free to share
 
 ---
 
-- [Book list](book_list.md)
-- [Game list](game_list.md)
-- [Manga list](manga_list.md)
-- [Personal sites](personal_sites.md)
-- [Web resources](web_resources.md)
-- [Free services i found](free_services_i_found.md)
+- [Book list](<./book_list.md>)
+- [Game list](<./game_list.md>)
+- [Manga list](<./manga_list.md>)
+- [Personal sites](<./personal_sites.md>)
+- [Web resources](<./web_resources.md>)
+- [Free services i found](<./free_services_i_found.md>)

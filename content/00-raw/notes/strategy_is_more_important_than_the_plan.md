@@ -1,12 +1,13 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Strategy is more important than then the plan
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: 547v3vyp8uhdspn9f3zt5dimyp581q
-description: "strategy matters more than the plan"
+description: strategy matters more than the plan
 created: 2026-07-12
 aliases:
   - strategy is more important than then the plan

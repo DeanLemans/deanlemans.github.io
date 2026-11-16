@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("note-taking")
+    order:
+      - title
+      - file.name
+      - created
+      - modified
+properties:
+  file.name:
+    displayName: links

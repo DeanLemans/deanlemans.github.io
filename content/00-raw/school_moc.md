@@ -22,8 +22,8 @@ aliases:
 
 file that links to all my relevant school notes
 
-![toegepaste_biologie_moc](<./00_00-archive/MOC/toegepaste_biologie_moc.base>)
-[toegepaste_biologie_moc](<./00_00-archive/MOC/toegepaste_biologie_moc.base>)
+![toegepaste_biologie_moc](<./MOC/toegepaste_biologie_moc.base>)
+[toegepaste_biologie_moc](<./MOC/toegepaste_biologie_moc.base>)
 
 ### School canvas i made
 

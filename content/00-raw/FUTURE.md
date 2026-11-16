@@ -162,8 +162,8 @@ hori hori
 
 # Related
 
-[Trajectory](00_00-archive/internal/trajectory.md)
-[Now](../now.md)
+[Trajectory](<./00_00-archive/internal/trajectory.md>)
+[Now](<../now.md>)
 
 ### List with all todo things autograbbed from all my notes
 

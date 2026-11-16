@@ -61,14 +61,14 @@ Datum: 06-11-2026
 > de eigen leefomgeving herkennen en benoemen, kenmerken beschrijven, onderbouwen waarom deze past, voorbeelden uit de eigen situatie gebruiken.
 >
 > - Wat ik heb gedaan: *ik heb sambal gemaakt en uitgelegd over mijn leefomgeving*
-> - Bewijs: [Tussenproduct 1 week 3](tussenproduct_1_week_3.md) en <img src="../../static_files/file-20261106113409662.png" width="400">
+> - Bewijs: [Tussenproduct 1 week 3](<./tussenproduct_1_week_3.md>) en <img src="../../static_files/file-20261106113409662.png" width="400">
 > - Niveau en waarom: *2, ik heb mijn eigen leefomgeving uitgelegd en de sambal was een goed voorbeeld uit mijn eigen situatie*
 
 > [!note] 1.5 Het effect van eigen gedrag op de leefomgeving laten zien (harde eis)
 > eigen gedrag benoemen, gevolgen voor de leefomgeving beschrijven, dit koppelen aan ecologische, sociale of economische waarden, reflecteren op verbeteringen.
 >
 > - Wat ik heb gedaan: *ik heb het verteld op de inspiratieavond en we hebben owns daarvoor voorbereid met owns projectplan. De verbetering heb ik bij tussenproduct 2 uitgevoerd*
-> - Bewijs: [P1L1projectplan](<../../P1L1projectplan.pdf>), [Tussenproduct 1 week 3](tussenproduct_1_week_3.md)
+> - Bewijs: [P1L1projectplan](<../../P1L1projectplan.pdf>), [Tussenproduct 1 week 3](<./tussenproduct_1_week_3.md>)
 > - Niveau en waarom: *2, ik vond dat ik het goed had uitgelegd en verband had gelegd, en ik heb de reflectie van tussenproduct 1 verbeterd*
 
 ### Leerdoel 2: Projectmatig werken
@@ -126,7 +126,7 @@ Datum: 06-11-2026
 > feedback verzamelen, resultaten beoordelen ten opzichte van de doelen, verbeterpunten benoemen, conclusies trekken voor een volgend project.
 >
 > - Wat ik heb gedaan: *dit reflectiedocument gemaakt*
-> - Bewijs: dit document, [reflectie periode 1](reflectie_periode_1.md)
+> - Bewijs: dit document, [reflectie periode 1](<./reflectie_periode_1.md>)
 > - Niveau en waarom: *1, ik vind dat ik er well dieper op in kon gaan, maar ik heb honger en ben moe*
 
 ### Leerdoel 3: Communicatievaardigheden toepassen
@@ -161,8 +161,8 @@ Datum: 06-11-2026
 > - Waarom ik hier trots op ben: *ik heb echt iets met de feedback gedaan en het werd er beter van*
 > - Wat dit zegt over mijn kwaliteiten: *ik kan leren van feedback en dat zelf toepassen*
 
-> [!success] Trots op mijn notities van de lessen [Biologie les notities](biologie_les_notities.md)
-> - Wat ik heb gedaan: *ik heb goede notities gemaakt* [Biologie les notities](biologie_les_notities.md)
+> [!success] Trots op mijn notities van de lessen [Biologie les notities](<./biologie_les_notities.md>)
+> - Wat ik heb gedaan: *ik heb goede notities gemaakt* [Biologie les notities](<./biologie_les_notities.md>)
 > - Waarom ik hier trots op ben: *ik gebruikt ze vaak en verbeter ze ook als er nieuwe informatie is*
 > - Wat dit zegt over mijn kwaliteiten: *ik kan goed notities maken? goed leren bij dingen die ik interesant vind*
 

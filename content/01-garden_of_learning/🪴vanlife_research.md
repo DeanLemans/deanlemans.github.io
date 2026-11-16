@@ -85,7 +85,7 @@ Instead of still officially living with my parents, should probb instead conside
 <https://www.postnl.nl/>
 
 - Continue registering as living with your parents if it works, but prepare documentation (idk what though)
-- Build an emergency fund [Money expensive bank investing](🌱money_expensive_bank_investing.md)
+- Build an emergency fund [Money expensive bank investing](<./🌱money_expensive_bank_investing.md>)
 - Build a online presence (via this site, i still need to restructure this)
 - Legal:
 	watch out for legal bullshit from the government, keep up to date with relevant laws.

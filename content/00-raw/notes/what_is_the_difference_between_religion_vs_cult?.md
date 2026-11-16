@@ -2,7 +2,8 @@
 unlisted: false
 type: fleeting
 title: What is the difference between religion vs cult?
-tags: []
+tags:
+  - philosophy
 publish: false
 modified: 2026-09-30
 id: dtgi7jd4xnd6puzf1bi62uyfpl9h32
@@ -20,4 +21,4 @@ what is belief? what is religion?
 
 ### See also
 
-- [the meaning of life](the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md)
+- [the meaning of life](<./the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md>)

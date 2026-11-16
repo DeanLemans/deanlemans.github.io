@@ -1,12 +1,13 @@
 ---
 unlisted: true
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Destiny
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: labfe925imrvqu4pli740jmgyan26h
-description: "destiny, fate and fatalism"
+description: destiny, fate and fatalism
 created: 2026-03-17
 aliases:
   - Destiny
@@ -26,5 +27,5 @@ the belief that everything is predestined by [Fate](Fate.md).
 
 ### See also
 
-- [Ubermensch overcoming of self](ubermensch_overcoming_of_self.md)
-- [the meaning of life](the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md)
+- [Ubermensch overcoming of self](<./ubermensch_overcoming_of_self.md>)
+- [the meaning of life](<./the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md>)

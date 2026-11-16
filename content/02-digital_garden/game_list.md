@@ -296,4 +296,4 @@ aliases:
 - [Utopia Must Fall](https://store.steampowered.com/app/2849680/Utopia_Must_Fall/)
 
 > [!info]
-> also check out my [Book list](book_list.md)
+> also check out my [Book list](<./book_list.md>)

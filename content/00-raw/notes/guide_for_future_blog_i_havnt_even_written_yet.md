@@ -16,4 +16,4 @@ aliases:
 > note that, this is for this blog. Other blogs may have sifferent purposes, and goals. Or philosophy or ideals etc etc
 
 - Should be refined public thoughs?
-- this should not just be a live/small updates posts.(that's whats [Now](../now.md) is going to be? Haven't decided really
+- this should not just be a live/small updates posts.(that's whats [Now](../../now.md) is going to be? Haven't decided really

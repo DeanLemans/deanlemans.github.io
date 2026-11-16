@@ -326,6 +326,10 @@
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
   "showAttachments": false,
+  "showDocumentAttachments": false,
+  "showImageAttachments": false,
+  "showMediaAttachments": false,
+  "showOtherAttachments": false,
   "showURLNodes": false,
   "showVirtualNodes": true,
   "showFolderNodes": true,
@@ -335,6 +339,7 @@
   "wrapNodeLabels": false,
   "typographyProfiles": {},
   "baseFontSize": 12.4,
+  "propertyFontSize": 12,
   "showFullTagName": false,
   "maxItemCount": 100,
   "renderSiblings": true,
@@ -438,6 +443,7 @@
   "boldFields": false,
   "allowAutozoom": true,
   "trackpadNavigation": false,
+  "connectionSourceModifier": "none",
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
   "embedCentralNode": false,
@@ -460,7 +466,7 @@
   "parentMaxHeight": 300,
   "childMaxHeight": 400,
   "noteTypeField": "Note type",
-  "noteTypeStyles": {},
+  "noteTypeProperties": {},
   "kplexInitialized": true,
   "startInPopout": false,
   "lastActivePath": "00-raw/notes/atomic_permanent_zettel.md",
@@ -484,6 +490,11 @@
       "useDailyNotes": false,
       "weekStart": "iso"
     }
+  },
+  "showDailyCalendar": true,
+  "dailyNoteLinkFields": {
+    "previous": "",
+    "next": ""
   },
   "layoutProfiles": {
     "desktop:leaf": {
@@ -561,6 +572,10 @@
     "previous": "Previous",
     "next": "Next"
   },
+  "lateralCreationRoles": {
+    "left": "left",
+    "right": "right"
+  },
   "documentSyncMode": "pinned",
   "animationSpeed": 1,
   "graphLenses": [],
@@ -574,13 +589,16 @@
   "folderCreationTab": "note",
   "linkAfterSaving": "return",
   "newNodeDefaultType": "markdown",
+  "newNodeCreationTab": null,
   "lastDrawingTemplatePath": null,
+  "markdownTemplateFolder": "",
+  "alsoWriteInverseOntology": false,
   "startupIndexInfoBubbleSeen": true,
   "deletePromptInitialized": false,
   "confirmFileDelete": true,
   "removeOntologyLinksOnDelete": true,
   "appearanceThemes": {
-    "version": 1,
+    "version": 2,
     "migrationComplete": true,
     "selectedId": "native-base",
     "migrationNotice": false,
@@ -672,7 +690,6 @@
             "backgroundColor": "#0c3e6aff"
           },
           "semantic": {
-            "noteTypeStyles": {},
             "tagNodeStyles": {},
             "tagStyleList": [],
             "hierarchyLinkStyles": {},
@@ -753,7 +770,6 @@
             "standardStyleDefaults": "native"
           },
           "semantic": {
-            "noteTypeStyles": {},
             "tagNodeStyles": {},
             "tagStyleList": [],
             "hierarchyLinkStyles": {},
@@ -834,7 +850,6 @@
             "standardStyleDefaults": "native"
           },
           "semantic": {
-            "noteTypeStyles": {},
             "tagNodeStyles": {},
             "tagStyleList": [],
             "hierarchyLinkStyles": {},

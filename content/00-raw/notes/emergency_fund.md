@@ -1,12 +1,12 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Emergency fund
 tags: []
 publish: true
 modified: 2026-09-30
 id: mskoneebiaiipnpsz4hckk1gh2kdil
-description: "what an emergency fund is and why you want one"
+description: what an emergency fund is and why you want one
 created: 2026-07-05
 aliases:
   - emergency fund
@@ -25,6 +25,6 @@ And is should only draw from it when necary, this is the opposite of a [checking
 
 # RELATED
 
-[Building a emergency fund](building_a_emergency_fund.md)
+[Building a emergency fund](<./building_a_emergency_fund.md>)
 
-How to get that money? Get a fucking job, when having a certain amount of income you can like start like investing [Money expensive bank investing](../../01-garden_of_learning/🌱money_expensive_bank_investing.md)
+How to get that money? Get a fucking job, when having a certain amount of income you can like start like investing [Money expensive bank investing](<../../01-garden_of_learning/🌱money_expensive_bank_investing.md>)

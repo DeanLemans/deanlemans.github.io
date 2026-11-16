@@ -13,10 +13,10 @@ aliases:
 
 # /now
 
-[Ecosysteem project](00-raw/notes/ecosysteem_project.md)
-[Shed greenhouse](01-garden_of_learning/🪴shed_greenhouse.md)
+[Ecosysteem project](<./00-raw/notes/ecosysteem_project.md>)
+[Shed greenhouse](<./01-garden_of_learning/🪴shed_greenhouse.md>)
 
-- See: [01 projects](01-garden_of_learning/index.md)for my current projects
+- See: [01 projects](<./01-garden_of_learning/index.md>)for my current projects
 - See: [school folder](<00-raw/inbox/index 1.md>) for my school work
 
 ---
@@ -30,4 +30,4 @@ aliases:
 
 [listening to](https://listenbrainz.org/user/beyond_selfhood/)
 
-[about nownownow.com](00-raw/00_00-archive/about_nownownow.com.md)
+[about nownownow.com](<./00-raw/00_00-archive/about_nownownow.com.md>)

@@ -91,4 +91,4 @@ aliases:
 
 ### See also
 
-- [Les daan motivatie week 7 p1](les_daan_motivatie_week_7_p1.md)
+- [Les daan motivatie week 7 p1](<./les_daan_motivatie_week_7_p1.md>)

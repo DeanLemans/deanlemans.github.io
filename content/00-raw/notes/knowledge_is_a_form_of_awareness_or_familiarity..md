@@ -1,12 +1,13 @@
 ---
 unlisted: true
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Knowledge is a form of awareness or familiarity
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-10-07
 id: 6xra5q1rm7jnolznmuii81z4r9m8fj
-description: "knowledge is awareness or familiarity"
+description: knowledge is awareness or familiarity
 created: 2026-09-28
 aliases:
   - Knowledge is a form of awareness or familiarity.

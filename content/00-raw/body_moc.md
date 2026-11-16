@@ -35,20 +35,20 @@ skincare:
 
 ---
 
-[Improving quality off hair](../01-garden_of_learning/🌱improving_quality_off_hair.md)
+[Improving quality off hair](<../01-garden_of_learning/🌱improving_quality_off_hair.md>)
 
 [Wetshaving](../Wetshaving.md)
 
-[My suplement stack](../01-garden_of_learning/🌿my_suplement_stack.md)
+[My suplement stack](<../01-garden_of_learning/🌿my_suplement_stack.md>)
 
 [Workout research](<../Workout research.md>)
 
 [Longlivity](../Longlivity.md)
 
-[Improving my sleep](../01-garden_of_learning/🌿improving_my_sleep.md)
+[Improving my sleep](<../01-garden_of_learning/🌿improving_my_sleep.md>)
 
-![body_stuff](<./00_00-archive/MOC/body_stuff.base>)
-[body_stuff](<./00_00-archive/MOC/body_stuff.base>)
+![body_stuff](<./MOC/body_stuff.base>)
+[body_stuff](<./MOC/body_stuff.base>)
 
 # Sources
 
@@ -57,8 +57,8 @@ skincare:
 
 ### See also
 
-- [Testament](../testament.md)
-- [PKM brainstorm](notes/PKM_brainstorm.md)
+- [Testament](<../testament.md>)
+- [PKM brainstorm](<./notes/PKM_brainstorm.md>)
 - [Commonplacebook](../commonplacebook.md)
-- [mind stuff?](mind_stuff?.md)
-- [Mind moc](mind_moc.md)
+- [mind stuff?](<./mind_stuff?.md>)
+- [Mind moc](<./MOC/mind_moc.md>)

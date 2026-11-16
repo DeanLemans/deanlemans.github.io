@@ -1,12 +1,12 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: General Substrate Mix
 tags: []
 publish: true
 modified: 2026-10-25
 id: ac441mljrkwc908z62iq1d4y8dd9sc
-description: "general substrate mix for terrariums and plants"
+description: general substrate mix for terrariums and plants
 created: 2026-03-27
 aliases:
   - General substrate mix

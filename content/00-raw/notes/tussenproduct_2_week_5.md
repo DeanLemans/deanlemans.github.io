@@ -101,5 +101,5 @@ aliases:
 
 ## Related
 
-[Tussenproduct 1 week 3](tussenproduct_1_week_3.md)
-[Tussenproduct 3 week 7](tussenproduct_3_week_7.md)
+[Tussenproduct 1 week 3](<./tussenproduct_1_week_3.md>)
+[Tussenproduct 3 week 7](<./tussenproduct_3_week_7.md>)

@@ -27,4 +27,4 @@ springtails
 
 ## Mix for terrarium substrate
 
-[General substrate mix](../00-raw/notes/general_substrate_mix.md)
+[General substrate mix](<../00-raw/notes/general_substrate_mix.md>)

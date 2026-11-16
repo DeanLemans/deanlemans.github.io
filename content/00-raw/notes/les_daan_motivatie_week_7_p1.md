@@ -67,7 +67,7 @@ aliases:
 	5. doe metalen palen en zonnepanelen in
 - beter leren planten groeien
 	1. maak eigen groeikas
-	2. [Shed greenhouse](../../01-garden_of_learning/🪴shed_greenhouse.md)
+	2. [Shed greenhouse](<../../01-garden_of_learning/🪴shed_greenhouse.md>)
 
 ---
 
@@ -108,4 +108,4 @@ negatiefe dingen omgeving
 
 ### See also
 
-- [Brief daan gesprekken](brief_daan_gesprekken.md)
+- [Brief daan gesprekken](<./brief_daan_gesprekken.md>)

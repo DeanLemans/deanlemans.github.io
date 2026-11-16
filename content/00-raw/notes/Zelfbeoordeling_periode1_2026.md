@@ -86,5 +86,5 @@ Denk aan ecologische, sociale en economische waarden.
 
 ### See also
 
-- [Reflectie periode 1](reflectie_periode_1.md)
-- [Zelfbeoordeeling P2 De Leefbare Toekomst](Zelfbeoordeeling_P2_De_Leefbare_Toekomst.md)
+- [Reflectie periode 1](<./reflectie_periode_1.md>)
+- [Zelfbeoordeeling P2 De Leefbare Toekomst](<./Zelfbeoordeeling_P2_De_Leefbare_Toekomst.md>)

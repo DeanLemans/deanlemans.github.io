@@ -1,7 +1,8 @@
 ---
 unlisted: true
 title: PKM
-tags: []
+tags:
+  - note-taking
 publish: true
 modified: 2026-11-16
 id: 9w7nr3og30sj36cob7zl1njz1ljjxd
@@ -44,12 +45,11 @@ Same funnel for every domain: gardening research, philosophy, career notes, drea
 
 | PARA concept       | Your folder             | What goes here                                                                                                                                                   |
 | ------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inbox (pre-PARA)   | `00-raw/inbox`          | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means it's dead or needs to move.                                    |
+| Inbox (PARA)       | `00-raw/inbox`          | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means it's dead or needs to move.                                    |
 | Reference material | `00-raw/00_00-archive`  | Process stage. External clippings (`/external`) plus your own journal/dreams (`/internal`), literature notes about past-you, raw and unedited, a source to mine. |
 | Permanent notes    | `00-raw/00_01-zettel`   | Connect stage. Only notes that pass the three-part test.                                                                                                         |
 | Projects/Areas     | `01-garden_of_learning` | Active, actionable work. Your emoji system (🌱🌿🪴✅) is already a maturity layer inside Projects, leave it alone, it works.                                      |
 | Resources          | `02-digital_garden`     | Curated output for others: book/game/manga lists, blogroll. Public-facing, low-maintenance, no zettel-rigor needed.                                              |
-| Archive/Manuscript | `03-blog`               | Create stage. Pulls from zettel notes, doesn't consume them, permanent notes stay put and get reused.                                                            |
 
 PARA's four categories map onto your five top-level folders almost exactly. You already built this, you just hadn't named the mapping.
 
@@ -129,24 +129,24 @@ map of content(MOC), are my index folders!, how did i never realised that?
 
 root of my 00-raw/hidden folder is my inbox folder, but what about the dump folder
 
-[Vault rules](../../vault_rules.md)
+[Vault rules](<../../vault_rules.md>)
 
 ---
 
 ## Inspiration
 
-- [“Better note-taking” misses the point; what matters is “better thinking”](../00_00-archive/“Better_note-taking”_misses_the_point;_what_matters_is_“better_thinking”.md)
-- [Evergreen notes](../00_00-archive/Evergreen_notes.md)
-- [Ideas for my note-taking workflow ¶](../00_00-archive/Ideas_for_my_note-taking_workflow_¶.md)
-- [My Zettelkasten workflow from start to finish](../00_00-archive/My_Zettelkasten_workflow_from_start_to_finish.md)
-- [Zettelkasten](../00_00-archive/Zettelkasten.md)
-- [Zettelkasten](../00_00-archive/Zettelkasten.md)
-- [About This Website](../00_00-archive/About_This_Website.md)
-- [Introduction to the Zettelkasten Method • Zettelkasten Method](../00_00-archive/Introduction_to_the_Zettelkasten_Method_•_Zettelkasten_Method.md)
-- [Building a Second Brain The Definitive Introductory Guide](../00_00-archive/Building_a_Second_Brain_The_Definitive_Introductory_Guide.md)
+- [“Better note-taking” misses the point; what matters is “better thinking”](<../00_00-archive/“Better_note-taking”_misses_the_point;_what_matters_is_“better_thinking”.md>)
+- [Evergreen notes](<../00_00-archive/Evergreen_notes.md>)
+- [Ideas for my note-taking workflow ¶](<../00_00-archive/Ideas_for_my_note-taking_workflow_¶.md>)
+- [My Zettelkasten workflow from start to finish](<../00_00-archive/My_Zettelkasten_workflow_from_start_to_finish.md>)
+- [Zettelkasten](<../00_00-archive/Zettelkasten.md>)
+- [Zettelkasten](<../00_00-archive/Zettelkasten.md>)
+- [About This Website](<../00_00-archive/About_This_Website.md>)
+- [Introduction to the Zettelkasten Method • Zettelkasten Method](<../00_00-archive/Introduction_to_the_Zettelkasten_Method_•_Zettelkasten_Method.md>)
+- [Building a Second Brain The Definitive Introductory Guide](<../00_00-archive/Building_a_Second_Brain_The_Definitive_Introductory_Guide.md>)
 - [Wittgenstein](00_00-clippings/Wittgenstein.md)
 - [Personal Knowledge Management System (PKMS)](<../00_00-archive/Personal_Knowledge_Management_System_(PKMS).md>)
-- [Note Taking & Obsidian](../00_00-archive/Note_Taking_&_Obsidian.md)
+- [Note Taking & Obsidian](<../00_00-archive/Note_Taking_&_Obsidian.md>)
 - [The Ultimate Folder System: A quixotic journey to ACE - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/the-ultimate-folder-system-a-quixotic-journey-to-ace/63483)
 - [Quantum OS](https://quantumgardener.info/notes/quantum-os)
 

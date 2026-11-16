@@ -31,5 +31,5 @@ wat verwacht ik van de nieuwe groepsgenoten?
 
 ### See also
 
-- [Samenwerking opdracht](../00_00-archive/internal/samenwerking_opdracht.md)
-- [Project lessen](project_lessen.md)
+- [Samenwerking opdracht](<../00_00-archive/internal/samenwerking_opdracht.md>)
+- [Project lessen](<./project_lessen.md>)

@@ -22,10 +22,10 @@ info:
 - trade
 	- dropshipping
 	- selling shit (that i can reasonably do?)
-		- plants[Shed Greenhouse Project](🪴shed_greenhouse.md)
+		- plants[Shed Greenhouse Project](<./🪴shed_greenhouse.md>)
 		- games
 		- crafts and such
-		- selling mini terrariums[Plant terrarium project](🌱plant_terrarium_project.md)
+		- selling mini terrariums[Plant terrarium project](<./🌱plant_terrarium_project.md>)
 - investing
 	- stocks and such(contact bank or whatnot)
 	- crypto trading or reselling
@@ -54,9 +54,9 @@ crypto trading
 
 ### Principles
 
-[Emergency fund](../00-raw/notes/emergency_fund.md)
+[Emergency fund](<../00-raw/notes/emergency_fund.md>)
 
-[Building a emergency fund](../00-raw/notes/building_a_emergency_fund.md)
+[Building a emergency fund](<../00-raw/notes/building_a_emergency_fund.md>)
 
 investing vs pension
 

@@ -1,12 +1,13 @@
 ---
 unlisted: true
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Discipline
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: uyx0nic3jrqz71zx25try7dfgu5o8x
-description: "my take on discipline"
+description: my take on discipline
 created: 2026-03-17
 aliases:
   - Discipline

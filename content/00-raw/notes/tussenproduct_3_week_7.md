@@ -159,7 +159,7 @@ Ik heb mijn afvalstroom thuis verbeterd met de 3 R (Reduce, Reuse, Recycle).
 
 #### 2.5.1 Bewijsmateriaal
 
-- Zie tussenproduct 1, verbeterpunten; daar staan de foto's: [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
+- Zie tussenproduct 1, verbeterpunten; daar staan de foto's: [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 
 ### 2.6 Evaluatie
 
@@ -209,7 +209,7 @@ De actie heeft de afvalscheiding in mijn huishouden verbeterd. Er komt minder gr
 - **Economisch:** minder kosten en minder nieuwe spullen kopen.
 - **Sociaal:** samen doen thuis en contact met mensen uit de buurt.
 
-(voorbeeld van [tussenproduct 2 week 5](tussenproduct_2_week_5.md)) Net als bij het park, de Jumbo en het Udens College hangt alles aan elkaar. Als je 1 ding verbetert, verbetert de rest mee.
+(voorbeeld van [tussenproduct 2 week 5](<./tussenproduct_2_week_5.md>)) Net als bij het park, de Jumbo en het Udens College hangt alles aan elkaar. Als je 1 ding verbetert, verbetert de rest mee.
 
 Bijvoorbeeld:
 - **Ecologisch:** omdat ik de 3 R heb gebruikt om mijn leefomgeving te verbeteren, heb ik ervoor gezorgd dat we minder geld besteden, waardoor we meer geld (**economisch**) hebben om bijvoorbeeld naar een pretpark (**sociaal**) te gaan.
@@ -226,9 +226,9 @@ Bijvoorbeeld:
 
 <https://thinkbigactnow.org/>
 
-Bronnen van [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
+Bronnen van [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 
-[mega note on scientific method](mega_note_on_scientific_method.md)
+[mega note on scientific method](<./mega_note_on_scientific_method.md>)
 
 ---
 
@@ -332,7 +332,7 @@ Bronnen van [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
 >
 > #### Bewijsmateriaal
 >
-> - zie tussenprocut 1, verbeterpuntner, daar staan de fotos [tussenopdracht 1 week3](tussenproduct_1_week_3.md)
+> - zie tussenprocut 1, verbeterpuntner, daar staan de fotos [tussenopdracht 1 week3](<./tussenproduct_1_week_3.md>)
 >
 > ### Wat ging goed?
 >
@@ -372,7 +372,7 @@ Bronnen van [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
 > - **Economisch:** minder kosten en minder nieuwe spullen kopen.
 > - **Sociaal:** samen doen thuis en contact met mensen uit de buurt.
 >
-> (voorbeeld van [Tussenproduct 2 week 5](tussenproduct_2_week_5.md) Net als bij het park, de Jumbo en het Udens College hangt alles aan elkaar. Als je 1 ding verbetert, verbetert de rest mee.
+> (voorbeeld van [Tussenproduct 2 week 5](<./tussenproduct_2_week_5.md>) Net als bij het park, de Jumbo en het Udens College hangt alles aan elkaar. Als je 1 ding verbetert, verbetert de rest mee.
 >
 > bijvoorbeeld:
 > - **ecologisch** omdat ik de 3 R gebruikt hebt om mijn leefomgeving te verbetert, heb ik ervoor gezorgt ervoor dat we minder geld besteden, waardoor we meer geld(**economisch**) hebben om bijvoorbeeld om naar een pretpark (**sociaal**)te gaan
@@ -383,7 +383,7 @@ Bronnen van [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
 >
 > <https://thinkbigactnow.org/>
 >
-> Bronnen van [tussenopdracht 1 week3](tussenproduct_1_week_3.md)
+> Bronnen van [tussenopdracht 1 week3](<./tussenproduct_1_week_3.md>)
 
 ---
 
@@ -519,10 +519,10 @@ Bronnen van [tussenopdracht 1 week 3](tussenproduct_1_week_3.md)
 >
 > ## Related
 >
-> - [Tussenproduct 1 week 3](tussenproduct_1_week_3.md)
-> - [Tussenproduct 2 week 5](tussenproduct_2_week_5.md)
+> - [Tussenproduct 1 week 3](<./tussenproduct_1_week_3.md>)
+> - [Tussenproduct 2 week 5](<./tussenproduct_2_week_5.md>)
 
 ### Related
 
-[Tussenproduct 1 week 3](tussenproduct_1_week_3.md)
-[Tussenproduct 2 week 5](tussenproduct_2_week_5.md)
+[Tussenproduct 1 week 3](<./tussenproduct_1_week_3.md>)
+[Tussenproduct 2 week 5](<./tussenproduct_2_week_5.md>)

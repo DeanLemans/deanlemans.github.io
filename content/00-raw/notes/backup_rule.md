@@ -1,12 +1,12 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Backup Rule
 tags: []
 publish: true
 modified: 2026-09-30
 id: z2d1l4t2f7p7gzilrsjezg6kxo57ej
-description: "my backup rule for the vault"
+description: my backup rule for the vault
 created: 2026-03-17
 aliases:
   - Backup rule

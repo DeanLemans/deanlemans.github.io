@@ -1,7 +1,8 @@
 ---
 unlisted: true
 title: Using rationality to align thinking
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: ziqafbew6n5u2g1wm5j8vhii018voi
@@ -13,4 +14,4 @@ aliases:
 
 # Using rationality to align thinking
 
-[Using Pragmatism to increase effecifeness of being](Using_Pragmatism_to_increase_effecifeness_of_being.md)
+[Using Pragmatism to increase effecifeness of being](<./Using_Pragmatism_to_increase_effecifeness_of_being.md>)

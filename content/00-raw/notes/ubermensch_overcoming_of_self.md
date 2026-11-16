@@ -1,12 +1,13 @@
 ---
 unlisted: true
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Ubermensch
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-09-30
 id: gq3jl7jlbssc6gsgchkfmt6jvesy5b
-description: "ubermensch and overcoming yourself"
+description: ubermensch and overcoming yourself
 created: 2026-07-08
 aliases:
   - Ubermensch, overcoming of self

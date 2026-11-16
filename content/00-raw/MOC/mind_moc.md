@@ -19,19 +19,21 @@ aliases:
 
 # Mind MOC
 
-the big one for everything mind. sub MOCs hang under this one, like inheritance/components.
+for everything mind. sub MOC under this one, like inheritance/components.
+
+reduce the amount of choices you have to make to get smth done? for a goal? more focus?
 
 - [ ] add a learning MOC (picture walk, pomodoro, school stuff?)
 - [ ] add a research MOC?
-- [ ] add philosophy notes (destiny, ubermensch, discipline, etc)
 
 ---
 
 ## Sub MOCs
 
-- [Note taking moc](note_taking_moc.md) how i take and connect notes
+- [Note taking moc](<./note_taking_moc.md>) how i take and connect notes
+- [Philosophy moc](<./philosophy_moc.md>) how i see life, thinking and myself
 
 ### See also
 
-- [Body moc](body_moc.md)
-- [Mind stuff?](<mind_stuff?.md>)
+- [Body moc](<../body_moc.md>)
+- [Mind stuff?](<../mind_stuff?.md>)

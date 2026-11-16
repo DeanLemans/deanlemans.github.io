@@ -1,7 +1,8 @@
 ---
 unlisted: true
 title: Backlinks stuff
-tags: []
+tags:
+  - note-taking
 publish: true
 modified: 2026-09-30
 id: ksine4jffep3pzph8ku88arevlli9w
@@ -22,5 +23,5 @@ by linking your thinking via backlinks, you improve navigation and memory when y
 
 ### See also
 
-- [PKM brainstorm](PKM_brainstorm.md)
-- [My lifesycle of notes](my_lifesycle_of_notes.md)
+- [PKM brainstorm](<./PKM_brainstorm.md>)
+- [My lifesycle of notes](<./my_lifesycle_of_notes.md>)

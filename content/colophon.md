@@ -13,7 +13,7 @@ aliases:
 # /colophon
 
 - notes are created with obsidian
-	- (see [Site Rules and Vault System](vault_rules.md) for style and content information of the site)
+	- (see [Site Rules and Vault System](<./vault_rules.md>) for style and content information of the site)
 - site is created via quartz
 - [Umami](https://cloud.umami.is/analytics/eu/share/cQibaMjOX3vvklQG) is used for analytics
 - GitHub and codeberg and radicle are the code hosters
@@ -26,7 +26,7 @@ aliases:
 - the inter-web has become a pool of utter hate and attention grabbing shorts nonsense, i didn't want that and would rather be reading, learning, and taking notes.
 	- and then i decided to publish it.
 
-see [vault rules](vault_rules.md) for exact details, this page is just a brief statement containing information about the publication of the site and content
+see [vault rules](<./vault_rules.md>) for exact details, this page is just a brief statement containing information about the publication of the site and content
 
 ## inspiration/references
 

@@ -2,7 +2,8 @@
 unlisted: true
 type: fleeting
 title: The meaning of life according to this Philosophy is that you create your own meaning
-tags: []
+tags:
+  - philosophy
 publish: true
 modified: 2026-10-01
 id: gcqrya4i4f4ymn063ew15nykvgjcgo
@@ -23,4 +24,4 @@ im conflating a few terms and i should fix that.
 
 ## Related
 
-[Ubermensch overcoming of self](ubermensch_overcoming_of_self.md)
+[Ubermensch overcoming of self](<./ubermensch_overcoming_of_self.md>)

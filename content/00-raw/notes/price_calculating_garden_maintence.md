@@ -49,4 +49,4 @@ so now im asking 15 euro per hour, and for simple gardens i will just ask a vari
 
 ### See also
 
-- [IT stuff](IT_stuff.md)
+- [IT stuff](<./IT_stuff.md>)

@@ -60,6 +60,10 @@ const LAYOUT_READY_RESTORE_DELAY = 600;
 // Window during which a detected workspace load suppresses position restoration
 // when the "restore on workspace load" option is disabled.
 const WORKSPACE_LOAD_WINDOW_MS = 3000;
+// Throttle for the position check: at most one per 100 ms after a scroll or
+// selection event. It equals the period of the polling it replaces, so a quick
+// note switch loses no more than it did before.
+const STATE_CHECK_THROTTLE_MS = 100;
 // Debounce for workspace layout change handling.
 const LAYOUT_CHANGE_DEBOUNCE_MS = 250;
 function globToRegex(glob) {
@@ -110,6 +114,8 @@ class RememberCursorPosition extends obsidian.Plugin {
         // note, so this map tells a real open apart from a mere focus change.
         this.shownFiles = new WeakMap();
         this.loadingFile = false;
+        this.stateCheckTimer = 0;
+        this.unloaded = false;
         this.lastKnownMarkdownFiles = new Set();
         this.workspaceLoadUntil = 0;
         this.pendingWorkspaceRestore = false;
@@ -137,16 +143,33 @@ class RememberCursorPosition extends obsidian.Plugin {
             // already shows the note. Record what every visible pane shows before a
             // click or a focus change, so that `restoreEphemeralState()` can tell the
             // two cases apart.
-            const rememberBeforeFocusChange = () => this.rememberShownFiles(null);
+            const rememberBeforeFocusChange = () => {
+                this.flushStateCheck();
+                this.rememberShownFiles(null);
+            };
             this.registerDomEvent(document, 'pointerdown', rememberBeforeFocusChange, { capture: true });
             this.registerEvent(this.app.workspace.on('window-open', (win) => this.registerDomEvent(win.doc, 'pointerdown', rememberBeforeFocusChange, { capture: true })));
             this.registerEvent(this.app.workspace.on('active-leaf-change', (leaf) => this.rememberShownFiles(leaf)));
             this.registerEvent(this.app.workspace.on('layout-change', () => this.onLayoutChanged()));
-            this.registerEvent(this.app.workspace.on('quit', () => { this.writeDb(this.db); }));
+            this.registerEvent(this.app.workspace.on('quit', () => this.flushState()));
             this.registerEvent(this.app.vault.on('rename', (file, oldPath) => this.renameFile(file, oldPath)));
             this.registerEvent(this.app.vault.on('delete', (file) => this.deleteFile(file)));
-            //todo: replace by scroll and mouse cursor move events
-            this.registerInterval(window.setInterval(() => this.checkEphemeralStateChanged(), 100));
+            // Track the position on scroll and selection events instead of polling.
+            // `scroll` does not bubble, so it is caught in the capture phase. Windows
+            // opened later (popouts) get the same listeners.
+            const scheduleStateCheck = () => this.scheduleStateCheck();
+            const trackWindow = (doc) => {
+                this.registerDomEvent(doc, 'scroll', scheduleStateCheck, { capture: true, passive: true });
+                this.registerDomEvent(doc, 'selectionchange', scheduleStateCheck);
+            };
+            trackWindow(document);
+            this.registerEvent(this.app.workspace.on('window-open', (win) => trackWindow(win.doc)));
+            // Mobile may suspend the app without firing `quit`.
+            this.registerDomEvent(document, 'visibilitychange', () => {
+                if (document.visibilityState === 'hidden')
+                    this.flushState();
+            });
+            this.registerDomEvent(window, 'pagehide', () => this.flushState());
             this.saveTimerIntervalId = this.registerInterval(window.setInterval(() => this.writeDb(this.db), this.settings.saveTimer));
             this.app.workspace.onLayoutReady(() => {
                 this.layoutReadyTimer = window.setTimeout(() => __awaiter(this, void 0, void 0, function* () {
@@ -167,6 +190,7 @@ class RememberCursorPosition extends obsidian.Plugin {
                     this.rememberShownFiles((_c = (_b = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView)) === null || _b === void 0 ? void 0 : _b.leaf) !== null && _c !== void 0 ? _c : null);
                     // Startup is no longer pending: allow restoration and tracking.
                     this.startupPending = false;
+                    this.scheduleStateCheck();
                     if (activeFile && this.lastRestoredLeafFile !== guardKey) {
                         yield this.restoreEphemeralState();
                     }
@@ -175,8 +199,39 @@ class RememberCursorPosition extends obsidian.Plugin {
         });
     }
     onunload() {
+        this.unloaded = true;
         window.clearTimeout(this.layoutChangeTimer);
         window.clearTimeout(this.layoutReadyTimer);
+        window.clearTimeout(this.stateCheckTimer);
+    }
+    // Coalesces bursts of scroll and selection events into one check.
+    scheduleStateCheck() {
+        if (this.unloaded || this.stateCheckTimer)
+            return;
+        this.stateCheckTimer = window.setTimeout(() => {
+            this.stateCheckTimer = 0;
+            if (this.unloaded)
+                return;
+            // A hover preview suppresses tracking only while it is focused.
+            if (this.isHoverPopoverActive()) {
+                this.scheduleStateCheck();
+                return;
+            }
+            this.checkEphemeralStateChanged();
+        }, STATE_CHECK_THROTTLE_MS);
+    }
+    // Records a pending change now, before the active note can change.
+    flushStateCheck() {
+        // With a hover preview focused the check is suppressed, so keep it pending.
+        if (!this.stateCheckTimer || this.isHoverPopoverActive())
+            return;
+        window.clearTimeout(this.stateCheckTimer);
+        this.stateCheckTimer = 0;
+        this.checkEphemeralStateChanged();
+    }
+    flushState() {
+        this.flushStateCheck();
+        this.writeDb(this.db);
     }
     renameFile(file, oldPath) {
         let newName = file.path;
@@ -354,7 +409,19 @@ class RememberCursorPosition extends obsidian.Plugin {
         var _a;
         return ((_a = this.app.workspace.getActiveFile()) === null || _a === void 0 ? void 0 : _a.path) === fileName && this.lastLoadedFileName == fileName;
     }
+    // Checks that arrived while a note was loading were skipped, and polling
+    // retried them on the next tick, so record the settled state afterwards.
     restoreEphemeralState(file) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                yield this.restoreEphemeralStateOnce(file);
+            }
+            finally {
+                this.scheduleStateCheck();
+            }
+        });
+    }
+    restoreEphemeralStateOnce(file) {
         var _a, _b;
         return __awaiter(this, void 0, void 0, function* () {
             // Suppress early restoration until the workspace layout is ready.

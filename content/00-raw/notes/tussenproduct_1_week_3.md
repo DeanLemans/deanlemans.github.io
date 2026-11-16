@@ -319,5 +319,5 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 
 ## Related
 
-- [Tussenproduct 2 week 5](tussenproduct_2_week_5.md)
-- [Tussenproduct 3 week 7](tussenproduct_3_week_7.md)
+- [Tussenproduct 2 week 5](<./tussenproduct_2_week_5.md>)
+- [Tussenproduct 3 week 7](<./tussenproduct_3_week_7.md>)

@@ -1,18 +1,19 @@
 ---
 unlisted: false
-type: "[Atomic permanent zettel](atomic_permanent_zettel.md)"
+type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
 title: Dont be wikipedia
-tags: []
+tags:
+  - note-taking
 publish: true
 modified: 2026-10-25
 id: k395dlncviospwqkpau7o6mzxwn6wj
-description: "write your own thinking, dont copy wikipedia"
+description: write your own thinking, dont copy wikipedia
 created: 2026-05-17
 aliases:
   - dont be wikipedia
 ---
 
-[Atomic permanent zettel](atomic_permanent_zettel.md)
+[Atomic permanent zettel](<./atomic_permanent_zettel.md>)
 
 # Dont be wikipedia
 
@@ -31,4 +32,4 @@ aliases:
 
 ## Related
 
-[Dont be a hoarder-archivist fallacy-collectors fallacy](dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md)
+[Dont be a hoarder-archivist fallacy-collectors fallacy](<./dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)

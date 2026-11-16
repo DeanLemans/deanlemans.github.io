@@ -149,4 +149,4 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 <https://www.tech-careers.nl/>
 <https://www.workingnomads.com/jobs?experienceLevel=entry-level&location=netherlands>
 
-[Price calculating garden maintence](price_calculating_garden_maintence.md)
+[Price calculating garden maintence](<./price_calculating_garden_maintence.md>)

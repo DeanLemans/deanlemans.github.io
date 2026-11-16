@@ -13,4 +13,4 @@ aliases:
 
 # creating\_mossarium
 
-[Mossariums’ How To Guide](../00-raw/00_00-archive/Mossariums’_How_To_Guide.md)
+[Mossariums’ How To Guide](<../00-raw/00_00-archive/Mossariums’_How_To_Guide.md>)
