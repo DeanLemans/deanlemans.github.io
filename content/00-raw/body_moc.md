@@ -61,3 +61,4 @@ skincare:
 - [PKM brainstorm](notes/PKM_brainstorm.md)
 - [Commonplacebook](../commonplacebook.md)
 - [mind stuff?](mind_stuff?.md)
+- [Mind moc](mind_moc.md)

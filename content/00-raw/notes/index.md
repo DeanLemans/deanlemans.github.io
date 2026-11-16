@@ -20,3 +20,5 @@ see the MOC
 
 - [School moc](../school_moc.md)
 - [Body moc](../body_moc.md)
+- [Mind moc](../mind_moc.md)
+- [Note taking moc](../note_taking_moc.md)
