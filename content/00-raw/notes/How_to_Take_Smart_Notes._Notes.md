@@ -39,7 +39,7 @@ The challenge is to structure ones workflow in a way that insight and new ideas 
 
 > "everyone has a plan before they get punched in theface" i think their teaching us that plans that have step by step need not be the main fovus, instead focus should instead also stratagies(effectiveness)
 > so plan for the unexpected, or at least less likely?
-> [Strategy is more important than then the plan](<strategy_is_more_important_than_the_plan.md>)
+> [Strategy is more important than then the plan](<./strategy_is_more_important_than_the_plan.md>)
 
 ---
 
@@ -158,7 +158,7 @@ He usually wrote his notes with an eye towards already existing notes in the sli
 The trick is that he did not organise his notes by topic, but in the rather abstract way of giving them fixed numbers. The numbers bore no meaning and were only there to identify each note permanently. If a new note was relevant or directly referred to an already existing note, such as a comment, correction or addition, he added it directly behind the previous note. If the existing note had the number 22, the new note would become note number 23. If 23 already existed, he named the new note 22a. By alternating numbers and letters, with some slashes and commas in between, he was able to branch out into as many strings of thought as he liked. For example, a note about causality and systems theory carried the number 21/3d7a7 following a note with the number 21/3d7a6 (cf. appendix).
 
 > that seems.. Inefficient,? Suboptimal at least.
-> I would say if creating permanent note, then give the note a fitting/explicit/direct name([Best pointer usage for mouse](<../../01-garden_of_learning/Best pointer usage for mouse.md>) [Building a emergency fund](<building_a_emergency_fund.md>) ETC)
+> I would say if creating permanent note, then give the note a fitting/explicit/direct name([Best pointer usage for mouse](<../../01-garden_of_learning/Best pointer usage for mouse.md>) [Building a emergency fund](<./building_a_emergency_fund.md>) ETC)
 > why did he not do that? Perhaps limitations of only papar? Give it a name of what the note is about? But it is a implementation detail? So dont get stuck up on it?
 
 ---

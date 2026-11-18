@@ -16,7 +16,7 @@ aliases:
 > note that, this is for this blog. Other blogs may have sifferent purposes, and goals. Or philosophy or ideals etc etc
 
 - Should be refined public thoughs?
-- this should not just be a live/small updates posts.(thats whats [Now](../../now.md) is going to be? Havent decided really
+- this should not just be a live/small updates posts.(thats whats [Now](<../../now.md>) is going to be? Havent decided really
 
 - [ ] split projects blog updates into a blog (so every time I update it the original file stays the same? also if split, people will think Im more active because of the new file, but its just the same activity, just more standard for visitors to consume) really need to work this shit out
 - [ ] META: Should I make blog posts? ⏬
