@@ -43,7 +43,7 @@ ashwaganda (1 capsule)
 
 lions mane (1 gummy)
 - Vitamine B12 (Cyanocobalamine) 2.5 µg
-- Pruikzwam / Lion's Mane (Hericium erinaceus) 10:1 extract (equivalent to 5 g vruchtlichaam) 500 mg
+- Pruikzwam / Lions Mane (Hericium erinaceus) 10:1 extract (equivalent to 5 g vruchtlichaam) 500 mg
 
 multivitamin (1 pill)
 - Vitamine A 800 mcg

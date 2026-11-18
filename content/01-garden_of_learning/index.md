@@ -5,7 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-18
 id: 1juda4gq5jun6tkit25k5ocaf033rv
-description: "Dean's very cool projects"
+description: "Deans very cool projects"
 created: 2026-03-17
 aliases:
   - 01 garden_of_learning

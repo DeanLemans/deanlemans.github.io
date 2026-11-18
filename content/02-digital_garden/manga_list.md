@@ -1,19 +1,19 @@
 ---
 unlisted: false
-title: "Dean's Manga List"
+title: "Deans Manga List"
 tags: []
 publish: true
 modified: 2026-09-30
 id: m5gsetpdvmxz4shempcszge2cj7m3f
-description: "Dean's manga tracking  list"
+description: "Deans manga tracking  list"
 created: 2026-03-30
 aliases:
   - Manga list
 ---
 
-# Dean's Manga List
+# Deans Manga List
 
-I'm tracking my manga on the following sites;
+Im tracking my manga on the following sites;
 - [MyAnimeList](https://myanimelist.net/profile/TheSeek3r)
 - [AniList](https://anilist.co/user/Th3Seeker/)
 - [Kitsu](https://kitsu.app/users/1697010)

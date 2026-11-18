@@ -1,7 +1,7 @@
 ---
 unlisted: false
 type: "[Atomic permanent zettel](<./atomic_permanent_zettel.md>)"
-title: history/ancestry Doesn't decide shape, environment does
+title: history/ancestry Doesnt decide shape, environment does
 tags: []
 publish: true
 modified: 2026-10-18
@@ -13,7 +13,7 @@ aliases:
   - History doesnt decide shape environment does
 ---
 
-# history/ancestry Doesn't decide shape, environment does
+# history/ancestry Doesnt decide shape, environment does
 
 Voor nu bevat dit alleen biologische dingen. Sociale dingen moeten nog toegevoegd worden aan dit hogere concept.
 

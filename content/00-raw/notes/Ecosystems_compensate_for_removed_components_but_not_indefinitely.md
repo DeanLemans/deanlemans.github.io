@@ -24,7 +24,7 @@ From [biologie_les_notities](<./biologie_les_notities.md>):
 - Een gezond ecosysteem is in balans
 - Actie is reactie (loop)
 
-click for origin ["Ultimately the goal is to have an ecosystem in equilibrium"](<../00_00-archive/Mossariums’_How_To_Guide.md>)
+click for origin ["Ultimately the goal is to have an ecosystem in equilibrium"](<../00_00-archive/Mossariums_How_To_Guide.md>)
 
 From [ecosysteem_project](<./ecosysteem_project.md>): "Rekening houden met stikstofen schijtkringloop… wie poept waar en wat doet er iets mee, dat moet kloppen"
 

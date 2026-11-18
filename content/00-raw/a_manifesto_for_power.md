@@ -17,7 +17,7 @@ aliases:
 
 > [!NOTE] A note to those that read this. (TL;DR: FUCK OFF)
 > This page/content is intended to be hidden, if you are offended by this then that is entirely your own fault for reading this.
-> It's too offensive to some, so I will most likely never show this to people.
+> Its too offensive to some, so I will most likely never show this to people.
 
 # A Manifesto / A Philosophy / Thesis of ? / A Doctrine
 
@@ -28,27 +28,27 @@ aliases:
 
 ## II. Knowledge & Reflection
 
-- My brain is for generating ideas and note-taking is for holding them, refining and adapting them in usable shape, not that the brain can't already do this, notetaking is more of an addition than a replacement.
+- My brain is for generating ideas and note-taking is for holding them, refining and adapting them in usable shape, not that the brain cant already do this, notetaking is more of an addition than a replacement.
 - Notetaking/writing down thoughts to not lose ideas between cracks of memory, it is reflection, a confrontation of past ideas/ideals that may prove wrong in the future.
 - Knowledge is not fixed in DNA, you can always change yourself, things are inherited yes, but that does not mean they are set in the law of the world/reality/stone.
 - change/improvement is not a destination, it is a direction/a way of being/living.
 
 ## III. Philosophy & Principles
 
-- that divine tyrant, that divine voyeur, I spit on you. karma doesn't exist.
+- that divine tyrant, that divine voyeur, I spit on you. karma doesnt exist.
 - philosophy focused on individuality, pragmatism, actions have consequences (and can be diverted), that life has no meaning and that you must create/find it yourself, the pursuit of knowledge, wisdom, (hidden?) power, and resilience in the face of adversity.
-- do unto others, before they do unto you? (don't be that saint too afraid to offend people)
+- do unto others, before they do unto you? (dont be that saint too afraid to offend people)
 - power;
 	to influence the world the way I want (while remaining anonymous, with a mask carved in lies and deception), to change myself, to not have to change myself to match social expectation
 	trust fully in your own cause, use that of others to your own benefit.
 
-- Eruditas, the pursuit of knowledge and intellectual clarity. Knowledge isn't static, it's the process of constantly refining and learning more.
+- Eruditas, the pursuit of knowledge and intellectual clarity. Knowledge isnt static, its the process of constantly refining and learning more.
  - Vitalis, the balance of physical health and strength. (overcome)
  - Dominatus, the quiet strength of superiority through understatement and strategic restraint
-- embrace paradox, accept that multiple things are true, that I can change opinions. woe to those who deem me a hypocrite then. woe to those that are mad that I'm not a fucking saint.
+- embrace paradox, accept that multiple things are true, that I can change opinions. woe to those who deem me a hypocrite then. woe to those that are mad that Im not a fucking saint.
 - reflection/confrontation/testing;
 	to have other people, to let them test it, ask them to point out what is weak, what can be improved and what they disagree with?
-- family/friends anchor my ego so that it doesn't become a crown of thorns, so that I don't float on my ego to the sky and fall to pieces when it gets attacked?
+- family/friends anchor my ego so that it doesnt become a crown of thorns, so that I dont float on my ego to the sky and fall to pieces when it gets attacked?
 - Memento Mori, remember that you can Die. Memento Vivere, remember that you can Live.
 - copy the great, steal their ideas, the spirit of it, and make it yours
 

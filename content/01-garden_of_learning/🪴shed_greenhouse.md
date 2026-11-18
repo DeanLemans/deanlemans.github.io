@@ -43,9 +43,9 @@ aliases:
 
 ## Setup Context
 
-Currently have a shed, where I'm going to be growing plants.
+Currently have a shed, where Im going to be growing plants.
 
-What I'm going to be making/growing:
+What Im going to be making/growing:
 - [Terrariums](<./🌱plant_terrarium_project.md>) (priority 1)
 - [Moss](<./🌱how_to_grow_moss.md>) (priority 1)
 - Succulents (priority 2)
@@ -99,20 +99,20 @@ Finally bought timed switches that turn on at 08:00 and turn off at 20:00. The l
 
 ### 2026-04-15
 
-Finally cleaned up the shed, can now use it for projects. Decided on building 2 climate greenhouses (buying one is like 1000 euro, don't have that money). Brainstormed a general plan. Need to buy some things.
+Finally cleaned up the shed, can now use it for projects. Decided on building 2 climate greenhouses (buying one is like 1000 euro, dont have that money). Brainstormed a general plan. Need to buy some things.
 
 ### 2026-04-16
 
 <img src="../static_files/IMG_20260315_235646_937.jpg" width="500">
 
-Tried to find the stuff I need at Boerenbond Uden — they didn't have anything, except a shitty hygrometer and basic thermometer. Bought 2 hygrometers and 2 thermometers. Tomorrow going to Intratuin.
+Tried to find the stuff I need at Boerenbond Uden — they didnt have anything, except a shitty hygrometer and basic thermometer. Bought 2 hygrometers and 2 thermometers. Tomorrow going to Intratuin.
 
 ### 2026-04-17
 
 <img src="../static_files/IMG_20260317_232205_257.jpg" width="300">
 <img src="../static_files/IMG_20260317_232154_349.jpg" width="500">
 
-Went to Intratuin Veghel, also didn't have anything. No lamps for plants, no grow lights, no heat lamps, no redlight, no LED lights. Then went to find heating-related stuff — none of that either. How do you not have a basic heat pad to grow seedlings? Also no cocos ground, not even the expanding ones. Only thing bought there was some moss, put in the greenhouse to test.
+Went to Intratuin Veghel, also didnt have anything. No lamps for plants, no grow lights, no heat lamps, no redlight, no LED lights. Then went to find heating-related stuff — none of that either. How do you not have a basic heat pad to grow seedlings? Also no cocos ground, not even the expanding ones. Only thing bought there was some moss, put in the greenhouse to test.
 
 Went to the Action to buy some lamps and cocos ground instead.
 
@@ -128,7 +128,7 @@ Went to the Action to buy some lamps and cocos ground instead.
 
 **Too cold in the shed**
 - Electric heating? Not precise enough
-- Heat 'lamp'?
+- Heat lamp?
 - Heat pads?
 
 **Not enough light**

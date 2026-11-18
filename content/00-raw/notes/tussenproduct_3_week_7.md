@@ -24,7 +24,7 @@ aliases:
 **Klas:** 1A
 
 > [!NOTE] Voorwoord
-> Dit is Inzicht als cadeau aan mezelf (tussenproduct 3 van week 7 en 8). Ik ben Dean Lemans en ik maak dit voor Yuverta Tilburg leerjaar 1. Mijn opdracht liep van 10 tot 18 september 2026. Ik heb mijn eigen afvalstroom in Uden, gemeente Maashorst, onderzocht. Mijn vraag was hoeveel afval wij thuis produceren en wat ik zelf kan verbeteren. De drie R'en (Reduce, Reuse, Recycle) komen ook terug. Ik heb informatie van de gemeente Maashorst, het CBS en LangMee gebruikt. Het doel van school is om inzicht te krijgen in mijn eigen afvalstroom en om te kijken hoe ik met de drie R'en minder afval kan maken. Mijn persoonlijke doel is om te kijken wat wij thuis beter kunnen doen.
+> Dit is Inzicht als cadeau aan mezelf (tussenproduct 3 van week 7 en 8). Ik ben Dean Lemans en ik maak dit voor Yuverta Tilburg leerjaar 1. Mijn opdracht liep van 10 tot 18 september 2026. Ik heb mijn eigen afvalstroom in Uden, gemeente Maashorst, onderzocht. Mijn vraag was hoeveel afval wij thuis produceren en wat ik zelf kan verbeteren. De drie Ren (Reduce, Reuse, Recycle) komen ook terug. Ik heb informatie van de gemeente Maashorst, het CBS en LangMee gebruikt. Het doel van school is om inzicht te krijgen in mijn eigen afvalstroom en om te kijken hoe ik met de drie Ren minder afval kan maken. Mijn persoonlijke doel is om te kijken wat wij thuis beter kunnen doen.
 
 ## Inhoud
 
@@ -159,7 +159,7 @@ Ik heb mijn afvalstroom thuis verbeterd met de 3 R (Reduce, Reuse, Recycle).
 
 #### 2.5.1 Bewijsmateriaal
 
-- Zie tussenproduct 1, verbeterpunten; daar staan de foto's: [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
+- Zie tussenproduct 1, verbeterpunten; daar staan de fotos: [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 
 ### 2.6 Evaluatie
 
@@ -445,8 +445,8 @@ Bronnen van [tussenopdracht 1 week 3](<./tussenproduct_1_week_3.md>)
 > Werk jouw idee uit.
 >
 > Verzamel bewijsmateriaal zoals:
->    - foto's;
->    - video's;
+>    - fotos;
+>    - videos;
 >    - interviews;
 >    - schetsen;
 >    - ontwerpen;

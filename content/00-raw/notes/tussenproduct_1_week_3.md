@@ -52,11 +52,11 @@ Ik heb onderzocht hoeveel afval wij thuis produceren, hoe de gemeente Maashorst 
 
 Mijn onderzoeksvraag is: hoeveel afval produceren wij thuis en wat kan ik zelf verbeteren?
 
-Doel van school: studenten inzicht laten krijgen in eigen afvalstroom en kijken hoe ik met de Drie R'en minder afval kan maken.
+Doel van school: studenten inzicht laten krijgen in eigen afvalstroom en kijken hoe ik met de Drie Ren minder afval kan maken.
 
 Persoonlijk doel: is te kijken wat wij thuis beter kunnen doen met owns afval.
 
-De Drie R'en zijn Reduce (minder afval), Reuse (dingen opnieuw gebruiken) en Recycle (afval scheiden zodat gerecycled kan worden).
+De Drie Ren zijn Reduce (minder afval), Reuse (dingen opnieuw gebruiken) en Recycle (afval scheiden zodat gerecycled kan worden).
 
 Eerst leg ik uit hoe ik het heb onderzocht. Daarna resultaten, mijn verbeterpunten en wat ik daarmee heb gedaan. Verslag eindigt met slot.(best well logisch toch?)
 
@@ -99,7 +99,7 @@ De uitslag van de calculator staat onderaan bij Uitslag afval calculator.
 
 De gemeente Maashorst haalt rest, GFT en Papier(ZWART, GROEN, BLAUW) apart op in aparte klikos. Glas en papier en textiel worden ook gescheiden. je hebt aparte plekken waar je glas en textiel in kan leveren. (je mag het daar inleveren, maar veel mensen gooien het meeste bij restafval) ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
 
-Je hebt drie klikos: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De kliko's worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
+Je hebt drie klikos: voor rest, plastic en groen, waar je je afval in doet. Soms heb je oranje zakken die je aan paaltjes moet hangen. De afvalstromen die gescheiden worden zijn rest, GFT, plastic/blik/drinkpakken, papier en glas. De klikos worden opgehaald, glas breng je zelf naar een container in de buurt, en grof afval kun je naar de milieustraat brengen. ([Gemeente Maashorst](<https://www.gemeentemaashorst.nl/inwoners/afval/>) [2])
 
 (TODO: voeg dingen toe over hoe de gemeente dingen splits en recycled)
 
@@ -183,7 +183,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 9. [*Afvalvoetafdruk Simulator*](<https://www.langmee.nl/afval/>)
 10. [*Verpakkingsglas*](<https://vang-hha.nl/verpakkingsglas/>)
 11. [*Afvalkalender gemeente Maashorst 2026*](<https://vuilnisbakinfo.nl/afvalkalender/gemeente-maashorst/>)
-12. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
+12. [*Checklist schrijven IBS Yuverta mbo Tilburg*](<../../static_files/UTF-8Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
 13. [*Afvalstoffenheffing*](<https://www.gemeentemaashorst.nl/inwoners/belasting/afvalstoffenheffing/>)
 
 > [!image]- Uitslag afval calculator
@@ -218,11 +218,11 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 > (moet nog invullend van de statsestieken van maashorst en hoe het afval word gesplits en word gerysycled en word opgehaalt)
 >
 > - Hoe afval wordt ingezameld.
->    - **Gemeente Maashorst geeft je meestal drie kliko's: voor rest, plastic en groen, waar je je afval in doet. Je oranje zakken die je aan paaltjes moet hangen.**
+>    - **Gemeente Maashorst geeft je meestal drie klikos: voor rest, plastic en groen, waar je je afval in doet. Je oranje zakken die je aan paaltjes moet hangen.**
 > - Welke afvalstromen worden gescheiden.
 >    - **Rest, GFT, plastic/blik/drinkpakken, papier en glas.**
 > - Welke mogelijkheden inwoners hebben om afval weg te brengen of te laten ophalen.
->    - **Kliko's worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
+>    - **Klikos worden opgehaald, glas breng je zelf naar container in de buurt, voor kleren heb je zon klerencontainer, en grof afval kun je naar de milieustraat brengen.**
 > - Welke maatregelen de gemeente neemt om afval te verminderen of hergebruik te stimuleren.
 >    - **Gescheiden afval (papier, glas, GFT) gratis ophalen zodat scheiden loont.**
 >
@@ -287,7 +287,7 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >
 > ### 4. Verbetermogelijkheden
 >
-> Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie R'en (Reduce, Reuse, Recycle). Maak van deze verbeteringen foto's en beschrijf ze in je verslag.
+> Bedenk 3 mogelijkheden om jouw afvalstroom te verbeteren waarbij je gebruikmaakt van de principes van de Drie Ren (Reduce, Reuse, Recycle). Maak van deze verbeteringen fotos en beschrijf ze in je verslag.
 >
 > **1. Extra prullenbak neerzetten voor groenafval, zodat we minder bij de restafval gooien.**
 > **2. Eigen compost maken van groenteen fruitresten, zodat dit afval niet wordt weggegooid maar hergebruikt wordt als voeding voor de tuin.**
@@ -301,9 +301,9 @@ Ik heb mijn afvalstroom verbetert door minder eten weg te gooien, afgekeurd glas
 >
 > ### 5. Verwerk je bevindingen in een verslag
 >
-> Van 2 tot 5 pagina's (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
+> Van 2 tot 5 paginas (zonder voorblad, inhoudsopgave, afbeeldingen en bronnenlijst).
 >
-> 1. Voeg eventueel foto's of kaarten toe.
+> 1. Voeg eventueel fotos of kaarten toe.
 > 2. Gebruikte bronnen voeg je toe in de bronnenlijst volgens de APA-richtlijnen.
 > 3. Controleer of je document voldoet aan de voorwaarden van een verslag.
 >

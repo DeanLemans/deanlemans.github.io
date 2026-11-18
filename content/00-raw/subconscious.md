@@ -72,7 +72,7 @@ im scared, so i musf
 ---
 
 words, words words words, so empty arenth they? mascerading truth, or at the veryleast a shitty translation of **feeling, emotion, knowledge, information and more**
-sad isn't it? written down, talking, recording.
+sad isnt it? written down, talking, recording.
 the main fuckign way, and its this? how sad.
 so what is the solution? i dont know, brain to brain contact
 
@@ -112,7 +112,7 @@ Ego that grows as a crown of thorns in response to imidiate stress/adversity
 
 # 2025-12-05
 
-The self, multitudes, or an shift. Clothes, the self are clothes, behavior, 'masks' if you will. What will happen when it is shed? When i become 'naked'? My true self? Is the self singular?
+The self, multitudes, or an shift. Clothes, the self are clothes, behavior, masks if you will. What will happen when it is shed? When i become naked? My true self? Is the self singular?
 What is self? Ouroboros
 What is i? Paradox
 Can i shed infenetly? Would i be infinite.
@@ -157,11 +157,11 @@ So great and tall, i will subsume you.
 
 # 2025-11-19
 
-Last 2 days i sat on my ass and didn't do shit, lied to them for examams, unfortunate timing and stress and expectations
+Last 2 days i sat on my ass and didnt do shit, lied to them for examams, unfortunate timing and stress and expectations
 
 A hypocrite, saying without doing, giving advice and not doing it himself, my dad
 He makes delicious food, cleans, dishes, and washes clothes.
-He become so weak? Soft. Compared to before, its still there but buried under 'in how one should act' in the past he would have been different. But now with the divorce getting older. Stress because of me, changed because of my change.
+He become so weak? Soft. Compared to before, its still there but buried under in how one should act in the past he would have been different. But now with the divorce getting older. Stress because of me, changed because of my change.
 Idk
 He should follow his own advice and lead by example, i copy (subcosiously) what he does, not what he says. Word are cheap, talk has no direct value, it is an amplifier of what is, it strengthens examples. Not replaces them.
 Until he asks for help or fucks up to bad, i aint helping his ass when most of his health faults are his own, he could be way healthier, but prefers hedoism?
@@ -236,14 +236,14 @@ FUCK YOU
 i need that van.
 will i really reatrict myself like this, because of resentment.
 
-- and so, why shouldn't i use my grandmas dead to run away, to be my own? a reasonable reason for them for why i would run away
+- and so, why shouldnt i use my grandmas dead to run away, to be my own? a reasonable reason for them for why i would run away
 - your labels are sad, i like to eat food, suddenly im a foodie, etc
 - oh woe the fatebreaker
 
 # 2025-11-07
 
 lies on lies on lies,
-didn't have energy to go to school today because of the stupid fucking work, im already searching for a new company.
+didnt have energy to go to school today because of the stupid fucking work, im already searching for a new company.
 i love gardening, but do i love everything green? no, i need to find the specifics [Now](<../now.md>)
 
 so many times, i have held on to the pieces of the past, and just waiting for the future is going to fall into place. what bullshit, i should not wait for the future i should [plan](<./00_00-archive/internal/trajectory.md>) for it. capture it.
@@ -340,7 +340,7 @@ Perhaps. Does it matter? Change will come for all.
 It will, doesnt mean i cant change it.
 
 The terrarium, before she died i implied/promised to buy/work on a plant terrarium with her, so she could garden again/do something with plants again, she is to old, was to old.
-And then she died, im sorry i wast there. (I SHOULD HAVE BEEN THERE MORE! No it isn't, you were on vacation, and she would have forgiven you. Make peace with that fact. I Wasn't THERE, im sorry. Last day i sawlivelife you i told you that i was going to bali to study plants. I brought gifts, i wanted to give you plants. Wanted, wanted, wanted. A possibility, that could have been, but isn't.)
+And then she died, im sorry i wast there. (I SHOULD HAVE BEEN THERE MORE! No it isnt, you were on vacation, and she would have forgiven you. Make peace with that fact. I Wasnt THERE, im sorry. Last day i sawlivelife you i told you that i was going to bali to study plants. I brought gifts, i wanted to give you plants. Wanted, wanted, wanted. A possibility, that could have been, but isnt.)
 
 ---
 
@@ -375,7 +375,7 @@ I realised that there were others walking their own path. (my family)
 Some paths were closer then others
 Some realise that there were others, some did/do not
 The ones that see, try too help (in their own way) and understand
-It doesn't always works of course
+It doesnt always works of course
 But the mere fact that they try means a whole lot to me.
 And while i dont always express it.
 I love them a lot. (no matter if they see or not)
@@ -393,7 +393,7 @@ And a single unified file folder for unified stuff. (the long term folder)
 Time traveling and erasing myself, or something dear too me.
 The infinite march of time that will eventually consume us all.
 My dreams and ambition staring at me for not actualising them on my deadbed.
-Buried myself under one too many layers of irony so that I don't even know who I am anymore.
+Buried myself under one too many layers of irony so that I dont even know who I am anymore.
 
 I just synced everything form my notetaking separate notetaking app form my laptop and phone. (still need to structure it)
 From standdard note app and xiami note app. (need too check on different accounts too see if i missed any old notes)
@@ -434,12 +434,12 @@ Established system. (You foundation/your anchor)
 Repeat this process and you will improve indefinitely.
 
 Habit breaking:
-Too much on phone; put away my phone, don't have my phone with me and say that I will not touch it with willpower, for that is just an excuse of fallback.
+Too much on phone; put away my phone, dont have my phone with me and say that I will not touch it with willpower, for that is just an excuse of fallback.
 
 Fears:
 The infinite march of time that will eventually consume us all.
 My dreams and ambition staring at me at my deadbed for not actualising them.
-Buried myself under one too many layers of irony so that I don't even know who I am anymore.
+Buried myself under one too many layers of irony so that I dont even know who I am anymore.
 
 When you face have bad choices, you make your own option
 Weekly notes for phone for less clutter n shit, this is 1 weel of weekly notes
@@ -460,7 +460,7 @@ Accept the paradox, dont get too stuck up into it, but if leftover time, try too
 
 Try too use the drive for games and apply it too other things, or at least use it as the carrot (reward). Find out what i could use as the stick
 
-Meditations, went too deep too fast (tried to be alone with my own thought without training wheels), should have kept focuaing on breating, focusing on breating now feels 'fake' new training wheels are **music**.
+Meditations, went too deep too fast (tried to be alone with my own thought without training wheels), should have kept focuaing on breating, focusing on breating now feels fake new training wheels are **music**.
 
 Sleep earlier/better. Keep minimalistic goal. ***too fall in the with the process of sleeping, so that i never want too skip on it again*
 
@@ -482,7 +482,7 @@ With the refinement of music ongong, i am turning yet more complete.
 
 - [ ] New rule about i discovered. Do not make you hobby your job. But also dont make you job all too shitty, do something you would almost do as an hobby. **important**
 
-Do not fall into the trap of 'fresh start'. Just do it right now. But if possible use to advantage
+Do not fall into the trap of fresh start. Just do it right now. But if possible use to advantage
 
 **small consistent changes, change your system**
 
@@ -497,7 +497,7 @@ I have improved myself by noting my thaught down in here.
 
 ideal. Tit for tat. i.
 
-'come now take the step.
+come now take the step.
 Dont look back, therse is nothing left
 Beyond the veil
 Youve tried an yet you failed
@@ -508,7 +508,7 @@ Its always the same.
 When you stand before a god.
 And even still i resist
 The end of time and space
-And so i cry i defiance, 'i will not go quite into the long night'.'
+And so i cry i defiance, i will not go quite into the long night.
 
 **i am the guy that im waiting for to saveme** *no one else will*
 
@@ -548,7 +548,7 @@ And so a change in mind (set) is needed. I consider learning programing fun, i w
 
 Too not subscribe too any stigma. (adhd, bipolar, protagonist.)
 The only stige i shoul subscribe too is my own, and my own is my name
-My stigma is the dean of dean's
+My stigma is the dean of deans
 
 Too choose my own path, but too take inspiration from others
 
@@ -562,7 +562,7 @@ Too battle alzheimers.
 2. Diet. Too eat healthy.
 3. Exercise. Too train the body. (move)
 4. Educe stress. Too calm the mind (menage)
-5. Too learn. Too create the 'buffer'
+5. Too learn. Too create the buffer
 
 South scrimshaw. Game
 
@@ -653,7 +653,7 @@ I am not showing that compasion of mine outwardly
 The only ones i do that too is my family.
 And even that is minimally.
 area of improvement #important
-So while i reflect a lot, i don't let people see that
+So while i reflect a lot, i dont let people see that
 At least not immediately.
 
 My body/mind are (both)/is my temple. The palid sanctuary. It is damaged and must be fixed. And filled.
@@ -681,7 +681,7 @@ Too express myself in my own mind
 Too adapt and overcome. Too change and be flexible.
 
 Too accept things i cannot change. (or too much effort to do so. There are of coarce exceptions)
-Example's: external events, other people's behaviors, aspects of your past.
+Examples: external events, other peoples behaviors, aspects of your past.
 too accept these things as something i cannot change #important
 
 Too not subscribe too stigmas, but too gather insight from them.
@@ -707,11 +707,11 @@ But too take inspiration/insight from other peoples story (marcus aurilious) is 
 "i am my own god, i choose who i want to be."
 Too shape my identity
 
-Stoicism has been fucked In the ass with people who think it's cool using it
+Stoicism has been fucked In the ass with people who think its cool using it
 "WE DENY YOU ANATHEMA, TILL THE END OFF ETERNITY WE WILL DENY YOU. MAY YOUR BLIGHTED EXISTENCE NEVER SET FOOT IN THIS PLACE EVER IN ETERNITY."
 On our own we are not yet whole, And one in two we are not yet complete, but then the third came and we were complete.
 Putting the task off is just going to increase your stress. Procrastination
-Don't be sad that it's over, be happy that it happened.
+Dont be sad that its over, be happy that it happened.
 Command of ones self
 Optimise only when you can afford to do so. Afford as in money but also as in mentan wellbeing, well rested
 And so we live in the age of excess, so now I must find my anchor otherwise I will get pulled in like many others.
@@ -720,8 +720,8 @@ I wish for you to let go of grudges and guilts.
 Carry yourself as a king, but do not act haughty. For me. Too cary myself with confidence.
 Expect nothing of other people, but do ask for help.
 
-"I don't engage in these conversations, there unhealthy."
-Meaning: don't engage in drama
+"I dont engage in these conversations, there unhealthy."
+Meaning: dont engage in drama
 
 Remain resolute and determined in the face of adversity
 
@@ -802,7 +802,7 @@ Fucking hell
 Im still procrastinating
 But but but
 Im starting to do my English homework
-That's good
+Thats good
 Did a long session of meditations before sleep
 And slept for 11 FUCKING HOURS
 Bruh
@@ -833,16 +833,16 @@ Instead of working i wrote a fucking ryme/rant:
 
 POTENTIAL lies just beyond the closed doors, shining bright and great. The key is in our hand, but my mind, suppressed and forgotten, lies behind it too.
 
-Even with the sliver of potential that shines through the keyhole, we've already achieved so much. But we/you/i are scared to face (insert) own mind, as the subconscious becomes conscious, the forgotten becomes remembered, denial dug up by truth, and the unknown becomes acknowledged.
+Even with the sliver of potential that shines through the keyhole, weve already achieved so much. But we/you/i are scared to face (insert) own mind, as the subconscious becomes conscious, the forgotten becomes remembered, denial dug up by truth, and the unknown becomes acknowledged.
 
-Despite my fear, I still move forward, albeit slowly. The key therse hand, and we can't delay any longer. We must face it now or your potential will burn out and break apart.
+Despite my fear, I still move forward, albeit slowly. The key therse hand, and we cant delay any longer. We must face it now or your potential will burn out and break apart.
 
-NO, we can't turn our backs on our potential because we're scared. No, we must face it now or shine bright like a star. Or, we'll forever hold our hate and drown in our guilt, becoming mediocre and fitting in.
+NO, we cant turn our backs on our potential because were scared. No, we must face it now or shine bright like a star. Or, well forever hold our hate and drown in our guilt, becoming mediocre and fitting in.
 
-I have to do it. I won't be weak or delay any longer. It's time to make a change and take the risk. This inverted Pandora's Box,
+I have to do it. I wont be weak or delay any longer. Its time to make a change and take the risk. This inverted Pandoras Box,
 For if we do not face it now our greatest fear shall come to pass. No more mediocracy. We must rage and have the courage to be disliked and denied.
 
-Behind the door lies our potential, but we can't walk the path because we're scared? No, we must face it now. We must not forget or delay, and so i must stand in the face of myself/soul/self.
+Behind the door lies our potential, but we cant walk the path because were scared? No, we must face it now. We must not forget or delay, and so i must stand in the face of myself/soul/self.
 .
 Like why the fuck, instead of making my homework or making my game i made this instead
 
@@ -887,10 +887,10 @@ Decided to simplify my obsidian structure, so i deleted a lot of useless extensi
 
 # 2023-11-26
 
-Didn't do fuck shit today
+Didnt do fuck shit today
 Only thing i did was set up my floorp and cleaned up my pc
 Im still fucking sick, i though i was getting better on friday but now i caught a fucking cold
-So that's great :)
+So thats great :)
 its currently 23:08 btw
 Should have started working earlier, but i was too sick and was procrastinating once again.
 I for tomorow im going to catch up on my unfinished homework, (that i let built up bc i was sick and procrastinating once again…)
@@ -900,8 +900,8 @@ Oh and i cleaned up my room a bit
 
 # 2023-11-25
 
-I have been sick for 4 days and haven't done shit for homework.
-but im making my obsidian page now, so that's good.
+I have been sick for 4 days and havent done shit for homework.
+but im making my obsidian page now, so thats good.
 [https://youtu.be/dgTLNLaPqkg](https://youtu.be/dgTLNLaPqkg)
 
 ---
@@ -935,7 +935,7 @@ Considering to use vault warden and self hosting in the future
 
 # 2023-11-02
 
-We didn't do fuck shit on school
+We didnt do fuck shit on school
 Badly organised
 but i did learn how to use /// slash for for commenting.
 and devoped a further understanding for reading
@@ -962,7 +962,7 @@ i read about it in the book about a month before
 
 # 2023-10-28
 
-Did nothing of importants, still didn't do my homework
+Did nothing of importants, still didnt do my homework
 But the meditation streak is still going
 created synch and made a
 
@@ -971,7 +971,7 @@ created synch and made a
 Im trying to get the routine of making homework every other day
 Its not realy working but it is what its is, and i am making homework more ofter then before
 
-But i have a meditation streak of over a month so that's pretty good
+But i have a meditation streak of over a month so thats pretty good
 
 ---
 
@@ -1060,7 +1060,7 @@ I am starting to grow a bamboo stem and am starting to consider making a small t
 
 Forgot to journal in here, but the last few days my productivity went down and I was gaming for about 4 hours on the ps 5 and that is without counting the time I spent on my phone.
 
-I am currently trying to make a workout habit with a light. The habit is as followed: between 23:30 an 00:30 ''I will turn on the light rose an i will get the dumbbell from downstairs and will be working out for about 30 minutes.'' than i also have another habit that I will try to implement: ''every time I want to game or read fantasy stories i will instead finish reading atomic habits that is saved on my OneDrive., or i will update my obsidian vault''
+I am currently trying to make a workout habit with a light. The habit is as followed: between 23:30 an 00:30 I will turn on the light rose an i will get the dumbbell from downstairs and will be working out for about 30 minutes. than i also have another habit that I will try to implement: every time I want to game or read fantasy stories i will instead finish reading atomic habits that is saved on my OneDrive., or i will update my obsidian vault
 
 ---
 
@@ -1072,7 +1072,7 @@ Forgot to visit my grandma
 
 # 2023-08-05
 
-i was eaten pancaces for the last day of vacation with my mom and got mad at her because she ate 3 pieces of my chocolate and because of that i didn't talk to her for 1,5 hours, the shitty part was that my step brother and sister were there and wanted to play with me and i didn't.
+i was eaten pancaces for the last day of vacation with my mom and got mad at her because she ate 3 pieces of my chocolate and because of that i didnt talk to her for 1,5 hours, the shitty part was that my step brother and sister were there and wanted to play with me and i didnt.
 Now i feel like shit.
 
 ---
@@ -1085,7 +1085,7 @@ just started looking into, i finnaly started looking into the de-aging program, 
 
 # 2023-08-03
 
-I haven't done shit today, i was just reading a book and visiting family
+I havent done shit today, i was just reading a book and visiting family
 
 ---
 

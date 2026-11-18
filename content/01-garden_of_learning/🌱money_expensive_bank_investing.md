@@ -43,9 +43,9 @@ investor needs a brokarage to be connected to the stockmarket, at least that is 
 - are the alternatives? is it the most effective option?
 - best brokerage depends on situation/where you live, sometimes its better to use local brokerage bc of taxes
 	- what is the best (local) brokarage in netherlands? seems to be either trading 212 or XTB for being dirt poor
-	- start with 'regular' investing, eventually cfd
+	- start with regular investing, eventually cfd
 	- having a saving account with current bank gives me 1.4%, investing is more riskfull but i think it will be worth it
-	- site for comparing topics of individual groups [Simpele ETF-portfolio's](https://www.justetf.com/nl/)
+	- site for comparing topics of individual groups [Simpele ETF-portfolios](https://www.justetf.com/nl/)
 - investing? with trading212, account is made, what to do now? what should i invest in?
 
 crypto trading

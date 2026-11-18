@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: "Dean's Game Collection"
+title: "Deans Game Collection"
 tags: []
 publish: true
 modified: 2026-11-16
@@ -9,10 +9,10 @@ description: my collection of games
 created: 2024-10-08
 aliases:
   - Game list
-  - "Dean's Game Collection"
+  - "Deans Game Collection"
 ---
 
-# Dean's Game Collection
+# Deans Game Collection
 
 - [ ] Add my PS3 games
 - [ ] and my WII games
@@ -41,7 +41,7 @@ aliases:
 > [!note]- [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 > Absolute amazing story and mechanics, but utter dogshit optimization
 
-- [Grimm’s Hollow](https://ghosthum.itch.io/grimms-hollow)
+- [Grimms Hollow](https://ghosthum.itch.io/grimms-hollow)
 - [Rayman 3](https://raymanpc.com/wiki/en/Rayman_3)
 
 > [!note]- [Star Fetchers](https://svavelstickan.com/)
@@ -187,7 +187,7 @@ aliases:
 - [Everhood](https://store.steampowered.com/app/1229380/Everhood/)
 - [soma](https://store.steampowered.com/app/282140/SOMA/)
 - [The Midnight Walk](https://store.steampowered.com/app/2863640/The_Midnight_Walk)
-- [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGee's Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?)
+- [Alice: Madness Returns](https://store.steampowered.com/app/19680/Alice_Madness_Returns/) + [American McGees Alice](https://wl.vern.cc/wiki/American_McGee%27s_Alice?)
 - [Tears of Metal](https://store.steampowered.com/app/1913120/Tears_of_Metal)
 - [Endacopia](https://store.steampowered.com/app/2684630/Endacopia)
 - [Neverway](https://neverwaygame.com/)
@@ -205,7 +205,7 @@ aliases:
 - [Morsels](https://furcula.ca)
 - [Rubinite](https://store.steampowered.com/app/1845250/Rubinite/)
 - [Cairn](https://store.steampowered.com/app/1588550/Cairn)
-- [Lacey's Flash Games](https://laceysflashgames.itch.io/laceys-flash-games)
+- [Laceys Flash Games](https://laceysflashgames.itch.io/laceys-flash-games)
 - [REPLACED](https://playreplaced.com/)
 
 > [!note]- [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
@@ -215,9 +215,9 @@ aliases:
 
 - [Margin of the Strange](https://marginofthestrange.com/)
 - [Sword of the Sea](https://swordoftheseagame.com)
-- [Lily's Well](https://pureiceblue.itch.io/lilys-well)
+- [Lilys Well](https://pureiceblue.itch.io/lilys-well)
 - [Lost Cartridge](https://pureiceblue.itch.io/lost-cartridge-cold-read)
-- [Who's Lila?](https://whoslila-press.carrd.co/)
+- [Whos Lila?](https://whoslila-press.carrd.co/)
 - [Echo Point Nova](https://store.steampowered.com/app/1836730/Echo_Point_Nova/)
 - [PRAGMATA](https://www.capcom-games.com/pragmata/)
 - [Without a Dawn](https://jessemakkonen.com/without_a_dawn.html)
@@ -285,7 +285,7 @@ aliases:
 - [Resident Evil Requiem](https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/)
 - [The Long Dark](https://store.steampowered.com/app/305620/The_Long_Dark/)
 - [Lucid Blocks](https://store.steampowered.com/app/3495730/Lucid_Blocks/)
-- [Marvel’s Spider-Man 2](https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/)
+- [Marvels Spider-Man 2](https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/)
 - [A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
 - [Rabbit and Steel](https://store.steampowered.com/app/2132850/Rabbit_and_Steel/)
 - [Keylocker](https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/)

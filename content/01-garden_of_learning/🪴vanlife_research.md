@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: "Dean's Vanlife Research"
+title: "Deans Vanlife Research"
 tags:
   - vanlife
   - research
@@ -12,10 +12,10 @@ draft: true
 created: 2026-03-17
 aliases:
   - Vanlife research
-  - "Dean's Vanlife Research"
+  - "Deans Vanlife Research"
 ---
 
-# Dean's Vanlife Research
+# Deans Vanlife Research
 
 - [ ] Look into nederlands vanlife communities
 - [ ] need to add my drawn vanlife design to here

@@ -19,7 +19,7 @@ A list of chapters I like, I lost a lot of them on my old phone
 
 - [ ] need a way to track all of this and consolidate such as my (formal) books in [Book list](<../02-digital_garden/book_list.md>)
 
-- [Chapter 702: Blackgard's Blackguard - Jackal Among Snakes | Royal Road](https://www.royalroad.com/fiction/48969/jackal-among-snakes/chapter/1958938/chapter-702-blackgards-blackguard)
+- [Chapter 702: Blackgards Blackguard - Jackal Among Snakes | Royal Road](https://www.royalroad.com/fiction/48969/jackal-among-snakes/chapter/1958938/chapter-702-blackgards-blackguard)
 - [Chapter 8: The Truth Beartrap - Somebody Stop Him [A Progression Fantasy Epic] | Royal Road](https://www.royalroad.com/fiction/101201/somebody-stop-him-a-progression-fantasy-epic/chapter/1972574/chapter-8-the-truth-beartrap)
 - [royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity](https://www.royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/1943640/ii-21-manufactured-enmity)
 - [Twitch](https://www.fimfiction.net/story/354591/twitch)
@@ -34,11 +34,11 @@ A list of chapters I like, I lost a lot of them on my old phone
 
 ## Music stuff, player and file stuff
 
-Currently using Musicolet, which is unfortunately proprietary, on GrapheneOS/Android, because it's the only proper one.
+Currently using Musicolet, which is unfortunately proprietary, on GrapheneOS/Android, because its the only proper one.
 
-I used Tauon for a time, but it's not yet mature enough, and I like the UI of Strawberry more.
+I used Tauon for a time, but its not yet mature enough, and I like the UI of Strawberry more.
 
-Currently using Tauon for laptop, but it's not mature enough, so I'm going to be switching to Strawberry or Clementine.
+Currently using Tauon for laptop, but its not mature enough, so Im going to be switching to Strawberry or Clementine.
 
 ### 2026-05-09
 
@@ -46,7 +46,7 @@ Decided to go for Strawberry, as Clementine is still recommending a 10 year old 
 
 ### 2026-05-22
 
-It wrecked my entire playlist, and I don't really like the UI.
+It wrecked my entire playlist, and I dont really like the UI.
 
 - [DeaDBeeF](https://deadbeef.sourceforge.io/)
 
@@ -128,7 +128,7 @@ I will list the most popular / with good potential.
 
 ## FlorisBoard
 
-This one is the most customizable, but lacks intermediate features (autocomplete, swipe typing). And if you don't need that, then this is absolutely the perfect keyboard.
+This one is the most customizable, but lacks intermediate features (autocomplete, swipe typing). And if you dont need that, then this is absolutely the perfect keyboard.
 
 ## FUTO Keyboard
 
@@ -194,4 +194,4 @@ Opel C24NE, 2.4L gas 4-cylinder. Iron block, iron head. Ultra-basic design equal
 
 Mercedes OM314, old-school 3.8L industrial diesel. 4-cylinder, gear-driven cam, no turbo. Tiny footprint, giant heart.
 
-This list sticks to fully cast-iron engines only. There are plenty of other legendary "million-mile" motors out there with aluminum heads (but those aren't really meant to last a million miles).
+This list sticks to fully cast-iron engines only. There are plenty of other legendary "million-mile" motors out there with aluminum heads (but those arent really meant to last a million miles).

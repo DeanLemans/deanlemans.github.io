@@ -45,7 +45,7 @@ bladeren, schors, kroonvorm, vruchten en andere karakteristieke
 kenmerken.
 
 Zoek informatie over de onderstaande boomsoorten. Gebruik betrouwbare
-bronnen zoals bomenwebsites, flora's, vakboeken en gemeentelijke
+bronnen zoals bomenwebsites, floras, vakboeken en gemeentelijke
 bomenlijsten.
 
 Zoek informatie over de onderstaande boomsoorten. Verzamel per boom een

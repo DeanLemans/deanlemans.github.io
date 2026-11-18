@@ -5,7 +5,7 @@ tags: []
 publish: true
 modified: 2026-11-18
 id: 7nk2hwne4xsrx09fh2mk1lnsqs5hab
-description: "Dean's Personal Site"
+description: "Deans Personal Site"
 created: 2025-09-25
 aliases:
   - my-site/

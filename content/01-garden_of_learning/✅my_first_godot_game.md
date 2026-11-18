@@ -25,7 +25,7 @@ aliases:
 > At the time, I did not have a clue on how the engine worked.
 ```
 
-> It's a small game with a grand total of 3 levels.
+> Its a small game with a grand total of 3 levels.
 
 ![Godot game](<../static_files/first-godot-game.webp>)
 

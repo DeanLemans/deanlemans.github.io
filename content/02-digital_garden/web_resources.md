@@ -52,7 +52,7 @@ cool projects or articles or services i like and sometimes use/make use of
  - [Development containers](https://containers.dev/)
  - [Based Cooking](https://based.cooking/)
  - [Find KYC-free Services](https://kycnot.me/)
- - [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+ - [The Cheapskates Guide to Computers and the Internet](https://cheapskatesguide.org/)
 - [dataswamp.org](https://dataswamp.org/)
  - [Internet Sacred Text Archive](https://sacred-texts.com/)
  - [microformats](https://microformats.org/)

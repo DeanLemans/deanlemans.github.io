@@ -20,7 +20,7 @@ aliases:
 > - WIP
 > - Behind the scenes
 
-Also know as the true part of my site, I don't want to maintain 2 site (normal and professional 'image'), so i just decided to create a excluded folder in my site that is for my normal use.
+Also know as the true part of my site, I dont want to maintain 2 site (normal and professional image), so i just decided to create a excluded folder in my site that is for my normal use.
 
 this is the true site/side of my site, the normal portion is filtered for normal, and is to be treated as a public folder
 

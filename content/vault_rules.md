@@ -33,10 +33,10 @@ aliases:
 
 ## 1. Creation System
 
-(adapted [from the Prince's work ethic](https://youtu.be/ECGcTM_gk4s))
+(adapted [from the Princes work ethic](https://youtu.be/ECGcTM_gk4s))
 - become a finisher
 - make art everyday
-- it doesn't have to be perfect
+- it doesnt have to be perfect
 - sleep quality is absolute
 - vault mentality (record everything, store it)
 - design workflows that remain useful and understandable decades from now
@@ -68,7 +68,7 @@ aliases:
   - [ ] tag or category validation
   - [ ] unresolved link notifications
 - [ ] Include script to check for broken links and missing metadata
-- enjoy the doing, don't make it a burden
+- enjoy the doing, dont make it a burden
 
 **Pruning**
 - (bi?)monthly review, yearly meta-review
@@ -89,7 +89,7 @@ aliases:
 
 **Folder Structure**
 - [`00-raw`](<./00-raw/index.md>)
-	- **Raw Folder (hidden)** 'unprofessional' stuff, work folder, experiments
+	- **Raw Folder (hidden)** unprofessional stuff, work folder, experiments
 	- [`00-raw/00_00-archive`](<./00-raw/00_00-archive/index.md>) **Reference Folder** external content (essays, articles, wiki pages)
 - [`01-garden_of_learning`](<./01-garden_of_learning/index.md>)
 - [`02-digital_garden`](<./02-digital_garden/index.md>)
@@ -120,7 +120,7 @@ aliases:
 - [ ] Migrate external content locally or at least link it
 - [ ] when linking an external thing, use an archived version
 - written in markdown and sometimes embedded html. (html mostly for foldable stuff)
-- Heavy use of internal links for interconnectivity (I don't really do this) [Backlinks stuff](<./00-raw/notes/Backlinks_stuff_i_need_to_split_eventually.md>)
+- Heavy use of internal links for interconnectivity (I dont really do this) [Backlinks stuff](<./00-raw/notes/Backlinks_stuff_i_need_to_split_eventually.md>)
 
 ---
 
@@ -134,7 +134,7 @@ aliases:
 
 ## 8. Publishing to Web
 
-- [Colophon](<./colophon.md>)
+- see; [Colophon](<./colophon.md>)
 
 ---
 

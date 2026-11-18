@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: "Dean's Book Library"
+title: "Deans Book Library"
 tags: []
 publish: true
 modified: 2026-11-16
@@ -10,11 +10,11 @@ created: 2024-10-08
 aliases:
   - Book list
   - Book LIbrary!
-  - "Dean's Book Library"
-alias_sugestion: "Dean's Book Library"
+  - "Deans Book Library"
+alias_sugestion: "Deans Book Library"
 ---
 
-# Dean's Book Library
+# Deans Book Library
 
 ### Books I have read
 
@@ -27,8 +27,8 @@ you can find the books I have read:
 
 ## Backlog
 
-- Blake's prophetic books (divine rebellion)
-- Jung's _Red Book_
+- Blakes prophetic books (divine rebellion)
+- Jungs _Red Book_
 - Gnostic apocrypha (defiance of demiurgic fate)
 - The golden rule / mean
 - Outlier (Malcolm Gladwell)
@@ -38,6 +38,6 @@ you can find the books I have read:
 - The Very Secret Society of Irregular Witches
 - A Magical Girl Retires
 - 31 idream(idol dream)
-- The Idler's Manifesto: And Other Egoist Writings
+- The Idlers Manifesto: And Other Egoist Writings
 - [The Outsider by Colin Wilson](<https://www.goodreads.com/en/book/show/67880>)
 - Formulary for a New Urbanism by Ivan Chtcheglov

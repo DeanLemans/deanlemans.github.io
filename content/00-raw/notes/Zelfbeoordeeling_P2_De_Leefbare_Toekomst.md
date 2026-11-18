@@ -36,10 +36,10 @@ Hieronder zie je een overzicht van de succescriteria die voor dit thema zijn vas
 > _Welke uitdagingen verwacht jij tegen te komen deze period, en hoe wil je jezelf uitdagen om hiermee om te gaan of ervan te leren?_
 > - Als het weer vooral over sociale onzin gaat, doe ik het minimaal wat moet van het sociale deel precies volgens de rubric, maar NIKS EXTRAS
 
-3.    Klik als je klaar bent op de groene button 'Inleveren'
-4.    Klik vervolgens op de groen-witte button 'Beoordeel uzelf'
+3.    Klik als je klaar bent op de groene button Inleveren
+4.    Klik vervolgens op de groen-witte button Beoordeel uzelf
 5.    Geef per succescriteria aan (door erop te klikken) wat jouw huidige niveau is en noteer in het opmerkingenveld jouw persoonlijke ontwikkelpunten.
-6.    Omschrijf in het veld 'reflectie' een samenvatting. Wat kan en weet je al, wat zijn aandachtspunten, wat heb je nodig?
+6.    Omschrijf in het veld reflectie een samenvatting. Wat kan en weet je al, wat zijn aandachtspunten, wat heb je nodig?
 
 > [!abstract] 1.1 Je kunt een keten van impact weergeven
 > **Oorzaak en gevolg**
@@ -54,7 +54,7 @@ Hieronder zie je een overzicht van de succescriteria die voor dit thema zijn vas
 > [!abstract] 1.2 Je kunt de gevolgen van gedrag op de omgeving in eigen woorden omschrijven
 > **Directe en indirecte gevolgen**
 > - De student legt uit hoe specifiek gedrag (bijv. consumeren, reizen, afval scheiden) invloed heeft op ecologische, economische en/of sociale aspecten van de omgeving.
-> - De student gebruikt vaktermen correct (zoals 'CO₂-uitstoot', 'grondstoffenverbruik', 'ecologische voetafdruk').
+> - De student gebruikt vaktermen correct (zoals CO₂-uitstoot, grondstoffenverbruik, ecologische voetafdruk).
 > - De student maakt onderscheid tussen directe en indirecte gevolgen.
 > - **Weging:** 1
 > - **Niet aangetoond (1):** De student geeft geen duidelijke uitleg of gebruikt geen eigen woorden. Gevolgen blijven vaag of ontbreken.

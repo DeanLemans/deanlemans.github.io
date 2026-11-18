@@ -60,7 +60,7 @@ hori hori
 - [ ] Research: Polyphasic sleep ⏬
 - [ ] Research: The power of the loner (solitude) ⏬
 - [ ] Research: On Knowledge vs Intelligence ⏬
-- [ ] Research: Aristotle's Nicomachean Ethics ⏬
+- [ ] Research: Aristotles Nicomachean Ethics ⏬
 - [ ] Research: Catch-22 (Joseph Heller) ⏬
 - [ ] Research: Solitary confinement ⏬
 - [ ] Research: Drunken fist ⏬
@@ -73,7 +73,7 @@ hori hori
 - [ ] Research: [Schulze method - Wikipedia](https://en.wikipedia.org/wiki/Schulze_method)
 - [ ] Research: Improve VO2 max
 - [ ] investigete this style:
-- [ ] Grunge, Because it doesn't fit the decor at all. Also, while I'm totally down for trashy-chic,
+- [ ] Grunge, Because it doesnt fit the decor at all. Also, while Im totally down for trashy-chic,
 - [ ] socratic method
 - [ ] evil hencheman guide
 - [ ] the seventy maxims of maxiimally effective mercenaries
@@ -115,7 +115,7 @@ hori hori
 
 ## Other
 
-- [ ] [Offline music play, doesn't have to be this one](https://www.fiio.com/)
+- [ ] [Offline music play, doesnt have to be this one](https://www.fiio.com/)
 - [ ] Future reference for music page <https://ddbentl.com/tunes> ⏬
 - [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023>
 - [ ] Erfeniscontract, alles naar Cassie? Levi? Frans? Non-profit?

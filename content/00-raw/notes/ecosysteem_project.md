@@ -20,7 +20,7 @@ aliases:
 
 - kinda create it like a sientific paper
   - dus: doel, onderzoek, ontwerp, bouwen, monitoren, analyse, conclusie, reflectie
-- [UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](<../../static_files/UTF-8''Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
+- [UTF-8Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1](<../../static_files/UTF-8Checklist_20schrijven_20IBS_20Yuverta_20mbo_20Tilburg-1.pdf>)
   - [ ] checklist doorlopen voor ik inlever
 - mega note on scientific method
   - [ ] nog schrijven, hypothese en meetbare dingen niet vergeten
@@ -71,7 +71,7 @@ soorten zuurstof planen? soorten planten?
 - C3
 - C4
 - CAM
-  - [ ] verschil uitzoeken, vooral wat CAM doet 's nachts
+  - [ ] verschil uitzoeken, vooral wat CAM doet s nachts
 
 moet nacht en dag planten in
 bioactiviteit

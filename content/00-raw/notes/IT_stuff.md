@@ -72,7 +72,7 @@ Geen ingewikkelde contracten, gewoon helpen met dagelijkse IT-problemen.
 
 ## Wat doe ik?
 
-- Software installeren en instellen (zoals Windows, Office en andere programma's)
+- Software installeren en instellen (zoals Windows, Office en andere programmas)
 - Computerhulp aan huis bij dagelijkse problemen
 - Problemen oplossen waar mensen zelf niet uitkomen (traag systeem, foutmeldingen, iets dat "niet meer werkt")
 - Uitleg geven en helpen bij basisgebruik van software

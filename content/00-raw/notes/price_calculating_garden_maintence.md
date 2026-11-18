@@ -25,7 +25,7 @@ per distance?
 
 maby have a scoring list that changes the price?
 - multiplier of 1.0 for default and then
-	- if i like them(that doesn't seem like a good thing to base price on)
+	- if i like them(that doesnt seem like a good thing to base price on)
 	- how easy it is
 	- how much experience i have in that garden
 	- how many tools i need to use

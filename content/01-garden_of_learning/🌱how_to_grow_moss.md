@@ -22,7 +22,7 @@ aliases:
 handful of healthy moss and water in a blender.
 then just spread it on [good substrate](<../00-raw/notes/general_substrate_mix.md>)
 
-[Mossariums’ How To Guide](<../00-raw/00_00-archive/Mossariums’_How_To_Guide.md>)
+[Mossariums How To Guide](<../00-raw/00_00-archive/Mossariums_How_To_Guide.md>)
 
 ### See also
 

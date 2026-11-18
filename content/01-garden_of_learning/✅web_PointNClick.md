@@ -26,7 +26,7 @@ aliases:
 > I don't plan to continue making games with JavaScript
 ```
 
-> It's a small game with a grand total of 1 level.
+> Its a small game with a grand total of 1 level.
 
 ![PointNClick](<../static_files/Point-and-click-adventure.webp>)
 

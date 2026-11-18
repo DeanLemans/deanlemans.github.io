@@ -28,11 +28,11 @@ for book note taking it (in the most optimal condition) like this:
 5. evergreen/zettel
 6. written piece/project
 
-that's kinda the idea, but it's more like a flow graph then a linear line
+thats kinda the idea, but its more like a flow graph then a linear line
 
 ## Two different questions, not two competing systems
 
-[Zettelkasten](<../00_00-archive/Zettelkasten.md>) and PARA aren't rivals, they answer different questions. Zettelkasten tracks what stage a thought is at (four verbs). PARA tracks where it lives (based on actionability). Trying to pick one to answer both is why this never clicked.
+[Zettelkasten](<../00_00-archive/Zettelkasten.md>) and PARA arent rivals, they answer different questions. Zettelkasten tracks what stage a thought is at (four verbs). PARA tracks where it lives (based on actionability). Trying to pick one to answer both is why this never clicked.
 
 ## Process
 
@@ -50,18 +50,18 @@ Same funnel for every domain: gardening research, philosophy, career notes, drea
 
 | PARA concept       | Your folder             | What goes here                                                                                                                                                   |
 | ------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inbox (PARA)       | `00-raw/inbox`          | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means it's dead or needs to move.                                    |
+| Inbox (PARA)       | `00-raw/inbox`          | Capture only. One inbox, not two, kill the separate dump concept. Sits >2 weeks unprocessed means its dead or needs to move.                                    |
 | Reference material | `00-raw/00_00-archive`  | Process stage. External clippings (`/external`) plus your own journal/dreams (`/internal`), literature notes about past-you, raw and unedited, a source to mine. |
 | Permanent notes    | `00-raw/00_01-zettel`   | Connect stage. Only notes that pass the three-part test.                                                                                                         |
 | Projects/Areas     | `01-garden_of_learning` | Active, actionable work. Your emoji system (🌱🌿🪴✅) is already a maturity layer inside Projects, leave it alone, it works.                                      |
 | Resources          | `02-digital_garden`     | Curated output for others: book/game/manga lists, blogroll. Public-facing, low-maintenance, no zettel-rigor needed.                                              |
 
-PARA's four categories map onto your five top-level folders almost exactly. You already built this, you just hadn't named the mapping.
+PARAs four categories map onto your five top-level folders almost exactly. You already built this, you just hadnt named the mapping.
 
 ## Movement rules
 
 1. A note moves folders only when its stage changes:
-   - Inbox to Archive: engaged with it (read fully, or it's a finished journal entry).
+   - Inbox to Archive: engaged with it (read fully, or its a finished journal entry).
    - Archive to Zettel: passed the three-part test.
    - Zettel to Blog: assembling multiple zettels into something for a reader.
 

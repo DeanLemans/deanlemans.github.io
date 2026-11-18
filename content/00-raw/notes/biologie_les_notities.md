@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: "De Deanste Dean's geweldige notities over Toegepaste Biologie les"
+title: "De Deanste Deans geweldige notities over Toegepaste Biologie les"
 tags:
   - toegepaste_biologie
 publish: true
@@ -15,7 +15,7 @@ aliases:
   - 01M2MGMVKJ5F1BF8AM149QD6FS
 ---
 
-# De Deanste Dean's geweldige notities over Toegepaste Biologie les
+# De Deanste Deans geweldige notities over Toegepaste Biologie les
 
 > [!NOTE] voorwoord/basisinformatie
 > de bronnen die ik link zijn meestal in het engels omdat die wikipedia begrippen meestal uigebrijden en hogere qualiteit zijn
@@ -113,7 +113,7 @@ Klimaat is het weer over een period van 30 jaar. Flora en fauna moeten zich aanp
 [Eilandtheorie - Wikipedia](https://en.wikipedia.org/wiki/Insular_biogeography)
 - Studie naar het verband tussen biodiversiteit op geïsoleerde stukken land (bijvoorbeeld een eiland)
 - hoe groter het eiland en hoe dichter bij het vasteland, hoe meer soorten.
-- Voorbeeld: Madagascar was al voor de dino's een apart eiland, dus ongeveer 90% van de soorten bestaat niet op een andere plek
+- Voorbeeld: Madagascar was al voor de dinos een apart eiland, dus ongeveer 90% van de soorten bestaat niet op een andere plek
 - Probleem: Nederland bouwt zijn eigen land, wat zorgt voor versnippering/splitsing
 
 > [!example]- Related images
@@ -209,7 +209,7 @@ Een organisme is autotroof als het zijn eigen voedsel maakt. Heterotroof is alle
 [Schimmels](https://en.wikipedia.org/wiki/Fungus)
 - Fungi/mushrooms are more related to animals than plants
 - Underground system of fungi boost other plant growth, [Mycelium - Wikipedia](https://en.wikipedia.org/wiki/Mycelium) network
-- Fungi can't produce their own food, they are mostly reducenten or symbiote to the root of plants (mycorrhiza-schimmels)
+- Fungi cant produce their own food, they are mostly reducenten or symbiote to the root of plants (mycorrhiza-schimmels)
 
 ### Natuurbeheer en ecosysteemdiensten
 
@@ -318,7 +318,7 @@ Als je 1 deel van een water-ecosysteem weghaalt, moet het opgevangen worden door
 
 [Voedingsstoffen - Wikipedia](https://nl.wikipedia.org/wiki/Voedingsstof)
 - Macro: nitraat (NO₃⁻), fosfaat (PO₄³⁻) en kalium (K⁺) (de N, P en K op kunstmestzakken)
-- Micro's: voedingsstoffen die de plant maar in kleine hoeveelheden nodig heeft, zoals ijzer en zinc (waarom exact, nog even terugzoeken)
+- Micros: voedingsstoffen die de plant maar in kleine hoeveelheden nodig heeft, zoals ijzer en zinc (waarom exact, nog even terugzoeken)
 - Opgeloste zuurstof (O₂) is geen voedingsstof, maar well belangrijk voor de waterkwaliteit
 - Door stikstof groeien brandnetels, bramen en distels (stikstofminnende planten)
 
@@ -346,7 +346,7 @@ Zand wordt onder andere aangevoerd door de zee. Zonder planten, meestal soorten 
 
 **Tegengaan van duinverplaatsing**
 - Om de duinwind en verplaatsing tegen te gaan plaatsen wij (Nederland) basaltstenen, beton en graniet
-- Dit 'nieuwe' gebied zorgt ervoor dat er planten groeien die goed tegen zout kunnen
+- Dit nieuwe gebied zorgt ervoor dat er planten groeien die goed tegen zout kunnen
 
 **Duinbos**
 - Hoge biodiversiteit

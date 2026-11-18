@@ -52,7 +52,7 @@ skincare:
 
 # Sources
 
-- [Bryan Johnson's Protocol        – Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol)
+- [Bryan Johnsons Protocol        – Blueprint Bryan Johnson](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol)
 - [VitaminDWiki – Vitamin D research, studies and health effects](https://vitamindwiki.com/)
 
 ### See also

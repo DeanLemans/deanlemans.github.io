@@ -22,13 +22,13 @@ aliases:
 
 file that links to all my relevant school notes
 
-## Dean's guidelines for school
+## Deans guidelines for school
 
 1. Make connections
 2. Learn
 3. Have fun
 
-How? Idk bro, just talk to people I guess, but don't be overbearing.
+How? Idk bro, just talk to people I guess, but dont be overbearing.
 
 ---
 

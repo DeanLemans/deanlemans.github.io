@@ -4,7 +4,7 @@ title: Samenwerking opdracht P2 2627
 tags:
   - toegepaste_biologie
 publish:
-modified: 2026-11-16
+modified: 2026-11-18
 id: 5poajqaepjmybv6hti8uxctkcaga5s
 description: "samenwerking reflectie periode 2"
 created: 2026-11-16
@@ -28,6 +28,7 @@ wat ga ik deze period anders of beter doen?
 wat verwacht ik van de nieuwe groepsgenoten?
 - dat ze comuniseeren en zich aan de regels houden.
 - vroeg afspreken van de verwachtingen zijn
+- dat ze bij de groep zitten en niet random in hun eentje in het lokaal gaan zitten
 
 ### See also
 

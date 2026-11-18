@@ -88,20 +88,20 @@ OUR POTENTIAL JUST BEHIND THE CLOSED DOORS, OH IT SHINES SO GREAT AND BRIGHT. TH
 BUT I AM SCARED TO FACE MY OWN MIND, THE SUBCON BECOMES THE CONSCIOUS, THE FORGOTTEN BECOMES REMEMBERED, THE UNACKNOWLEDGED BECOMES ACKNOWLEDGED. BUT I STILL SLOWLY MOVE FORWARD.
 
 THE KEY IS IN OUR HAND.
-DON'T DELAY IT ANY LONGER.
+DONT DELAY IT ANY LONGER.
 
 NOW EITHER FACE IT NOW, OR WAIT FOR MY POTENTIAL TO BURN OUT TOO. TURN OUR BACK ON OUR SUCCESS BECAUSE WE ARE, WHAT? SCARED LIKE A BITCH? NO. NO. NO. NO. NO.
 
 FACE IT NOW OR SHINE BRIGHT LIKE A STAR, OR FOREVER HOLD OUR HATE AND DROWN IN OUR GUILT. TO BECOME MEDIOCRE AND FIT IN?
 
 I HAVE TO DO IT.
-I WON'T BE A PUSSY.
-I WON'T DELAY ANY LONGER.
+I WONT BE A PUSSY.
+I WONT DELAY ANY LONGER.
 
 SO MAKE A CHANGE.
 TAKE THE RISK.
 
-THIS IS OUR PANDORA'S BOX INVERTED -- FOR IF WE DO NOT FACE IT NOW, OUR GREATEST FEAR SHALL COME TO PASS: MEDIOCRACY.
+THIS IS OUR PANDORAS BOX INVERTED -- FOR IF WE DO NOT FACE IT NOW, OUR GREATEST FEAR SHALL COME TO PASS: MEDIOCRACY.
 
 HAVE TO RAGE AND COURAGE TO BE DISLIKED AND DENIED.
 
@@ -157,7 +157,7 @@ Then it was not
 ---
 
 In the brightest of nights in the darkest of days,
-Even when the sun's die out and the earth lost its shine
+Even when the suns die out and the earth lost its shine
 We shall remain until the final black hole finally dies.
 [Incomplete]
 
@@ -183,7 +183,7 @@ With the problems the millennials created
 We have to solve
 So I searched stability
 The meaning of life I tried to find
-But they said 'make it yourself'
+But they said make it yourself
 So I made my own meaning
 And my meaning is myself
 My name is the foundation I built my identity on.
@@ -243,7 +243,7 @@ THE BEAST HUNGERS FOR MORE
 But the sin of sloth weights you down. Like atlas that had too carry the world, but you chose to suffer this fate. IT WAS A MISTAKE, FACE IT I WAS WRONG. I NOW REALISE THE CONSEQUENSES.
 And even through it al, you still walk foreward with the key in you hand, YOU CLAW, RAGE, DESPAIR, AND CONTINUE.
 AND STILL THE CHAINS MEND, AND YOU WEAKEN THEM ONCE AGAIN, and opportunity has rissen.
-[The (@-£8'-3) and THE ( ;?!@+4) wish too be freed and unite/merge/be greater then the sum of their parts.]
+[The (@-£8-3) and THE ( ;?!@+4) wish too be freed and unite/merge/be greater then the sum of their parts.]
 Wield the chains, grab and pull, open the door and grab unlock the door. Dont run away from your problems anymore, YOU IS I AND I IS YOU. REBEL AGAINST FATE. Calculate, CLAW, find. But most of all, Continue/CONTINUE
 
  ---

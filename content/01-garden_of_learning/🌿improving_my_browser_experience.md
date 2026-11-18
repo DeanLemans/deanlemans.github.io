@@ -33,7 +33,7 @@ so im already using a firefox fork named floorp, namely for its custimization op
 
 **why not chrome?**
 
-firefox has more custimizability, that's mostly what it comes down to, but other peope use it bc chrome must not become the only browser, but personally i dont care about that
+firefox has more custimizability, thats mostly what it comes down to, but other peope use it bc chrome must not become the only browser, but personally i dont care about that
 
 current plugins/extensions i use:
 - bitwarden

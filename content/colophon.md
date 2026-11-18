@@ -24,7 +24,7 @@ aliases:
 
 ### Why create (this) site
 
-- the inter-web has become a pool of utter hate and attention grabbing shorts nonsense, i didn't want that and would rather be reading, learning, and taking notes.
+- the inter-web has become a pool of utter hate and attention grabbing shorts nonsense, i didnt want that and would rather be reading, learning, and taking notes.
 	- and then i decided to publish it.
 
 see [vault rules](<./vault_rules.md>) for exact details, this page is just a brief statement containing information about the publication of the site and content

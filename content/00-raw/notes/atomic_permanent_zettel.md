@@ -16,7 +16,7 @@ aliases:
 
 zettel/notes/permanent/atomic notes
 
-when something is this type of note, doesn't mean its the final form, the final form would be evergreen
+when something is this type of note, doesnt mean its the final form, the final form would be evergreen
 
 [My lifesycle of notes](<./my_lifesycle_of_notes.md>)
 [Vault rules](<../../vault_rules.md>)

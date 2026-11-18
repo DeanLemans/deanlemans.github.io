@@ -23,7 +23,7 @@ aliases:
 > [!NOTE]- de opdracht die ik verwerkt heb in een [canvas](<./tussenproduct2.canvas>)
 > ## Beschrijving
 >
-> onderzoek naar je eigen leefomgeving aan de hand de volgende thema's;
+> onderzoek naar je eigen leefomgeving aan de hand de volgende themas;
 > - ecologische waarde
 > - economie waarde
 > - sociaal waarde.
@@ -88,7 +88,7 @@ aliases:
 >
 > - jouw leefomgeving laat zien
 > - de nieuwe waarde beschrijft
-> - de relatie tussen drie waarden 'uitlegt'
+> - de relatie tussen drie waarden uitlegt
 
 > [!NOTE] De Deanste Dean leefomgeving
 > Ik woon in Uden en ik loop vaak met mijn hond in het kleine park. Dat park is natuur (ecologisch). Ik kom daar andere mensen tegen en ik kan er gewoon lopen (sociaal). Tegenover het park ligt de Jumbo waar ik mijn eten koop (economisch). Mensen die naar het park gaan, gaan vaak ook even naar de Jumbo. De Jumbo geeft well afval, en dat is niet goed voor de natuur.

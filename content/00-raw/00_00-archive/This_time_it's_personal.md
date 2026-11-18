@@ -1,6 +1,6 @@
 ---
 unlisted: false
-title: "This time it's personal"
+title: This time it's personal
 tags: []
 source: https://sadgrl.online/posts/its-personal/
 published:
@@ -12,7 +12,7 @@ created: 2026-04-06
 author:
 aliases:
   - 01KQQV6TTF16ZWKJJKX1PXB2GD
-  - "This time it's personal"
+  - This time it's personal
 ---
 
 > [!danger] NOT MINE

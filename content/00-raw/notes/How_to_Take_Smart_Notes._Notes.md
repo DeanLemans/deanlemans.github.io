@@ -19,7 +19,7 @@ One Simple Technique to Boost Writing, Learning and Thinking
 
 2 edition, 2022
 
-> let's see how much my notes improve over the course of reading and learning from this book.
+> lets see how much my notes improve over the course of reading and learning from this book.
 
 ---
 
@@ -35,7 +35,7 @@ Even though planning is often at odds with the very idea of research and learnin
 
 ---
 
-The challenge is to structure one's workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery – or insight.
+The challenge is to structure ones workflow in a way that insight and new ideas can become the driving forces that push us forward. We do not want to make ourselves dependent on a plan that is threatened by the unexpected, like a new idea, discovery – or insight.
 
 > "everyone has a plan before they get punched in theface" i think their teaching us that plans that have step by step need not be the main fovus, instead focus should instead also stratagies(effectiveness)
 > so plan for the unexpected, or at least less likely?
@@ -65,7 +65,7 @@ It is not about redoing what you have done before, but about changing the way of
 
 ---
 
-Even the best tool will not improve your productivity considerably if you don't change your daily routines the tool is embedded in, just as the fastest car won't help you much if you don't have proper roads to drive it on.
+Even the best tool will not improve your productivity considerably if you dont change your daily routines the tool is embedded in, just as the fastest car wont help you much if you dont have proper roads to drive it on.
 
 > or just ride bad
 
@@ -75,7 +75,7 @@ Read: gettong things done
 
 ---
 
-Everything needs to be taken care of, other-wise the neglected bits will nag us until the unimportant tasks become urgent. Even the best tools won't make much of a difference if they are used in isolation.
+Everything needs to be taken care of, other-wise the neglected bits will nag us until the unimportant tasks become urgent. Even the best tools wont make much of a difference if they are used in isolation.
 
 ---
 
@@ -87,7 +87,7 @@ When it comes to writing, everything, from research to proofreading, is closely 
 
 ---
 
-He not only stressed that he never forced himself to do something he didn't feel like, he even said: "I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else." (Luhmann et al., 1987, 154f.)3
+He not only stressed that he never forced himself to do something he didnt feel like, he even said: "I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else." (Luhmann et al., 1987, 154f.)3
 
 > what the fuck, how? How did he know where to pick up from next? Or did he just start a new project or work on another one.
 
@@ -95,7 +95,7 @@ He not only stressed that he never forced himself to do something he didn't feel
 
 We are still so used to the idea that a great outcome requires great effort that we tend not to believe that a simple change in our work routines could not only make us more productive,
 
-> what? No, it's more like a fundamental change; when you realise your doing nothing wrong)/is then ofc you would change nothing. I would argue it's very complex and difficult to realise something is wrong when almost everybody is doing the same thing [wrong].
+> what? No, its more like a fundamental change; when you realise your doing nothing wrong)/is then ofc you would change nothing. I would argue its very complex and difficult to realise something is wrong when almost everybody is doing the same thing [wrong].
 
 ---
 
@@ -115,7 +115,7 @@ Instead of struggling with adverse dynamics, highly productive people deflect re
 
 why is not everybody using a slip-box and working effortlessly towards success? Is it because it is too complicated? Certainly not. It is rather surprisingly simple. The reasons are much more mundane:
 1. Until very recently, when the first results from the research on the file system were published, some crucial misunderstandings prevailed about how Luhmann actually worked, which led to disappointing results for many who tried to emulate the system. The main misunderstanding stems from an isolated focus on the slip-box and a neglect of the actual workflow in which it is embedded.
-2. Almost everything that is published about this system was only accessible in German and was almost exclusively discussed within a small group of devoted sociologists who specialised in Luhmann's theory of social systems – hardly the kind of critical mass that would draw much attention.
+2. Almost everything that is published about this system was only accessible in German and was almost exclusively discussed within a small group of devoted sociologists who specialised in Luhmanns theory of social systems – hardly the kind of critical mass that would draw much attention.
 3. The third and maybe the most important reason is the very fact that it is simple. Intuitively, most people do not expect much from simple ideas. They rather assume that impressive results must have equally impressively complicated means.
 
 ---
@@ -126,22 +126,22 @@ The contemporaries of Henry Ford did not understand why something as simple as t
 
 Whenever he read something, he would write the bibliographic information on one side of a card and make brief notes about the content on the other side (Schmidt 2013, 170). These notes would end up in the bibliographic slip-box. In a second step, shortly after, he would look at his brief notes and think about their relevance for his own thinking and writing. He then would turn to the main slip-box and write his ideas, comments and thoughts on new pieces of paper, using only one for each idea and restricting himself to one side of the paper, to make it easier to read them later without having to take them out of the box. He usually kept them brief enough to make one idea fit on a single sheet, but would sometimes add another note to extend a thought.
 
-> WOA BAZINGA, is that kinda maybe like I'm doing here in this note? Like per quaote I find interesting I'm writing a thought? Am I not amazing?
+> WOA BAZINGA, is that kinda maybe like Im doing here in this note? Like per quaote I find interesting Im writing a thought? Am I not amazing?
 
 He usually wrote his notes with an eye towards already existing notes in the slip-box. And while the notes on the literature were brief, he wrote them with great care, not much different from his style in the final manuscript: in full sentences and with explicit references to the literature from which he drew his material. More often than not, a new note would directly follow up on another note and would become part of a longer chain of notes. He then would add references to notes somewhere else in the slipbox, some of which were nearby, others in completely different areas and contexts. Some were directly related and read more like comments, others contained not-so-obvious connections. Rarely would a note stay in isolation.
 
-> oh we'll, guess not. What am I missing from understanding? Explicit references? A separate note folder? Want? Like saved articles I can reference?
-> I don't think that's quite if though.
+> oh well, guess not. What am I missing from understanding? Explicit references? A separate note folder? Want? Like saved articles I can reference?
+> I dont think thats quite if though.
 
 ---
 
-> Hmmm, something is wrong, I don't think I'm grasping the core.
+> Hmmm, something is wrong, I dont think Im grasping the core.
 >
 > the notes I have been making, some are worth expanding on (for evergreen/permanent/refimement) but not all.
 >
 > should I write all my notes as if I wrote them for my future self for referencing??
 >
-> I also don't think so...
+> I also dont think so...
 >
 > what is it then?
 >
@@ -151,7 +151,7 @@ He usually wrote his notes with an eye towards already existing notes in the sli
 > ...
 > expanding on that, my note taking system should be for creating a system of thinking? At least learning, just capturing information misses the point, I would say.
 >
-> Now that doesn't mean I must forging capturing information or the creation of permanent notes.
+> Now that doesnt mean I must forging capturing information or the creation of permanent notes.
 
 ---
 
@@ -159,13 +159,13 @@ The trick is that he did not organise his notes by topic, but in the rather abst
 
 > that seems.. Inefficient,? Suboptimal at least.
 > I would say if creating permanent note, then give the note a fitting/explicit/direct name([Best pointer usage for mouse](<../../01-garden_of_learning/Best pointer usage for mouse.md>) [Building a emergency fund](<building_a_emergency_fund.md>) ETC)
-> why did he not do that? Perhaps limitations of only papar? Give it a name of what the note is about? But it is a implementation detail? So don't get stuck up on it?
+> why did he not do that? Perhaps limitations of only papar? Give it a name of what the note is about? But it is a implementation detail? So dont get stuck up on it?
 
 ---
 
 The last element in his file system was an index, from which he would refer to one or two notes that would serve as a kind of entry point into a line of thought or topic. Notes with a sorted collection of links are, of course, good entry points.
 
-> liken what I'm trying with [Body meta](<../body_moc.md>)? (tracks has links to all my notes todo with the body: wetshaving, longlivity, suplement stack, sleep optimization, and nopoo/shampoo projects)
+> liken what Im trying with [Body meta](<../body_moc.md>)? (tracks has links to all my notes todo with the body: wetshaving, longlivity, suplement stack, sleep optimization, and nopoo/shampoo projects)
 
 ---
 
@@ -175,19 +175,19 @@ if I were forced to boil it down to a single bullet point, it would be this: We 
 
 ---
 
-At this point, it should become clear that you don't need to wait for a genie to appear, as each step is clearly not only within your abilities, but also straightforward and welldefined: Assemble notes and bring them into order, turn these notes into a draft, review it and you are done.
+At this point, it should become clear that you dont need to wait for a genie to appear, as each step is clearly not only within your abilities, but also straightforward and welldefined: Assemble notes and bring them into order, turn these notes into a draft, review it and you are done.
 
 > okay, yeah. but how do I do that? how do I implement that? what would the system look like in obsidian for example. how do I implement my own system?
 
 ---
 
 2.1 Writing a paper step by step
-1. Make fleeting notes. Always have something at hand to write with to capture every idea that pops into your mind. Don't worry too much about how you write it down or what you write it on. These are fleeting notes, mere reminders of what is in your head. They should not cause any distraction. Put them into one place, which you define as your inbox, and process them later. I usually have a simple notebook with me, but I am happy with napkins or receipts if nothing else is at hand. Sometimes I leave a voice record on my phone. If your thoughts are already sorted and you have the time, you can skip this step and write your idea directly down as a proper, permanent note for your slip-box
-2. Make literature notes. Whenever you read something, make notes about the con-tent. Write down what you don't want to forget or think you might use in your own thinking or writing. Keep it very short, be extremely selective, and use your own words. Be extra selective with quotes – don't copy them to skip the step of really understanding what they mean. Keep these notes together with the bibliographic details in one place – your reference system.
+1. Make fleeting notes. Always have something at hand to write with to capture every idea that pops into your mind. Dont worry too much about how you write it down or what you write it on. These are fleeting notes, mere reminders of what is in your head. They should not cause any distraction. Put them into one place, which you define as your inbox, and process them later. I usually have a simple notebook with me, but I am happy with napkins or receipts if nothing else is at hand. Sometimes I leave a voice record on my phone. If your thoughts are already sorted and you have the time, you can skip this step and write your idea directly down as a proper, permanent note for your slip-box
+2. Make literature notes. Whenever you read something, make notes about the con-tent. Write down what you dont want to forget or think you might use in your own thinking or writing. Keep it very short, be extremely selective, and use your own words. Be extra selective with quotes – dont copy them to skip the step of really understanding what they mean. Keep these notes together with the bibliographic details in one place – your reference system.
 3. Make permanent notes. Now turn to your slip-box. Go through the notes you made in step one or two (ideally once a day and before you forget what you meant) and think about how they relate to what is relevant for your own research, thinking or interests. This can soon be done by looking into the slip-box – it only contains what interests you anyway. The idea is not to collect, but to develop ideas, arguments and discussions. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you combine ideas to generate something new? What questions are triggered by them?
 
-> inbox notes I'm doing good, I have a inbox folder for all my notes, literature notes I'm not sure. is it kinda what I'm doing with this note?, maybe kinda, I think I will have a literature note when I filter this and improve my comments that are in this note.
-> permanent notes I don't understand at all, like the idea is not getting trhough to me.
+> inbox notes Im doing good, I have a inbox folder for all my notes, literature notes Im not sure. is it kinda what Im doing with this note?, maybe kinda, I think I will have a literature note when I filter this and improve my comments that are in this note.
+> permanent notes I dont understand at all, like the idea is not getting trhough to me.
 
 ---
 
@@ -203,25 +203,25 @@ Thinking, reading, learning, understanding and generating ideas is the main work
 
 ---
 
-5. Develop your topics, questions and research projects bottom up from within the system. See what is there, what is missing and what questions arise. Read more to challenge, strengthen, change and develop your arguments according to the new information you are learning about. Take more notes, develop ideas further and see where things will take you. Just follow your interest and always take the path that promises the most insight. Build upon what you have. Even if you don't have anything in your slip-box yet, you never start from scratch – you already have ideas on your mind to be tested, opinions to be challenged and questions to be answered. Do not brainstorm for a topic. Look into the slip-box instead to see where chains of notes have developed and ideas have been built up to clusters. Don't cling to an idea if another, more promising one gains momentum. The more you become interested in something, the more you will read and think about it, the more notes you will collect and the more likely it is that you will generate questions from it. It might be exactly what you were interested in from the beginning, but it is more likely that your interests will have changed – that is what insight does.
+5. Develop your topics, questions and research projects bottom up from within the system. See what is there, what is missing and what questions arise. Read more to challenge, strengthen, change and develop your arguments according to the new information you are learning about. Take more notes, develop ideas further and see where things will take you. Just follow your interest and always take the path that promises the most insight. Build upon what you have. Even if you dont have anything in your slip-box yet, you never start from scratch – you already have ideas on your mind to be tested, opinions to be challenged and questions to be answered. Do not brainstorm for a topic. Look into the slip-box instead to see where chains of notes have developed and ideas have been built up to clusters. Dont cling to an idea if another, more promising one gains momentum. The more you become interested in something, the more you will read and think about it, the more notes you will collect and the more likely it is that you will generate questions from it. It might be exactly what you were interested in from the beginning, but it is more likely that your interests will have changed – that is what insight does.
 
 > research projects,? like PARA system?
 > BTW how should notes be linked?
 
 ---
 
-6. After a while, you will have developed ideas far enough to decide on a topic to write about. Your topic is now based on what you have, not based on an unfounded idea about what the literature you are about to read might provide. Look through the connections and collect all the relevant notes on this topic (most of the relevant notes will already be in partial order), copy them into an outliner5 and bring them in order. Look for what is missing and what is redundant. Don't wait until you have everything together. Rather, try ideas out and give yourself enough time to go back to reading and note-taking to improve your ideas, arguments and their structure.
+6. After a while, you will have developed ideas far enough to decide on a topic to write about. Your topic is now based on what you have, not based on an unfounded idea about what the literature you are about to read might provide. Look through the connections and collect all the relevant notes on this topic (most of the relevant notes will already be in partial order), copy them into an outliner5 and bring them in order. Look for what is missing and what is redundant. Dont wait until you have everything together. Rather, try ideas out and give yourself enough time to go back to reading and note-taking to improve your ideas, arguments and their structure.
 
-> I don't understand, develop XOR merge permanent folders so much they bbecome topics? which I can write about?
+> I dont understand, develop XOR merge permanent folders so much they bbecome topics? which I can write about?
 > and what abt afterwards? do I delete the linked/permanent notes?
 
-7. Turn your notes into a rough draft. Don't simply copy your notes into a manuscript. Translate them into something coherent and embed them into the context of your argument while you build your argument out of the notes at the same time. Detect holes in your argument, fill them or change your argument.
+7. Turn your notes into a rough draft. Dont simply copy your notes into a manuscript. Translate them into something coherent and embed them into the context of your argument while you build your argument out of the notes at the same time. Detect holes in your argument, fill them or change your argument.
 
 > oh well this explains part of it.
 
 ---
 
-There is this story where NASA tried to figure out how to make a ballpoint pen that works in space. If you have ever tried to use a ballpoint pen over your head, you have probably realised it is gravity that keeps the ink flowing. After a series of prototypes, several test runs and tons of money invested, NASA developed a fully functional gravity-independent pen, which pushes the ink onto the paper by means of compressed nitrogen. According to this story, the Russians faced the same problem. So they used pencils (De Bono, 1998, 141). The story itself, unfortunately, is an urban myth, but the lesson of it encapsulates the core idea of the slip-box: Focus on the essentials and don't complicate things unnecessarily.
+There is this story where NASA tried to figure out how to make a ballpoint pen that works in space. If you have ever tried to use a ballpoint pen over your head, you have probably realised it is gravity that keeps the ink flowing. After a series of prototypes, several test runs and tons of money invested, NASA developed a fully functional gravity-independent pen, which pushes the ink onto the paper by means of compressed nitrogen. According to this story, the Russians faced the same problem. So they used pencils (De Bono, 1998, 141). The story itself, unfortunately, is an urban myth, but the lesson of it encapsulates the core idea of the slip-box: Focus on the essentials and dont complicate things unnecessarily.
 
 > first focus on fundamentals, then later, when mastered. expand the system.
 
@@ -253,7 +253,7 @@ The Toolbox We need four tools: •
 4. An editor (Word, LaTeX, Google Docs or whatever works best for you).
 
 > these can all just be the file manager and a text editor.
-> but for me: 1, 3, and 4 can just be obsidian, and 2 i can use zotero or paperless.(could also use obsidian, but it's less optimized for that use case)
+> but for me: 1, 3, and 4 can just be obsidian, and 2 i can use zotero or paperless.(could also use obsidian, but its less optimized for that use case)
 
 ---
 
@@ -271,7 +271,7 @@ Working as if nothing else counts than writing does not mean spending more time 
 
 Having a clear, tangible purpose when you attend a lecture, discussion or seminar will make you more engaged and sharpen your focus. You will not waste your time with the attempt to figure out what you "should" learn. Rather, you will try to learn as efficiently as possible so you can quickly get to the point where actual open questions arise, as these are the only questions worth writing about.
 
-> focus on learning efficiently, not if it is what you should learn? I that in school they usually push a bunch of tangibally unrelated bullshit in the lessons. and I just refused to learn that. if I just focus on learning despite of that, would that work? I know the author didn't really account the rise of ai and the dumbing down of schools.
+> focus on learning efficiently, not if it is what you should learn? I that in school they usually push a bunch of tangibally unrelated bullshit in the lessons. and I just refused to learn that. if I just focus on learning despite of that, would that work? I know the author didnt really account the rise of ai and the dumbing down of schools.
 
 ---
 
@@ -292,7 +292,7 @@ Working like this will leave you with a lot of different notes in many different
 
 ---
 
-In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again? Most students sort their material by topic or even by seminars and semester. From the perspective of someone who writes, that makes as much sense as sorting your errands by purchase date and the store they were bought from. Can't find your trousers? Maybe they are with the bleach you bought the same day at your department store.
+In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again? Most students sort their material by topic or even by seminars and semester. From the perspective of someone who writes, that makes as much sense as sorting your errands by purchase date and the store they were bought from. Cant find your trousers? Maybe they are with the bleach you bought the same day at your department store.
 
 > nice comparison
 
@@ -300,7 +300,7 @@ In the old system, the question is: Under which topic do I store this note? In t
 
 2. Permanent notes, which will never be thrown away and contain the necessary information in a permanently understandable way. They are always stored in the same way in the same place, either as literature notes in the reference system or written as if for print, in the slip-box.
 
-> didn't they just say that lituartue are separate from permanent notes?
+> didnt they just say that lituartue are separate from permanent notes?
 
 ---
 
@@ -333,9 +333,9 @@ The second typical mistake is to collect notes only related to specific projects
 
 ---
 
-That might even apply to reading, if you want to focus on a text without interrupting your reading flow. Then you might want to just underline sentences or write short comments in the margins. It is important to understand, though, that underlining sentences or writing comments in the margins are also just fleeting notes and do nothing to elaborate on a text. They will very soon become completely useless – unless you do something with them. If you already know that you will not go back to them, don't take these kind of notes in the first place. Take proper notes instead. Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later. Fleeting literature notes can make sense if you need an extra step to understand or grasp an idea, but they will not help you in the later stages of the writing process, as no underlined sentence will ever present itself when you need it in the development of an argument. These kinds of notes are just reminders of a thought, which you haven't had the time to elaborate on yet. Permanent notes, on the other hand, are written in a way that can still be understood even when you have forgotten the context they are taken from.
+That might even apply to reading, if you want to focus on a text without interrupting your reading flow. Then you might want to just underline sentences or write short comments in the margins. It is important to understand, though, that underlining sentences or writing comments in the margins are also just fleeting notes and do nothing to elaborate on a text. They will very soon become completely useless – unless you do something with them. If you already know that you will not go back to them, dont take these kind of notes in the first place. Take proper notes instead. Fleeting notes are only useful if you review them within a day or so and turn them into proper notes you can use later. Fleeting literature notes can make sense if you need an extra step to understand or grasp an idea, but they will not help you in the later stages of the writing process, as no underlined sentence will ever present itself when you need it in the development of an argument. These kinds of notes are just reminders of a thought, which you havent had the time to elaborate on yet. Permanent notes, on the other hand, are written in a way that can still be understood even when you have forgotten the context they are taken from.
 
-> damn, that's almost exactly what I'm doing with the notes of this book. tf should I be doing then?
+> damn, thats almost exactly what Im doing with the notes of this book. tf should I be doing then?
 > what are proper notes then? permanent notes?
 
 ---
@@ -348,7 +348,7 @@ A good indication that a note has been left unprocessed too long is when you no 
 
 The only permanently stored notes are the literature notes in the reference system and the main notes in the slip-box. The former can be very brief as the context is clearly the text they refer to.
 
-> I don't really understand the reference system, he means kinda what I'm doing now?
+> I dont really understand the reference system, he means kinda what Im doing now?
 
 ---
 
