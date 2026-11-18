@@ -134,10 +134,7 @@ aliases:
 
 ## 8. Publishing to Web
 
-- Markdown content edited in Obsidian, site code in Zed
-- Quartz static site generator converts Markdown to HTML
-- Deployment via GitHub Actions.
-- Hosting; GitHub Pages, Neocities. [CI/CD available here](https://github.com/DeanLemans/deanlemans.github.io/tree/v5/.github/workflows)
+- [Colophon](<./colophon.md>)
 
 ---
 

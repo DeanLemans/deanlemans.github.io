@@ -69,7 +69,7 @@ hori hori
 - [ ] Research: [Dual Licensing](https://duallicensing.com/) ⏬
 - [ ] Research: Bee boxes ⏬
 - [ ] Research/learn: Level design [The Nintendo Level Design Method | Videogame Workshop](https://www.videogameworkshop.com/blog/The-Nintendo-Level-Design-Method.html)
-- [ ] Research: Terrarium
+- [ ] Research: [Terrarium](<../01-garden_of_learning/🌱plant_terrarium_project.md>)
 - [ ] Research: [Schulze method - Wikipedia](https://en.wikipedia.org/wiki/Schulze_method)
 - [ ] Research: Improve VO2 max
 - [ ] investigete this style:

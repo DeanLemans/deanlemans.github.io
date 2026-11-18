@@ -5,7 +5,7 @@ title: Picture walk
 tags:
   - note-taking
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: g1pi7dgyvf5xvjr3ajv9vnxbw81t5a
 description: the picture walk learning trick
 created: 2026-05-03
@@ -19,3 +19,8 @@ A reading technique that involves skimming the chapter you are planning on readi
 It improves the efficiency of understanding the book
 
 - learned [A Mind For Numbers](<../../A Mind For Numbers.md>)
+
+### See also
+
+- [Pomodoro technique](<./pomodoro_technique.md>)
+- [Mind MOC](<../MOC/mind_moc.md>)

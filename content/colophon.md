@@ -3,7 +3,7 @@ unlisted: false
 title: /colophon
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: gin5is7xobvzwbsnycdn8lzoncttr6
 created: 2026-04-30
 aliases:
@@ -12,9 +12,10 @@ aliases:
 
 # /colophon
 
-- notes are created with obsidian
-	- (see [Site Rules and Vault System](<./vault_rules.md>) for style and content information of the site)
-- site is created via quartz
+- Markdown content edited in Obsidian, site code in Zed
+- Quartz static site generator converts Markdown to HTML
+- Deployment via GitHub Actions.
+- Hosting; GitHub Pages, Neocities. [CI/CD available here](https://github.com/DeanLemans/deanlemans.github.io/tree/v5/.github/workflows)
 - [Umami](https://cloud.umami.is/analytics/eu/share/cQibaMjOX3vvklQG) is used for analytics
 - GitHub and codeberg and radicle are the code hosters
 - layout/CSS: i just use the default one quartz already has, with a few ugly tweaks:(i find the content more important than the presentation myself)

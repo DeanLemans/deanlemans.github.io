@@ -5,7 +5,7 @@ tags:
   - research
   - green
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: 8wv4cjualppr0badv89odi3m9kymcv
 description: "building a plant terrarium"
 created: 2026-03-12
@@ -28,3 +28,8 @@ springtails
 ## Mix for terrarium substrate
 
 [General substrate mix](<../00-raw/notes/general_substrate_mix.md>)
+
+### See also
+
+- [How to grow moss](<./🌱how_to_grow_moss.md>)
+- [Shed greenhouse](<./🪴shed_greenhouse.md>)

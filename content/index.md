@@ -3,7 +3,7 @@ unlisted: false
 title: Dean Lemans
 tags: []
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: 7nk2hwne4xsrx09fh2mk1lnsqs5hab
 description: "Dean's Personal Site"
 created: 2025-09-25
@@ -33,9 +33,7 @@ aliases:
 ## Tools & Technologies
 
 - Tech
-	- **Operating Systems:** [cachyOS](https://cachyos.org/), [GrapheneOS](https://grapheneos.org/)
-	- **IDE:** [Zed](https://zed.dev/)
-	- **Misc:** Git, codeberg, GitHub
+	- [/defaults](<./defaults.md>)
 - Green
 	- Greenhouses
 	- Terrariums
@@ -43,15 +41,11 @@ aliases:
 
 ## Interests
 
-- Gaming
-- Plants
-- Gardening
-- Manga and Novels
-- Open Source
-- Indie Web
+- [/interests](<./interests.md>)
 
 > [!info] Current main Project
 > - [Greenhouse Project](<./01-garden_of_learning/🪴shed_greenhouse.md>)
+> - [/now](<./now.md>)
 
 > [!info] Collections
 > - [Book Library](<./02-digital_garden/book_list.md>)

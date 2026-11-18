@@ -4,7 +4,7 @@ title: Les daan motivatie week 7 P1
 tags:
   - toegepaste_biologie
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: catcq5wptfori1su3eo0k0rchurld5
 description: "mijn doelen voor school en voor de deanste dean binnen 1 jaar"
 created: 2026-10-06
@@ -33,7 +33,7 @@ aliases:
 - biologie leren en toepassen
 	1. ga naar school
 	2. leer biologie
-	3. pas relevante dingen toe(terrarium project)
+	3. pas relevante dingen toe([terrarium project](<../../01-garden_of_learning/🌱plant_terrarium_project.md>))
 
 #### Doelen van De Deanste Dean binnen 1 jaar
 

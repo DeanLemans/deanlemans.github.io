@@ -5,7 +5,7 @@ title: Discipline
 tags:
   - philosophy
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: uyx0nic3jrqz71zx25try7dfgu5o8x
 description: my take on discipline
 created: 2026-03-17
@@ -32,3 +32,4 @@ click for origin ["Motivation is what gets you started. Habit is what keeps you 
 - [strategy_is_more_important_than_the_plan](<./strategy_is_more_important_than_the_plan.md>)
 - [pomodoro_technique](<./pomodoro_technique.md>)
 - [Philosophy MOC](<../MOC/philosophy_moc.md>)
+- [Les daan motivatie week 7 P1](<./les_daan_motivatie_week_7_p1.md>)

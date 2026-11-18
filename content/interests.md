@@ -3,7 +3,7 @@ unlisted: false
 title: /interests
 tags: []
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: dfh0cy91rejdh36j9mjbhy7myv60do
 description: "stuff im interested in"
 created: 2026-09-24
@@ -20,6 +20,12 @@ aliases:
 - learning
 - being more
 - creating stuff
+- Gaming
+- Plants
+- Gardening
+- Manga and Novels
+- Open Source
+- Indie Web
 
 ## References
 

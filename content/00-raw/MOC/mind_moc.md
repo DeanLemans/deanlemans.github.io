@@ -4,7 +4,7 @@ type: MOC
 title: Mind MOC
 tags: []
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: 98avuumcp2unkmx9kg404wj7n52hbv
 description: "everything about my mind: how i think, learn and take notes"
 created: 2026-11-16
@@ -23,7 +23,7 @@ for everything mind. sub MOC under this one, like inheritance/components.
 
 reduce the amount of choices you have to make to get smth done? for a goal? more focus?
 
-- [ ] add a learning MOC (picture walk, pomodoro, school stuff?)
+- [ ] add a learning MOC ([picture walk](<../notes/picture_walk.md>), [pomodoro](<../notes/pomodoro_technique.md>), [school stuff](<../school_moc.md>)?)
 - [ ] add a research MOC?
 
 ---

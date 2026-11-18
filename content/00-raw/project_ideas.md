@@ -3,7 +3,7 @@ unlisted: false
 title: Project ideas
 tags: []
 publish: true
-modified: 2026-10-07
+modified: 2026-11-18
 id: 0wmlg5vmfh7no3evzgs1qcaa62d3m1
 description: "bunch of project ideas i want to do, software, music players, etc"
 created: 2026-07-17
@@ -175,16 +175,6 @@ Meager customizability compared to FlorisBoard, has great swipe typing, and auto
 - Supplements: a large daily stack to target metabolism, inflammation, hormones, and cellular repair.
 - (Medical) monitoring: a ton of tests, blood tests, scans and more.
 - The general goal of the Bryan Johnson Blueprint protocol is to reduce your biological age and improve your biomarkers.
-
----
-
-# Dean's guidelines for school
-
-1. Make connections
-2. Learn
-3. Have fun
-
-How? Idk bro, just talk to people I guess, but don't be overbearing.
 
 ---
 

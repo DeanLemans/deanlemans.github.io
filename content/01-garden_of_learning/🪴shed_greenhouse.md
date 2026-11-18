@@ -5,7 +5,7 @@ tags:
   - research
   - green
 publish: true
-modified: 2026-10-25
+modified: 2026-11-18
 id: g6or82heqglosy1r2qoh23xhcdnpvj
 description: "turning a shed into a greenhouse, lights, heat, etc"
 created: 2026-03-15
@@ -46,8 +46,8 @@ aliases:
 Currently have a shed, where I'm going to be growing plants.
 
 What I'm going to be making/growing:
-- Terrariums (priority 1)
-- Moss (priority 1)
+- [Terrariums](<./🌱plant_terrarium_project.md>) (priority 1)
+- [Moss](<./🌱how_to_grow_moss.md>) (priority 1)
 - Succulents (priority 2)
 - Mushrooms (priority 3)
 

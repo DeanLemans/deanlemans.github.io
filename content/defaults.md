@@ -3,7 +3,7 @@ unlisted: false
 title: /defaults
 tags: []
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: 3k100zejvkwvlqsyyut0yyi97nbvmr
 description: "apps i use by default"
 created: 2026-09-24
@@ -26,6 +26,9 @@ aliases:
 - **Music:** musicolet, music player with rockbox
 - **Password Management:** bitwarden
 - **Books:** librera
+- **Operating Systems:** [cachyOS](https://cachyos.org/), [GrapheneOS](https://grapheneos.org/)
+- **IDE:** [Zed](https://zed.dev/)
+- **Misc:** Git, codeberg, GitHub
 
 ## References
 
