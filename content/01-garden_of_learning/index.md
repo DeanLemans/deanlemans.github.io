@@ -3,7 +3,7 @@ unlisted: false
 title: 01 Garden of Learning
 tags: []
 publish: true
-modified: 2026-10-25
+modified: 2026-11-18
 id: 1juda4gq5jun6tkit25k5ocaf033rv
 description: "Dean's very cool projects"
 created: 2026-03-17
@@ -19,7 +19,7 @@ my garden of learning, the status is signified to the user via the emojies.
 kinda like my project folder? but different.
 like a PARA
 
-> see also: [Project ideas](<../00-raw/project_ideas.md>)
+> see also: [Project ideas](<../00-raw/project_ideas.md>), [Site Rules](<../vault_rules.md>)
 
 ---
 

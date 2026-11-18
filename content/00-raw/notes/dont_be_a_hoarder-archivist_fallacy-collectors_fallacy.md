@@ -5,7 +5,7 @@ title: Don't be a hoarder. archivist fallacy
 tags:
   - note-taking
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: kxnyqsz4coe99ogfy8djvzxen837ug
 description: collecting stuff is not the same as learning it
 created: 2026-07-17
@@ -25,7 +25,7 @@ you don't need
 
 ## Related
 
-[Dont be wikipedia](<./dont_be_wikipedia.md>)]
+[Dont be wikipedia](<./dont_be_wikipedia.md>)
 
 ## From my vault
 

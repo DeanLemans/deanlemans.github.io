@@ -3,7 +3,7 @@ unlisted: false
 title: Note-taking MOC
 tags: []
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: d2wdwarmhmm47tdmacprcc6btqmbi6
 description: "links to my notes about taking notes and learning"
 created: 2026-11-16
@@ -26,6 +26,9 @@ part of the [Mind moc](<./mind_moc.md>)
 - [My lifesycle of notes](<../notes/my_lifesycle_of_notes.md>) how a note grows
 - [Atomic permanent zettel](<../notes/atomic_permanent_zettel.md>) what a permanent note is
 - [Backlinks stuff](<../notes/Backlinks_stuff_i_need_to_split_eventually.md>) why i link notes
+- [Vault rules](<../../vault_rules.md>)
+- [Backup rule](<../notes/backup_rule.md>)
+- [Guide for future blog](<../notes/guide_for_future_blog_i_havnt_even_written_yet.md>)
 
 ## what to avoid
 

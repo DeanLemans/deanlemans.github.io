@@ -4,7 +4,7 @@ title: Backlinks stuff
 tags:
   - note-taking
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: ksine4jffep3pzph8ku88arevlli9w
 description: "why linking notes with backlinks helps navigation and memory"
 created: 2026-09-23
@@ -25,3 +25,4 @@ by linking your thinking via backlinks, you improve navigation and memory when y
 
 - [PKM brainstorm](<./PKM_brainstorm.md>)
 - [My lifesycle of notes](<./my_lifesycle_of_notes.md>)
+- [Vault rules](<../../vault_rules.md>)

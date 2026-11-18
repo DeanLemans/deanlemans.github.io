@@ -5,7 +5,7 @@ title: Dont be wikipedia
 tags:
   - note-taking
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: k395dlncviospwqkpau7o6mzxwn6wj
 description: write your own thinking, dont copy wikipedia
 created: 2026-05-17
@@ -31,3 +31,5 @@ aliases:
 ## Related
 
 [Dont be a hoarder-archivist fallacy-collectors fallacy](<./dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)
+
+[Note-taking MOC](<../MOC/note_taking_moc.md>)

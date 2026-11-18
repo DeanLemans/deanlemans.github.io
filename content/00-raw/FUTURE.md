@@ -3,7 +3,7 @@ unlisted: false
 title: FUTURE
 tags: []
 publish: true
-modified: 2026-10-25
+modified: 2026-11-18
 id: 5xvypyk7hs8r4gp48y4u9z3z8yml54
 description: things i still/want to do. + planning
 created: 2026-02-02
@@ -111,7 +111,6 @@ hori hori
 
 ## META
 
-- [ ] META: Should I make blog posts? ⏬
 - [ ] <https://www.reddit.com/r/ObsidianMD/comments/1n2gwmq/core_insights_for_obsidian_beginners/>
 
 ## Other
@@ -120,8 +119,6 @@ hori hori
 - [ ] Future reference for music page <https://ddbentl.com/tunes> ⏬
 - [ ] <https://www.diamondsweetness.com/lti-blog/ubuntu-i-am-because-we-are/12/6/2023>
 - [ ] Erfeniscontract, alles naar Cassie? Levi? Frans? Non-profit?
-- [ ] Add live/personal updates to blog post and keep projects more factual
-- [ ] Make separate blog page for live updates instead of in project ⏬
 - [ ] How to create manpages for this site
 - [ ] I need to search through my notes and add more internal links. ⏬
 - [ ] <https://starbreaker.org/blogroll/index.html> search ts ⏬
@@ -164,6 +161,8 @@ hori hori
 
 [Trajectory](<./00_00-archive/internal/trajectory.md>)
 [Now](<../now.md>)
+[Guide for future blog](<./notes/guide_for_future_blog_i_havnt_even_written_yet.md>)
+[Backlinks stuff](<./notes/Backlinks_stuff_i_need_to_split_eventually.md>)
 
 ### List with all todo things autograbbed from all my notes
 

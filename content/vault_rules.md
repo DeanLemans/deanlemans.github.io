@@ -3,7 +3,7 @@ unlisted: false
 title: Site Rules
 tags: []
 publish: true
-modified: 2026-11-16
+modified: 2026-11-18
 id: kk3hvayboqh3zi7m5o0w2e7lg850wo
 description: vault rules, sorting system, naming rules, creating rules
 created: 2026-03-17
@@ -15,7 +15,6 @@ aliases:
 
 # Site Rules
 
-- [ ] split projects blog updates into a blog (so every time I update it the original file stays the same? also if split, people will think I'm more active because of the new file, but it's just the same activity, just more standard for visitors to consume) really need to work this shit out
 - [ ] I need an automatic way to create aliases for those unique IDs
 
 > [!NOTE] Alternative titles
@@ -68,7 +67,18 @@ aliases:
   - [ ] spellcheck
   - [ ] tag or category validation
   - [ ] unresolved link notifications
+- [ ] Include script to check for broken links and missing metadata
 - enjoy the doing, don't make it a burden
+
+**Pruning**
+- (bi?)monthly review, yearly meta-review
+- Preserves a fractal web of thought for analysis and historical reference?
+
+**Random Note Exploration**
+- Graph view exploration to find related notes
+- Reconnect older ideas to current projects
+- Opportunity for maintenance;
+	- style, metadata, internal links, and other shit
 
 ---
 
@@ -78,14 +88,16 @@ aliases:
   - `publish: true` -> accessible in site
 
 **Folder Structure**
-- `00-raw`
-- `01-garden_of_learning`
-- `02-digital_garden`
+- [`00-raw`](<./00-raw/index.md>)
+	- **Raw Folder (hidden)** 'unprofessional' stuff, work folder, experiments
+	- [`00-raw/00_00-archive`](<./00-raw/00_00-archive/index.md>) **Reference Folder** external content (essays, articles, wiki pages)
+- [`01-garden_of_learning`](<./01-garden_of_learning/index.md>)
+- [`02-digital_garden`](<./02-digital_garden/index.md>)
 - `03-blog`
 - `static_files`
+	- **Admin Folder** images, audio, template, PDFs, etc.
 - Always use underscores `_` for spaces in filenames
 - Include index.md in each folder for context and information.
-- follow the [Backup rule](<./00-raw/notes/backup_rule.md>)
 
 ---
 
@@ -95,7 +107,6 @@ aliases:
 - Jhony Decibel naming scheme + evergreen/digital garden + memex-style vault
 - Public site contains polished work; [00-raw](<./00-raw/index.md>) contains drafts and experimental notes
 - Aligns with [file over app](https://stephango.com/file-over-app) and [Manifesto - Preserving Content on the Web](<./00-raw/00_00-archive/This_Page_is_Designed_to_Last_A_Manifesto_for_Preserving_Content_on_the_Web.md>).
-- Store files in open and readable formats.
 - Use consistent naming and metadata for search-ability and discoverability. (proper YAML data, good tags, etc)
 
 ---
@@ -109,45 +120,15 @@ aliases:
 - [ ] Migrate external content locally or at least link it
 - [ ] when linking an external thing, use an archived version
 - written in markdown and sometimes embedded html. (html mostly for foldable stuff)
-- Heavy use of internal links for interconnectivity (I don't really do this)
+- Heavy use of internal links for interconnectivity (I don't really do this) [Backlinks stuff](<./00-raw/notes/Backlinks_stuff_i_need_to_split_eventually.md>)
 
 ---
 
-### 7.2 Folder Organization
-
-**Reference Folder**
-- `00-raw/00_00-archive` external content (essays, articles, wiki pages)
-
-**Admin Folder**
-- `static_files` images, audio, template, PDFs, etc.
-
-**Raw Folder (hidden)**
-- `00-raw` 'unprofessional' stuff, work folder, experiments
-
----
-
-### 7.3 Links and Metadata
+### 7.2 Links and Metadata
 
 - Use [Web Clipper](https://stephango.com/obsidian-web-clipper) for importing webpages.
 - Include date created, date modified, title for all notes
-
----
-
-### 7.4 Pruning
-
 - `modified: {{date}}` to track edits
-
-**Pruning**
-- (bi?)monthly review, yearly meta-review
-- Preserves a fractal web of thought for analysis and historical reference?
-
-**Random Note Exploration**
-- Graph view exploration to find related notes
-- Reconnect older ideas to current projects
-- Opportunity for maintenance;
-	- style, metadata, internal links, and other shit
-
-- [ ] Include script to check for broken links and missing metadata
 
 ---
 
@@ -162,6 +143,20 @@ aliases:
 
 ## 9. Fallback stuff
 
+- follow the [Backup rule](<./00-raw/notes/backup_rule.md>)
 - [ ] Local + external USB backup via BORG BACKUP
 - [ ] Local USB backup via BORG BACKUP
 - [ ] Include versioning and 256-hash to confirm vault integrity to future-proof against edits, deletions, or censoring.
+
+---
+
+### See also
+
+- [Note-taking MOC](<./00-raw/MOC/note_taking_moc.md>)
+- [My lifesycle of notes](<./00-raw/notes/my_lifesycle_of_notes.md>)
+- [PKM brainstorm](<./00-raw/notes/PKM_brainstorm.md>)
+- [Atomic permanent zettel](<./00-raw/notes/atomic_permanent_zettel.md>)
+- [Dont be wikipedia](<./00-raw/notes/dont_be_wikipedia.md>)
+- [Dont be a hoarder](<./00-raw/notes/dont_be_a_hoarder-archivist_fallacy-collectors_fallacy.md>)
+- [Guide for future blog](<./00-raw/notes/guide_for_future_blog_i_havnt_even_written_yet.md>)
+- [Colophon](<./colophon.md>)
