@@ -5,7 +5,7 @@ title: The meaning of life according to this Philosophy is that you create your 
 tags:
   - philosophy
 publish: true
-modified: 2026-10-01
+modified: 2026-11-18
 id: gcqrya4i4f4ymn063ew15nykvgjcgo
 description: "existentialism: the meaning of life is what you make of it"
 created: 2026-09-28
@@ -15,7 +15,7 @@ aliases:
 
 # The meaning of life according to this Philosophy is that you create your own meaning
 
-To fight to create your own (beliefs)
+To fight to [create your own (beliefs)](<./ubermensch_overcoming_of_self.md>)
 
 absurdism
 the believe that the nature of the universe is meaningless and irrational

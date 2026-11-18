@@ -5,7 +5,7 @@ title: Ubermensch
 tags:
   - philosophy
 publish: true
-modified: 2026-09-30
+modified: 2026-11-18
 id: gq3jl7jlbssc6gsgchkfmt6jvesy5b
 description: ubermensch and overcoming yourself
 created: 2026-07-08
@@ -20,7 +20,7 @@ aliases:
 
 XOR
 
-[One] who climbs through adversity to in order to create ther own values
+[One] who climbs through adversity to in order to [create ther own values](<./the_meaning_of_life_according_to_exestentialism_is_too_create_your_own_meaning.md>)
 
 ---
 

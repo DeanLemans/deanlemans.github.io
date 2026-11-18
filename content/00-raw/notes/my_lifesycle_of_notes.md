@@ -32,7 +32,7 @@ that's kinda the idea, but it's more like a flow graph then a linear line
 
 ## Two different questions, not two competing systems
 
-Zettelkasten and PARA aren't rivals, they answer different questions. Zettelkasten tracks what stage a thought is at (four verbs). PARA tracks where it lives (based on actionability). Trying to pick one to answer both is why this never clicked.
+[Zettelkasten](<../00_00-archive/Zettelkasten.md>) and PARA aren't rivals, they answer different questions. Zettelkasten tracks what stage a thought is at (four verbs). PARA tracks where it lives (based on actionability). Trying to pick one to answer both is why this never clicked.
 
 ## Process
 
@@ -40,8 +40,8 @@ CAPTURE -> PROCESS -> CONNECT -> CREATE
 (fleeting) (reference) (permanent) (draft, raport, book, ETC)
 
 - Capture: a pointer, half-formed, no polish. Inbox, phone notes, journal entries as written.
-- Process: engaged with a source and wrote down what it says plus your reaction. Where "How_to_Take_Smart_Notes._Notes.md" and dream-analysis work sit.
-- Connect: extracted a standalone claim, passed the three-part test (decontextualized / [not-Wikipedia](<./dont_be_wikipedia.md>) / atomic), linked it to related notes. `00_01-zettel`.
+- Process: engaged with a source and wrote down what it says plus your reaction. Where [How to Take Smart Notes. Notes](<./How_to_Take_Smart_Notes._Notes.md>) and dream-analysis work sit.
+- Connect: extracted a standalone claim, passed the three-part test (decontextualized / [not-Wikipedia](<./dont_be_wikipedia.md>) / [atomic](<./atomic_permanent_zettel.md>)), linked it to related notes. `00_01-zettel`.
 - Create: permanent notes assembled into something for an audience: `03-blog`, a project writeup, a portfolio page.
 
 Same funnel for every domain: gardening research, philosophy, career notes, dream analysis.
